@@ -1056,39 +1056,24 @@ need to have lunch. I’ve just brought (5) orange/ an orange with me to eat lat
 
 different (6) fruit/ fruits grown in this part of the world, and they’re all delicious.
 
-**IV. Which of the underlined part of these sentences is correct?**
-
+### IV. Which of the underlined part of these sentences is correct?**
 1. Did you hear neise/ a noise iust now?
-
 2. There was somebody in the house because there was light/ a light on inside.
-
 3. What would it be like to travel at the speed of light/ a light?
-
 4. I didn’t have time/ a time for breakfast.
-
 5. We had wonderful time/ a wonderful time in Paris.
-
 6. It’s very difficult to find a work/ job at the moment.
-
 7. They offered me a job because I had a lot of experience/ experiences.
-
 8. I haven’t got a paper/ any paper to write on.
-
 9. Bad news don’t/ doesn’t make people happy.
-
 10. We had very good weather/ a very good weather while we were on holiday.
-
 11. Your hair is/ Your hairs are too long. You should have it/ them cut.
-
 12. Let me give you an advice/ a piece of advice.
-
 13. The house is built of stone/ stones.
-
 14. If you want to know the news, you can read paper/ a paper.
-
 15. E-mail is a relative new mean/ means of communication.
 
-- **V. Choose the right answer.**
+### V. Choose the right answer.**
     1. It’s important to brush your teeth at least twice a day.
         1. tooth
         2. teeth
@@ -1255,170 +1240,87 @@ different (6) fruit/ fruits grown in this part of the world, and they’re all d
     
     d. bacteria
     
-
 **VI. Complete the sentences with the given nouns, adding final *-s/-es* if necessary.**
-
 **change river garbage hardware music**
-
-**traffic junk thunder screwdriver homework**
-
-1. I put some banana peels, empty juice cartons, and broken bottles in the waste can.
-
-The can is full of__________ .
-
+**traffic juk thunder screwdriver homework**
+1. I put some banana peels, empty juice cartons, and broken bottles in the waste can.The can is full of__________ .
 2. Tools that are used for turning screws are called ______________.
-
 3. The children got scared when they heard _______________ during the storm.
-
-4. I have some coins in my pocket. In other words, I have some__________in my pocket.
-
-5. They have a rusty car without an engine, broken chairs, and an old refrigerator in
-
-their front yard. Their yard is full of ________________.
-
+4. I ave some coins in my pocket. In other words, I have some__________in my pocket.
+5. They have a rusty car without an engine, broken chairs, and an old refrigerator intheir front yard. Their yard is full of ________________.
 6. The Mississippi, the Amazon, and the Nile are well-known ________________.
-
 7. The street is full of cars, trucks, and buses. It is full of _______________.
-
 8. I like to listen to operas, symphonies, and folk songs. I enjoy_______________.
+9. Tonight I have to read 20 pages in my history book, do 30 algebra problems, and write acomposition. In other words, I have a lot of ______to do tonight.
+10. I went to the store to get some nails, hammers, and srews. In other words, I boughtsome ________.
 
-9. Tonight I have to read 20 pages in my history book, do 30 algebra problems, and write a
-
-composition. In other words, I have a lot of ______to do tonight.
-
-10. I went to the store to get some nails, hammers, and srews. In other words, I bought
-
-some ________.
-
-**VII. Choose the correct form of the verb, singular or plural.**
-
+### VII. Choose the correct form of the verb, singular or plural.**
 1. The results of Dr. Noll’s experiment was/ were published in a scientific journal.
-
 2. One of your children has/ have lost a shoe.
-
 3. A number of police officers here works/ work with dogs.
-
 4. There is/ are some interesting pictures in today’s paper.
-
 5. No two teams wear the same. Each team wears/ wear a different color.
-
 6. Every man, woman, and child is/ are protected under the law.
-
 7. The cattle is/ are going to be sold with the farm.
-
 8. An officer and his dog has/ have to work closely together.
-
 9. My cat as well as my dogs likes/ like cat food.
-
 10. Gymnastics is/ are an easy lesson at school.
-
 11. The trousers you bought for me doesn’t/ don’t fit me.
-
 12. Where do/ does your family live?
-
 13. Three days isn’t/ aren’t long enough for a good holiday.14. My cousin, along with my aunt and uncle, works/ work in my grandpa’s hardware store.
-
 15. Measles is/ are cured without much difficulty nowadays.
-
 16. The United Nations has/ have its headquarters in New York.
-
 17. Neither the moon nor stars is/ are visible in this dark night.
-
 18. Why isn’t/ aren’t there a hospital close to those villages?
-
 19. The staff at the school wasn’t/weren’t happy with theứ working condition.
-
-20. The news on the radio and TV stations confirms/ confirm that a serious storm is approaching our
-
-city.
-
+20. The news on the radio and TV stations confirms/ confirm that a serious storm is approaching ourcity.
 21.1 don’t like very hot weather. Thirty degrees is/ are too warm for me.
-
 22. Not all policemen is/ are allowed to carry guns.
-
 23. One of our jobs is/ are to prevent crime happening in the first place.
-
 24. A lot of crime is/ are caused by people being careless.
-
 25. Each of my friends has/ have a present.
-
 26. The number of desks in that classroom is/ are thirty-five.
-
 27. The remains of the meal was/ were thrown in the bin.
-
 28. Three-fourths of the pizzas has/ have been already eaten.
-
 29. Can I borrow your scissors? Mine isn’t/ aren’t sharp enough.
-
 30. Five times five is/ are twenty-five.
 
-**VIII. Supply the correct form (singular or plural) of the verb in brackets.**
-
+### VIII. Supply the correct form (singular or plural) of the verb in brackets.**
 1. The Philippines _______(have) signed the new human rights agreement.
-
 2. _____(Be) bacon and eggs what you usually eat?
-
 3. The police ____(think) that more than one person ______ (be) in the stolen car.
-
 4. The majority of children’s parents _____________ (be) unemployed.
-
 5. Everyone________ (be) pleased with her answer.
-
 6. None of my brothers ____________ (remember) my mother’s birthday.
-
 7. Both of these shirts _________ (be) dirty.
-
 8. Fifty minutes_____ (be) the maximum length of time allowed for the exam.
-
 9. Some of my friends_________ (live) abroad.
-
 10. Ann, along with her friends __________ (be) playing volleyball.
-
 11. I wonder if either of those alternatives ___________ (be) a good idea.
-
 12. A lot of the students in the class __________ (be) from Southeast Asia.
-
 13. Alex, as well as his two older brothers,_________ (have) a good full-time job.
-
 14. Two-thirds of the money ________ (be) mine.
-
 15. The Japanese ________(have) a long and interesting history.
 
-**IX. Most of the sentences are wrong. Put a tick t*') if the sentence Is correct. If it is incorrect,**
-
+### IX. Most of the sentences are wrong. Put a tick t*') if the sentence Is correct. If it is incorrect,**
 **cross the unnecessary or wrong word and write or correct it in the space.**
-
 1. I like a classical music very much.
-
 _ a
-
 2. The crowd are all enjoying the game.
-
 3. My grandmother wears glass when she reads.
-
 4. We like Martin and Jill. They’re nice persons.
-
 5. The government want to increase taxes.
-
 6. Cattle was driven hundreds of miles.
-
 7. This scissors is not very sharp.
-
 8. That’s a wonderful news!9. There was a police officer standing at the corner.
-
 10. Leafs turn yellow in the fall.
-
 11. I’m going to buy a new pyjama.
-
 12. There is some luggages in the car.
-
 13. Three pounds are not a big enough tip.
-
 14.1 heard an interesting piece of information.
-
 15. Has the police arrived yet?
 
-**X. What do we call these things and people? Use the structure noun + noun.**
+### X. What do we call these things and people? Use the structure noun + noun.
 
 1. A station from which trains leave is *a train station.*
 
@@ -1475,103 +1377,47 @@ _ a
 **15minute(s) twohour(s) fiveday(s) 60minute(s) sixmile(s) 500year(s) 20pound(s) tenpage(s)**
 
 **450page(s) twoyear(s) five course(s) 15year(s)old**
-
 1. It’s quite a long book. There are *450pages .*
-
 2. A few days ago I received a *ten-page* letter.
-
 3. I didn’t have any change. I only had a ____________note.
-
 4. At work in the morning I usually have a _______________ break for coffee.
-
 5. There are ___________in an hour.
-
 6. It’s only a __________flight from London to Madrid.
-
 7. It was a big meal. There were_________________.
-
 8. Mary has just started a new job. She’s got a _______________ contract.
-
-9. The oldest building in the city is the______________old castle.10. I work__________ a week. Saturday and Sunday are free.
-
+9. The oldest building in the city is the______________old castle.
+10. 10. I work__________ a week. Saturday and Sunday are free.
 11. We went for a __________ walk in the country.
-
 12. I teach English for two ______________girls.
-
-**XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have**
-
-**to use *of.***
-
-1. the mistake/ the policeman
-
-- 
-
-*the policeman’s mistake*
-
-2. the bottom/ the bottle
-
-*the bottbm of the bottle*
-
+### XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have** **to use *of.***
+1. the mistake/ the policeman <br>*the policeman’s mistake*
+2. the bottom/ the bottle. <br> *the bottbm of the bottle*
 3. the daughter/ Mr Hill
-
 4. the name/ this street
-
 5. the gardens/ our neighbors
-
 6. the children/ Don and Mary
-
 7. the wedding/ the friend/ Helen
-
 8. the ground floor/ the building
-
 9. the car/ the parents/ Mike
-
 10. the economic policy/ the government
-
 11. the money/ the gangsters
-
 12. the tail/ the horse
-
 13. the house/ the people we met in Spain
-
 14. the arm/ the chair
-
 15. the monthly meeting/ the club
-
 16. the work/ last year
-
 17. the death/ someone important
-
 18. the middle/ the night
-
 19. the room/ my sisters
-
 20. the door/ the garage
-
-<summary>**XIV. Rewrite the underlined phrases, using a possessive form. (Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.)**<summary>
-    1. The storm last week caused a lot of damage.
-        
-        *Last week’s storm caused a lot of damage.*
-        
-    2. The meeting tomorrow has been cancelled.
-        
-        Tomorrow’s meeting has been cancelled.
-        
-    3. The only cinema in the town has closed down.
-        
-        The only cinema of the town has closed down.
-        
-    4. Exports from Britain to the United States have fallen recently.
-        
-        Britain to the United States’s export have fallen recently.
-        
-    5. Tourism is the main industry in the region.
-        
-        
-    6. The prices this year are even lower.
-    7. A rest for five minutes is enough for me.
-    8. From here it’s a drive of two hours.
-    9. I’ll see you in a week.
-    10. The paper yesterday reported the assassination of the Prime Minister
-
-.
+### XIV. Rewrite the underlined phrases, using a possessive form. (Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.)
+1. The storm last week caused a lot of damage. <br> *Last week’s storm caused a lot of damage.*   
+2. The meeting tomorrow has been cancelled. <br> *Tomorrow’s meeting has been cancelled.*
+3. The only cinema in the town has closed down. <br> The only cinema of the town has closed down.
+4. Exports from Britain to the United States have fallen recently. <br> *Britain to the United States’s export have fallen recently.*
+5. Tourism is the main industry in the region.
+6. The prices this year are even lower.
+7. A rest for five minutes is enough for me.
+8. From here it’s a drive of two hours.
+9. I’ll see you in a week.
+10. The paper yesterday reported the assassination of the Prime Minister
