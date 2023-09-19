@@ -6,55 +6,37 @@ Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher,
 Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành nhiều loại:
 
 ### 1. Danh từ cụ thể và danh từ trừu tượng (Concrete nouns and abstract nouns)
-#### 1.1. Danh từ cụ thể (Concrete nouns)
-Là danh từ chỉ những gì hữu hình; những gì mà chúng ta có thể cảm thấy trực tiếp qua giác quan (nhìn, nghe, sờ, ngửi,...) như: house, man, cloud, cat, pen, mountain, v.v…
-Danh từ cụ thể được phân thành hai tiểu loại:
-a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những sự vật thuộc cùng một loại.
-            
+**Danh từ cụ thể (Concrete nouns):** Là danh từ chỉ những gì hữu hình; những gì mà chúng ta có thể cảm thấy trực tiếp qua giác quan (nhìn, nghe, sờ, ngửi,...) như: *house, man, cloud, cat, pen, mountain, v.v…* Danh từ cụ thể được phân thành hai tiểu loại:
+- Danh từ chung (common nouns) là danh từ dùng để gọi tên những sự vật thuộc cùng một loại.<br>
             Ex: table *(cái bàn),* man *(con người),* dog *(con chó),* pen *(cây viết), ...*
-            
-            Trong danh từ chung có danh từ tập hợp (collective nouns) dùng để chỉ một nhóm người, vật hoặc sự vật.
-            
-            Ex: family *(gia đình),* crowd *(dám đông),* team *(đội),* police *(cảnh sát),* government *(chính phủ),* cattle *(bò),...*
-            
-        - b. Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.
-            
+  
+  Trong danh từ chung có danh từ tập hợp (collective nouns) dùng để chỉ một nhóm người, vật hoặc sự vật.<br>
+              Ex: family *(gia đình),* crowd *(dám đông),* team *(đội),* police *(cảnh sát),* government *(chính phủ),* cattle *(bò),...*
+- Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.<br>
             Ex: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
             
-    - **1.2. Danh từ trừu tượng** (Abstract nouns)
+**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động. <br> 
+ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+
+### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
+**Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được. <br>
+Ex: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
         
-        Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động.
+Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ a/ *an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns). <br>
+Ex: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
         
-        Ex: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+**2.2. Danh từ không đếm được (Uncountable nouns)**
+Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm trừu tượng, và những vật mà chúng ta xem như một khối không thể tách rời.
+<br>Ex: wool *(len),* butter *(bơ),* water *(nước),* furniture *(đồ gỗ),* rice *(gạo),* happiness *(niềm hạnh phúc),* news *(tin tức),* work *(công việc),...*
+
+Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ a/ *an.* <br>
+Ex: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
         
-- **2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)**
-    - **2.1. Danh từ đếm được** (countable nouns)
-        
-        Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được.
-        
-        Ex: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
-        
-        Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ a/ *an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns).
-        
-        Ex: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
-        
-    - **2.2. Danh từ không đếm được** (Uncountable nouns)
-        
-        Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm trừu tượng, và những vật mà chúng ta xem như một khối không thể tách rời.
-        
-        Ex: wool *(len),* butter *(bơ),* water *(nước),* furniture *(đồ gỗ),* rice *(gạo),* happiness *(niềm hạnh phúc),* news *(tin tức),* work *(công việc),...*
-        
-        Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ a/ *an.*
-        
-        Ex: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
-        
-        - **Lưu ý:**
+**Lưu ý:**
+Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.*
+            Ex: **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
             
-            Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.*
-            
-            *Ex: **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
-            
-            Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở sô' ít nhưng đôi khi cũng có thể dùng ở số nhiều.
+Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở sô' ít nhưng đôi khi cũng có thể dùng ở số nhiều.
             
             *Ex: **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
             
@@ -78,23 +60,17 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             
             *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
             
-- **3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)**
-    
-    Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
-    
-    **3.1. Danh từ đơn** (Simple nouns) là danh từ chỉ có một từ.
-    
-    Ex: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
-    
-    - **3.2. Danh từ ghép** (Compound nouns) là danh từ gồm hai hoặc nhiều từ kết hợp với nhau.
-        
-        Danh từ ghép có thể được viết thành hai từ riêng biệt, có gạch ngang giữa hai từ hoặc kết hợp thành một từ.
-        
-        Ex: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
-        
-        **Cách thành lập danh từ ghép**
-        
-        - a. Danh từ + danh từ (noun + noun)
+### 3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)
+Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
+
+**Danh từ đơn (Simple nouns)** là danh từ chỉ có một từ. Ex: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
+
+**Danh từ ghép (Compound nouns)** là danh từ gồm hai hoặc nhiều từ kết hợp với nhau.
+Danh từ ghép có thể được viết thành hai từ riêng biệt, có gạch ngang giữa hai từ hoặc kết hợp thành một từ. <br>
+Ex: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
+
+**Cách thành lập danh từ ghép**
+- Danh từ + danh từ (noun + noun)
             
             toothpick *(tăm)*
             
@@ -109,8 +85,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             river bank *(hờ sông)*
             
             cupboard *(tủ chạn)* postman *(người đưa thư)*
-            
-        - b. Tính từ + danh từ (adjective + noun)
+  - Tính từ + danh từ (adjective + noun)
             
             quicksilver *(thủy ngân)*
             
@@ -120,7 +95,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             
             blackbird *(chim sáo)*
             
-        - c. Danh từ + danh động từ (noun + gerund)
+- c. Danh từ + danh động từ (noun + gerund)
             
             Trong trường hợp này, danh từ ghép chỉ một loại công việc nào đó.
             
@@ -134,7 +109,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             
             bird-watching (*quan sát nhận dạng chim)*
             
-        - d. Danh động từ + danh từ (gerund + noun)
+- Danh động từ + danh từ (gerund + noun)
             
             waiting-room *(phòng đợi)*
             
@@ -144,7 +119,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             
             washing-machine *(máy giặt)*
             
-        - e. Các trường hợp khác
+- Các trường hợp khác
             
             Tính từ + động từ (adjective + verb): whitewash *(nước vôi)*
             
@@ -157,17 +132,13 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             Danh từ + tính từ (noun + adjective): secretary-general *(tổng thư ký; tổng bí thư)*
             
             Lưu ý: Danh từ ghép có thể được thành lập bởi nhiểu hơn hai từ: *mother-in-law* (mẹ vợ/ chổng), *glass dining-table* (bàn ăn bằng kính), *merry-go-round* (trò chơi ngựa quay),...
-            
-- **4. Danh từ số ít và danh từ số nhiều (Singular nouns and plural nouns)**
+
+### 4. Danh từ số ít và danh từ số nhiều (Singular nouns and plural nouns)
+Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ex: The **girl** is singing. *(Cô gái dang hát) → The singular* 
+The **girls** are singing. *(Các cô gái đang hát) → gular*
     
-    Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural).
-    
-    Ex: The **girl** is singing. *(Cô gái dang hát) → The singular*
-    
-    The **girls** are singing. *(Các cô gái đang hát) → gular*
-    
-    - **4.1. Cách thành lập danh từ số nhiều** (Formation of the plural nouns)
-        - a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít.
+**Cách thành lập danh từ số nhiều (Formation of the plural nouns)**
+a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít.
             
             Ex: boy *(con trai) →* boys *(những đứa con trai)*
             
@@ -277,7 +248,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
             
             **e. Một số danh từ tận cùng báng một *phụ âm + o* (consonant + o) được tạo thành số nhiều bằng cách thêm *-es.***
             
-            - g. Một số danh từ chỉ có hình thức số nhiều (luôn được dùng với động từ số nhiều)
+1. Một số danh từ chỉ có hình thức số nhiều (luôn được dùng với động từ số nhiều)
                 
                 - Quần áo gồm hai phần: pants *(quần),* pyjamas *(đồ pijama),* trousers *(quần dài),* jeans *(quần jin),...*
                 
@@ -474,19 +445,15 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
                 Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards
                 
                 *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
-                
-    
-    ### **III. Chức năng của danh từ (Functions of Nouns)**
-    
-    Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-    
-    - **1. Chủ ngữ của câu (Subject of a sentence)**
+## III. Chức năng của danh từ (Functions of Nouns)
+Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
+### 1. Chủ ngữ của câu (Subject of a sentence)**
         
         Ex: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
         
         Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
         
-    - **2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
+### 2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
         
         **Ex: I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
         
@@ -498,19 +465,19 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
         
         Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
         
-    - **3. Tân ngữ của giới từ (Object of a preposition)**
+### 3. Tân ngữ của giới từ (Object of a preposition)
         
         Ex: He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
         
         Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
         
-    - **4. Bổ ngữ của chủ ngữ (Subjective complement)**
+### 4. Bổ ngữ của chủ ngữ (Subjective complement)
         
         Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
         
         Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
         
-    - **5. Bổ ngữ của tân ngừ (Objective complement)**
+### 5. Bổ ngữ của tân ngừ (Objective complement)**
         
         Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
         
@@ -525,7 +492,7 @@ a. Danh từ chung (common nouns) là danh từ dùng để gọi tên những s
         Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
         
 
-### **III. Chức năng của danh từ (Functions of Nouns)**
+### Chức năng của danh từ (Functions of Nouns)
 
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
 
@@ -852,43 +819,34 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         Ex: There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)* There **were** many
         
 
-### **V. Sở hữu cách (Possessive/ Genitive Case)**
-
+## Sở hữu cách (Possessive/ Genitive Case)
 Sở hữu cách được dùng để diễn đạt sự sở hữu.
-
-- **1. Cách thành lập sở hữu cách (The formation of the possessive case)**
-    
-    Sở hữu cách được thành lập bằng cách:
-    
-    - a. Thêm ’s vào sau danh từ số ít và danh từ số nhiều không tận cùng bằng -s.
-        
+### Cách thành lập sở hữu cách (The formation of the possessive case)
+Sở hữu cách được thành lập bằng cách:
+1. Thêm ’s vào sau danh từ số ít và danh từ số nhiều không tận cùng bằng -s.
         - my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
         - Mary’s dog (con *chó của Mary)* [= the dog of Mary]
         - the bull’s horns *(sừng bò)* [= the horns of the bull]
         - the children’s room *(phòng của bọn trể)[=* the room of the children]
-        
-    - b. Thêm dấu phẩy (’) vào sau các danh từ số nhiều tận cùng bằng -s.
-        
+2. Thêm dấu phẩy (’) vào sau các danh từ số nhiều tận cùng bằng -s.
         - my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
         - the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
         - a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls] 
         - the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
-        
-    - c. Thêm ’s hoặc dấu phẩy (’) vào các danh từ số ít hoặc tên riêng tận cùng bằng -s (nhưng ’s được dùng phổ biến hơn).
+3. Thêm ’s hoặc dấu phẩy (’) vào các danh từ số ít hoặc tên riêng tận cùng bằng -s (nhưng ’s được dùng phổ biến hơn).
         
         - my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)* Charles’s mother / Charles’ mother *(mẹ của Charles)* 
         
-        - **Lưu ý:**  Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy (’)
+**Lưu ý:**  Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy (’)
             
             - Archimedes’ Law *(định luật Archimedes)*
             
-    - d. Với danh từ ghép, thêm ’s vào từ cuối cùng.
+1. Với danh từ ghép, thêm ’s vào từ cuối cùng.
         
         Ex: my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
         
         the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
-        
-    - e. ’s cũng có thể được dùng sau các cụm từ.
+1. ’s cũng có thể được dùng sau các cụm từ.
         
         Ex: **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
         
@@ -902,40 +860,29 @@ Sở hữu cách được dùng để diễn đạt sự sở hữu.
         
         the plays of Shakespeare = Shakespeare’s plays
         
-- **2. Cách dùng sở hữu cách *’s* và *of + danh từ* (Use of the possessive and of + noun)**
-    - a. Cách dùng sở hữu cách
+### Cách dùng sở hữu cách *’s* và *of + danh từ* (Use of the possessive and of + noun)
+1. Cách dùng sở hữu cách
+
+Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals).
+- Ex: the girl’s name *(tên của cô gái)*
+  the horse’s tail *(đuôi ngựa)*
+  Mr Evans’s daughter *(con gái của ông Evans)*
         
-        Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals).
+Không dùng sở hữu cách khi danh từ chỉ chủ sở hữu là danh từ chỉ đồ vật (things) hoặc ý tưởng (ideas). Trong trường hợp này ta thường dùng ***of + danh từ.***
+<br> Ex: the name of the book *(tên sách)* [NOT the book’s name]
         
-        Ex: the girl’s name *(tên của cô gái)*
+Ngoài ra sở hữu cách còn có thể được dùng với:
+- Danh từ chỉ các châu lục (continents), quốc gia (countries), thành phố (cities), trường học (schools). <br>
+Ex: the Europe’s population *(dân số của châu Ầu)* the city’s new theater *(nhà hát mới của thành phố)* Italy’s largest city *(thành phố lớn nhất của Ý)*
+- Danh từ chỉ thuyền bè, xe lửa, máy bay, xe hơi, và các loại xe cộ khác; tuy nhiên trong trường hợp này cấu trúc ***of + danh từ*** thông dụng hơn. <br>
+Ex: the train’s heating system/ the heating system of the train *(hệ thống dốt nóng của xe lửa)*
+            a glider’s wings/ the wings of a glider *(cánh của tàu lượn)*
         
-        the horse’s tail *(đuôi ngựa)*
-        
-        Mr Evans’s daughter *(con gái của ông Evans)*
-        
-        Không dùng sở hữu cách khi danh từ chỉ chủ sở hữu là danh từ chỉ đồ vật (things) hoặc ý tưởng (ideas). Trong trường hợp này ta thường dùng ***of + danh từ.***
-        
-        Ex: the name of the book *(tên sách)* [NOT the book’s name]
-        
-        Ngoài ra sở hữu cách còn có thể được dùng với:
-        
-        ****Danh từ chỉ các châu lục (continents), quốc gia (countries), thành phố (cities), trường học (schools).
-        
-        Ex: the Europe’s population *(dân số của châu Ầu)* the city’s new theater *(nhà hát mới của thành phố)* Italy’s largest city *(thành phố lớn nhất của Ý)*
-        
-        ****Danh từ chỉ thuyền bè, xe lửa, máy bay, xe hơi, và các loại xe cộ khác; tuy nhiên trong trường hợp này cấu trúc ***of + danh từ*** thông dụng hơn.
-        
-        Ex: the train’s heating system/ the heating system of the train *(hệ thống dốt nóng của xe lửa)*
-        
-        a glider’s wings/ the wings of a glider *(cánh của tàu lượn)*
-        
-        ****Danh từ chỉ một tổ chức hoặc một nhóm người ***(of + danh từ*** cũng có thể được dùng).
-        
-        Ex: the government’s decision/ the decision **of** the government *(quyết định của chính phủ)*
-        
+- Danh từ chỉ một tổ chức hoặc một nhóm người ***(of + danh từ*** cũng có thể được dùng). <br>
+            Ex: the government’s decision/ the decision **of** the government *(quyết định của chính phủ)*
         The company’s success/ the success of the company *(thành công của công ty)*
-        
-        ****Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
+
+- Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
         
         Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
         
@@ -1024,7 +971,7 @@ Sở hữu cách được dùng để diễn đạt sự sở hữu.
                 A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
                 
 
-### EXERCISES
+## EXERCISES
 - **I. Look at these nouns. Are they countable (C) or uncountable (U)?**
     
     
