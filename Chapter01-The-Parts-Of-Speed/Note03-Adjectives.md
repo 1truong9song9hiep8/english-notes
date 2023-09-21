@@ -7,17 +7,16 @@ Dựa trên các tiêu chí khác nhau tính từ có thể được phân thàn
 #### Tính từ mô tả (Descriptive adjectives)
 Tính từ mô tả (Descriptive adjectives) là tính từ được dùng để mô tả hình dáng, kích thước, phẩm chất, đặc tính, màu sắc ... của người, vật hoặc sự việc. Ex: tall *(cao),* fat *(mập),* heavy *(nặng),* rich (giồu?, old *(già, cũ),* new *(mới),* intelligent *(thông minh),* blue *(màu xanh),* beautiful *(đẹp),* good *(tốt), ...*
 <br> 
-Tính từ mô tả chiếm phần lớn số lượng tính từ trong tiếng Anh
-```
-That man is a rich businessman.(Người đàn ông đó là một thương gia giàu có.)
-My school is small and old.(Trường của tôi nhỏ và cũ.)
-```
+Tính từ mô tả chiếm phần lớn số lượng tính từ trong tiếng Anh. Ví dụ:<br>
+|---
+-- That man is a rich businessman.(Người đàn ông đó là một thương gia giàu có.)<br>
+-- My school is small and old.(Trường của tôi nhỏ và cũ.)
 #### Tính từ giới hạn (Limiting adjectives)
-Tính từ giới hạn (Limiting adjectives) là tính từ được dùng để đặt giới hạn cho danh từ mà nó  bổ nghĩa. Tính từ giới hạn gồm:
-        
+Tính từ giới hạn (Limiting adjectives) là tính từ được dùng để đặt giới hạn cho danh từ mà nó  bổ nghĩa. Tính từ giới hạn gồm:      
 **Từ xác định hoặc tính từ chỉ sự sở hữu (Possessive determiners/ adjectives)**: được dùng trước danh từ để chỉ danh từ đó thuộc về người nào hoặc vật nào.
-            
-            PERSONAL PRONOUNS (Đại từ nhân xưng) - POSSESSIVE D ADJECTIVES (Từ xácđịnh/ tính từ sờ hữu)
+|-------------
+|            
+|            PERSONAL PRONOUNS (Đại từ nhân xưng) - POSSESSIVE D ADJECTIVES (Từ xácđịnh/ tính từ sờ hữu)
             
             I - my *(của tôi)*
             
