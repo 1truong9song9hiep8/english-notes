@@ -314,21 +314,20 @@ Ex:
 Riding a horse is not as easy as riding a motorcycle. (Cưỡi ngựa thì không dễ như chạy xe máy.)
 It’s sometimes cheaper to buy a new one than to repair the old one. Đôỉ khi mưa cái  mới lại rẻ hơn sửa lại cái cũ.)
 ## EXERCISES
-I. Complete the sentences using as ... as. Choose one of the following words, expensive 
-comfortable fast long quietly soon well often quickly much strong exciting
-1. 1 don’t earn as much as I’d like.
-2. Oh, don’t sit there. The stool isn’t ___________________ the armchair.
-3. I didn’t want to wake anybody, so I came in__________________ I can.
-4. We can’t do crosswords_______________ you do.
-5. I’m sorry I’m a bit late. I got here ____________ I could.
-6. We like to keep fit, so we go swimming ______________ we can.
-7. It was a difficult question. I answered it ______________ I could.
-8. I prefer surfing to swimming. Swimming isn’t _______________surfing.
-9. How long can we stay with you? ~ You can stay ______________ you like.
-10. Why don’t you buy a motorbike? A motorbike isn’t _________________ a car.
-11. I need the information quickly, so please let me know ____________ possible.
-12. I don’t like these plastic screws. Plastic isn’t____________________metal.
-II. Complete the sentences using a comparative form.
+1. **Complete the sentences using as ... as. Choose one of the following words, expensive comfortable fast long quietly soon well often quickly much strong exciting**
+    1. I don’t earn as much as I’d like.
+    2. . Oh, don’t sit there. The stool isn’t ___________________ the armchair.
+    3. I didn’t want to wake anybody, so I came in__________________ I can.
+    5. We can’t do crosswords_______________ you do.
+    6.  I’m sorry I’m a bit late. I got here ____________ I could.
+    7. We like to keep fit, so we go swimming ______________ we can.
+    8. It was a difficult question. I answered it ______________ I could.
+    9. I prefer surfing to swimming. Swimming isn’t _______________surfing.
+    10. How long can we stay with you? ~ You can stay ______________ you like.
+    11. Why don’t you buy a motorbike? A motorbike isn’t _________________ a car.
+    12. I need the information quickly, so please let me know ____________ possible.
+    13. I don’t like these plastic screws. Plastic isn’t____________________metal.
+2. **Complete the sentences using a comparative form.**
 1. It’s too noisy here. Can we go somewhere quieter ?
 2. The dining room is so small. I like it a bit_____________ .
 3. The exam was surprisingly easy. I expected it to be -------------------------------.
@@ -575,8 +574,7 @@ ________________________the journey because the buses aren’t so crowded.
 8. a. as b. less c. more d. same
 9. a. early b. more early c. earliest d. earlier
 10. a. more easy b. more easier c. the easier d. the easy
-XIV. Write the second sentence so that it has a similar meaning to the first. Use the word in 
-brackets.
+14. Write the second sentence so that it has a similar meaning to the first. Use the word in brackets.
 1. This hotel is more expensive than all the others, (most)
 2. The moon isn’t as hot as the sun. (hotter)
 3. I’m not as patient as you. (more)
