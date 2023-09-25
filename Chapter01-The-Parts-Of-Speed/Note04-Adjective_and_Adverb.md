@@ -26,35 +26,35 @@ So sánh bằng nhau hoặc như nhau cũng có thề được diễn đạt b�
 ```
 Ex: 
 - My house is as high as his. = My house is the same height as his. Or The height of my house is the same as his.(Nhà tôi cao bằng nhà anh ấy.)<br>
-Tom is as old as Mary. = Tom is the same age as Mary. Or Tom’s age is the same as Mary’s. (Tom cùng tuổi với Mary.)<br>
-Anne’s salary is as much as mine. = Anne gets the  same salary as me. Or Anne’s salary is the same as mine. (Lương của Anne bằng lương của tôi.)<br>
-
+- Tom is as old as Mary. = Tom is the same age as Mary. Or Tom’s age is the same as Mary’s. (Tom cùng tuổi với Mary.)<br>
+- Anne’s salary is as much as mine. = Anne gets the  same salary as me. Or Anne’s salary is the same as mine. (Lương của Anne bằng lương của tôi.)<br>
 >[!NOTE]
->Chúng ta dùng 'the same as’ chứ không dùng 'the same like'<br>
+> Chúng ta dùng 'the same as’ chứ không dùng 'the same like'<br>
 Ex: What would you like to drink? ~ I’ll have the same as you. (Anh muốn uống gì? ~ Tôi uống giống như anh.) [NOT the same like]
 Less... than = not as/ so... as
-Ex: This dress is less expensive than that one. (Cái áo đầm này khổng đắt như cái áo kia.)  [= This dress isn’t as/so expensive as... ]
-The city center was less crowded than usual. (Trung tâm thành phố ít đông hơn thường ngày.) [= The city center wasn’t as crowded as usual.]
+Ex:
+- This dress is less expensive than that one. (Cái áo đầm này khổng đắt như cái áo kia.)  [= This dress isn’t as/so expensive as... ]
+- The city center was less crowded than usual. (Trung tâm thành phố ít đông hơn thường ngày.) [= The city center wasn’t as crowded as usual.]
+
 Nhưng trong lối nói thân mật not as/so...as thường được dùng hơn less...than.
 - Khi nói gấp bao nhiêu lần, ta dùng cấu trúc twice as... as, three times as... as, etc. Ex:
-Petrol is twice as expensive as it was a few years ago. (Giá xăng bây giờ đắt gấp đôi giá xăng cách đây vài nẳm.)
-Their house is about three times as big as ours. (Nhà họ lớn khoảng gấp ba nhà chúng' tôi.)
+- Petrol is twice as expensive as it was a few years ago. (Giá xăng bây giờ đắt gấp đôi giá xăng cách đây vài nẳm.)
+- Their house is about three times as big as ours. (Nhà họ lớn khoảng gấp ba nhà chúng' tôi.)
 
-## So sánh hơn (Comparative form)
+### So sánh hơn (Comparative form)
 Hình thức so sánh hơn của tính từ và trạng từ được thành lập bằng cách:
 
 1. Thêm -er vào sau tính từ hoặc trạng từ có một âm tiết (short adjective/adverb) và một số tính từ có hai âm tiết tận cùng bằng -er, -ow, -y, -le.
-Ex: big (to, lớn) —> bigger (to hơn, lớn hơn)
-fast (nhanh) —> faster (nhanh hơn)
-quiet (yên lặng) -» quieter (yền lặng hơn)
-happy (hạnh phúc) -> happier (hạnh phúc hơn)
-clever (thông minh) —> cleverer (thông minh hơn)
-narrow (hẹp) -> narrower (hẹp hơn)
-simple (dơn giản) -> simpler (đơn giản hơn)
-Thêm more vào trước tính từ hoặc trạng từ có hai âm tiết (trừ các tính từ
-tận cùng bằng -er, -OIU, -y, tive/ 
-adverb).
-■le) hoặc có từ ba âm tiết trở lên (long adjec￾Ex: useful (hữu ích) -> more useful (hữu ích hơn)
+Ex:
+- big (to, lớn) —> bigger (to hơn, lớn hơn)
+- fast (nhanh) —> faster (nhanh hơn)
+- quiet (yên lặng) -» quieter (yền lặng hơn)
+- happy (hạnh phúc) -> happier (hạnh phúc hơn)
+- clever (thông minh) —> cleverer (thông minh hơn)
+- narrow (hẹp) -> narrower (hẹp hơn)
+- simple (dơn giản) -> simpler (đơn giản hơn)
+
+Thêm more vào trước tính từ hoặc trạng từ có hai âm tiết (trừ các tính từtận cùng bằng -er, -OIU, -y, tive/ adverb).le) hoặc có từ ba âm tiết trở lên (long adjec￾Ex: useful (hữu ích) -> more useful (hữu ích hơn)
 boring (tể nhạt) -> more boring (tẻ nhạt hơn)
 tired (mệt) —> more tired (mệt hơn)
 quickly (nhanh) -> more quickly (nhanh hơn)
@@ -92,7 +92,7 @@ She doesn’t sing as well as I do. (Cô ta hát không hay bằng tôi.)
 I’m two years older than she is. (Tôi lớn hơn cô ấy hai tuổi.)
 They have more money than we have. (Họ có nhiều tiền hơn chúng tôi.)
 
-## So sánh nhất (Superlative form}
+### So sánh nhất (Superlative form}
 Hình thức so sánh nhất của tính từ hoặc trạng từ được thành lập bằng cách:
 • Thêm -est vào sau tính từ hoặc trạng từ ngắn (short adj/ adv) hoặc tính từ có hai âm tiết tận cùng bằng -er, -ow, -ly, -le.... short adj/ adv + est s + V + the + . noun)
 most + long adj/ adv
@@ -155,11 +155,11 @@ Are you the eldest/ oldest (person) in your family?
 (Anh có phải là con đầu trong nhà không?)
 + Elder không được dùng với than trong cấu trúc so sánh hơn, vì vậy chỉ dùng older.
 Ex: He’s two years older than me. (Anh ấy lớn hơn tôi hai tuổi.)
-MỘT SỐ ĐIỂM CẦN GHI NHỚ
-a. So sánh nhất được dùng khi so sánh từ ba đối tượng trở lên. Khi trong nhóm chỉ có hai đối 
-tượng, ta thường dùng so sánh hơn.
-Ex: I like Betty and Maud, but I think Maud is the nicer of the two. (Tôi thích cả Betty ứà 
-Maud, nhưng tôi cho rằng trong hai người Maud dễ thương hơn.)
+
+### MỘT SỐ ĐIỂM CẦN GHI NHỚ
+a. So sánh nhất được dùng khi so sánh từ ba đối tượng trở lên. Khi trong nhóm chỉ có hai đối tượng, ta thường dùng so sánh hơn.<br>
+Ex: I like Betty and Maud, but I think Maud is the nicer of the two. (Tôi thích cả Betty và Maud, nhưng tôi cho rằng trong hai người Maud dễ thương hơn.)
+
 b. More và most được dùng cho các trạng từ tận cùng bằng -ly.
 Ex: more slowly, more quietly, more easily, more seriously, more carefully...
 best
@@ -175,37 +175,32 @@ little ->
 far ->
 old —>
 [NOT ... older thand
-Nhưng với trạng từ early, ta không dùng ‘more early I most early' mà phải dùng ‘earlier/ 
-earliest’.
-Ex: This morning I got up earlier than usual.
-(Sáng nay tôi thức dậy sớm hơn thường ngày.)
-c. Một số tính từ có hai âm tiết có thể có cả hai hình thức so sánh (-er/ more và -est/ most): clever, 
-common, cruel, gentle, narrow, pleasant, polite, quiet, simple, stupid.
-Ex: It’s too noisy here. Can we go somewhere quieter/ more quiet?
-(Ớ đây ồn quá. Chúng ta đi nơi nào đó yên tĩnh hơn nhé1?)
-He is the cleverest/ the most clever in his class.
-(Anh ấy thông minh nhất lớp.)
+Nhưng với trạng từ early, ta không dùng ‘more early I most early' mà phải dùng ‘earlier/earliest’.
+Ex: This morning I got up earlier than usual. (Sáng nay tôi thức dậy sớm hơn thường ngày.)
+
+c. Một số tính từ có hai âm tiết có thể có cả hai hình thức so sánh (-er/ more và -est/ most): clever, common, cruel, gentle, narrow, pleasant, polite, quiet, simple, stupid.
+Ex: It’s too noisy here. Can we go somewhere quieter/ more quiet? (Ớ đây ồn quá. Chúng ta đi nơi nào đó yên tĩnh hơn nhé1?)
+He is the cleverest/ the most clever in his class. (Anh ấy thông minh nhất lớp.)
+
 d. More và most được dùng cho tính từ có 3 âm tiết trở lên, ngoại trừ những từ phản nghĩa của 
 những tính từ có 2 vần tận cùng bằng -y.
 Ex: unhappy -> unhappier -> unhappiest
 untidy -> untidier -> untidiest
 + Một số tính từ ghép như good-looking hoặc well-known có thể có hai cách so sánh.
-e. Less và least là các từ phản nghĩa của more và most, được dùng để diễn đạt sự không bằng 
-nhau ở mức độ ít hơn, hoặc ít nhất.
-Ex: He’s got less enthusiastic than he used to have.
-(Anb ta kém nhiệt tình hơn trước.)
-The least expensive holidays are often the most interesting.
-(Những kỳ nghỉ ít tốn kém nhất thường thú vị nhất.)
-f. Tính từ hoặc trạng từ so sánh nhất có thể được dùng mà không có danh từ theo sau khi danh từ 
-đã hoặc sẽ được đề cập đến.
-Ex: This room is the warmest in the house.
-(Căn phòng này là căn phòng ấm nhất trong nhà.)
-It’s the warmest of three rooms.
-(Đó là căn phòng ấm nhất trong ba căn phòng.)
-g. Sau hình thức so sánh nhâ't, chúng ta thường dùng các giới từ in hoặc of. In được dùng với 
-danh từ đếm được sô' ít để chỉ một nơi cho'n (country, city, town, building, etc.), một tổ chức 
-hoặc một nhóm người (class, team, family, company, etc.); of được dùng để chỉ khoảng thời 
-gian hoặc dùng trước danh từ đếm được số nhiều chỉ một sô' lượng xác định người hoặc vật.
+
+e. Less và least là các từ phản nghĩa của more và most, được dùng để diễn đạt sự không bằng nhau ở mức độ ít hơn, hoặc ít nhất.
+Ex:
+- He’s got less enthusiastic than he used to have. (Anb ta kém nhiệt tình hơn trước.)
+- The least expensive holidays are often the most interesting. (Những kỳ nghỉ ít tốn kém nhất thường thú vị nhất.)
+
+f. Tính từ hoặc trạng từ so sánh nhất có thể được dùng mà không có danh từ theo sau khi danh từ đã hoặc sẽ được đề cập đến.
+Ex:
+This room is the warmest in the house. (Căn phòng này là căn phòng ấm nhất trong nhà.)
+It’s the warmest of three rooms. (Đó là căn phòng ấm nhất trong ba căn phòng.)
+
+**g. Sau hình thức so sánh nhất, chúng ta thường dùng các giới từ in hoặc of. In được dùng với danh từ đếm được số ít để chỉ một nơi chốn (country, city, town, building, etc.), một tổ chức 
+hoặc một nhóm người (class, team, family, company, etc.); of được dùng để chỉ khoảng thời gian hoặc dùng trước danh từ đếm được số nhiều chỉ một sô' lượng xác định người hoặc vật.**
+
 Ex: Who is the best player in the team? (Ai là cầu thủ chơi hay nhất dội?) It’s the most 
 expensive hotel in Oxford.
 (Đó là khách sạn đắt nhất ở Oxford.)
@@ -220,99 +215,94 @@ best-looking most
 good-looking best￾known most well￾known
 She is the most beautiful of the three sisters.
 (Cô ấy xinh nhất trong ba chị em.)
-h. Trong lô'i văn thân mật, đại từ làm tân ngữ (me, him, US, them,...) thường được dùng sau 
-than và as. Đại từ làm chủ ngữ (I, he, we, they,...) và động từ được dùng trong lối văn trang 
-trọng hơn.
+
+
+h. Trong lối văn thân mật, đại từ làm tân ngữ (me, him, US, them,...) thường được dùng sau than và as. Đại từ làm chủ ngữ (I, he, we, they,...) và động từ được dùng trong lối văn trang trọng hơn.
 Ex: She’s older than me. -> informal
 Or: She’s older than I am. -> formal
-i. Mạo từ the đứng trước tính từ ở vị trí vị ngữ (predicative adjectives) và trữớc trạng từ 
-(adverbs) trong hình thức so sánh nhất đôi khi được bỏ đi trong lối văn thân mật.
-Ex: Which of the boys is (the) strongest?
-(Trong các cậu bé đó đứa nào mạnh nhất'?)
+
+**i. Mạo từ the đứng trước tính từ ở vị trí vị ngữ (predicative adjectives) và trữớc trạng từ (adverbs) trong hình thức so sánh nhất đôi khi được bỏ đi trong lối văn thân mật.**
+Ex: Which of the boys is (the) strongest?(Trong các cậu bé đó đứa nào mạnh nhất'?)
 He can run (the) fastest. (Anh ta chạy nhanh nhất.)
-Tuy nhiên khi dạng so sánh nhất ở vị trí vị ngữ được dùng với một nhóm từ xác định thì 
-không được bỏ the.
-Ex: This dictionary is the best I could find.
-(Cuốn từ điển này là cuốn hay nhất mà tôi tìm được.)
-[NOT This dictionary-iũ best I could find.]
-She was the quickest of all the staff.
-(Cô ấy là người nhanh nhẹn nhất trong tất cả các nhân viên.) [NOT She was 
-quickest:—]
+
+Tuy nhiên khi dạng so sánh nhất ở vị trí vị ngữ được dùng với một nhóm từ xác định thì không được bỏ the.
+Ex: This dictionary is the best I could find.(Cuốn từ điển này là cuốn hay nhất mà tôi tìm được.)[NOT This dictionary-iũ best I could find.]
+She was the quickest of all the staff. (Cô ấy là người nhanh nhẹn nhất trong tất cả các nhân viên.) [NOT She was quickest:—]
 Không dùng the khi so sánh cùng một người hay một vật ở những tình huống khác nhau.
 Ex: He’s nicest when he’s had a few drinks.
 (Anh ấy tử tế nhất khi đã uống vài ly.) [NOT He’s the nicest whem-rd She works 
 hardest when she’s doing something for her family.
 (Cô ấy làm việc tích cực nhất khi cô ấy làm việc gì đó cho gia đình.) [NOT She worko 
 the hardest when—]
-j. Most + adjective đôi khi được dùng với nghĩa ‘very’
-Ex: The book you lent me was most interesting. [= very interesting]
-(Cuốn sách bạn cho tôi mượn rất hay.)
-IV. Cách thêm đuôi <er và -est (Spelling rules for the -er and -est ending)
-• Tính từ hoặc trạng từ tận cùng bằng er thêm -r và -st.
+
+**j. Most + adjective đôi khi được dùng với nghĩa 'very'**
+Ex: The book you lent me was most interesting. [= very interesting] (Cuốn sách bạn cho tôi mượn rất hay.)
+
+## Cách thêm đuôi er và -est (Spelling rules for the -er and -est ending)
+- Tính từ hoặc trạng từ tận cùng bằng er thêm -r và -st.
 Ex: large (rộng) -> larger -> largest
 late (trễ) —> later —> latest
-• Tính từ hoặc trạng từ có hai âm tiết tận cùng bằng phụ âm + y: đổi y
+
+- Tính từ hoặc trạng từ có hai âm tiết tận cùng bằng phụ âm + y: đổi y
 thành i và thêm -er hoặc -est. Ex: happy (hạnh phúc) ->
 pretty (đẹp) ->
-• Tính từ hoặc txrạng từ có một âm tiết tận 
+
+- Tính từ hoặc txrạng từ có một âm tiết tận 
 cùng bằng nguyên âm + phụ âm (trừ w): gấp đôi phụ âm.
 Ex; big (to) -»
 thin (mỏng) ->
 new (mới) ->
-V. Hình thức so sánh đặc biệt (Special comparison)
-1. So sánh kép (Double comparatives)
-a. So sánh đồng tiến (càng ... càng)
--> happiest
--» prettiest
-happier 
-prettier
--> biggest
--> thinnest
-—> newest
-bigger 
-thinner 
-newer
-Dạng so sánh đồng tiến với the ... the ... được dùng để diễn đạt sự cùng thay đốì (tăng thêm hoặc 
-giảm bớt về số lượng hoặc mức độ) cửa sự việc.
-( The + comparative + s + V + the + comparative + s + V
-Ex: The older I get, the happier I am.
-(Càng lớn tuổi tôi càng thấy hạnh phúc.)
-The more dangerous it is, the more I like it.
-(Việc càng nguy hiểm tôi càng thích.)
-The hotter it is, the more miserable I feel.
-(Trời càng nóng, tôi càng cảm thấy khó chịu.) The more I know him, the less I like 
-him.
-(Căng biết rõ anh ta, tôi càng không thích anh ta.)
-- More có thê được dùng với danh từ.
-Ex: The more electricity you use, the higher your bill will be.
-(Dùng điện càng nhiều, hỏa đơn tiền điện càng cao.)
-- Dạng ngắn của cấu trúc này được dùng trong thành ngữ The more the merrier (càng đông 
-càng vui) và trong cấu trúc The + comparative + the better
 
-Ex: What time shall we leave? ~ The sooner the better. (Mấy giờ chúng ta đi? ~ Càng sớm càng tốt.)
-How do you like your coffee? ~ The stronger the better.(Anh thích cà phê như thế nào? ~ Càng đậm càng tốt.) The less luggage you have to 
-carry the better.
-(Mang càng ít hành lý càng tốt.)
-b. So sánh lũy tiến (càng ngày càng)
-Dạng so sánh lũy tiến được dùng để diễn đạt sự việc đang tàng dần hoặc giảm dần một cách 
-liên tục.
-- ...er and ...er và more and more được dùng để diễn đạt sự tăng dần.
-short adj/ adv + er + and + short adj/ adv + er
-more and more + long adj/adv
-Ex: Betty is younger and younger. (Betty càng ngày càng trẻ ra.)
-It’s becoming harder and harder to find a job. (Càng ngày càng khó tìm việc.)
-Her story was more and more attractive.(Câu chuyện của bà ta càng ngày càng hấp dẫn.)
-We’re going more and more slowly. (Chúng tôi đi càng lúc càng chậm.)
-[NOT more slowly and-mere slowly]
-- Less and less được dùng đê diễn đạt sự giảm dần. Ex: He became less and less interested in 
-politics.(Càng ngày anh ta càng ít quan tâm đến chính trị.)
-He played the piano less and less as he grew older. (Càng lớn nó càng ít chơi dương 
-cầm.)
-2. So sánh hành động (Comparison of actions)
-Danh động từ (gerund) hoặc động từ nguyên mẫu (to-iníĩnitive) theo sau từ so sánh.
+## Hình thức so sánh đặc biệt (Special comparison)
+### 1. So sánh kép (Double comparatives)
+#### a. So sánh đồng tiến (càng ... càng)
+```
+            happier    -> happiest
+            prettier   -> prettiest
+            biggest    -> biggest
+            thinner    -> thinnest
+            newer      -> newest
+```
+
+Dạng so sánh đồng tiến với the ... the ... được dùng để diễn đạt sự cùng thay đốì (tăng thêm hoặc giảm bớt về số lượng hoặc mức độ) cửa sự việc.
+```
+            (The + comparative + s + V + the + comparative + s + V)
+```
 Ex:
-Riding a horse is not as easy as riding a motorcycle. (Cưỡi ngựa thì không dễ như chạy xe máy.)
-It’s sometimes cheaper to buy a new one than to repair the old one. Đôỉ khi mưa cái  mới lại rẻ hơn sửa lại cái cũ.)
+- *The older I get, the happier I am. (Càng lớn tuổi tôi càng thấy hạnh phúc.)*
+- *The more dangerous it is, the more I like it. (Việc càng nguy hiểm tôi càng thích.)*
+- *The hotter it is, the more miserable I feel. (Trời càng nóng, tôi càng cảm thấy khó chịu.)*
+- *The more I know him, the less I like  him. (Căng biết rõ anh ta, tôi càng không thích anh ta.)*
+
+More có thê được dùng với danh từ.<br>
+Ex: *The more electricity you use, the higher your bill will be. (Dùng điện càng nhiều, hỏa đơn tiền điện càng cao.)*
+
+Dạng ngắn của cấu trúc này được dùng trong thành ngữ The more the merrier (càng đông càng vui) và trong cấu trúc The + comparative + the better
+Ex:
+- What time shall we leave? ~ The sooner the better. (Mấy giờ chúng ta đi? ~ Càng sớm càng tốt.)<br>
+- How do you like your coffee? ~ The stronger the better.(Anh thích cà phê như thế nào? ~ Càng đậm càng tốt.)<br>
+- The less luggage you have to carry the better. (Mang càng ít hành lý càng tốt.)<br>
+
+#### b. So sánh lũy tiến (càng ngày càng)
+Dạng so sánh lũy tiến được dùng để diễn đạt sự việc đang tàng dần hoặc giảm dần một cách liên tục....er and ...er và more and more được dùng để diễn đạt sự tăng dần.
+```
+short adj/ adv + er + and + short adj/ adv + er more and more + long adj/adv
+```
+Ex:
+- *Betty is younger and younger. (Betty càng ngày càng trẻ ra.)<br>*
+- *It’s becoming harder and harder to find a job. (Càng ngày càng khó tìm việc.)*
+- *Her story was more and more attractive.(Câu chuyện của bà ta càng ngày càng hấp dẫn.)*
+- *We’re going more and more slowly. (Chúng tôi đi càng lúc càng chậm.)[NOT more slowly and-mere slowly]*
+
+Less and less được dùng đê diễn đạt sự giảm dần.
+Ex:
+- *He became less and less interested in politics.(Càng ngày anh ta càng ít quan tâm đến chính trị.)*
+- *He played the piano less and less as he grew older. (Càng lớn nó càng ít chơi dương cầm.)*
+
+### 2. So sánh hành động (Comparison of actions)
+Danh động từ (gerund) hoặc động từ nguyên mẫu (to-iníĩnitive) theo sau từ so sánh, ví dụ:
+- Riding a horse is not as easy as riding a motorcycle. (Cưỡi ngựa thì không dễ như chạy xe máy.)
+- It’s sometimes cheaper to buy a new one than to repair the old one. Đôỉ khi mưa cái  mới lại rẻ hơn sửa lại cái cũ.)
 ## EXERCISES
 1. **Complete the sentences using as ... as. Choose one of the following words, expensive comfortable fast long quietly soon well often quickly much strong exciting**
     1. I don’t earn as much as I’d like.
