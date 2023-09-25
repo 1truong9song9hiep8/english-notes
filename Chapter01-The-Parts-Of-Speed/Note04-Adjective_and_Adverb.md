@@ -5,20 +5,19 @@ Hình thức so sánh bằng được thành lập bằng cách thêm *as* vào 
 ```
     ( s + V 4- 05 4- adj/ adv 4- 05 4- noun/ pronoun/ clause ]
 ```
-
-Ex: <br>
-- My hands were as cold as ice. (Tay tôi lạnh như đá.)<br>
-- Jane sings as well as her sister. (Jane hát hay như chị cố ấy.)<br>
-- Is the film as interesting as you expected? (Phim có hay như bạn mong đợi không?)<br>
+Ex:
+- *My hands were as cold as ice. (Tay tôi lạnh như đá.)*
+- *Jane sings as well as her sister. (Jane hát hay như chị cố ấy.)*
+- *Is the film as interesting as you expected? (Phim có hay như bạn mong đợi không?)*
 
 Trong câu phủ định so có thể được dùng thay cho as.
 ```
     [ not as/ so 4- adj/ adv 4- as j
 ```
-Ex:
-- This flat isn’t as/ so big as our old one. (Cân hộ này không lớn hằng căn hộ cữ của chúng tôi.)<br>
-- I can’t run as/ so fast as him. (or: ... as he can) (Tôi chạy không nhanh bằng anh ấy.)<br>
-- Tom isn’t as/ so intelligent as he looks. (Tom không thông minh như vẻ bề ngoài.)<br>
+Ex
+- *This flat isn’t as so big as our old one. (Cân hộ này không lớn hằng căn hộ cữ của chúng tôi.)*
+- *I can’t run as so fast as him. (or: ... as he can) (Tôi chạy không nhanh bằng anh ấy.)*
+- *Tom isn’t as so intelligent as he looks. (Tom không thông minh như vẻ bề ngoài.)*
 
 So sánh bằng nhau hoặc như nhau cũng có thề được diễn đạt bằng cấu trúc the same as.
 ```
