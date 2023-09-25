@@ -29,8 +29,9 @@ Ex:
 - Anne’s salary is as much as mine. = Anne gets the  same salary as me. Or Anne’s salary is the same as mine. (Lương của Anne bằng lương của tôi.)<br>
 >[!NOTE]
 > Chúng ta dùng 'the same as’ chứ không dùng 'the same like'<br>
-Ex: What would you like to drink? ~ I’ll have the same as you. (Anh muốn uống gì? ~ Tôi uống giống như anh.) [NOT the same like]
-Less... than = not as/ so... as
+Ex:
+- What would you like to drink? ~ I’ll have the same as you. (Anh muốn uống gì? ~ Tôi uống giống như anh.) [NOT the same like]
+  Less... than = not as/ so... as
 Ex:
 - This dress is less expensive than that one. (Cái áo đầm này khổng đắt như cái áo kia.)  [= This dress isn’t as/so expensive as... ]
 - The city center was less crowded than usual. (Trung tâm thành phố ít đông hơn thường ngày.) [= The city center wasn’t as crowded as usual.]
@@ -53,43 +54,45 @@ Ex:
 - narrow (hẹp) -> narrower (hẹp hơn)
 - simple (dơn giản) -> simpler (đơn giản hơn)
 
-Thêm more vào trước tính từ hoặc trạng từ có hai âm tiết (trừ các tính từtận cùng bằng -er, -OIU, -y, tive/ adverb).le) hoặc có từ ba âm tiết trở lên (long adjec￾Ex: useful (hữu ích) -> more useful (hữu ích hơn)
-boring (tể nhạt) -> more boring (tẻ nhạt hơn)
-tired (mệt) —> more tired (mệt hơn)
-quickly (nhanh) -> more quickly (nhanh hơn)
-quietly (yên tĩnh) —> more quietly (yên tĩnh hơn)
-beautiful (đẹp) —> more beautiful (đẹp hơn)
-interesting (thú vị) —> more interesting (thú vị hơn)
-short adj/ adv + er
-s + V + + than + noun/ pronoun/ clause
-more + long adj/ adv
-Ex: The giraffe is taller than the man. (Hươu cao cổ cao hơn người.) The exam was more 
-difficult than we expected.
-(Bài kiểm tra khó hơn chúng tôi nghĩ.)
-We’ve been waiting longer than them. (Chúng tôi đã đợi lâu hơn họ.) Jane speaks 
-Spanish more fluently than Martin.
-(Jane nói tiếng Tây Ban Nha lưu loát hơn Martin.)
-- So sánh hơn có thể được nhấn mạnh bằng cách thêm much hoặc far trước hình thức so sánh.
-Ex: Harry’s watch is much/ far more expensive than mine.
-(Đồng hồ của Harry dắt hơn nhiều so với đồng hồ của tôi.) Her boyfriend is much/ far 
-older than her.
-(Bạn trai của cô ta lớn tuổi hơn cô ta nhiều.)
-- A lot, a bit, a little, rather, slightly cũng có thể được dùng trước dạng so sánh.
-Ex: I got up a little later than usual.
-(Tôi thức dậy trễ hơn thường ngày một chút.)
-I’m feeling a lot better today. (Hôm nay tôi thấy khỏe hơn nhiều.)
-* Đại từ sau as hoặc than (Pronouns after as or than)
-Trong lối văn thân mật, đại từ nhân xưng làm tân ngừ (object pronouns) thường được dùng 
-sau as hoặc than.
-Ex: Harriet’s husband isn’t as tall as her. (Chồng của Harriet không cao bằng cô ấy.)
-He’s older than me. (An/i ấy lớn tuổi hơn tôi.)
-They have more money than US. (Họ có nhiều, tiền hơn chúng tôi.)
-Trong lối văn trịnh trọng, đại từ nhân xưng làm chủ ngữ (subject pronouns) được dùng 
-(thường đi với động từ hoặc trợ động từ).
+Thêm more vào trước tính từ hoặc trạng từ có hai âm tiết (trừ các tính từtận cùng bằng -er, -OIU, -y, tive/ adverb).le) hoặc có từ ba âm tiết trở lên (long adjec
+Ex: 
+- useful (hữu ích) -> more useful (hữu ích hơn)
+- boring (tể nhạt) -> more boring (tẻ nhạt hơn)
+- tired (mệt) —> more tired (mệt hơn)
+- quickly (nhanh) -> more quickly (nhanh hơn)
+- quietly (yên tĩnh) —> more quietly (yên tĩnh hơn)
+- beautiful (đẹp) —> more beautiful (đẹp hơn)
+- interesting (thú vị) —> more interesting (thú vị hơn)
+
+short adj/ adv + er s + V + + than + noun/ pronoun/ clause more + long adj/ adv
 Ex:
-She doesn’t sing as well as I do. (Cô ta hát không hay bằng tôi.)
-I’m two years older than she is. (Tôi lớn hơn cô ấy hai tuổi.)
-They have more money than we have. (Họ có nhiều tiền hơn chúng tôi.)
+- *The giraffe is taller than the man. (Hươu cao cổ cao hơn người.)*
+- *The exam was more difficult than we expected.(Bài kiểm tra khó hơn chúng tôi nghĩ.)*
+- *We’ve been waiting longer than them. (Chúng tôi đã đợi lâu hơn họ.)*
+- *Jane speaks Spanish more fluently than Martin. (Jane nói tiếng Tây Ban Nha lưu loát hơn Martin.)*
+  
+So sánh hơn có thể được nhấn mạnh bằng cách thêm much hoặc far trước hình thức so sánh.
+Ex:
+- *Harry’s watch is much/ far more expensive than mine. (Đồng hồ của Harry dắt hơn nhiều so với đồng hồ của tôi.)*
+- *Her boyfriend is much/ far older than her.(Bạn trai của cô ta lớn tuổi hơn cô ta nhiều.)*
+
+A lot, a bit, a little, rather, slightly cũng có thể được dùng trước dạng so sánh.
+Ex:
+- *I got up a little later than usual.(Tôi thức dậy trễ hơn thường ngày một chút.)*
+- *I’m feeling a lot better today. (Hôm nay tôi thấy khỏe hơn nhiều.)*
+
+Đại từ sau as hoặc than (Pronouns after as or than). 
+Trong lối văn thân mật, đại từ nhân xưng làm tân ngừ (object pronouns) thường được dùng sau as hoặc than.
+Ex:
+- *Harriet’s husband isn’t as tall as her. (Chồng của Harriet không cao bằng cô ấy.)*
+- *He’s older than me. (An/i ấy lớn tuổi hơn tôi.)*
+- *They have more money than US. (Họ có nhiều, tiền hơn chúng tôi.)*
+
+Trong lối văn trịnh trọng, đại từ nhân xưng làm chủ ngữ (subject pronouns) được dùng (thường đi với động từ hoặc trợ động từ).
+Ex:
+- *She doesn’t sing as well as I do. (Cô ta hát không hay bằng tôi.)*
+- *I’m two years older than she is. (Tôi lớn hơn cô ấy hai tuổi.)*
+- *They have more money than we have. (Họ có nhiều tiền hơn chúng tôi.)*
 
 ### So sánh nhất (Superlative form}
 Hình thức so sánh nhất của tính từ hoặc trạng từ được thành lập bằng cách:
