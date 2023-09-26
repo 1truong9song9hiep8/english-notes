@@ -1,41 +1,17 @@
 # Sự Phối Hợp Thì (The Sequence Of Tense)
-Một câu có thể bao gồm một mệnh đề chính (main clause) và một hoặc nhiều mệnh đề phụ (subordinate clause). Khi trong câu có từ hai mệnh đề trở lên, thì các động từ phải có sự phối hợp 
-về thì.
+Một câu có thể bao gồm một mệnh đề chính (main clause) và một hoặc nhiều mệnh đề phụ (subordinate clause). Khi trong câu có từ hai mệnh đề trở lên, thì các động từ phải có sự phối hợp về thì.
 
-## Sự phôi hợp của các động từ trong mệnh đề chính (Main clause] và mệnh đề phụ (Subordinate clause)
+## Sự phối hợp của các động từ trong mệnh đề chính (Main clause) và mệnh đề phụ (Subordinate clause)
 
-|MAIN CLAUSE     |SUBORDINATE CLAUSE                          |HTML                         |
+|MAIN CLAUSE     |SUBORDINATE CLAUSE              |      |
 |----------------|-------------------------------|-----------------------------|
-|Present simple 
-|Future simple            |'Isn't this fun?'            |
+|Present simple  |Present simple      |Present tenses
+|Future simple   |Present progressive
+|                |Present perfect future
 |          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-Present simple
-Present progressive
-Present perfect Future 
-simple am/ is/ are + 
-going to Past simple 
-(có thời ị
-* Present tenses
-+ V (bare-inf.)
-?ian xác định ở quá khú)
-Past simple Past simple
-Past perfect
-Past progressive Future 
-in the past (w was/ 
-were + going to Present 
-simple (diễn hiển 
-nhiên, hoặc một
-* Past tenses
-ould + bare-inf.)
-+ V (bare-inf.)
-tả một chân lý, một sự thật thói 
-quen ở hiện tại)
-Present perfect Present simple
-Past perfect Past simple
-
-Ex: 
+Ví dụ:
 - *I work so hard that I am always tired. (Tôi làm việc vất vả đến nỗi tôi luôn cảm thấy mệt mỏi.)*
 - *She will think that I have taken her book. (Cô ta sẽ nghĩ rằng tôi đã lẩy cuốn sách của cô ta.)*
 - *Tom promises that he will visit me again. (Tom hứa ràng anh ấy sẽ đến thăm tôi lần nữa.)*
@@ -80,8 +56,7 @@ Cách phối hợp thì trong câu có mệnh đề trạng ngữ chỉ thời g
 - *On Sunday I will be lying on the beach while you are studying.
 
 >[!NOTE]
->Không dùng các thì tương lai (Future Tenses) trong các mệnh để trạng ngữ chỉ thời gian, thì Simple Future được thay bằng Simple Present; thì Future Perfect hoặc Future Perfect 
-Continuous được thay bằng thì Present Perfect hoặc Present Perfect Continuous.
+>Không dùng các thì tương lai (Future Tenses) trong các mệnh để trạng ngữ chỉ thời gian, thì Simple Future được thay bằng Simple Present; thì Future Perfect hoặc Future Perfect Continuous được thay bằng thì Present Perfect hoặc Present Perfect Continuous.
 - Trong trường hợp dùng liên từ since phải lưu ý:
 + Động từ trong mệnh đề chính thường được chia ở thì hiện tại hoàn thành (present perfect) 
 hoặc hiện tại hoàn thành tiếp diễn (present perfect progressive), động từ trong mệnh đề 
