@@ -72,7 +72,7 @@ Gồm các liên từ in order that, so that, for fear that. Ex:
 - *Send the letter express, so that/ in order that they’ll get it before Tuesday. (Hãy gửi thư chuyển phát nhanh để họ nhận được nó trước thứ Ba.)*
 - *We spoke in whispers for fear (that) we might wake the baby. (Chúng tôi nói thì thầm vĩ sợ làm em bé thức giấc.)*
 
-**Nhóm SO ... THAT: chỉ kết quả**
+Nhóm **SO ... THAT: chỉ kết quả**
 ```
     So + adj/ adv + that
 ```
@@ -82,8 +82,8 @@ Ex: *Emma was so angry that she couldn’t speak. (Emma giận đến nỗi khô
 ```
 Ex: *It was such a boring speech that I fell asleep.(Bài diễn văn quá tẻ nhạt đến nỗi tôi ngủ thiếp đi.)*
 
-g. Nhóm **THAT**<br>
-Đưa ra một lời tuyên bố, một ý kiến, một sự kiện hoặc một lý do. Ex:
+Nhóm **THAT**<br>
+Đưa ra một lời tuyên bố, một ý kiến, một sự kiện hoặc một lý do, ví dụ:
 - *I understood that he was innocent. (Tôi hiểu rằng anh ta vô tội.)*
 - *It’s possible that he hasn’t received the letter.(Có thể là anh ta đã không nhận được thư.)*
 
