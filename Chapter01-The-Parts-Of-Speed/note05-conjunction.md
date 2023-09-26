@@ -6,8 +6,8 @@ Liên từ (conjunction) là từ được dùng để nối các từ, cụm t�
 Liên từ được phân làm hai loại: **Liên từ kết hợp (Co-ordinating conjunctions)** và **liên từ phụ thuộc (subordinating conjunctions)**.
 
 **1. Liên từ kết hợp (co-ordinating conjunctions)**<br>
-Dùng để nối các từ, nhóm từ có chức năng giống nhau (danh từ với danh từ, động từ với động từ, tính từ với tính từ...) hoặc các mệnh đề độc lập về mặt ngữ pháp.<br>
-Loại liên từ này được chia làm 4 nhóm:
+  Dùng để nối các từ, nhóm từ có chức năng giống nhau (danh từ với danh từ, động từ với động từ, tính từ với tính từ...) hoặc các mệnh đề độc lập về mặt ngữ pháp.<br>
+  Loại liên từ này được chia làm 4 nhóm:
   
   **a. Nhóm AND: chỉ sự thêm vào**<br>
     Gồm các liên từ: and, both... and, not only... but also, as well as; các trạng từ (conjunctive adverbs) besides, furthermore, moreover và cụm từ in addition được dùng để nối hai mệnh đề hoặc câu độc lập. Ex:
@@ -17,28 +17,27 @@ Loại liên từ này được chia làm 4 nhóm:
   - *I don’t want to go shopping. Besides, I haven’t got any money. (Tôi không thích đi mua sắm. Hơn nữa, tôi cũng không có tiền.)*
 
   **b. Nhóm BUT: chỉ sự mâu thuẫn hoặc trái ngược**<br>
-  Gồm các liên từ: but, yet, still’, các trạng từ however, nevertheless, và cụm từ on the other hand được dùng để nối hai mệnh đề hoặc câu độc lập.<br>
-  Ex:
+  Gồm các liên từ: but, yet, still’, các trạng từ however, nevertheless, và cụm từ on the other hand được dùng để nối hai mệnh đề hoặc câu độc lập, ví dụ:
   - *He’s intelligent but lazy. (Anh ta thông minh nhưng lười biếng.)*
   - *She worked hard, yet she failed.(Cô ấy học hành chăm chỉ, thế mà lại trượt.)*
   - *We thought that Emma should accept the offer. Nevertheless, she turned it down. (Chúng tôi tưởng Emma sẽ chấp nhận lời đề nghị. Thế nhưng cô ấy đã từ chối.)*
   - *I don’t want to be late for the meeting. On the other hand, I don’t want to get there too early. (Tôi không muốn đến dự họp trễ. Tuy nhiên, tôi cũng không muốn đến dó quá sớm.)*
 
-c. Nhóm OR: chỉ sự lựa chọn hoặc đoán chừng<br>
-Gồm các liên từ: or, or else, otherwise, either... or, neither... nor.<br>
-Ex:
-- *Which color do you want - red, yellow, blue or grey? (Bạn thích màu nào - đỏ, vàng, xanh hay xám?)*
-- *Hurry up or else you’ll be late. (Nhanh lên kẻo bạn sẽ bị trễ đấy.)*
--  *When will you get the results? ~ Either tomorrow or the day after. (Khi nào bạn có kết quả? ~ Ngày mai hoặc ngày kia.)*
+  **c. Nhóm OR: chỉ sự lựa chọn hoặc đoán chừng<br>**
+  Gồm các liên từ: or, or else, otherwise, either... or, neither... nor, ví dụ:
+  - *Which color do you want - red, yellow, blue or grey? (Bạn thích màu nào - đỏ, vàng, xanh hay xám?)*
+  - *Hurry up or else you’ll be late. (Nhanh lên kẻo bạn sẽ bị trễ đấy.)*
+  -  *When will you get the results? ~ Either tomorrow or the day after. (Khi nào bạn có kết quả? ~ Ngày mai hoặc ngày kia.)*
+  
+  **d. Nhóm SO: chỉ hậu quả, kết quả**
+  Gồm các liên từ: so, therefore, for; trạng từ consequently, và cụm từ as the result, ví dụ:
+  - *There weren’t enough beds, so we had to sleep on the floor. (Không có dủ giường nên chúng tôi phải ngủ trên sàn.)*
+  - *Someone switched the fridge off and consequently all food was spoilt. (Người nào đó đã tắt tủ lạnh làm tất cả thức ăn bị hư.)*
 
-d. Nhóm SO: chỉ hậu quả, kết quả<br>
-Gồm các liên từ: so, therefore, for; trạng từ consequently, và cụm từ as ứ result.<br>
-Ex:
-- *There weren’t enough beds, so we had to sleep on the floor. (Không có dủ giường nên chúng tôi phải ngủ trên sàn.)*
-- *Someone switched the fridge off and consequently all food was spoilt. (Người nào đó đã tắt tủ lạnh làm tất cả thức ăn bị hư.)*
+2. Liên từ phụ thuộc (Subordinating conjunctions)<br>
+dùng để mở đầu một mệnh đề phụ (mệnh đề danh từ hoặc mệnh đề trạng từ). Liên từ phụ thuộc gồm:
 
-3. Liên từ phụ thuộc (Subordinating conjunctions): dùng để mở đầu một mệnh đề phụ (mệnh đề danh từ hoặc mệnh đề trạng từ). Liên từ phụ thuộc gồm
-- Nhóm **WHEN**: chỉ mối quan hệ về thời gian
+Nhóm **WHEN**: chỉ mối quan hệ về thời gian
 Gồm các liên từ when, whenever, while, as, as soon as, after, before, untili till, since, by the time...
 Ex:
 - *I’ll phone you as soon as I get home from work. (Tôi sẽ điện thoại cho anh ngay khi đi làm về.)*
@@ -46,19 +45,19 @@ Ex:
 - *We are going to tidy up after everyone has gone.(Chúng ta sẽ dọn dẹp sau khi mọi người đã ra về.)*
 When he saw me, he waved. (Anh ấy vẫy tay khi trông thấy tôi.)
 
-**b. Nhóm BECAUSE: chỉ nguyên nhân hoặc lý do**<br>
+**Nhóm BECAUSE: chỉ nguyên nhân hoặc lý do**<br>
 Gồm các liên từ because, as, since, now (that), seeing (that! as).<br>
 Ex:
 - *Because/ As/ Since I liked him, I tried to help him.(Tôi cố giúp đỡ anh ta vì tôi mến anh ta.)*
 - *Now/ Seeing (that) it’s your money, I suppose you can buy whatever you want. (Vì đó là tiền của bạn nên tôi cho răng bạn có thể mua bất cứ thứ gì bạn thích.)*
 
-**c. Nhóm IF: chỉ điều kiện**
+**Nhóm IF: chỉ điều kiện**
 Gồm các liên từ if, unless, in case, provided (that), supposing (that).
 Ex:
 - *If you need help, just let me know. (Nếu bạn cần được giúp đỡ, hãy cho tôi biết.)*
 - *You can go out to play provided that you finish your homework first. (Con có thể đi chơi với diều kiện là con phải làm xong bài tập về nhà trước đã.)*
 
-**d. Nhóm THOUGH: chỉ sự tương phản**
+**Nhóm THOUGH: chỉ sự tương phản**
 Gồm các liên từ though, although, even though, even if. Ex:
 - *Although/ Though I don’t agree with him, I think he’s honest (Dù rằng tôi không đồng ý với anh ấy, tôi vẫn nghĩ anh ấy thật lòng.)*
 -  *Even though/ Even if you dislike Jessica, you should try to be nice to her. (Dù cho bạn không thích Jessica nhưng bạn cũng nên đối xử tốt với cô ấy.)*
@@ -69,12 +68,12 @@ Ex:
 - *Keep calm whatever happens.(Hãy bình tĩnh cho dù có diều gì xảy ra đi nữa.)*
 - *They’ll find out the truth whether you tell them or not.(Họ sẽ tìm ra sự thật cho dù bạn có nói với họ hay không.)*
 
-**e. Nhóm IN ORDER THAT: chỉ mục đích**
+**Nhóm IN ORDER THAT: chỉ mục đích**
 Gồm các liên từ in order that, so that, for fear that. Ex:
 - *Send the letter express, so that/ in order that they’ll get it before Tuesday. (Hãy gửi thư chuyển phát nhanh để họ nhận được nó trước thứ Ba.)*
 - *We spoke in whispers for fear (that) we might wake the baby. (Chúng tôi nói thì thầm vĩ sợ làm em bé thức giấc.)*
 
-**f. Nhóm SO ... THAT: chỉ kết quả**
+**Nhóm SO ... THAT: chỉ kết quả**
 ```
     So + adj/ adv + that
 ```
