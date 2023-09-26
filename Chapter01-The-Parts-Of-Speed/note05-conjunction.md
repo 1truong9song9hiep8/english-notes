@@ -5,7 +5,7 @@ Liên từ (conjunction) là từ được dùng để nối các từ, cụm t�
 ## Các loại liên từ (Kinds of conjunctions)
 Liên từ được phân làm hai loại: **Liên từ kết hợp (Co-ordinating conjunctions)** và **liên từ phụ thuộc (subordinating conjunctions)**.
 
-**1. Liên từ kết hợp (co-ordinating conjunctions)**<br>
+### Liên từ kết hợp (co-ordinating conjunctions)
   Dùng để nối các từ, nhóm từ có chức năng giống nhau (danh từ với danh từ, động từ với động từ, tính từ với tính từ...) hoặc các mệnh đề độc lập về mặt ngữ pháp.<br>
   Loại liên từ này được chia làm 4 nhóm:
   
@@ -33,10 +33,9 @@ Liên từ được phân làm hai loại: **Liên từ kết hợp (Co-ordinati
   Gồm các liên từ: so, therefore, for; trạng từ consequently, và cụm từ as the result, ví dụ:
   - *There weren’t enough beds, so we had to sleep on the floor. (Không có dủ giường nên chúng tôi phải ngủ trên sàn.)*
   - *Someone switched the fridge off and consequently all food was spoilt. (Người nào đó đã tắt tủ lạnh làm tất cả thức ăn bị hư.)*
-
-2. Liên từ phụ thuộc (Subordinating conjunctions)<br>
-dùng để mở đầu một mệnh đề phụ (mệnh đề danh từ hoặc mệnh đề trạng từ). Liên từ phụ thuộc gồm:
-
+  
+### Liên từ phụ thuộc (Subordinating conjunctions)
+Dùng để mở đầu một mệnh đề phụ (mệnh đề danh từ hoặc mệnh đề trạng từ). Liên từ phụ thuộc gồm:
 Nhóm **WHEN**: chỉ mối quan hệ về thời gian
 Gồm các liên từ when, whenever, while, as, as soon as, after, before, untili till, since, by the time...
 Ex:
