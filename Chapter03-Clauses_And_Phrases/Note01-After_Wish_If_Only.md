@@ -1,11 +1,10 @@
 # Note00: Mệnh Đề Sau WISH và IF ONLY (Clause After IF and IF ONLY)
-**Wish (ước gì, mong)** và **if only (ước gì, giá mà)** thường được dùng để diễn đạt ước muốn (if only mạnh hơn và rõ ràng hơn wish). Sau wish và if only là một mệnh đề chỉ sự ao ước hoặc một điều 
-không có thật. Mệnh đề sau wish và if only được xem như một mệnh đề danh từ (noun clause).<br>
-Sau wish và if only có 3 loại mệnh đề được dùng để chỉ sự ao ước ở tương lai, hiện tại và quá khứ.
+**Wish (ước gì, mong)** và **if only (ước gì, giá mà)** thường được dùng để diễn đạt ước muốn (**if only** mạnh hơn và rõ ràng hơn **wish**). Sau **wish** và **if only** là một mệnh đề chỉ sự ao ước hoặc một điều không có thật. Mệnh đề sau **wish** và **if only** được xem như một mệnh đề danh từ (noun clause).<br>
+Sau **wish** và **if only** có 3 loại mệnh đề được dùng để chỉ sự ao ước ở tương lai, hiện tại và quá khứ.
 
-***Ao ước ở tương lai (Future wish):*** mong muốn điều gì đó xảy ra hoặc muốn người nào dó làm điều gì đó.
+***Ao ước ở tương lai (Future wish):*** mong muốn điều gì đó xảy ra hoặc muốn người nào đó làm điều gì đó.
 ```
-if fonly + subject + would (not) + verb (bare-inf.)
+if only + subject + would (not) + verb (bare-inf.)
 ```
 Ex: 
 - *I wish you would stop smoking. (Tôi mong anh bỏ thuốc lá.)*
@@ -22,7 +21,7 @@ But: My life isn’t interesting. I wish my life was more interesting. [NOT my l
 
 **Ao ước ở hiện tại (Present wish):** diễn đạt mong ước về một điều không có thật hoặc không thể thực hiện được trong hiện tại.
 ```
-        Subject + wish(es)
+        Subject + wish(es) + verb (past simple)
         If only + subject + verb (past simple)
 ```
 Ex:
