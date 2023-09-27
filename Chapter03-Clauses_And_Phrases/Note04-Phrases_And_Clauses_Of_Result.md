@@ -83,17 +83,15 @@ Ex:
 B: No, it’s to the cinema, (late)
 
 
->[!NOTE]
-- Không dùng a/an trước danh từ số nhiều (plural nouns) và danh từ không đếm được 
-(uncountable nouns).
-Ex: They are such old shoes. [NOT ... such an old shoes]
-It was such lovely weather. [NOT ... such a lovely weathef]
-- So được dùng với many, much, few, little; such được dùng với a lot (of).
-Ex: Why did you buy so much food? = Why did you buy such a lot of food?
-- That có thể được bỏ.
-Ex: She was so angry (that) she couldn’t speak.
-I had such bad luck (that) you wouldn't believe it.
-- Đôi khi so được đặt đầu câu để nhấn mạnh, và theo sau là hình thức đảo ngữ của động từ. Ex: *So terrible was the storm that whole roofs were ripped off.*
+> **Chú ý:**
+> - Không dùng a/an trước danh từ số nhiều (plural nouns) và danh từ không đếm được (uncountable nouns), ví dụ:
+>   - *They are such old shoes. [NOT ... such an old shoes]*
+>   - *It was such lovely weather. [NOT ... such a lovely weathef]*
+> - So được dùng với many, much, few, little; such được dùng với a lot (of). Ex: Why did you buy so much food? = Why did you buy such a lot of food?
+> - That có thể được bỏ. Ex:
+>   - She was so angry (that) she couldn’t speak.
+>   - I had such bad luck (that) you wouldn't believe it.
+> - Đôi khi so được đặt đầu câu để nhấn mạnh, và theo sau là hình thức đảo ngữ của động từ. Ex: *So terrible was the storm that whole roofs were ripped off.*
 
 ## EXERCISES
 I. Complete these sentences using too, too many, too much or enough with one of the following 
