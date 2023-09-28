@@ -40,43 +40,19 @@ Ex: Because it was cold, I turned the heating on. Or: I turned the heating on be
 Ex: She stayed at home because she was sick. -> She stayed at home because of being sick.
 
 ## EXERCISES
-I. Complete the sentences with either because or because of.
-1. We delayed our trip _______________ the bad weather.
-2. Sue’s eyes were red ____________ she had been crying.
-3. My mother is always complaining ___________ the untidiness of my room.
-4. The water in most river is unsafe to drink ________________ it’s polluted.
-5. The trees were bend over ________________ the wind.
-6. You can’t enter this secure area _________________you don’t have an official permit.
-7. It’s unsafe to travel in that country_______________the ongoing civil war.
-8. Several people in the crowd became ill and fainted__________________ the extreme heat.
-9. Mark didn’t go to work yesterday _____________ he didn’t feel well.
-10. We couldn’t get into the disco__________________the enormous crowd.
-II. Match the two halves of the sentence. Then write the full sentence, using the word in 
-brackets. Add commas where necessary.
-III. Rewrite these sentences, using because.
-1. Due to the cold weather, we stayed home.
-2. Most people hear jogging is a good exercise, so they begin to jog.
-3. People like to live in this country because of its healthy climate.
-4. A computer can be used for various purposes, so it becomes very popular nowadays.
-5. Stacey retired in 1987, partly because of ill health.
-6. We were late for the meeting due to the heavy traffic.
-7. Harry had to stay in hospital because of his broken leg.
-8. Our leader couldn’t attend the meeting, so it was canceled.
-9. The young couple decided not to buy the house because of its dilapidated condition.
-10. I always enjoyed mathematics in high school, so I decided to major in it in college.
-IV. Change clauses of reason to phrases of reason.
-1. Jim had to give up jogging because he had sprained his ankle severely.
-2. The water in most rivers is unsafe to drink because it’s polluted.
-3. We had to stay in London an extra day because it was foggy at the airport.
-4. Bill has to do all of the cooking and cleaning because his wife is ill.
-5. We all have received the best of everything because our parents are generous.
-6. I couldn’t get to sleep last night because it was noisy in the next apartment.
-7. John has to sit in the front row in class because he has poor eyesight.
-8. We stopped our car because the traffic lights turned red.
-9. She couldn’t see the road because the wall was too high.
-10. We postponed our trip because the driving conditions were bad.
-11. Sarah will not walk across a bridge because she’s afraid of heights.
-12. Mark’s doctor has advised him to exercise regularly because he is overweight.
+I. Complete the sentences with either **because** or **because of**.
+1. We delayed our trip **because of** the bad weather.
+2. Sue’s eyes were red **because** she had been crying.
+3. My mother is always complaining **because of** the untidiness of my room.
+4. The water in most river is unsafe to drink **because**  it’s polluted.
+5. The trees were bend over **because of** the wind.
+6. You can’t enter this secure area **because** you don’t have an official permit.
+7. It’s unsafe to travel in that country **because of** the ongoing civil war.
+8. Several people in the crowd became ill and fainted **because** the extreme heat.
+9. Mark didn’t go to work yesterday **because** he didn’t feel well.
+10. We couldn’t get into the disco **because of** the enormous crowd.
+
+II. Match the two halves of the sentence. Then write the full sentence, using the word in brackets. Add commas where necessary.
 A
 1. Yesterday was a public day
 2. We didn’t want to wake anybody up
@@ -110,6 +86,32 @@ B
 - please let me pay for our dinner, (as)
 - she’d been working very hard, (because)
 - I walked in. (since)
+
+III. Rewrite these sentences, using because.
+1. Due to the cold weather, we stayed home. -> we stayed home because the cold weather.
+2. Most people hear jogging is a good exercise, so they begin to jog. ->
+3. People like to live in this country because of its healthy climate.
+4. A computer can be used for various purposes, so it becomes very popular nowadays.
+5. Stacey retired in 1987, partly because of ill health.
+6. We were late for the meeting due to the heavy traffic.
+7. Harry had to stay in hospital because of his broken leg.
+8. Our leader couldn’t attend the meeting, so it was canceled.
+9. The young couple decided not to buy the house because of its dilapidated condition.
+10. I always enjoyed mathematics in high school, so I decided to major in it in college.
+
+IV. Change clauses of reason to phrases of reason.
+1. Jim had to give up jogging because he had sprained his ankle severely.
+2. The water in most rivers is unsafe to drink because it’s polluted.
+3. We had to stay in London an extra day because it was foggy at the airport.
+4. Bill has to do all of the cooking and cleaning because his wife is ill.
+5. We all have received the best of everything because our parents are generous.
+6. I couldn’t get to sleep last night because it was noisy in the next apartment.
+7. John has to sit in the front row in class because he has poor eyesight.
+8. We stopped our car because the traffic lights turned red.
+9. She couldn’t see the road because the wall was too high.
+10. We postponed our trip because the driving conditions were bad.
+11. Sarah will not walk across a bridge because she’s afraid of heights.
+12. Mark’s doctor has advised him to exercise regularly because he is overweight.
 13. Piranhas can devour an entire cow in several minutes because theừ teeth are extremely sharp.
 14. Most students couldn’t do the final exam because it was extremely difficult.
 15. John succeeded in his exam because he worked hard and methodically
