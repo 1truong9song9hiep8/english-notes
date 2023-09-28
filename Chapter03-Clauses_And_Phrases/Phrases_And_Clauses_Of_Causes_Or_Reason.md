@@ -10,7 +10,7 @@ Ex:
 - *They are here because of US. (Họ ở đây vỉ chúng tôi.)*
 - *Owing to his carelessness we had an accident. (Do sự bất cấn của anh ta mà chúng tôi. bị tai nạn.)*
 - *She stayed home because of feeling unwell.(Cỏ ấy ở nhà vì cảm thấy không klioẻ.)*
-## Mệnh đế trạng ngữ chỉ nguyên nhân hoặc lý do (Adverb clauses of cause or reason)
+## Mệnh đề trạng ngữ chỉ nguyên nhân hoặc lý do (Adverb clauses of cause or reason)
 Mệnh đề trạng ngữ chỉ nguyên nhân hoặc lý do thường được nối với mệnh đề chính bằng các liên từ: **because, since, as, seeing that (do; vì; bởi vì).**
 ```
 ( because/since/as/seeing that + subject + verb )
@@ -18,16 +18,16 @@ Mệnh đề trạng ngữ chỉ nguyên nhân hoặc lý do thường được 
 Ex: 
 - *He came ten minutes late because he missed the bus. (Anh ta đến trễ mười phút vì anh ta bị lỡ xe buýt.)*
 - *Since it was too dark to go on, we camped there.(Chúng tôi dóng trại ở đó vì trời quá tối không thể đi tiếp.)*
-- As you weren’t there, I left a message.(Vi anh klỉông có ở đó nên tôi đã để lại lời nhắn.)
-- Seeing that/ Seeing as the weather was bad, they didn’t take part in the trip. (Bởi vì thời tiêt xâu, họ đã không tham gia chuyến đi.)
+- *As you weren’t there, I left a message.(Vi anh klỉông có ở đó nên tôi đã để lại lời nhắn.)*
+- *Seeing that/ Seeing as the weather was bad, they didn’t take part in the trip. (Bởi vì thời tiêt xâu, họ đã không tham gia chuyến đi.)*
 
-For, in that, inasmuch as cũng có thể được dùng để đưa ra lý do trong lối nói trang trọng hoặc trong vàn chương.
-Ex: The film is unusual in that it features only four actors. (Bộ phim lạ vì chỉ có 4 diễn viên.)
+***For, in that, in as much as*** cũng có thể được dùng để đưa ra lý do trong lối nói trang trọng hoặc trong văn chương.<br>
+Ex: *The film is unusual in that it features only four actors. (Bộ phim lạ vì chỉ có 4 diễn viên.)*
 
 Now (that) = because of the fact that
-Ex: Now (that) the exams are over I can enjoy myself. (Vì kỳ thi đã qua nên tôi thấy rất thoải mái.)
+Ex: *Now (that) the exams are over I can enjoy myself. (Vì kỳ thi đã qua nên tôi thấy rất thoải mái.)*
 
-Lưu ý:
+>[!NOTE]
 - Since, as, seeing that thường được dùng khi người nghe/ người đọc đã biết lý do hoặc lý do không phải là phần quan trọng trong câu. Sự' nhấn mạnh thuộc mệnh đề chính.
 Ex: H/e watched TV all evening as we had nothing to do. (Chúng tôi xem tivi suốt buổi tối vì chúng tôi chẳng có việc gì để làm.)
 - Because được dùng để nhấn mạnh lý do, cung cấp thông tin mới mà người nghe/ người đọc chưa biết. Sự nhấn mạnh thuộc mệnh đề chỉ lý do.
@@ -38,6 +38,7 @@ Ex: The days are short, for it is now December. (Vì bây giờ là tháng MƯ�
 Ex: Because it was cold, I turned the heating on. Or: I turned the heating on because it was cold.
 - Khi đổi từ mệnh đề sang cụm từ, nếu 2 chủ ngữ giống nhau ta có thể dùng cụm danh động từ (gerund phrase).
 Ex: She stayed at home because she was sick. -> She stayed at home because of being sick.
+
 ## EXERCISES
 I. Complete the sentences with either because or because of.
 1. We delayed our trip _______________ the bad weather.
