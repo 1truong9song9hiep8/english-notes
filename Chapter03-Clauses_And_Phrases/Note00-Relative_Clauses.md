@@ -4,64 +4,49 @@ Ex: The man who lives next door is very friendly.(Người đàn ông sổng ở
 
 ## Cách dùng đại từ quan hệ và trạng từ quan hệ trong mệnh đề quan hệ (Uses of relative pronouns and relative adverbs in relative clauses)
 1. Đại từ quan hệ (Relative pronouns)
-Khi các đại từ who, whom, whose, which, that được dùng để giới thiệu mệnh đề quan hệ, chúng 
-được gọi là đại từ quan hệ (relative pronouns).
+Khi các đại từ who, whom, whose, which, that được dùng để giới thiệu mệnh đề quan hệ, chúng được gọi là đại từ quan hệ (relative pronouns).
 a. w/io: được dùng làm chủ ngữ (subject) hoặc tân ngữ (object) thay cho danh từ chỉ người.
-Ex: The man who is standing over there is Mr. Pike.
-(Người đứng ở kia là ông Pike.)
-That is the girl who has won the medal.
-(Đó là cô gái đã đoạt huy chương.)
-They are visiting the woman who they met on holiday.
-(Họ sẽ đến thăm người phụ nữ mà họ đã gặp trong chuyến đi nghỉ.) The girl who you saw 
-at the concert is John’s sister.
-(Cô gái mà bạn gặp trong buổi hòa nhạc là em gái của John.)
-b. W7iom: có thể được dùng làm tân ngữ thay cho who. Nhưng Whom thường chỉ được dùng 
-trong lối ván trang trọng.
-Ex: The boy whom/ who we are looking for is Tom.
-(Cậu bé mà chúng tôi đang tìm tên là Tom.)
-Do you know the girl whom/ who Tom is talking to?
-(Bạn có biết cô gái Tom đang nói chuyện không?)
+Ex: The man who is standing over there is Mr. Pike.(Người đứng ở kia là ông Pike.)
+That is the girl who has won the medal.(Đó là cô gái đã đoạt huy chương.)
+They are visiting the woman who they met on holiday. (Họ sẽ đến thăm người phụ nữ mà họ đã gặp trong chuyến đi nghỉ.)
+The girl who you saw at the concert is John’s sister.(Cô gái mà bạn gặp trong buổi hòa nhạc là em gái của John.)
+
+b. W7iom: có thể được dùng làm tân ngữ thay cho who. Nhưng Whom thường chỉ được dùng trong lối ván trang trọng.
+Ex:
+The boy whom/ who we are looking for is Tom.(Cậu bé mà chúng tôi đang tìm tên là Tom.)
+Do you know the girl whom/ who Tom is talking to? (Bạn có biết cô gái Tom đang nói chuyện không?)
+
 c. Which'. được dùng làm chủ ngữ hoặc tân ngừ thay cho danh từ chỉ đồ vật, con vật hoặc sự việc.
-Ex: This is the book which I like best. (Đây là cuốn sách tôi thích nhất.)
-The cat which I recently bought is a tri-colored cat.
-(Con mèo tôi vừa mua là một con mèo tam thể.)
-The car which won the race looked very futuristic.
-(Chièc xe thắng cuộc đua có vẻ rất hiện đại.)
-The accident which Daniel saw wasn’t very serious.
-(Tai nạn Daniel đã chứng kiến không nghiêm trọng lắm.)
-d. That-, được dùng thay cho cả danh từ chỉ người và danh từ chỉ vật. That có thể thay thế who, 
-whom, which trong mệnh đề quan hệ xác định (defining relative clauses).
-Ex: The architect who/ that designed this building is very famous. (Kiên trúc sư thiêt kế tòa 
-nhà này rất nổi tiếng.) That is the bicycle which/ that belongs to Tom.
-(Đó là chiếc xe đạp của Tom.)
-My father is the person who(m)/ that I admire most.
-(Cha tôi là người tôi ngưỡng mộ nhất.)
-The movie which/ that we saw last night wasn’t very good.
-(Bộ phim chúng tôi xem tối qua không hay lắm.)
-e. Whose: được dùng để chỉ sự sở hữu cho danh từ chỉ người hoặc vật đứng trước. Whose được 
-dùng như từ hạn định đứng trước danh từ thay cho các tính từ sở hữu his, her, its, their.
+Ex:
+This is the book which I like best. (Đây là cuốn sách tôi thích nhất.)
+The cat which I recently bought is a tri-colored cat.(Con mèo tôi vừa mua là một con mèo tam thể.)
+The car which won the race looked very futuristic.(Chièc xe thắng cuộc đua có vẻ rất hiện đại.)
+The accident which Daniel saw wasn’t very serious.(Tai nạn Daniel đã chứng kiến không nghiêm trọng lắm.)
+
+d. That được dùng thay cho cả danh từ chỉ người và danh từ chỉ vật. That có thể thay thế who, whom, which trong mệnh đề quan hệ xác định (defining relative clauses).
+Ex:
+The architect who/ that designed this building is very famous. (Kiên trúc sư thiêt kế tòa nhà này rất nổi tiếng.)
+That is the bicycle which/ that belongs to Tom. (Đó là chiếc xe đạp của Tom.)
+My father is the person who(m)/ that I admire most.(Cha tôi là người tôi ngưỡng mộ nhất.)
+The movie which/ that we saw last night wasn’t very good.(Bộ phim chúng tôi xem tối qua không hay lắm.)
+
+e. Whose: được dùng để chỉ sự sở hữu cho danh từ chỉ người hoặc vật đứng trước. Whose được dùng như từ hạn định đứng trước danh từ thay cho các tính từ sở hữu his, her, its, their.
 Whose + noun có thể làm chủ ngừ hoặc tân ngữ trong mệnh đề quan hệ.
-Ex: The boy whose bicycle you borrowed yesterday is Tom.
-(Cậu bé mà hôm qua bạn mượn xe tên là Tom.)
-John found a cat whose leg was broken.
-(John đã tìm thấy một con mèo bị gãy chán.)
-Round the corner was a building whose windows were all broken.
-(Gần đây có một tòa nhà mà tất cả cửa sổ đều bị vỡ.)
-It was a meeting whose purpose I did not understand.
-(Đó là buổi họp mà tồi không hiểu được mục đích của nó.)
-'k Lưu ý:
-- Dùng thatSẵU tiền tố hỗn hợp (gồm cả người lẫn vật, sự vật); sau các đại từ bất định 
-nothing, everything, something, anything; sau all, little, much, none được dùng như đại từ 
-và sau dạng so sánh nhất (superatives). Which cũng có thể được dùng làm chủ ngữ sau 
-something và anything, nhưng ít phổ biến hơn.
-Ex: We can see farmers and cattle that are going to the field.
-(Chúng ta cố thể thấy nông dân và gia súc đang trên đường ra đồng.)
-He just said anything that came into his head.
-(Anh ấy chỉ nói ra những gì mình nghĩ) [rather than ... which came into his head] These 
+Ex:
+The boy whose bicycle you borrowed yesterday is Tom.(Cậu bé mà hôm qua bạn mượn xe tên là Tom.)
+John found a cat whose leg was broken.(John đã tìm thấy một con mèo bị gãy chán.)
+Round the corner was a building whose windows were all broken.(Gần đây có một tòa nhà mà tất cả cửa sổ đều bị vỡ.)
+It was a meeting whose purpose I did not understand.(Đó là buổi họp mà tồi không hiểu được mục đích của nó.)
+
+Lưu ý:
+- Dùng thatSẵU tiền tố hỗn hợp (gồm cả người lẫn vật, sự vật); sau các đại từ bất định nothing, everything, something, anything; sau all, little, much, none được dùng như đại từ và sau dạng so sánh nhất (superatives). <br>
+Which cũng có thể được dùng làm chủ ngữ sau something và anything, nhưng ít phổ biến hơn.
+Ex:
+We can see farmers and cattle that are going to the field.(Chúng ta cố thể thấy nông dân và gia súc đang trên đường ra đồng.)
+He just said anything that came into his head.(Anh ấy chỉ nói ra những gì mình nghĩ) [rather than ... which came into his head] These 
 walls are all that remain of the city. (Những bức tường này là tất cả những gì còn lại của 
 thành phố này.) [NOT ... which remain of the city]
-She’s one of the kindest people (that) I know.
-(Bà ấy là một trong những người tốt bụng nhất mà tôi quen.) [NOT ... who I know]
+She’s one of the kindest people (that) I know. (Bà ấy là một trong những người tốt bụng nhất mà tôi quen.) [NOT ... who I know]
 - Trong mệnh đề quan hệ xác định (defining relative clause), các đại từ làm tân ngữ 
 Who(m), which và that thường được bỏ, nhất là trong lối văn thân mật.
 Ex: The boy we are looking for is Tom. [= The boy who(m)/ that we are...]
@@ -70,6 +55,7 @@ Thay vì dùng whose, ta có thể dùng of which để chỉ sự sở hữu c�
 trang trọng hơn whose).
 Ex: He’s written a book whose name I’ve forgotten. = He’s written a book the name of 
 which 1‘ve forgotten, (ông ta đã viết một cuốn sách mà tôi không nhớ tên của nó.)
+
 2. Trạng từ quan hệ (Relative adverbs)
 Các trạng từ when, where và why có thế’ được dùng để giới thiệu mệnh đề quan hệ sau các danh 
 từ chỉ thời gian, nơi chôn và lý do.
@@ -266,15 +252,10 @@ We visited Barcelona, which is a city in northern Spain.
 (Chúng tôi đến tham quan Barcelona, một thành phố ở miền bắc Tây Ban Nha.)
 
 3. Cụm động từ nguyên mẫu (Infinitive phrases)
-Mệnh đề quan hệ xác định (defining relative clause) có thể được rút gọn bằng cụm động từ 
-nguyên mẫu (to infinitive hoặc for + object + to-inf). To-infinitive có thể được dùng:
+Mệnh đề quan hệ xác định (defining relative clause) có thể được rút gọn bằng cụm động từ nguyên mẫu (to infinitive hoặc for + object + to-inf). To-infinitive có thể được dùng:
 - Sau các từ first, second,...; last, next; only; và dạng so sánh nhất (superlatives).
-Ex: The captain was the last man who left the ship.
-->The captain was the last man to leave the ship.
-(Thuyền trưởng là người cuối cùng rời tàu.)
-New Zealand was the first country which gave women the vote.
-->New Zealand was the first country to give women the vote.
-(New Zealand là quốc gia đầu tiên công nhận quyền bầu cử của phụ nữ.) The guest on 
+Ex: The captain was the last man who left the ship. ->The captain was the last man to leave the ship.(Thuyền trưởng là người cuối cùng rời tàu.)
+New Zealand was the first country which gave women the vote. -> New Zealand was the first country to give women the vote. (New Zealand là gia đầu tiên công nhận quyền bầu cử của phụ nữ.) The guest on 
 our show is the youngest golfer who won the Open.
 -> The guest on our show is the youngest golfer to win the Open. (Khách mời của chương 
 trình là vận động viển chơi gòn trẻ tuổi nhất vừa đoạt giải mở rộng.)
@@ -282,10 +263,8 @@ trình là vận động viển chơi gòn trẻ tuổi nhất vừa đoạt gi�
 big yard which they can play in.
 -> The children need a big yard to play in.
 (Bọn trẻ cần một cái sân rộng để chơi dùa.) Here is a form that you must fill in.
--> Here is a form for you to fill in. (Đây là mẫu đơn để anh điền vào.) I don’t like him playing 
-in the streets; I wish we had a garden that he could play in.
-—> I don’t like him playing in the streets; I wish we had a garden for him to play in. (Tôi 
-không thích nó chơi đùa ngoài đường; tôi ước gì chúng tòi có một khu vườn để nó chơi đùa trong sân.)
+-> Here is a form for you to fill in. (Đây là mẫu đơn để anh điền vào.)
+  I don’t like him playing in the streets; I wish we had a garden that he could play in. —> I don’t like him playing in the streets; I wish we had a garden for him to play in. (Tôi không thích nó chơi đùa ngoài đường; tôi ước gì chúng tòi có một khu vườn để nó chơi đùa trong sân.)
 
 ## EXERCISES
 I. Complete the sentences. Put in relative pronouns only if you have to. If the sentence is correct 
