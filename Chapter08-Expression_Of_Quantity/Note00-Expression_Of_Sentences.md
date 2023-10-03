@@ -59,7 +59,8 @@ Would you like something to drink? (Anh uống chút gì nhé?) I’m not thirst
 anything to drink.
 (Tôi không khát. Tôi không muốn uống gì cả.) Let’s go somewhere for dinner. ~ Is there 
 anywhere we can go? (Chúng ta đi đâu đó ăn tối đi. ~ Chúng ta đi đâu đây?)
-II. Much, many, a lot of, lots of, a great deal of, a large number of, ... .
+
+## Much, many, a lot of, lots of, a great deal of, a large number of, ... .
 Much, many, a lot of, ... là các từ chỉ lượng bất định, có nghĩa một số lượng lớn người, vật hoặc sự việc.
 Với danh từ đếm được số nhiều (With 
 countable plural nouns)
@@ -116,11 +117,10 @@ nhưng tôi cho rằng tôi củng có nhiều bạn không kém anh ấy.)
 định.
 Ex: I very much enjoy travelling. (Tôi rất thích đi du lịch.)
 - Many of, much of + determiner/ pronoun
-Ex: I won’t pass the exam; I’ve missed too many of my lessons.
-(Tôi không thể thi đậu; tôi đã bỏ quá nhiều bài vở.) You can’t see much of a country in a 
-week.
-(Trong một tuần bạn không thể tham quan được nhiều nơi trong một nước.)
-III. Few, a few, little, a little
+Ex: I won’t pass the exam; I’ve missed too many of my lessons. (Tôi không thể thi đậu; tôi đã bỏ quá nhiều bài vở.)
+You can’t see much of a country in a week. (Trong một tuần bạn không thể tham quan được nhiều nơi trong một nước.)
+
+## Few, a few, little, a little
 Few và a few được dùng trước các danh từ đếm được số nhiều (countable plural nouns). Little and a 
 little được dùng trước các danh từ không đếm được (uncountable nouns).
 - Few, little (ít; không nhiều) thường có nghĩa phủ định và chỉ một số lượng rất ít (ít hơn những gì 
@@ -184,37 +184,26 @@ Most of her friends live abroad.
 These books are all Jane’s. None of them belong to me.
 (Tất cả sách này là của Jane. Không có cuốn nào của tôi cả.)
 ^Lưu ý:
-- Chúng ta có thể bỏ ơísau all hoặc half khi of đứng trước từ hạn định (không được bỏ of khi 
-ỡ/đứng trước đại từ).
-Ex: All (of) my friends live in London, but all of them have been to the meeting.
-(Tất cả bạn bè tôi đều sống ở London, nhưng tất cả đều đã đến dự cuộc họp mặt.) Half 
-(of) this money is mine, and half of it is yours.
-(Phân nửa số tiền này là của tôi, còn phân nửa của anh.)
-- Chúng ta thường không dùng of khi không có từ hạn định (mạo từ hoặc từ sở hữu) đứng 
-trước danh từ. Tuy nhiên trong một vài trường hợp most of cũng có thể được dùng mà 
-không có từ hạn định theo sau, ví dụ như trước các tên riêng và địa danh.
-Ex: The Romans conquered most of England.
-(Người La Mã đã xâm chiếm phần lớn nước Anh.)
+Chúng ta có thể bỏ ơísau all hoặc half khi of đứng trước từ hạn định (không được bỏ of khi ỡ/đứng trước đại từ). Ex:
+* All (of) my friends live in London, but all of them have been to the meeting. (Tất cả bạn bè tôi đều sống ở London, nhưng tất cả đều đã đến dự cuộc họp mặt.)
+* Half (of) this money is mine, and half of it is yours. (Phân nửa số tiền này là của tôi, còn phân nửa của anh.)
+
+- Chúng ta thường không dùng of khi không có từ hạn định (mạo từ hoặc từ sở hữu) đứng trước danh từ. Tuy nhiên trong một vài trường hợp most of cũng có thể được dùng mà không có từ hạn định theo sau, ví dụ như trước các tên riêng và địa danh. Ex:
+- * The Romans conquered most of England. (Người La Mã đã xâm chiếm phần lớn nước Anh.)
 - Các cụm danh từ đứng sau all of, most of, some of,... thường xác định (phải có the, these, those
-...; hoặc các tính từ sở hữu my, his, her...).
-Ex: Most of the boys in my class want to choose well-paid jobs.
-(Phẩn lớn nam sinh trong lớp tôi muốn chọn công việc ởược trả lương cao.)
-- Chúng ta có thể bỏ danh từ sau all, most, some, none nếu nghĩa đã rõ ràng. Ex: The band sang a 
-few songs. Most were old ones, but some were new.
-(Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.) I 
-wanted some cake, but there was none left.
-(Tôi muốn ăn một ít bánh, nhưng chẳng còn tí bánh nào.)
-V. Every, each
-Every và each thường được dùng trước danh từ đếm được ở số ít (singular countable nouns).
-Ex: The police questioned every/ each person in the building.
-(Cảnh sát thẩm vấn từng người trong tòa nhà.)
-[NOT ... every/ each people]
-Every/ Each room has a number. (Mỗi phòng đều có số.)
-[NOT Every/ Each rooms]
-Trong nhiều trường hợp, every và each có thể được dùng với nghĩa tương tự nhau.
-Ex: You look more beautiful each/ every time I see you. (Mỗi lần tôi gặp bạn, bạn trông xinh hơn.)
+...; hoặc các tính từ sở hữu my, his, her...). Ex: Most of the boys in my class want to choose well-paid jobs. (Phẩn lớn nam sinh trong lớp tôi muốn chọn công việc ởược trả lương cao.)
+- Chúng ta có thể bỏ danh từ sau all, most, some, none nếu nghĩa đã rõ ràng. Ex:
+- * The band sang a few songs. Most were old ones, but some were new. (Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.)
+  * I wanted some cake, but there was none left. (Tôi muốn ăn một ít bánh, nhưng chẳng còn tí bánh nào.)
+
+## Every, each
+Every và each thường được dùng trước danh từ đếm được ở số ít (singular countable nouns). Ex:
+* The police questioned every/ each person in the building. (Cảnh sát thẩm vấn từng người trong tòa nhà.) [NOT ... every/ each people]
+* Every/ Each room has a number. (Mỗi phòng đều có số.) [NOT Every/ Each rooms]
+
+Trong nhiều trường hợp, every và each có thể được dùng với nghĩa tương tự nhau. Ex: You look more beautiful each/ every time I see you. (Mỗi lần tôi gặp bạn, bạn trông xinh hơn.)
 Tuy nhiên every và each vẫn có sự khác nhau về nghĩa.
-- Every (mỗi; mọi)
+### Every (mỗi; mọi)
 Chúng ta dùng every khi chúng ta nghĩ về người hoặc vật như một tổng thể hoặc một nhóm (cùng 
 nghĩa với all).
 Ex: Every guest watched as the President came in. [= all guests] (Khi Tổng thống bước vào, mọi 
@@ -222,23 +211,21 @@ quan khách đều nhìn theo.) I go for a walk every day. (Tôi đi dạo mỗi
 Every có thể được dùng để nói về ba hoặc nhiều hơn ba người hoặc vật, thường là một số lượng lớn.
 Ex: There were cars parked along every street in town. [= all the streets] (O tô đậu dọc theo mọi con 
 dường trong thị xã.)
-— Each (mỗi)
-Chúng ta dùng each khi chúng ta nghĩ về người hoặc vật một cách riêng rẽ, từng người hoặc từng vật 
-trong một nhóm.
-Ex: Each person in turn shook hand with him.
-(Lần lượt từng người bắt tay với ông ấy.) Each day seemed to pass very slowly. (Dường như 
-từng ngày trôi qua chậm chạp.)
-Each có thể được dùng để nói về hai hoặc nhiều hơn hai, thường là một nhóm nhỏ người hoặc vật.
-Ex: There are four books on the table. Each book was a different color. (Trên bàn có 4 cuốn 
-sách. Mỗi cuốn có màu khác nhau.) There were cars parked along each side of the street. 
-[= both sides] (Ô tô đậu dọc theo hai bên đường.)
-Each có thể được dùng một mình hoặc dùng với of (Each of + determiner/ pronoun).
-Ex: There are six flats. Each has its own entrance.
-(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)
-Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.) Each of us sees the 
-world differently.
-(Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời. )
-► EXERCISES
+### Each (mỗi)
+Chúng ta dùng each khi chúng ta nghĩ về người hoặc vật một cách riêng rẽ, từng người hoặc từng vật trong một nhóm. Ex:
+* Each person in turn shook hand with him. (Lần lượt từng người bắt tay với ông ấy.)
+* Each day seemed to pass very slowly. (Dường như từng ngày trôi qua chậm chạp.)
+
+Each có thể được dùng để nói về hai hoặc nhiều hơn hai, thường là một nhóm nhỏ người hoặc vật. Ex:
+* There are four books on the table. Each book was a different color. (Trên bàn có 4 cuốn sách. Mỗi cuốn có màu khác nhau.)
+* There were cars parked along each side of the street. [= both sides] (Ô tô đậu dọc theo hai bên đường.)
+
+Each có thể được dùng một mình hoặc dùng với of (Each of + determiner/ pronoun). Ex:
+* There are six flats. Each has its own entrance.(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)
+* Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.)
+* Each of us sees the world differently. (Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời.)
+
+# EXERCISES
 I. Complete the sentences with some or any.
 1. We didn’t buy __________flowers.
 2. This evening I’m going out with __________ friends of mine.
