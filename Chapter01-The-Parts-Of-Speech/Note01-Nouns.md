@@ -1,4 +1,4 @@
-# Note01: Từ Loại - Danh Từ
+# Danh Từ
 ## Định nghĩa (Definition)
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
@@ -15,12 +15,10 @@ Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành
 - Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.<br>
             Ex: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
             
-**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động. <br> 
-ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
 
 ### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
-**Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được. <br>
-Ex: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
+**Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được, : chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
         
 Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ a/ *an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns). <br>
 Ex: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
