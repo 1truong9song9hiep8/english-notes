@@ -1,4 +1,4 @@
-# Note01: Từ Loại - Danh Từ
+# Danh Từ
 ## Định nghĩa (Definition)
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
@@ -15,50 +15,38 @@ Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành
 - Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.<br>
             Ex: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
             
-**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động. <br> 
-ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
 
 ### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
-**Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được. <br>
-Ex: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
+**Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được, ví dụ: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
         
-Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ a/ *an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns). <br>
-Ex: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
+Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ *a/an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns). ví dụ: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
         
-**2.2. Danh từ không đếm được (Uncountable nouns)**
-Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm trừu tượng, và những vật mà chúng ta xem như một khối không thể tách rời.
-<br>Ex: wool *(len),* butter *(bơ),* water *(nước),* furniture *(đồ gỗ),* rice *(gạo),* happiness *(niềm hạnh phúc),* news *(tin tức),* work *(công việc),...*
+**Danh từ không đếm được (Uncountable nouns)**
+Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm trừu tượng, và những vật mà chúng ta xem như một khối không thể tách rời, ví dụ: wool *(len),* butter *(bơ),* water *(nước),* furniture *(đồ gỗ),* rice *(gạo),* happiness *(niềm hạnh phúc),* news *(tin tức),* work *(công việc),...*
 
-Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ a/ *an.* <br>
-Ex: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
+Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ *a/an.*, ví dụ: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
         
-**Lưu ý:**
-Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.*
-            Ex: **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
-            
-Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở sô' ít nhưng đôi khi cũng có thể dùng ở số nhiều.
-            
-            *Ex: **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
-            
-            *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
-            
-            Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa.
-            
-            *Ex: The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
-            
-            *Would you like **a glass** of milk? (Con uống một ly sữa nhé?) I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
-            
-            *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
-            
-            Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*
-            
-            *Ex: Have you got any **coffee?** (Bạn còn cà phê không?)*
-            
-            ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
-            
-            *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
-            
-            *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
+> **Lưu ý:**<br>
+>Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.* Ex:
+> * **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
+
+> Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.
+  Ex:
+> * **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
+> * *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
+  
+> Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa. Ex:
+> * The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
+> * *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
+> * I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
+> * *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
+  
+> Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ex:
+> * Have you got any **coffee?** (Bạn còn cà phê không?)*
+> * ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
+> * *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
+> * *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
             
 ### 3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)
 Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
@@ -70,437 +58,208 @@ Danh từ ghép có thể được viết thành hai từ riêng biệt, có g�
 Ex: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
 
 **Cách thành lập danh từ ghép**
-- Danh từ + danh từ (noun + noun)
+* Danh từ + danh từ (noun + noun)
+  - toothpick *(tăm)*
+  - tennis ball *(bóng tennis)*
+  - schoolboy *(nam sinh)*
+  - bus driver *(tài xế xe buýt)*
+  - kitchen table *(bàn bếp)*
+  - river bank *(hờ sông)*
+  - cupboard *(tủ chạn)* postman *(người đưa thư)*
+  
+* Tính từ + danh từ (adjective + noun)
+  - quicksilver *(thủy ngân)*
+  - blackboard *(bảng đen)*
+  - greenhouse *(nhà kính)*
+  - blackbird *(chim sáo)*
+  
+* Danh từ + danh động từ (noun + gerund) - Trong trường hợp này, danh từ ghép chỉ một loại công việc nào đó.
+  - weight-lifting *(việc cử tạ)*
+  - fruit picking *(việc hái quả)*
+  - lorry driving *(việc lái xe tải)*
+  - coal-mining *(việc khai thác mỏ than)*
+  - bird-watching (*quan sát nhận dạng chim)*
+  
+* Danh động từ + danh từ (gerund + noun)
+  - waiting-room *(phòng đợi)*
+  - swimming pool *(hồ bơi)*
+  - driving licence *(hằng lái xe)*
+  - washing-machine *(máy giặt)*
+  
+* Các trường hợp khác
+  - Tính từ + động từ (adjective + verb): whitewash *(nước vôi)*
+  - Động từ + danh từ (verb + noun): pickpocket *(tên móc túi)*
+  - Trạng từ + động từ (adverb + verb): outbreak *(sự bùng nổ)*
+  - Động từ + trạng từ (verb + adverb): breakdown *(sự suy sụp)*
+  - Danh từ + giới từ (noun + preposition): passer-by *(khách qua đường),* looker-on *(người xem)*
+  - Danh từ + tính từ (noun + adjective): secretary-general *(tổng thư ký; tổng bí thư)*
             
-            toothpick *(tăm)*
-            
-            tennis ball *(bóng tennis)*
-            
-            schoolboy *(nam sinh)*
-            
-            bus driver *(tài xế xe buýt)*
-            
-            kitchen table *(bàn bếp)*
-            
-            river bank *(hờ sông)*
-            
-            cupboard *(tủ chạn)* postman *(người đưa thư)*
-  - Tính từ + danh từ (adjective + noun)
-            
-            quicksilver *(thủy ngân)*
-            
-            blackboard *(bảng đen)*
-            
-            greenhouse *(nhà kính)*
-            
-            blackbird *(chim sáo)*
-            
-- c. Danh từ + danh động từ (noun + gerund)
-            
-            Trong trường hợp này, danh từ ghép chỉ một loại công việc nào đó.
-            
-            weight-lifting *(việc cử tạ)*
-            
-            fruit picking *(việc hái quả)*
-            
-            lorry driving *(việc lái xe tải)*
-            
-            coal-mining *(việc khai thác mỏ than)*
-            
-            bird-watching (*quan sát nhận dạng chim)*
-            
-- Danh động từ + danh từ (gerund + noun)
-            
-            waiting-room *(phòng đợi)*
-            
-            swimming pool *(hồ bơi)*
-            
-            driving licence *(hằng lái xe)*
-            
-            washing-machine *(máy giặt)*
-            
-- Các trường hợp khác
-            
-            Tính từ + động từ (adjective + verb): whitewash *(nước vôi)*
-            
-            Động từ + danh từ (verb + noun): pickpocket *(tên móc túi)* Trạng từ + động từ (adverb + verb): outbreak *(sự bùng nổ)*
-            
-            Động từ + trạng từ (verb + adverb): breakdown *(sự suy sụp)*
-            
-            Danh từ + giới từ (noun + preposition): passer-by *(khách qua đường),* looker-on *(người xem)*
-            
-            Danh từ + tính từ (noun + adjective): secretary-general *(tổng thư ký; tổng bí thư)*
-            
-            Lưu ý: Danh từ ghép có thể được thành lập bởi nhiểu hơn hai từ: *mother-in-law* (mẹ vợ/ chổng), *glass dining-table* (bàn ăn bằng kính), *merry-go-round* (trò chơi ngựa quay),...
+* Lưu ý: Danh từ ghép có thể được thành lập bởi nhiểu hơn hai từ: *mother-in-law* (mẹ vợ/ chổng), *glass dining-table* (bàn ăn bằng kính), *merry-go-round* (trò chơi ngựa quay),...
 
 ### 4. Danh từ số ít và danh từ số nhiều (Singular nouns and plural nouns)
-Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ex: The **girl** is singing. *(Cô gái dang hát) → The singular* 
-The **girls** are singing. *(Các cô gái đang hát) → gular*
-    
-**Cách thành lập danh từ số nhiều (Formation of the plural nouns)**
-a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít.
+Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ex:
+* The **girl** is singing. *(Cô gái dang hát) → The singular*
+* The **girls** are singing. *(Các cô gái đang hát) → plural*
+
+#### Cách thành lập danh từ số nhiều (Formation of the plural nouns)
+
+a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít. Ex:
+* boy *(con trai) →* boys *(những đứa con trai)*
+* house (ngôi nhà) → houses (những ngôi nhà)
+* dog (con chó) → dogs (những con chó)
             
-            Ex: boy *(con trai) →* boys *(những đứa con trai)*
+Các chữ cái, chữ số, dấu hiệu và những từ loại khác không phải là danh từ mà được dùng như danh từ thì thường thêm *’s.* Ex:
+* There are two ***9’s*** in 99. *(Trong số 99 có hai số 9.)*
+* Dot your ***i’s.** (Nhớ chấm dấu các chữ ỉ.)*
+* She spelt ‘necessary’ with two ***c’s. '** (Cô ta đánh vần từ ‘necessary’ có hai chữ c.)*
             
-            house (ngôi nhà) → houses (những ngôi nhà)
+b. Các danh từ tận cùng bằng *s, sh, ch, X, z* được tạo thành số nhiều bằng cách thêm *-es.* Ex:
+* dish (cái đĩa) → dishes (những cái đĩa)
+* church (nhà thờ) → churches (những ngôi nhà thờ)
+* box (cái hộp) → boxs (những cái hộp)
+* bus (xe buýt) → buses (những chiếc xe buýt)
+* quiz (cuộc thi) → quizzes (các câu đố)
             
-            dog (con chó) → dogs (những con chó)
+Các danh từ tận cùng bằng *phụ âm + y* (consonant + y) được tạo thành số nhiều bằng cách đổi *y* thành *i* và thêm *es.* Ex:
+* baby (em bé) → babies (những em bé)
+* party (bữa tiệc) → parties (những bữa tiệc)
+* fly (con ruồi) → flies (những con ruồi)
             
-            Các chữ cái, chữ số, dấu hiệu và những từ loại khác không phải là danh từ mà được dùng như danh từ thì thường thêm *’s.*
+Các danh từ tận cùng bằng một *nguyên âm + y* (vowel + y) thì chỉ thêm -s. Ex:
+* day (ngày) → days (các ngày)
+* key (chìa khóa) → keys (những chiếc chìa khóa)
+* boy (con trai) → boys (những người con trai)
             
-            Ex: There are two ***9’s*** in 99. *(Trong số 99 có hai số 9.)*
-            
-            Dot your ***i’s.** (Nhớ chấm dấu các chữ ỉ.)*
-            
-            She spelt ‘necessary’ with two ***c’s. '** (Cô ta đánh vần từ ‘necessary’ có hai chữ c.)*
-            
-        - b. Các danh từ tận cùng bằng *s, sh, ch, X, z* được tạo thành số nhiều bằng cách thêm *-es.*
-            
-            Ex: dish (cái đĩa) → dishes (những cái đĩa)
-            
-            church (nhà thờ) → churches (những ngôi nhà thờ)
-            
-            box (cái hộp) → boxs (những cái hộp)
-            
-            bus (xe buýt) → buses (những chiếc xe buýt)
-            
-            quiz (cuộc thi) → quizzes (các câu đố)
-            
-            Các danh từ tận cùng bằng *phụ âm + y* (consonant + y) được tạo thành số nhiều bằng cách đổi *y* thành *i* và thêm *es.*
-            
-            Ex: baby (em bé) → babies (những em bé)
-            
-            party (bữa tiệc) → parties (những bữa tiệc)
-            
-            fly (con ruồi) → flies (những con ruồi)
-            
-            Các danh từ tận cùng bằng một *nguyên âm + y* (vowel + y) thì chỉ thêm -s.
-            
-            Ex: day (ngày) → days (các ngày)
-            
-            key (chìa khóa) → keys (những chiếc chìa khóa)
-            
-            boy (con trai) → boys (những người con trai)
-            
-            Các danh từ riêng (proper nouns) tận cùng bằng -y, chỉ cần thêm *-s.*
-            
-            Ex:
-            
-            Do you know the **Kennedys.** *(Bạn có biết gia đình Kennedy không?)*
-            
-            I hate **Februarys.** *(Tôi ghét tháng Hai.)*
-            
-            d.  Một số danh từ tận cùng bằng *f* hoặc /è: *calf, half, knife, leaf, life, loaf, self, sheaf, chef, thief, wife, wolf* được tạo thành số nhiều bằng cách đổi *f hoặc fe thành ves.*
-            
-            Ex: knife (con dao) → knives (những con dao)
-            
-            calf (con bê) → calves (những con bê)
-            
-            thief (tên trộm) → thieves (những tên cướp)
-            
-            wife (người vợ) → wives (những bà vợ)
-            
-            Một số danh từ tận cùng bằng *f* hoặc /è: *calf, half, knife, leaf, life, loaf, self, sheaf, chef, thief, wife,*
-            
-            *wolf* được tạo thành số nhiều bằng cách đổi *f*
-            
-            Các danh từ tận cùng băng *-f* hoặc -t Ex:
-            
-            roof *(mái nhà)*
-            
-            - *>*
-            
-            handkerchief *(khăn tay) ->*
-            
-            cliff *(vách đá)*
-            
-            - *>*
-            
-            Một số danh từ tận cùng bằng *f* I
-            
-            Ex: scarf *(khăn choàng cổ) ->* dwarf
-            
-            *(người lùn)*
-            
-            - *>*
-            
-            wharf *(cầu tàu)*
-            
-            - *»*
-            
-            hoof *(móng vuốt)*
-            
-            - *>*
-            
-            ’ khác thì thêm s theo cách thông
-            
-            thường, roofs *(những mái nhà)*
-            
-            handkerchiefs *(những chiếc khăn*
-            
-            *tay)* cliffs *(các vách đá)*
-            
-            ó thể có 2 hình thức số nhiều, scarfs,
-            
-            scarves dwarfs, dwarves wharfs,
-            
-            wharves hoofs, hooves
-            
-            **e. Một số danh từ tận cùng báng một *phụ âm + o* (consonant + o) được tạo thành số nhiều bằng cách thêm *-es.***
-            
-1. Một số danh từ chỉ có hình thức số nhiều (luôn được dùng với động từ số nhiều)
-                
-                - Quần áo gồm hai phần: pants *(quần),* pyjamas *(đồ pijama),* trousers *(quần dài),* jeans *(quần jin),...*
-                
-                - Dụng cụ hoặc thiết bị gồm hai phần: scissors *(cái kéo),* glasses *(kính đeo mắt),* pincers *(cây kìm),* scales *(cái cân),* binoculars *(ống nhòm),* tongs *(cái kẹp),* spectacles *(kính đeo mắt),...*
-                
-                - Một số danh từ khác: arms *(vũ khí),* earnings *(tiền kiếm được),* stairs *(cầu thang),* savings *(tiền tiết kiệm),* surroundings *(vùng phụ cận),* riches *(tài sản),* goods *(hàng hóa),* outskirts *(vùng ngoại ô),* clothes *(quần áo),...*
-                
-            - **h. Một số danh từ có nguồn gốc từ tiếng Hy Lạp hoặc Latin thường có dạng số nhiều đặc biệt theo luật của tiếng Hy Lạp vặ Latin**
-                
-                formula *(công thức) →* formulae, formulas
-                
-                alumna *(nữ sinh) →* alumnae
-                
-                vertebra *(xương sống) →* vertebrae
-                
-                sheep *(con cừu)*
-                
-                swine *(con lợn)*
-                
-                grouse *(gà rừng)*
-                
-                salmon *(cá hồi)*
-                
-                deer *(con nai)*
-                
-                aircraft *(máy bay)*
-                
-                trout *(cá hồi)*
-                
-                plaice *(cá bơn sao)*
-                
-                fish *(con cá)*
-                
-                craft *(tàu, thuyền)*
-                
-                squid *(mực ống)*
-                
-                carp *(cá chép)*
-                
-                vertebrasfocus *(tiêu điểm) →* foci, focuses
-                
-                cactus *(cây xương rồng) →* cacti
-                
-                fungus *(nấm) →* fungi, funguses
-                
-                bacterium *(vi khuẩn) →* bacteria
-                
-                curriculum *(chương trình giảng dạy) →* curricula
-                
-                dictum *(châm ngôn) →* dicta
-                
-                datum *(dữ kiện) →* data
-                
-                criterion *(tiêu chuẩn) →* criteria
-                
-                phenomenon *(hiện tượng) →* phenomena
-                
-                dogma *(giáo lý) →* dogmata
-                
-                stigma *(vết; đốm) →* stigmata
-                
-                basis *(nền tảng) →* bases
-                
-                crisis *(cuộc khủng hoảng) →* crises
-                
-                analysis *(sự phân tích) →* analyses
-                
-                hypothesis *(giả thuyết) →* hypotheses
-                
-                Một số danh từ có hai hình thức số nhiều với hai nghĩa khác nhau:
-                
-                Ex: brother *(anh lem trai) →* brothers *(các anh!em trai)-,* brethren *(đạo hữu;*
-                
-                cloth *(vải)*
-                
-                penny *(đồng xu) ->*
-                
-                staff *(nhân viền)*
-                
-                *—>*
-                
-                Số nhiều của các danh từ ghép
-                
-                Trong hình thức danh từ ghép danh từ + danh từ (noun + noun), thì danh từ thứ nhất thường ở
-                
-                dạng số ít và danh từ^thứ hai được đổi ra số nhiều. Ex: toothbrush *(bàn chải đánh răng)*
-                
-                boy-friend *(bạn trai)*
-                
-                ticket collector *(người soát vé)*
-                
-                Trong hình thức danh từ ghép danh từ + trạng từ (noun + adv), danh từ + giới từ + danh từ
-                
-                (noun + prep + noun), danh từ + tính từ (noun + adj), thì hình thức số nhiều được thành lập với
-                
-                danh từ đầu tiên.
-                
-                Ex: passer-by *(người đi đường)*
-                
-                looker-on *(người xem)*
-                
-                mother-in-law *(mẹ vợ! chồng)*
-                
-                cloths *(các mảnh vải)-,* clothes *(quần áo)* pennies *(các*
-                
-                *đồng xu);* pence *(số tiền xu)* staffs *(các nhân viên);* staves
-                
-                *(các khuôn nhạc)*
-                
-                toothbrushes boy
-                
-                friends ticket
-                
-                collectors
-                
-                passers-by lookers
-                
-                on mothers-in-law
-                
-                lady-in-waiting *(thị nữ)* court-martial
-                
-                *(tòa án quân sự)*
-                
-                - *>*
-                
-                [cũng có thể viết mother-in-laws] ->
-                
-                ladies-in-waiting
-                
-                - >
-                
-                courts-martial
-                
-                [cũng có thể viết court-martials]
-                
-                Trong các hình thức danh từ ghép còn lại: tính từ + danh từ (adj + noun), danh động từ +
-                
-                danh từ (gerund + noun), động từ + danh từ (verb + noun), v.v. thì hình thức số nhiều biến
-                
-                đổi ở thành phần sau cùng. Ex: blackboard *(bảng đen)* washing machine *(máy giặt)*
-                
-                pickpocket
-                
-                *(tên móc túi)* breakdown *(sự suy sụp)*
-                
-                blackboards washing
-                
-                machines pickpockets
-                
-                breakdowns- Một số danh từ biến đổi cả hai thành phần.
-                
-                Ex: man driver *(tài xế nam)*
-                
-                - >
-                
-                men drivers
-                
-                woman doctor *(bà bác sĩ)*
-                
-                - >
-                
-                women doctors
-                
-                **4.2. Cách phát âm đuôi -s hoặc -es** (The pronunciation of -s or *-es) Có* 3 cách phát âm đuôi -s/ *-*
-                
-                *es* của danh từ số nhiều: /s/, *ITJ* và /iz/
-                
-                **/iz/** khi ***es*** đứng sau danh từ tận cùng bằng các âm xuýt: /s/, /z/, /J7, /3/, /tf/, /dy.
-                
-                Ex: watches, boxes, bridges, buses, crashes, buzzes...
-                
-                /s/ khi s đứng sau các danh từ tận cùng bằng các âm vô thanh: /p/, /f/, /t/, /k/, /0/.
-                
-                Ex: cups, cats, books, beliefs, cloths, ...
-                
-                *Ill* khi s đứng sau danh từ tận cùng bằng nguyên âm *(a, e, ì, o, u)* và các phụ âm hữu thanh còn
-                
-                lại: /b/, /v/, /d/, /d/, /g/, /1/, /m/, /n/, /ỊJ/, /r/, /00/, /ei/, /eo/, ...
-                
-                Ex: toys, answers, lessons, legs, trees, knives, ends, dreams, hills, songs...
-                
-                **4.3. Mâu thuẫn giữa hình thức số và nghĩa của danh từ**
-                
-                a. Một sô danh từ có hình thức *số* ít nhưng có nghĩa sô nhiều (có thể dùng với động từ số nhiều)
-                
-                Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),*
-                
-                government *(chính phủ),* clergy *(tu sĩ),...*
-                
-                b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với
-                
-                động từ số ít)
-                
-                Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards
-                
-                *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
-## III. Chức năng của danh từ (Functions of Nouns)
-Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-### 1. Chủ ngữ của câu (Subject of a sentence)**
-        
-        Ex: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
-        
-        Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
-        
-### 2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
-        
-        **Ex: I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
-        
-        The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object);
-        
-        a lot of questions -> tân ngữ trực tiếp (direct object)]
-        
-        Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
-        
-        Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
-        
-### 3. Tân ngữ của giới từ (Object of a preposition)
-        
-        Ex: He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
-        
-        Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
-        
-### 4. Bổ ngữ của chủ ngữ (Subjective complement)
-        
-        Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
-        
-        Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
-        
-### 5. Bổ ngữ của tân ngừ (Objective complement)**
-        
-        Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
-        
-        Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
-        
-    - **6. Một phần của ngữ giới từ (Part of prepositional phrases)**
-        
-        Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
-        
-    - **7. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
-        
-        Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
-        
+Các danh từ riêng (proper nouns) tận cùng bằng -y, chỉ cần thêm *-s.* Ex:
+* Do you know the **Kennedys.** *(Bạn có biết gia đình Kennedy không?)*
+* I hate **Februarys.** *(Tôi ghét tháng Hai.)*
+---
+d.  Một số danh từ tận cùng bằng *f* hoặc *fe*: *calf, half, knife, leaf, life, loaf, self, sheaf, chef, thief, wife, wolf* được tạo thành số nhiều bằng cách đổi *f hoặc fe thành -ves.*, Ex:
+* knife (con dao) → knives (những con dao)
+* calf (con bê) → calves (những con bê)
+* thief (tên trộm) → thieves (những tên cướp)
+* wife (người vợ) → wives (những bà vợ)
+  
+Các danh từ tận cùng băng *-f* hoặc *fe* khác thì thêm *s* theo cách thông thường, ví dụ:
+* roof *(mái nhà)* -> roofs *(những mái nhà)*
+* handkerchief *(khăn tay)* -> handkerchiefs *(những chiếc khăn)*
+* cliff *(vách đá)* -> cliffs *(các vách đá)*
+
+Một số danh từ tận cùng bằng *f* có thể có 2 hình thức số nhiều:
+* scarf *(khăn choàng cổ) ->* dwarfs, scarves
+* dwarf*(người lùn)* -> dwarfs, dwarves
+* wharf (cầu tàu) -> wharfs, wharves
+* hoof (móng vuốt) -> hoofs, hooves.
+---
+e. Một số danh từ tận cùng báng một *phụ âm + o* (consonant + o) được tạo thành số nhiều bằng cách thêm *-es.*
+* tomato (quả cà chua)-> tomatoes
+* hero (anh hùng) -> heroes
+* potato (củ khoai tây) -> potatoes
+* echo (tiếng vang) -> echoes
+
+Các danh từ tận cùng băng một nguyên âm + o, các từ vay mượn của nước ngoài hoặc các từ được viết tắt thì chỉ cần thêm -s.
+* radio (máy radio) -> radios
+* piano (đàn dương cầm) -> pianos
+* zoo (sở thú) -> zoos
+* photo (bức ảnh) -> photos
+
+Một số danh từ tận cùng bằng ***o** có thể có hai hình thức số nhiều.
+* volcano (núi lửa) -> volcanos, volcanoes
+* tornado (cơn bão) tornados, tornadoes
+* mango (quả xoài) -> mangos, mangoes
+* mosquito (con muỗi) —> mosquitos, mosquitoes
+---
+f. Số nhiều bất qui tắc (Irregular plurals)
+* Một số danh từ thay đổi khi ở số nhiều.
+  - man (đàn ông) —> men
+  - mouse (con chuột) —> mice
+  - woman (đàn bà) —> women
+  - louse (con rậri) -> lice
+  - tooth (răng) -> teeth
+  - goose (con ngỗng) —> geese
+  - foot (bàn chân) -> feet
+  - person (người) -> people
+  - child (đứa trẻ) -> children
+  - ox (con bò) -> oxen
+
+* Một số danh từ không thay đổi khi ở số nhiều.
+  - sheep (con cừu) , swine (con lợn) , grouse (gà rừng), salmon (cá hồi), deer (con nai) aircraft , (máy bay) trout (cá hồi), plaice (cá bơn sao), fish (con cá) craft (tàu, thuyền) squid (mực ống) carp (cá chép).
+
+* Một số danh từ tận cùng bằng -s không thay đổi khi ở số nhiều, means (phương tiện) works (nhà máy) species (loài) Swiss (người Thụy Sĩ) barracks (doanh trại) crossroads (ngã tư) headquarters (sở chỉ huy) series (dãy, chuỗi).
+---
+g. Một số danh từ chỉ có hình thức số nhiều (luôn được dùng với động từ số nhiều)
+* Quần áo gồm hai phần: pants *(quần),* pyjamas *(đồ pijama),* trousers *(quần dài),* jeans *(quần jin),...*
+* Dụng cụ hoặc thiết bị gồm hai phần: scissors *(cái kéo),* glasses *(kính đeo mắt),* pincers *(cây kìm),* scales *(cái cân),* binoculars *(ống nhòm),* tongs *(cái kẹp),* spectacles *(kính đeo mắt),...*
+* Một số danh từ khác: arms *(vũ khí),* earnings *(tiền kiếm được),* stairs *(cầu thang),* savings *(tiền tiết kiệm),* surroundings *(vùng phụ cận),* riches *(tài sản),* goods *(hàng hóa),* outskirts *(vùng ngoại ô),* clothes *(quần áo),...*
+---
+h. Một số danh từ có nguồn gốc từ tiếng Hy Lạp hoặc Latin thường có dạng số nhiều đặc biệt theo luật của tiếng Hy Lạp và Latin:
+* formula *(công thức) -> formulae, formulas
+* alumna *(nữ sinh) →* alumnae
+* vertebra *(xương sống) →* vertebrae
+* vertebrasfocus *(tiêu điểm) →* foci, focuses
+* cactus *(cây xương rồng) →* cacti
+* fungus *(nấm) →* fungi, funguses
+* bacterium *(vi khuẩn) →* bacteria
+* curriculum *(chương trình giảng dạy) →* curricula
+* dictum *(châm ngôn) →* dicta
+* datum *(dữ kiện) →* data
+* criterion *(tiêu chuẩn) →* criteria
+* phenomenon *(hiện tượng) →* phenomena
+* dogma *(giáo lý) →* dogmata
+* stigma *(vết; đốm) →* stigmata
+* basis *(nền tảng) →* bases
+* crisis *(cuộc khủng hoảng) →* crises
+* analysis *(sự phân tích) →* analyses
+* hypothesis *(giả thuyết) →* hypotheses
+---             
+i. Một số danh từ có hai hình thức số nhiều với hai nghĩa khác nhau:
+* brother *(anh lem trai) →* brothers *(các anh!em trai)-,* brethren *(đạo hữu;*
+* cloth *(vải)*
+* penny *(đồng xu) ->*
+* staff *(nhân viền)*
+---             
+j. Số nhiều của các danh từ ghép
+* Trong hình thức danh từ ghép danh từ + danh từ (noun + noun), thì danh từ thứ nhất thường ở dạng số ít và danh từ thứ hai được đổi ra số nhiều. Ex:
+  * toothbrush *(bàn chải đánh răng)*
+  * boy-friend *(bạn trai)*
+  * ticket collector *(người soát vé)*
+                
+* Trong hình thức danh từ ghép danh từ + trạng từ (noun + adv), danh từ + giới từ + danh từ (noun + prep + noun), danh từ + tính từ (noun + adj), thì hình thức số nhiều được thành lập với danh từ đầu tiên. Ex:
+  * passer-by *(người đi đường)*
+  * looker-on *(người xem)*
+  * mother-in-law *(mẹ vợ! chồng)*
+                
+* Trong các hình thức danh từ ghép còn lại: tính từ + danh từ (adj + noun), danh động từ + danh từ (gerund + noun), động từ + danh từ (verb + noun), v.v. thì hình thức số nhiều biến đổi ở thành phần sau cùng. Ex:
+  * blackboard *(bảng đen)* -> blackboards
+  * washing -> washing
+  * machine *(máy giặt)* -> machines
+  * pickpocket *(tên móc túi)* -> pickpockets
+  * breakdown *(sự suy sụp)* -> breakdowns
+
+* Một số danh từ biến đổi cả hai thành phần. Ex:
+  * man driver *(tài xế nam)* -> men drivers
+  * woman doctor *(bà bác sĩ)* -> women doctors
+                
+#### Cách phát âm đuôi -s hoặc -es** (The pronunciation of -s or *-es)
+Có* 3 cách phát âm đuôi -s/ *-* *es* của danh từ số nhiều: /s/, *ITJ* và /iz/              
+* **/iz/** khi ***es*** đứng sau danh từ tận cùng bằng các âm xuýt: /s/, /z/, /J7, /3/, /tf/, /dy.<br>
+Ex: watches, boxes, bridges, buses, crashes, buzzes...
+* /s/ khi s đứng sau các danh từ tận cùng bằng các âm vô thanh: /p/, /f/, /t/, /k/, /0/.<br>
+Ex: cups, cats, books, beliefs, cloths, ...
+* *Ill* khi s đứng sau danh từ tận cùng bằng nguyên âm *(a, e, ì, o, u)* và các phụ âm hữu thanh còn lại: /b/, /v/, /d/, /d/, /g/, /1/, /m/, /n/, /ỊJ/, /r/, /00/, /ei/, /eo/, ...<br>
+Ex: toys, answers, lessons, legs, trees, knives, ends, dreams, hills, songs...
+                
+#### Mâu thuẫn giữa hình thức số và nghĩa của danh từ
+a. Một sô danh từ có hình thức *số* ít nhưng có nghĩa sô nhiều (có thể dùng với động từ số nhiều)<br>
+Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),* government *(chính phủ),* clergy *(tu sĩ),...*
+                
+b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
+Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
 ### Chức năng của danh từ (Functions of Nouns)
-
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-
-- **1. Chủ ngữ của câu (Subject of a sentence)**
-    
-    - Ex: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
-    
-    - Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
+* *Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*<br>
+  Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
     
 - **2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
     
@@ -538,13 +297,11 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
     
     Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
     
-- **7. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
+- **Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
     
     Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
-    
 
-### **IV. Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
-
+### Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
 - **1. Động từ số ít (Singular verbs)**
@@ -753,26 +510,17 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         **Neither** she **nor** her daughter **has** arrived, (formal)
         
-    - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb)
-        
-        Ex: **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
-        
-        *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
-        
-        Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
+    - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb) Ex:
+    - * **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
+      * *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
+      * Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
         
     - e. Chủ từ là một cụm danh từ được kết hợp bởi hai danh từ -» động từ chia với danh từ thứ nhất.
-        
         **( Noun Ị + preposition + Noun2 <• Verb (Noun^**
-        
         Ex: **A box** of cigarettes **contains** 20 pipes. *(Một hộp thuôc lá có 20 điêu.)* **The effects** of stress **are**
-        
         very serious. *(Những ảnh hưởng của việc căng thẳng thần kinh là rất nghiêm trọng.)*
         
-    - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,*
-        
-        *the remainder + **of*** được dùng với:
-        
+    - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,* the remainder + **of*** được dùng với:
         - động từ số ít nếu danh từ theo sau ở số ít.
         - động từ số nhiều nếu danh từ theo sau ở số nhiều.________________________
         
@@ -793,81 +541,63 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         —————
         
         Ex:
-        
         Some of the **apples were** rotten. *(Một vài quả táo đã bị thôi.)*
-        
         Some of the **milk was** sour. *(Một ít sữa đã bị chua.)*
-        
         **A** lot of **time is** needed to learn a language. *(Học một ngôn ngữ cần rất nhiều thời gian.)*
+      A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
         
-        A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
-        
-    - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều
-        
-        (plural noun) -> động từ chia ở số nhiều (plural verb)
-        
-        Ex: No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
-        
-        No **people think** alike. *(Không ai suy nghĩ giống ai.)*
-        
-    - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)*
-        
-        sau nó.
+    - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb) Ex:
+    - * No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
+      * No **people think** alike. *(Không ai suy nghĩ giống ai.)*
+    
+    - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)* sau nó.
         
         **There + be + noun**_____ ĨĨ-—J
-        
         Ex: There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)* There **were** many
-        
 
 ## Sở hữu cách (Possessive/ Genitive Case)
 Sở hữu cách được dùng để diễn đạt sự sở hữu.
 ### Cách thành lập sở hữu cách (The formation of the possessive case)
 Sở hữu cách được thành lập bằng cách:
+
 1. Thêm ’s vào sau danh từ số ít và danh từ số nhiều không tận cùng bằng -s.
-        - my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
-        - Mary’s dog (con *chó của Mary)* [= the dog of Mary]
-        - the bull’s horns *(sừng bò)* [= the horns of the bull]
-        - the children’s room *(phòng của bọn trể)[=* the room of the children]
+   * my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
+   * Mary’s dog (con *chó của Mary)* [= the dog of Mary]
+   * the bull’s horns *(sừng bò)* [= the horns of the bull]
+   * the children’s room *(phòng của bọn trể)[=* the room of the children]
+
 2. Thêm dấu phẩy (’) vào sau các danh từ số nhiều tận cùng bằng -s.
-        - my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
-        - the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
-        - a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls] 
-        - the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
+   * my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
+   * the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
+   * a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls]
+   * the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
+
 3. Thêm ’s hoặc dấu phẩy (’) vào các danh từ số ít hoặc tên riêng tận cùng bằng -s (nhưng ’s được dùng phổ biến hơn).
+   * my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)*
+   * Charles’s mother / Charles’ mother *(mẹ của Charles)* 
         
-        - my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)* Charles’s mother / Charles’ mother *(mẹ của Charles)* 
+**Lưu ý:** Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy ('), *Archimedes’ Law *(định luật Archimedes)*
+
+4. Với danh từ ghép, thêm ’s vào từ cuối cùng. Ex:
+   * my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
+   * the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
+
+5. 's cũng có thể được dùng sau các cụm từ. Ex:
+   * **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
+   * **the man next door’s** wife *(vợ của người đàn ông ở kế bên nhà)*
+   * **Joe and Ann’s** children *(các con của Joe và Ann.)* [một nhóm trẻ) But: **Joe’s and Ann’s** children *(các con của Joe và các con của Ann)* [hai nhóm trẻ]
         
-**Lưu ý:**  Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy (’)
-            
-            - Archimedes’ Law *(định luật Archimedes)*
-            
-1. Với danh từ ghép, thêm ’s vào từ cuối cùng.
-        
-        Ex: my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
-        
-        the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
-1. ’s cũng có thể được dùng sau các cụm từ.
-        
-        Ex: **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
-        
-        **the man next door’s** wife *(vợ của người đàn ông ở kế bên nhà)*
-        
-        **Joe and Ann’s** children *(các con của Joe và Ann.)* [một nhóm trẻ) But: **Joe’s and Ann’s** children *(các con của Joe và các con của Ann)* [hai nhóm trẻ]
-        
-        **Lưu ý:** Khi sử dụng sở hữu cách, các mạo từ *(a, an, the)* đứng trước người hay vật ‘bị sở hữu’ phải được bỏ.
-        
-        ví dụ : the daughter of the politician = the politician’s daughter
-        
-        the plays of Shakespeare = Shakespeare’s plays
-        
+**Lưu ý:** Khi sử dụng sở hữu cách, các mạo từ *(a, an, the)* đứng trước người hay vật ‘bị sở hữu’ phải được bỏ. ví dụ:
+* the daughter of the politician = the politician’s daughter
+* the plays of Shakespeare = Shakespeare’s plays
+
 ### Cách dùng sở hữu cách *’s* và *of + danh từ* (Use of the possessive and of + noun)
 1. Cách dùng sở hữu cách
-
-Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals).
-- Ex: the girl’s name *(tên của cô gái)*
-  the horse’s tail *(đuôi ngựa)*
-  Mr Evans’s daughter *(con gái của ông Evans)*
-        
+   Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals). Ex:
+   * the girl’s name *(tên của cô gái)*
+   * the horse’s tail *(đuôi ngựa)*
+   * Mr Evans’s daughter *(con gái của ông Evans)*
+   
 Không dùng sở hữu cách khi danh từ chỉ chủ sở hữu là danh từ chỉ đồ vật (things) hoặc ý tưởng (ideas). Trong trường hợp này ta thường dùng ***of + danh từ.***
 <br> Ex: the name of the book *(tên sách)* [NOT the book’s name]
         
@@ -883,8 +613,7 @@ Ex: the train’s heating system/ the heating system of the train *(hệ thống
         The company’s success/ the success of the company *(thành công của công ty)*
 
 - Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
-        
-        Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
+Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
         
         ****Cụm từ chỉ tiền bạc (money) hoặc giá trị (worth).
         
@@ -929,68 +658,41 @@ Ex: the train’s heating system/ the heating system of the train *(hệ thống
         Ex: This isn’t my book. It’s my **brother’s.** *(Đây không phải là sách của tôi. Đây là sách của anh tôi.)* [= my brother’s **book]**
         
         **Susan’s** is the only house that was painted violet. *(Nhà của Susan là ngôi nhà duy nhất sơn màu tím.)* [= Susan’s **house]**
+
+2. Cách dùng ***of + danh từ*** (of + noun)
+Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas). Ex:
+  * the roof **of** the church *(mái nhà thờ)* [NOT the church’s reef]
+  * the result of the match *(kết quả của trận đấu)* [NOT the match’s result]
+  * the keys of the car *(chìa khóa ô tô)* [NOT the car’s keys]
+
+Đôi khi có thể dùng cấu trúc ***danh từ + danh tù*** (noun + noun) Ex: the church roof, the match result, the car keys.
         
-    - b. Cách dùng ***of + danh tứ*** (of + noun)
+Ngoài ra câu trúc ***of + danh từ*** còn có thể được dùng với:
+****Danh từ có a / *an* đứng trước.
+Ex: I’m a big fan **of** Sting. *(Tôi rất hăm mộ Sting.)* [NOT Sting’s a big fan]
         
-        Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas).
+****Các từ *the beginning I end I top! bottom! front/back I part I middle/side ledge.*
+Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page top] the beginning **of** the month *(đầu tháng)*
         
-        Ex: the roof **of** the church *(mái nhà thờ)* [NOT the church’s reef] the result of the match *(kết quả của trận đấu)* [NOT the match’s result]
+****Danh từ chỉ người khi theo sau danh từ đó là một cụm từ hoặc mệnh đề. Examples:
+* The children obeyed the directions **of the man** with a whistle. *(Bọn trẻ làm theo sự chỉ dẫn của người đàn ông cầm còi.)*
+* I took the name card **of a girl** I met on the train. *(Tôi dã xin danh thiếp của cô gái mà tôi gặp trên xe lửa.)*
         
-        the keys of the car *(chìa khóa ô tô)* [NOT the car’s keys]
-        
-        Đôi khi có thể dùng cấu trúc ***danh từ + danh tù*** (noun + noun)
-        
-        Ex: the church roof, the match result, the car keys.
-        
-        Ngoài ra câu trúc ***of + danh từ*** còn có thể được dùng với:
-        
-        ****Danh từ có a / *an* đứng trước.
-        
-        Ex: I’m a big fan **of** Sting. *(Tôi rất hăm mộ Sting.)* [NOT Sting’s a big fan]
-        
-        ****Các từ *the beginning I end I top! bottom! front/back I part I middle/side ledge.*
-        
-        Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page top] the beginning **of** the month *(đầu tháng)*
-        
-        ****Danh từ chỉ người khi theo sau danh từ đó là một cụm từ hoặc mệnh đề.
-        
-        Examples:
-        
-        The children obeyed the directions **of the man** with a whistle. *(Bọn trẻ làm theo sự chỉ dẫn của người đàn ông cầm còi.)*
-        
-        I took the name card **of a girl** I met on the train. *(Tôi dã xin danh thiếp của cô gái mà tôi gặp trên xe lửa.)*
-        
-        - **Lưu ý:**
-            
-            Đôi khi chúng ta có thể gặp cả hai cấu trúc ’s và **of** trong cùng một câu. Cách sở hữu này được gọi là sở hữu cách kép (double possessive).
-            
-            - Examples:
-                
-                **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
-                
-                A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
-                
+**Lưu ý:**
+Đôi khi chúng ta có thể gặp cả hai cấu trúc ’s và **of** trong cùng một câu. Cách sở hữu này được gọi là sở hữu cách kép (double possessive). Examples:
+* **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
+* A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
 
 ## EXERCISES
 - **I. Look at these nouns. Are they countable (C) or uncountable (U)?**
-    
-    
     1. car (C)
-    
     2. work (U)
-    
     3. news (C)
-    
     4. meat (U)
-    
     5. photo (C)
-    
     6. golf (U)
-    
     7. banana (C)
-    
     8. rice (U)
-    
     9. song (C)
     
     10. minute (C)
