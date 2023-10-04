@@ -256,62 +256,10 @@ Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *
 b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
 Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
-## III. Chức năng của danh từ (Functions of Nouns)
-Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-### 1. Chủ ngữ của câu (Subject of a sentence)**
-        
-        Ex: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
-        
-        Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
-        
-### 2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
-        
-        **Ex: I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
-        
-        The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object);
-        
-        a lot of questions -> tân ngữ trực tiếp (direct object)]
-        
-        Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
-        
-        Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
-        
-### 3. Tân ngữ của giới từ (Object of a preposition)
-        
-        Ex: He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
-        
-        Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
-        
-### 4. Bổ ngữ của chủ ngữ (Subjective complement)
-        
-        Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
-        
-        Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
-        
-### 5. Bổ ngữ của tân ngừ (Objective complement)**
-        
-        Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
-        
-        Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
-        
-    - **6. Một phần của ngữ giới từ (Part of prepositional phrases)**
-        
-        Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
-        
-    - **7. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
-        
-        Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
-        
-
 ### Chức năng của danh từ (Functions of Nouns)
-
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-
-- **1. Chủ ngữ của câu (Subject of a sentence)**
-    
-    - Ex: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
-    
-    - Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
+* *Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*<br>
+  Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
     
 - **2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
     
@@ -349,13 +297,11 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
     
     Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
     
-- **7. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
+- **Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
     
     Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
-    
 
-### **IV. Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
-
+### Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
 - **1. Động từ số ít (Singular verbs)**
@@ -564,26 +510,17 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         **Neither** she **nor** her daughter **has** arrived, (formal)
         
-    - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb)
-        
-        Ex: **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
-        
-        *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
-        
-        Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
+    - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb) Ex:
+    - * **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
+      * *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
+      * Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
         
     - e. Chủ từ là một cụm danh từ được kết hợp bởi hai danh từ -» động từ chia với danh từ thứ nhất.
-        
         **( Noun Ị + preposition + Noun2 <• Verb (Noun^**
-        
         Ex: **A box** of cigarettes **contains** 20 pipes. *(Một hộp thuôc lá có 20 điêu.)* **The effects** of stress **are**
-        
         very serious. *(Những ảnh hưởng của việc căng thẳng thần kinh là rất nghiêm trọng.)*
         
-    - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,*
-        
-        *the remainder + **of*** được dùng với:
-        
+    - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,* the remainder + **of*** được dùng với:
         - động từ số ít nếu danh từ theo sau ở số ít.
         - động từ số nhiều nếu danh từ theo sau ở số nhiều.________________________
         
@@ -604,81 +541,63 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         —————
         
         Ex:
-        
         Some of the **apples were** rotten. *(Một vài quả táo đã bị thôi.)*
-        
         Some of the **milk was** sour. *(Một ít sữa đã bị chua.)*
-        
         **A** lot of **time is** needed to learn a language. *(Học một ngôn ngữ cần rất nhiều thời gian.)*
+      A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
         
-        A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
-        
-    - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều
-        
-        (plural noun) -> động từ chia ở số nhiều (plural verb)
-        
-        Ex: No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
-        
-        No **people think** alike. *(Không ai suy nghĩ giống ai.)*
-        
-    - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)*
-        
-        sau nó.
+    - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb) Ex:
+    - * No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
+      * No **people think** alike. *(Không ai suy nghĩ giống ai.)*
+    
+    - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)* sau nó.
         
         **There + be + noun**_____ ĨĨ-—J
-        
         Ex: There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)* There **were** many
-        
 
 ## Sở hữu cách (Possessive/ Genitive Case)
 Sở hữu cách được dùng để diễn đạt sự sở hữu.
 ### Cách thành lập sở hữu cách (The formation of the possessive case)
 Sở hữu cách được thành lập bằng cách:
+
 1. Thêm ’s vào sau danh từ số ít và danh từ số nhiều không tận cùng bằng -s.
-        - my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
-        - Mary’s dog (con *chó của Mary)* [= the dog of Mary]
-        - the bull’s horns *(sừng bò)* [= the horns of the bull]
-        - the children’s room *(phòng của bọn trể)[=* the room of the children]
+   * my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
+   * Mary’s dog (con *chó của Mary)* [= the dog of Mary]
+   * the bull’s horns *(sừng bò)* [= the horns of the bull]
+   * the children’s room *(phòng của bọn trể)[=* the room of the children]
+
 2. Thêm dấu phẩy (’) vào sau các danh từ số nhiều tận cùng bằng -s.
-        - my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
-        - the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
-        - a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls] 
-        - the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
+   * my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
+   * the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
+   * a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls]
+   * the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
+
 3. Thêm ’s hoặc dấu phẩy (’) vào các danh từ số ít hoặc tên riêng tận cùng bằng -s (nhưng ’s được dùng phổ biến hơn).
+   * my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)*
+   * Charles’s mother / Charles’ mother *(mẹ của Charles)* 
         
-        - my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)* Charles’s mother / Charles’ mother *(mẹ của Charles)* 
+**Lưu ý:** Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy ('), *Archimedes’ Law *(định luật Archimedes)*
+
+4. Với danh từ ghép, thêm ’s vào từ cuối cùng. Ex:
+   * my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
+   * the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
+
+5. 's cũng có thể được dùng sau các cụm từ. Ex:
+   * **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
+   * **the man next door’s** wife *(vợ của người đàn ông ở kế bên nhà)*
+   * **Joe and Ann’s** children *(các con của Joe và Ann.)* [một nhóm trẻ) But: **Joe’s and Ann’s** children *(các con của Joe và các con của Ann)* [hai nhóm trẻ]
         
-**Lưu ý:**  Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy (’)
-            
-            - Archimedes’ Law *(định luật Archimedes)*
-            
-1. Với danh từ ghép, thêm ’s vào từ cuối cùng.
-        
-        Ex: my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
-        
-        the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
-1. ’s cũng có thể được dùng sau các cụm từ.
-        
-        Ex: **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
-        
-        **the man next door’s** wife *(vợ của người đàn ông ở kế bên nhà)*
-        
-        **Joe and Ann’s** children *(các con của Joe và Ann.)* [một nhóm trẻ) But: **Joe’s and Ann’s** children *(các con của Joe và các con của Ann)* [hai nhóm trẻ]
-        
-        **Lưu ý:** Khi sử dụng sở hữu cách, các mạo từ *(a, an, the)* đứng trước người hay vật ‘bị sở hữu’ phải được bỏ.
-        
-        ví dụ : the daughter of the politician = the politician’s daughter
-        
-        the plays of Shakespeare = Shakespeare’s plays
-        
+**Lưu ý:** Khi sử dụng sở hữu cách, các mạo từ *(a, an, the)* đứng trước người hay vật ‘bị sở hữu’ phải được bỏ. ví dụ:
+* the daughter of the politician = the politician’s daughter
+* the plays of Shakespeare = Shakespeare’s plays
+
 ### Cách dùng sở hữu cách *’s* và *of + danh từ* (Use of the possessive and of + noun)
 1. Cách dùng sở hữu cách
-
-Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals).
-- Ex: the girl’s name *(tên của cô gái)*
-  the horse’s tail *(đuôi ngựa)*
-  Mr Evans’s daughter *(con gái của ông Evans)*
-        
+   Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals). Ex:
+   * the girl’s name *(tên của cô gái)*
+   * the horse’s tail *(đuôi ngựa)*
+   * Mr Evans’s daughter *(con gái của ông Evans)*
+   
 Không dùng sở hữu cách khi danh từ chỉ chủ sở hữu là danh từ chỉ đồ vật (things) hoặc ý tưởng (ideas). Trong trường hợp này ta thường dùng ***of + danh từ.***
 <br> Ex: the name of the book *(tên sách)* [NOT the book’s name]
         
@@ -694,8 +613,7 @@ Ex: the train’s heating system/ the heating system of the train *(hệ thống
         The company’s success/ the success of the company *(thành công của công ty)*
 
 - Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
-        
-        Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
+Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
         
         ****Cụm từ chỉ tiền bạc (money) hoặc giá trị (worth).
         
@@ -740,68 +658,41 @@ Ex: the train’s heating system/ the heating system of the train *(hệ thống
         Ex: This isn’t my book. It’s my **brother’s.** *(Đây không phải là sách của tôi. Đây là sách của anh tôi.)* [= my brother’s **book]**
         
         **Susan’s** is the only house that was painted violet. *(Nhà của Susan là ngôi nhà duy nhất sơn màu tím.)* [= Susan’s **house]**
+
+2. Cách dùng ***of + danh từ*** (of + noun)
+Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas). Ex:
+  * the roof **of** the church *(mái nhà thờ)* [NOT the church’s reef]
+  * the result of the match *(kết quả của trận đấu)* [NOT the match’s result]
+  * the keys of the car *(chìa khóa ô tô)* [NOT the car’s keys]
+
+Đôi khi có thể dùng cấu trúc ***danh từ + danh tù*** (noun + noun) Ex: the church roof, the match result, the car keys.
         
-    - b. Cách dùng ***of + danh tứ*** (of + noun)
+Ngoài ra câu trúc ***of + danh từ*** còn có thể được dùng với:
+****Danh từ có a / *an* đứng trước.
+Ex: I’m a big fan **of** Sting. *(Tôi rất hăm mộ Sting.)* [NOT Sting’s a big fan]
         
-        Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas).
+****Các từ *the beginning I end I top! bottom! front/back I part I middle/side ledge.*
+Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page top] the beginning **of** the month *(đầu tháng)*
         
-        Ex: the roof **of** the church *(mái nhà thờ)* [NOT the church’s reef] the result of the match *(kết quả của trận đấu)* [NOT the match’s result]
+****Danh từ chỉ người khi theo sau danh từ đó là một cụm từ hoặc mệnh đề. Examples:
+* The children obeyed the directions **of the man** with a whistle. *(Bọn trẻ làm theo sự chỉ dẫn của người đàn ông cầm còi.)*
+* I took the name card **of a girl** I met on the train. *(Tôi dã xin danh thiếp của cô gái mà tôi gặp trên xe lửa.)*
         
-        the keys of the car *(chìa khóa ô tô)* [NOT the car’s keys]
-        
-        Đôi khi có thể dùng cấu trúc ***danh từ + danh tù*** (noun + noun)
-        
-        Ex: the church roof, the match result, the car keys.
-        
-        Ngoài ra câu trúc ***of + danh từ*** còn có thể được dùng với:
-        
-        ****Danh từ có a / *an* đứng trước.
-        
-        Ex: I’m a big fan **of** Sting. *(Tôi rất hăm mộ Sting.)* [NOT Sting’s a big fan]
-        
-        ****Các từ *the beginning I end I top! bottom! front/back I part I middle/side ledge.*
-        
-        Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page top] the beginning **of** the month *(đầu tháng)*
-        
-        ****Danh từ chỉ người khi theo sau danh từ đó là một cụm từ hoặc mệnh đề.
-        
-        Examples:
-        
-        The children obeyed the directions **of the man** with a whistle. *(Bọn trẻ làm theo sự chỉ dẫn của người đàn ông cầm còi.)*
-        
-        I took the name card **of a girl** I met on the train. *(Tôi dã xin danh thiếp của cô gái mà tôi gặp trên xe lửa.)*
-        
-        - **Lưu ý:**
-            
-            Đôi khi chúng ta có thể gặp cả hai cấu trúc ’s và **of** trong cùng một câu. Cách sở hữu này được gọi là sở hữu cách kép (double possessive).
-            
-            - Examples:
-                
-                **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
-                
-                A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
-                
+**Lưu ý:**
+Đôi khi chúng ta có thể gặp cả hai cấu trúc ’s và **of** trong cùng một câu. Cách sở hữu này được gọi là sở hữu cách kép (double possessive). Examples:
+* **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
+* A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
 
 ## EXERCISES
 - **I. Look at these nouns. Are they countable (C) or uncountable (U)?**
-    
-    
     1. car (C)
-    
     2. work (U)
-    
     3. news (C)
-    
     4. meat (U)
-    
     5. photo (C)
-    
     6. golf (U)
-    
     7. banana (C)
-    
     8. rice (U)
-    
     9. song (C)
     
     10. minute (C)
