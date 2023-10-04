@@ -1,4 +1,4 @@
-# LIÊN TỪ (CONJUNCTION)
+# LIÊN TỪ (CONJUNCTIONS)
 ## Định nghĩa (Definition)
 Liên từ (conjunction) là từ được dùng để nối các từ, cụm từ, mệnh đề hoặc câu. Ex: *and (và), but (nhưng), or (hoặc),...*
 
