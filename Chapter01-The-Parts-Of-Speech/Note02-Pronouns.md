@@ -1,4 +1,4 @@
-# Note02: Pronouns
+# Pronouns
 ## Định nghĩa (Definition)
 Đại từ (pronouns) là từ dùng để thay thế cho danh từ.
 
