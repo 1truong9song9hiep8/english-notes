@@ -1,4 +1,4 @@
-# MAO TỪ (ARTICLES)
+# MẠO TỪ (ARTICLES)
 ## Định nghĩa (Definition)
 Mạo từ (articles) là từ dùng trước danh từ và cho biết danh từ ấy đề cập đến một đối tượng cụ thể hay tổng quát, xác định hay không xác định.
 
