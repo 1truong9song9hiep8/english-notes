@@ -2,7 +2,7 @@
 
 ## Thành lập danh từ (Noun formations)
 1. Một số danh từ được thành lập bằng cách thêm các hậu tố (suffixes) vào sau động từ:
-   1. -tion/ -ation
+   * -tion/ -ation
        * to prevent -> prevention (sự ngăn ngừa)
        * to introduce introduction (sự giới thiệu)
        * to invent -> invention (sự phát minh)
@@ -10,20 +10,20 @@
        * to preserve -> preservation (sự bảo quản)
        * to admire -> admiration (sự ngưỡng mộ) 
 
-    2. -ment
+   * -ment
          * to develop —> development (sự phát triển)
          * to achieve —> achievement (thành tựu)
          * to employ -> employment (việc làm)
          * to disappoint -> disappointment (sự thất vọng)
          * to improve -> improvement (sự cải tiến)
 
-   2. -encel -ance
+   * -encel -ance
       * to exist -> existence (sự tồn tại)
       * to differ —> difference (sự khác nhau)
       * to attend -> attendance (sự tham dự)
       * to appear —> appearance (sự xuất hiện)
 
-   3. -er/ -or (chỉ người/ vật)
+   * -er/ -or (chỉ người/ vật)
       * to drive -> driver (tài xế) 
       * to dry -> dryer (may say)
       * to teach —> teacher (giáo viên)
@@ -32,37 +32,187 @@
       * to instruct -> instructor (huấn luyện viến)
       * to calculate —> calculator (máy tính)
 
-   4. -art -ant/ -ee (chỉ người)
+   * -art -ant/ -ee (chỉ người)
       * to beg -> beggar (người ăn xin)
       * to lie -> liar (kể nói dối)
       * to assist -> assistant (người phụ tá)
       * to employ-> employee (nhân viên)
       * to examine -> examinee (thí sinh)
 
-    5. -ing
-      * to teach ->
-      * to build ->
-      * tounderstand ->
+   * -ing
+      * to teach -> teaching (việc dạy học)
+      * to build -> building (tòa nhà)
+      * tounderstand -> tounderstanding (sự hiểu biết)
     
-    6. -age
-       * to drain to use -> drainage (sự tháo nước) -> usage (cách sử dụng)
+   * -age
+       * to drain -> drainage (sự tháo nước).
+       * to use -> usage (cách sử dụng)
 
-   5. Một số danh từ được thành lập bằng cách thêm các hậu tố (suffixes) vào sau danh từ.
-    1. -ship
-   Ex: friend
-   owner -> friendship (tình bạn) -> ownership (quyền sở hữu)
+2. Một số danh từ được thành lập bằng cách thêm các hậu tố (suffixes) vào sau danh từ.
+   * -ship
+     * friend ->  friendship (tình bạn)
+     * owner -> -> ownership (quyền sở hữu)
    
-   2. -ism (nói về chủ nghĩa hoặc học thuyết)
+   * -ism (nói về chủ nghĩa hoặc học thuyết)
       * capital hero -> capitalism (chủ nghía tư bản) —> heroism (chủ nghĩa anh hùng)
       * Marx ideal -» Marxism (chủ nghĩa Marx) -> idealism (chủ nghĩa duy tâm)
-   
-## Thành lập động từ (Verb Formations)
 
-1. Nhiều động từ được thành lập bàng cách thêm ize hoặc ise vào sau danh từ
-hoặc tính từ.
-Ex: social ->
-modern -> symbol -> socialize (xã hội hóa) modernize (hiện đại hóa) symbolize (tượng 
-trưng cho)
+3. Một số danh từ được thành lập bằng cách thêm các hậu tố vào sau tính từ.
+   * -ity
+      * possible-> possibility (sự có thể, khả năng)
+      * popular-> popularity (tính phổ biến)
+      * responsible-> responsibility (trách nhiệm)
+      * special-> speciality (đặc tính)
+      * real -> reality (thực tế)
+      * national-> nationality (quốc tịch)
+
+   * -ism (chủ nghĩa hoặc chế độ)
+      * racial-> racialism (chủ nghĩa phân biệt chủng tộc)
+      * common-> communism (chủ nghĩa cộng sản)
+      * social -> socialism (chủ nghĩa xã hội)
+      * surreal-> surrealism (chủ nghĩa siêu thực)
+      * feudal -> feudalism (chế độ phong kiến)
+
+   * ***-ness***
+      * rich -> richness (sự giàu có)
+      * happy -> happiness (niềm/ sự hạnh phúc)
+      * sad-> sadness (sự buồn bã)
+      * cold-> coldness (sự lạnh lẽo)
+      * willing -> willingness (sự tự nguyện)
+
+4. Một số danh từ được thành lập bằng cách thêm các tiền tố (prefixes) vào trước một danh từ khác.
+   * ***super-***
+     * man -> superman (siêu nhăn)
+     * market -> supermarket (siêu thị)
+     * star -> superstar (siêu sao)
+     * structure -> superstructure (kiến trúc thượng tầng)
+     * store -> superstore (cửa hàng lớn)
+    
+   * ***under-***
+     * current -> undercurrent (dòng nước ngầm)
+     * groth -> undergrowth (tầng cây thấp)
+     * clothes(quần áo) -> underclothes (quần áo lót)
+     * pass -> underpass (đường ngầm/ chui)
+     * weight —> underweight (nhẹ cân, thiếu cân)
+     * face -> surface (bề mặt, bề ngoài)
+
+   * ***sur***
+     * name -> surname (họ)
+     * plus -> surplus (số thặng dư, số thừa)
+     * tax -> surtax (thuế lợi tức lũy tiến)
+     * way -> subway (đường ngầm)
+     * continet -> subcontinent (tiểu lục địa)
+   
+   * ***sub***
+     * commitee-> subcommittee (phân ban)
+     * contract -> subcontract (hợp đồng phụ)
+     * marine -> submarine (tàu ngầm)
+
+## Thành lập tính từ (Adjective Formations)
+
+1. Một số tính từ được thành lập bằng cách thêm các hậu tố (suffixes) vào sau danh từ.
+   * ***-ful***
+     * harm -> harmful (có hại)
+     * use -> useful (có ích)
+     * success -> successful (có kết quả, thành công)
+     * hope -> hopeful (đầy hy vọng)
+     * beauty -> beautiful (đẹp)
+     * power —> powerful (có/ đầy quyền lực)
+
+   * ***-less (mang nghĩa phủ định)***
+     * child -> childless (không có con)
+     * odor -> odorless (không mùi)
+     * home —> homeless (không nhà, vô gia cư)
+     * life -> lifeless (không có sự sống)
+     * hope -> hopeless (không có hy vọng)
+     * power -> powerless (không có quyền lực)
+
+   * -ly (có vẻ, có tính chất, hàng giờ/ngày/ tháng ...
+     * man —> manly (hợp với đàn ông)
+     * friend friendly (thân thiện)
+     * world -> worldly (có vẻ trần tục)
+     * hour -> hourly (hàng giờ)
+     * year -> yearly (hàng năm)
+     * day -> daily (hàng ngày)
+
+   * ***-ble***
+     * change -> changeable (có thể/ dễ thay đổi)
+     * eat -> eatable (có thể ăn được)
+     * reduct -> reducible (có thể giảm được)
+     * comprehend -> comprehensible (có thể hiểu được)
+
+3. Một số tính từ được thành lập bằng cách thêm tiền tố (prefixes) vào trước tính từ.
+   * ***super-***
+      * human -> superhuman (siêu phàm)
+      * natural -> supernatural (siêu nhiên)
+      * sonic -> supersonic (siêu thanh)
+      * fine -> superfine (siêu hạng, thượng hạng)
+
+   * ***under-***
+      * nourished -> undernourished (thiếu ăn)
+      * developed -> underdeveloped (kém phát triển)
+      * done underdone (nửa sống nửa chín, tái)
+
+   * ***over-***
+      * anxious —> overanxious (quá lo lắng)
+      * confident -> overconfident (quá tự tin)
+      * bearing -> overbearing (độc đoán)
+      * joyed -> overjoyed (quá vui sướng)
+      * crowded —> overcrowded (chật ních, đông nghịt)
+
+   * sub-
+     * conscious -> subconscious (thuộc tiềm thức)
+     * atomic -> subatomic (thuộc hạ nguyên tử)
+
+4. Một số tính từ mang nghĩa phủ định được thành lập bằng cách thêm tiền tố (prefixes) trước tính từ.
+   * ***un***
+     * happy -> unhappy (không hạnh phúc)
+     * fortunate -> unfortunate (không may)
+     * comfortable -> uncomfortable (không thoải mái)
+     * forgettable -> unforgettable (không thể quên)
+     * certain -> uncertain (không chắc chắn)
+
+   * ***in***
+     * direct -> indirect (gián tiếp)
+     * convenient -> inconvenient (bất tiện)
+     * dependent -> independent (độc lập)
+     * formal -> informal (thân mật)
+     * visible -> invisible (vô hình)
+   
+   * ***im- (trước những từ bắt đầu bằng m hoặc p)***
+     * patient -> impatient (thiếu kiên nhẫn)
+     * possible -> impossible (không thể được)
+     * mature -> immature (non nớt, chưa chín chắn)
+     * perfect -> imperfect (không hoàn hảo)
+     * polite -> impolite (vô lễ)
+
+   * **ir- (trước những từ bắt đầu bằng r)***
+     * regular -> irregular (bất thường)
+     * religious —> irreligious (vô đạo)
+     * removable -> irremovable (không thể di chuyển)
+     * rational -> irrational (không hợp lý, phi lý)
+
+5. Một số tính từ kép được thành lập bằng cách kết hợp một danh từ với một quá khứ phân từ (noun + past participle -> Adjective).
+   * nam + made -> man-made (nhân tạo)
+   * hand + made -> hand-made (làm bang tay)
+   * corn + fed -> corn-fed (nuôi bằng ngô)
+   * snow + covered -> snow-covered (phủ đầy tuyết)
+   * horse + pulled -> horse-pulled (do ngựa kéo)
+   * city + run -> city-run (do thành phố quản lý)
+
+7. Ngoài ra ta còn có thể thành lập tính từ bằng cách dùng ***well*** hoặc ***ill*** kết hợp với một quá khứ phân từ (well/ ill + past participle -> Adjective).
+   * well + done -> well-done (nấu kỹ, nấu chín)
+   * well + prepared -> wel-prepared (được chuẩn bị tốt)
+   * well + known -> well-know (nổi tiếng)
+   * ill + prepared -> ill-prepared (được chuẩn bị tồi)
+   * ill + bred -> ill-bred (mất dạy, vô giáo dục)
+   * ill + founded -> ill-founded (vô căn cứ)
+
+## Thành lập động từ (Verb Formations)
+1. Nhiều động từ được thành lập bàng cách thêm ***ize*** hoặc ***ise*** vào sau danh từ hoặc tính từ. Ex:
+   social -> socialize (xã hội hóa)
+   modern -> modernize (hiện đại hóa)
+   symbol -> symbolize (tượng trưng cho)
 Ex: legal logical 
 literate liberal
 f. dis-
@@ -100,9 +250,8 @@ ill-bred (mất dạy, vô giáo dục) ill-founded
 >
 ->
 ->
-2. Một số động từ được thành lập bằng cách thêm tiền tố out- (ở mức độ cao hơn, tốt hơn, nhanh 
-hơn, dài hơn, v.v.) vào nội động từ (intransitive verb) để tạo thành một ngoại động từ (transitive 
-verb).
+
+2. Một số động từ được thành lập bằng cách thêm tiền tố out- (ở mức độ cao hơn, tốt hơn, nhanh hơn, dài hơn, v.v.) vào nội động từ (intransitive verb) để tạo thành một ngoại động từ (transitive  verb).
 Ex: grow live 
 run weigh 
 number bid
@@ -182,7 +331,8 @@ c. super￾Ex: impose
 intend pose 
 charge 
 abound
-IV. Thành lập trạng từ {Adverb Formations)
+
+## Thành lập trạng từ {Adverb Formations)
 Trạng từ thường được thành lập bằng cách thêm hậu tố -ly vào sau tính từ.
 Ex: beautiful -> 
 careless -> bad -> 
