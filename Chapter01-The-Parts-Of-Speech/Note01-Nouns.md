@@ -559,49 +559,31 @@ Ex: the train’s heating system/ the heating system of the train *(hệ thống
 - Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
 Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
         
-        ****Cụm từ chỉ tiền bạc (money) hoặc giá trị (worth).
+****Cụm từ chỉ tiền bạc (money) hoặc giá trị (worth). Ex:
+* a pound’s worth of stamps *(các con tem trị giá một bảng Anh)* fifty dollars’ worth of picture *(bức tranh giá 50 dô la)*
         
-        Ex: a pound’s worth of stamps *(các con tem trị giá một bảng Anh)* fifty dollars’ worth of picture *(bức tranh giá 50 dô la)*
+****Một số cụm từ khác
+* a yard’s distance *(khoảng cách một thước Anh)*
+* for God’s sake *(vì lòng kính Chúa)*
+* death’s door *(của tử, sắp chết)*
+* for children’s sake *(vì lòng yêu trẻ)*
+* journey’s end *(cuối chuyến đi)*
+* a stone’s throw *(một khoáng cách ngắn)* the water’s edge *(mép nước)*
         
-        - ****Một số cụm từ khác
-        
-        a yard’s distance *(khoảng cách một thước Anh)*
-        
-        for God’s sake *(vì lòng kính Chúa)*
-        
-        death’s door *(sắp chết)*
-        
-        for children’s sake *(vì lòng yêu trẻ)*
-        
-        journey’s end *(cuối chuyến đi)*
-        
-        a stone’s throw *(một khoáng cách ngắn)* the water’s edge *(mép nước)*
-        
-        **Lưu ý:**
-        
-        Sở hữu cách (’s) là cách dùng bắt buộc khi danh từ chỉ chủ sở hữu là tên người (Tom, Susan, John,...).
-        
-        Ex: John’s house (NOT the house of John)
-        
-        *But:* The houses **of** London. [NOT London’s houses]
+**Lưu ý:**
+Sở hữu cách (’s) là cách dùng bắt buộc khi danh từ chỉ chủ sở hữu là tên người (Tom, Susan, John,...). Ex: John’s house (NOT the house of John) *But:* The houses **of** London. [NOT London’s houses]
         
         - Có thể dùng sở hữu cách (’s) mà không có danh từ chính theo sau khi:
         
-        + Danh từ chính là một trong các từ *shop, school, house, church, hospital, office, surgery, firm.*
-        
-        Ex: He is going to **the doctor’s** *(Anh ta sẽ đi bác sĩ.)* [= the doctor’s **surgery]**
-        
-        We had lunch at **Bill’s.** *(Chúng tôi ăn trưa ở nhà Bill.)* [= Bill’s **house]**
-        
-        You can buy it at **the butcher’s.** *(Bạn có thể mua nó ở cửa hàng thịt.)* [= the butcher’s **shop]**
-        
-        She got married at **st. Joseph’s.** *(Cô ấy kết hôn tại nhà thờ Thánh Joseph.)* [= st Joseph’s **church]**
-        
-        + Danh từ chính đã được nói đến trước hoặc sắp được nói đến.
-        
-        Ex: This isn’t my book. It’s my **brother’s.** *(Đây không phải là sách của tôi. Đây là sách của anh tôi.)* [= my brother’s **book]**
-        
-        **Susan’s** is the only house that was painted violet. *(Nhà của Susan là ngôi nhà duy nhất sơn màu tím.)* [= Susan’s **house]**
+Danh từ chính là một trong các từ *shop, school, house, church, hospital, office, surgery, firm.* Ex:
+* He is going to **the doctor’s** *(Anh ta sẽ đi bác sĩ.)* [= the doctor’s **surgery]**
+* We had lunch at **Bill’s.** *(Chúng tôi ăn trưa ở nhà Bill.)* [= Bill’s **house]**
+* You can buy it at **the butcher’s.** *(Bạn có thể mua nó ở cửa hàng thịt.)* [= the butcher’s **shop]**
+* She got married at **st. Joseph’s.** *(Cô ấy kết hôn tại nhà thờ Thánh Joseph.)* [= st Joseph’s **church]**
+
+Danh từ chính đã được nói đến trước hoặc sắp được nói đến. Ex:
+* This isn’t my book. It’s my **brother’s.** *(Đây không phải là sách của tôi. Đây là sách của anh tôi.)* [= my brother’s **book]**
+* **Susan’s** is the only house that was painted violet. *(Nhà của Susan là ngôi nhà duy nhất sơn màu tím.)* [= Susan’s **house]**
 
 2. Cách dùng ***of + danh từ*** (of + noun)
 Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas). Ex:
@@ -628,7 +610,7 @@ Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page to
 * A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
 
 ## EXERCISES
-- **I. Look at these nouns. Are they countable (C) or uncountable (U)?**
+**I. Look at these nouns. Are they countable (C) or uncountable (U)?**
     1. car (C)
     2. work (U)
     3. news (C)
@@ -637,70 +619,43 @@ Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page to
     6. golf (U)
     7. banana (C)
     8. rice (U)
-    9. song (C)
-    
-    10. minute (C)
-    
+    9. song (C) 
+    10. minute (C)  
     11. music (U)
-    
     12. flower (U)
-    
     13. money (U)
-    
     14. ship (C)
-    
     15. advice (C)
-    
     16. love (U)
-    
     17. furniture (U)
-    
     18. electricity (U)
-    
     19. water (U)
-    
     20. meal (U)
-    
-- **II. Complete the sentences, using one of the following words. Use a/an where necessary. (accident apple milk coat sugar key electricity sand luck cheese blood letter moment music interview)**
+
+**II. Complete the sentences, using one of the following words. Use a/an where necessary. (accident apple milk coat sugar key electricity sand luck cheese blood letter moment music interview)**
     1. It wasn’t your fault. It was *an accident.*
     2. You’d better drink hot *milk* before going to bed.
     3. I couldn’t get into the house because I didn’t have ***a key***.
     4. Do you take ***sugar*** in your tea?
     5. The heart pumps ***blood*** through the body.
     6. John has got ***an interview*** for job tomorrow morning.
-    
     7. I didn’t phone you. I wrote ***a letter*** instead.
-    
     8. I’m not ready yet. Can you wait ***a moment*** , please?
-    
-    9. It’s very warm today. Why are you wearing a coat?
-    
+    9. It’s very warm today. Why are you wearing a coat
     10. Good luck in your new job.
-    
     11. Listen! Can you hear the music ?
-    
     12. Power station produce the electricity.
-    
     13. Are you hungry? Would you like an apple ?
-    
     14. Is there cheese in this soup?
-    
     15. Wait! There’s sand in my shoes.
-    
 
 **III. Complete the postcard. Choose the correct form.**
-
-The island is very peaceful. (0) Life/ A-life is good here. Everybody moves at a nice slow pace. People
-
-have (1) time/ a time to stop and talk. It’s (2) experience/ an experience I won’t forget a long time. There
-
-aren’t many shops, so I can’t spend all my money, although I did buy (3) painting/ a painting yesterday.
-
-Now I’m sitting on the beach reading (4) paper/ a paper. The hotel breakfast is so enormous that I don’t
-
-need to have lunch. I’ve just brought (5) orange/ an orange with me to eat later. I’ve been trying all the
-
-different (6) fruit/ fruits grown in this part of the world, and they’re all delicious.
+            The island is very peaceful. (0) Life/ A-life is good here. Everybody moves at a nice slow pace. People
+            have (1) time/ a time to stop and talk. It’s (2) experience/ an experience I won’t forget a long time. There
+            aren’t many shops, so I can’t spend all my money, although I did buy (3) painting/ a painting yesterday.
+            Now I’m sitting on the beach reading (4) paper/ a paper. The hotel breakfast is so enormous that I don’t
+            need to have lunch. I’ve just brought (5) orange/ an orange with me to eat later. I’ve been trying all the
+            different (6) fruit/ fruits grown in this part of the world, and they’re all delicious.
 
 ### IV. Which of the underlined part of these sentences is correct?**
 1. Did you hear neise/ a noise iust now?
@@ -966,63 +921,29 @@ _ a
 14.1 heard an interesting piece of information.
 15. Has the police arrived yet?
 
-### X. What do we call these things and people? Use the structure noun + noun.
-
+X. What do we call these things and people? Use the structure noun + noun.
 1. A station from which trains leave is *a train station.*
-
 2. Shoes made of leather are________________ .
-
 3. A boy who is five years old is _______________ .
-
 4. Clothes for working in are _______________ .
-
 5. Somebody whose job is to inspect factories is ______________ .
-
 6. The carpet in the dining room is_________________.
-
 7. The Director of Marketing is _________________.
-
 8. A bottle containing medicine and made of glass is _______________ .
-
 9. Shops that sell shoes are _________________ .
-
 10. A card that gives you credit is _______________ .
 
-**XI. Answer the questions using two of the following words each time.**
-
-**accident belt card credit editor frying**
-
-**forecast**
-
-**newspaper**
-
-**number pan road room seat shop weather**
-
-**window**
-
+XI. Answer the questions using two of the following words each time.****accident belt card credit editor frying****forecast****newspaper****number pan road room seat shop weather****window**
 1. This can be caused by bad driving. A *road accident*
-
 2. *If* you’re staying at a hotel, you need to remember this. Your ____________
-
 3. You should wear this when you’re in a car. A _____________________
-
 4. You can sometimes use this to pay for things instead of cash. A ____________
-
 5. If you want to know if it’s going to rain, you can read or listen to this. The ________________
-
 6. This person is a top journalist. A _____________
-
 7. You might stop to look in this when you’re walking along a street. A __________________
-
 8. This can be used for cooking. A______________
 
-**XII. Complete the sentences, using one of the following. Sometimes you need the singular (day/**
-
-**page...} and sometimes the plural (days/ pages ...}.**
-
-**15minute(s) twohour(s) fiveday(s) 60minute(s) sixmile(s) 500year(s) 20pound(s) tenpage(s)**
-
-**450page(s) twoyear(s) five course(s) 15year(s)old**
+XII. Complete the sentences, using one of the following. Sometimes you need the singular (day/****page...} and sometimes the plural (days/ pages ...}.** **15minute(s) twohour(s) fiveday(s) 60minute(s) sixmile(s) 500year(s) 20pound(s) tenpage(s)****450page(s) twoyear(s) five course(s) 15year(s)old**
 1. It’s quite a long book. There are *450pages .*
 2. A few days ago I received a *ten-page* letter.
 3. I didn’t have any change. I only had a ____________note.
@@ -1035,7 +956,8 @@ _ a
 10. 10. I work__________ a week. Saturday and Sunday are free.
 11. We went for a __________ walk in the country.
 12. I teach English for two ______________girls.
-### XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have** **to use *of.***
+
+XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have** **to use *of.***
 1. the mistake/ the policeman <br>*the policeman’s mistake*
 2. the bottom/ the bottle. <br> *the bottbm of the bottle*
 3. the daughter/ Mr Hill
@@ -1056,7 +978,8 @@ _ a
 18. the middle/ the night
 19. the room/ my sisters
 20. the door/ the garage
-### XIV. Rewrite the underlined phrases, using a possessive form. (Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.)
+
+XIV. Rewrite the underlined phrases, using a possessive form. (Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.)
 1. The storm last week caused a lot of damage. <br> *Last week’s storm caused a lot of damage.*   
 2. The meeting tomorrow has been cancelled. <br> *Tomorrow’s meeting has been cancelled.*
 3. The only cinema in the town has closed down. <br> The only cinema of the town has closed down.
