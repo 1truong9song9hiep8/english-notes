@@ -258,69 +258,45 @@ Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* ri
 
 ### Chức năng của danh từ (Functions of Nouns)
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
-* *Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*<br>
-  Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
+
+1. Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
+   * Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
+
+3. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence), Ex:
+   * I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
+   * The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object), a lot of questions -> tân ngữ trực tiếp (direct object)]
+
+   * Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
+   * Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
     
-- **2. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence)**
+4. Tân ngữ của giới từ (Object of a preposition), He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
+   * Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
     
-    **Ex: I saw the thief.** *(Tôi đã thấy tên trộm.)*
+5. Bổ ngữ của chủ ngữ (Subjective complement), Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
+   * Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
     
-    [the thief → tân ngữ trực tiếp (direct object)]
+6. Bổ ngữ của tân ngừ (Objective complement), Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
+   * Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
     
-    The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* 
+7. Một phần của ngữ giới từ (Part of prepositional phrases), Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
     
-    [the thief -> tân ngữ gián tiếp (indirect object), a lot of questions -> tân ngữ trực tiếp (direct object)]
-    
-    - Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
-    
-    - Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
-    
-- **3. Tân ngữ của giới từ (Object of a preposition)**
-    
-    He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
-    
-    - Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
-    
-- **4. Bổ ngữ của chủ ngữ (Subjective complement)**
-    
-    Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
-    
-    - Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
-    
-- **5. Bổ ngữ của tân ngừ (Objective complement)**
-    
-    Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
-    
-    Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
-    
-- **6. Một phần của ngữ giới từ (Part of prepositional phrases)**
-    
-    Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
-    
-- **Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị)**
-    
-    Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
+8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
 ### Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
-- **1. Động từ số ít (Singular verbs)**
-    
-    Động từ số ít thường được dùng khi chủ ngữ là:
-    
-    - a. Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun).
+1. Động từ số ít (Singular verbs)
+   Động từ số ít thường được dùng khi chủ ngữ là:
+
+   * Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun). Ex:
+     * This **book is** very interesting. *(Cuốn sách này rất hay.)*
+     * **Traffic is** always busy at this time of day. *(Vào thời điểm này trong ngày xe cộ luôn đông đúc.)*
+
+   * Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng. Ex:
+     * **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
+     * **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
         
-        Ex: This **book is** very interesting. *(Cuốn sách này rất hay.)*
-        
-        **Traffic is** always busy at this time of day. *(Vào thời điểm này trong ngày xe cộ luôn đông đúc.)*
-        
-    - b. Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng.
-        
-        Ex: **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
-        
-        **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
-        
-    - c. *Each, Every, Either, Neither* + danh từ số ít (singular noun)
+    * *Each, Every, Either, Neither* + danh từ số ít (singular noun)
         
         - **Every seat has** a number. *(Mỗi ghế đều có số.)*
         
@@ -411,66 +387,46 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         **Smoking is** harmful to your health. *(Hút thuốc có hại cho sức khỏe của bạn.)*
         
-- **2. Động từ số nhiều (Plural verbs)**
-    
-    Động từ số nhiều thường được dùng khi chủ ngữ là:
-    
-    - a. Danh từ số nhiều (plural noun).
+2. Động từ số nhiều (Plural verbs)
+   Động từ số nhiều thường được dùng khi chủ ngữ là:
+
+   a. Danh từ số nhiều (plural noun). Ex:
+   * These **books are** very interesting. *(Những cuốn sách này rất hay.)*
+   * The **goods have** been sent to you direct from our factory. *(Hàng đã dược gửi thẳng đến cho bạn từ nhà máy của chúng tôi.)*
+
+   b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau. Ex:
+   * **My best friend and my adviser are** arriving tonight. *(Bạn thân của tôi và cô vấn của tôi tối nay sẽ đến.)*
+   * **Water and oil don’t** mix. *(Nước và dầu khỗng thể hòa tan với nhau.)*
+   
+   c. *The* + tính từ (adjective) -> danh từ (noun), Ex:
+      * **The rich are** not always happy. *(Người giàu không phải lúc nào củng hạnh phúc.)*
+      * After the accident, **the injured were** taken to hospital. *(Sau tai nạn, những người bị thương được đưa vào bệnh viện.)*
         
-        Ex: These **books are** very interesting. *(Những cuốn sách này rất hay.)*
+   d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun), Ex:
+      * **Some books** I bought yesterday **are** in English. *(Một số sách tôi đã mua hôm qua là sách tiếng Anh.)*
+      * **All the seats have** a number. *(Tất cả các ghế đều có số.)*
         
-        The **goods have** been sent to you direct from our factory. *(Hàng đã dược gửi thẳng đến cho bạn từ nhà máy của chúng tôi.)*
+   e. Các danh từ tập hợp *police, people, cattle.*Ex:
+   * **The police have** warned motorists to take extra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
+   * **The cattle are** suffering from a disease called BSE. (Bò *đang bị một căn bệnh gọi là BSE.)* [NOT The cattle is ...J
         
-    - b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau.
-        
-        Ex: **My best friend and my adviser are** arriving tonight. *(Bạn thân của tôi và cô vấn của tôi tối nay sẽ đến.)*
-        
-        **Water and oil don’t** mix. *(Nước và dầu khỗng thể hòa tan với nhau.)*
-        
-    - c. *The* + tính từ (adjective) -> danh từ (noun)
-        
-        Ex:
-        
-        **The rich are** not always happy. *(Người giàu không phải lúc nào củng hạnh phúc.)*
-        
-        After the accident, **the injured were** taken to hospital. *(Sau tai nạn, những người bị thương được đưa vào bệnh viện.)*
-        
-    - d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun)
-        
-        Ex:
-        
-        **Some books** I bought yesterday **are** in English. *(Một số sách tôi đã mua hôm qua là sách tiếng Anh.)*
-        
-        **All the seats have** a number. *(Tất cả các ghế đều có số.)*
-        
-    - e. Các danh từ tập hợp *police, people, cattle.*
-        
-        Ex: **The police have** warned motorists to take extra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
-        
-        **The cattle are** suffering from a disease called BSE. (Bò *đang bị một căn bệnh gọi là BSE.)* [NOT The cattle is ...J
-        
-- **3. Động từ số ít hay số nhiều? (Singular or plural verbs?)**
+3. Động từ số ít hay số nhiều? (Singular or plural verbs?)
     - a. Các danh từ tập hợp (collective nouns) như: *family, team, government, staff, class, firm, crowd, public, orchestra, club, committee, audience, band, the BBC, the United Nations,...* (ngoại trừ *police, cattle, people)* có thể được dùng với động từ số ít hoặc số nhiều (tùy theo ý người nói muốn diễn đạt).
         
-        Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
+Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
         
         Danh từ tập hợp đi với động từ số nhiều nếu người nói muốn nhấn mạnh đến các thành phần hoặc bộ phận của tập hợp này.
         
-        Ex: Our **team is** the best. **It** has a good chance of winning. *(Đội chúng tôi là dội hay nhất. Đội chúng tôi có cơ hội thắng trận.)* -> đội bóng
-        
-        Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* tất cả các cầu thủ trong đội
-        
-        **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.)*
+        Ex:
+      * Our **team is** the best. **It** has a good chance of winning. *(Đội chúng tôi là dội hay nhất. Đội chúng tôi có cơ hội thắng trận.)* -> đội bóng
+      * Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* tất cả các cầu thủ trong đội
+      * **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.)*
         
         - > các thành viên trong gia đình
         
         The average British **family has** 3.6 members.
         
-        *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung) Trong tiếng Anh của
-        
-        người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả
-        
-        các trường hợp *{family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng.
+        *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung) Trong tiếng Anh của người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả các trường hợp *{family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng.
         
         Ex: The team **is** in Detroit this weekend. **They** have a good chance of winning.
         
@@ -478,11 +434,9 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         **(Noun, + with/ along with/ as well as... + Noun2 + Verb (Noun,))**
         
-        Ex:
-        
-        The Managing Director, **together with** his heads of department, **is** coming to the meeting. *(Giám đốc điều hành cùng với các trưởng ban sẽ đến dự cuộc họp.)*
-        
-        The horses **as well as** the horse-breaker **are** in the racecourse now. *(Hiện giờ, những con ngựa củng như người dạy ngựa đang ở trường đua.)*
+      Ex:
+      * The Managing Director, **together with** his heads of department, **is** coming to the meeting. *(Giám đốc điều hành cùng với các trưởng ban sẽ đến dự cuộc họp.)*
+      * The horses **as well as** the horse-breaker **are** in the racecourse now. *(Hiện giờ, những con ngựa củng như người dạy ngựa đang ở trường đua.)*
         
     - c. Hai danh từ/ đại từ kết hợp với nhau bằng: *or, either ... or, neither ... nor, not ... but, not only ... but also* -> động từ được chia theo danh từ/ đại từ thứ hai.
         
@@ -491,38 +445,28 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         **Not only but also**
         
         Ex:
+      * The room is too crowded - two chairs **or a table has** to be moved out. *(Căn phòng quá chật - hai cái ghế hoặc một cái bàn phải được chuyển ra ngoài.)*
+      * **Either** you **or I am** right. *(Hoặc anh đúng hoặc tôi đúng.)*
+      * **Neither** she **nor her daughters have** arrived. *(Cả bà ấy lẫn các con gái của bà ấy đều chưa đèn.)*
+      * **Not Tom but his parents live here.** *(Không phải Tom mà là cha mẹ anh 'ấy sống ở dây.)*
+      * **Not only** the bathroom **but also the rest of the house was** flooded. *(Không chỉ phòng tắm mà toàn bộ ngôi nhà đều bị ngập nước.)*
         
-        The room is too crowded - two chairs **or a table has** to be moved out. *(Căn phòng quá chật - hai cái ghế hoặc một cái bàn phải được chuyển ra ngoài.)*
-        
-        **Either** you **or I am** right. *(Hoặc anh đúng hoặc tôi đúng.)*
-        
-        **Neither** she **nor her daughters have** arrived. *(Cả bà ấy lẫn các con gái của bà ấy đều chưa đèn.)*
-        
-        **Not Tom but his parents live here.** *(Không phải Tom mà là cha mẹ anh 'ấy sống ở dây.)*
-        
-        **Not only** the bathroom **but also the rest of the house was** flooded. *(Không chỉ phòng tắm mà toàn bộ ngôi nhà đều bị ngập nước.)*
-        
-        + Khi hai danh từ số ít được kết hợp bằng *neither... nor* thì động từ thường chia ở số nhiều, nhưng
-        
-        động từ số ít cũng có thể được dùng trong lối ván trang trọng.
-        
-        Ex: **Neither** she **nor** her daughter **have** arrived, (informal)
-        
-        **Neither** she **nor** her daughter **has** arrived, (formal)
+        + Khi hai danh từ số ít được kết hợp bằng *neither... nor* thì động từ thường chia ở số nhiều, nhưng động từ số ít cũng có thể được dùng trong lối ván trang trọng. Ex:
+        * **Neither** she **nor** her daughter **have** arrived, (informal)
+        * **Neither** she **nor** her daughter **has** arrived, (formal)
         
     - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb) Ex:
-    - * **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
+      * **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
       * *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
       * Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
         
-    - e. Chủ từ là một cụm danh từ được kết hợp bởi hai danh từ -» động từ chia với danh từ thứ nhất.
-        **( Noun Ị + preposition + Noun2 <• Verb (Noun^**
+    - e. Chủ từ là một cụm danh từ được kết hợp bởi hai danh từ -» động từ chia với danh từ thứ nhất. **( Noun Ị + preposition + Noun2 <• Verb (Noun^**
         Ex: **A box** of cigarettes **contains** 20 pipes. *(Một hộp thuôc lá có 20 điêu.)* **The effects** of stress **are**
         very serious. *(Những ảnh hưởng của việc căng thẳng thần kinh là rất nghiêm trọng.)*
         
     - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,* the remainder + **of*** được dùng với:
         - động từ số ít nếu danh từ theo sau ở số ít.
-        - động từ số nhiều nếu danh từ theo sau ở số nhiều.________________________
+        - động từ số nhiều nếu danh từ theo sau ở số nhiều.
         
         **All, Some, Plenty,**
         
@@ -541,13 +485,13 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         —————
         
         Ex:
-        Some of the **apples were** rotten. *(Một vài quả táo đã bị thôi.)*
-        Some of the **milk was** sour. *(Một ít sữa đã bị chua.)*
-        **A** lot of **time is** needed to learn a language. *(Học một ngôn ngữ cần rất nhiều thời gian.)*
-      A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
+      * Some of the **apples were** rotten. *(Một vài quả táo đã bị thôi.)*
+      * Some of the **milk was** sour. *(Một ít sữa đã bị chua.)*
+      * **A** lot of **time is** needed to learn a language. *(Học một ngôn ngữ cần rất nhiều thời gian.)*
+      * A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
         
     - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb) Ex:
-    - * No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
+      * No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
       * No **people think** alike. *(Không ai suy nghĩ giống ai.)*
     
     - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)* sau nó.
