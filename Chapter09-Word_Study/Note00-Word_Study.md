@@ -280,17 +280,20 @@ nervously (bồn chồn, lo lắng)
 I have a little knowledge about genetics. (Tôi biết chút ít về di truyền học)
 Most boys like playing football. (Phần lớn các cậu bé đều thích chơi bóng dá.)
 
-# Dưới đây là các cách nhận biết từ loại của một từ khi làm bài tập.
-1. Danh từ (nouns): Danh từ thường được đặt ở các vị trí sau:
-   * Chủ ngữ của câu (Subject of sentence) Ex:
-     * Computers are being used in all kinds of work. (Máy tính được sử dụng trong tất cả các loại công việc.)
+## Dưới đây là các cách nhận biết từ loại của một từ khi làm bài tập.
+
+### Danh từ (nouns)
+Danh từ thường được đặt ở các vị trí sau:
+
+1. Chủ ngữ của câu (Subject of sentence) Ex:
+  * Computers are being used in all kinds of work. (Máy tính được sử dụng trong tất cả các loại công việc.)
      * Maths is the subject I like best. (Toán là môn học tôi thích nhất.)
 
-   * Sau tính từ hoặc tính từ sở hữu (his, my, her, ...) Ex:
+2. Sau tính từ hoặc tính từ sở hữu (his, my, her, ...) Ex:
      * She is a good teacher. (Cô ấy là giáo viên giỏi.) [adj + noun]
      * I parked my car across the road. (Tôi đỗ xe bên kia đường.)
 
-   * Sau enough.Ex:
+3. Sau enough.Ex:
      * He hasn’t got enough patience to wait. (Anh ấy không đủ kiên nhẫn để đợi.)
 
    * Sau các mạo từ a, an, the, hoặc các từ hạn định this, that, these, those, each, every, both, no, ...Ex:
@@ -298,9 +301,9 @@ Most boys like playing football. (Phần lớn các cậu bé đều thích chơ
      * This friend of hers is said to be very rich. (Nghe nói người bạn này của cô ta rất giàu.)
      * She can find no solution to her financial troubles. (Bà ấy không tìm được cách giải quyết những khó khăn về tài chính.)
 
-  * Lưu ý cấu trúc a/ an/ the + aơị + noun Ex: It's such a long time since I saw you. (Đã lâu lắm rồi tôi mới gặp lại bạn.)
+Lưu ý cấu trúc a/ an/ the + aơị + noun Ex: It's such a long time since I saw you. (Đã lâu lắm rồi tôi mới gặp lại bạn.)
 
-  * Sau giới từ (in, on, of, with, ...) Ex:
+4. Sau giới từ (in, on, of, with, ...) Ex:
     * The robbery is under investigation. (Vụ cướp đang được điều tra.)
     * He has a good knowledge of science. (Anh ấy giỏi về khoa học tự nhièn.)
 
