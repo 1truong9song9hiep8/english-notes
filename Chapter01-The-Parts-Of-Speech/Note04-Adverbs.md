@@ -1,16 +1,20 @@
-I. ĐỊnh nghĩa (Definition)
+# ADVERB (ĐẠI TỪ)
+
+## Định nghĩa (Definition)
 Đại từ (pronouns) là từ dùng để thay thế cho danh từ.
-II. Các loại đại từ (Kinds of pronouns)
-Đại từ nhân xưng (personal pronouns)
-Đại từ sở hữu (possessive pronouns)
-Đại từ phản thân và đại từ nhấn mạnh (reflexive and emphatic pronouns)
+
+## Các loại đại từ (Kinds of pronouns)
+- Đại từ nhân xưng (personal pronouns)
+- Đại từ sở hữu (possessive pronouns)
+- Đại từ phản thân và đại từ nhấn mạnh (reflexive and emphatic pronouns)
 - Đại từ chỉ định (demonstrative pronouns)
 - Đại từ nghi vấn (interrogative pronouns)
-Đại từ liên hệ (relative pronouns)
-Đại từ phân bổ (distributive pronouns)
-Đại từ bất định (indefinite pronouns)
-Đại từ hỗ tương (reciprocal pronouns)
-1. Đại từ nhân xưng (Personal pronouns)
+- Đại từ liên hệ (relative pronouns)
+- Đại từ phân bổ (distributive pronouns)
+- Đại từ bất định (indefinite pronouns)
+- Đại từ hỗ tương (reciprocal pronouns)
+
+### Đại từ nhân xưng (Personal pronouns)
 Đại từ nhân xưng là các đại từ được dùng để chỉ người, vật, nhóm người hoặc vật cụ thể.
 a. Hình thức (Form)
 Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ you
@@ -70,8 +74,7 @@ Ex: ~ Did you see the snake? (Anh có nhìn thấy con rắn không'?)
 ~ Yes, I saw it and it saw me, too. (Có, tồi thấy nó và nó cũng thấy tôi.) ~ Did it frighten you? 
 (Nó có làm anh sợ không?)
 ^rLKu ý: Hình thức tân ngữ thường được dùng khi đại từ đứng một mình hoặc sau be.
-Ex: Who spilt coffee all over the table? ~ Me./ Sorry, it was me.
-(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.)
+Ex: Who spilt coffee all over the table? ~ Me./ Sorry, it was me. (Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.)
 But Who spilt coffee all over the table? ~ I did.
 * Một số cách dùng của ừ
 - It thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết 
@@ -107,12 +110,9 @@ nguyên mẫu, một danh động từ hoặc một mệnh đề ở cuối câu
 Ex: It was impossible to get a taxi at that time.
 (Vào giờ dó không thể nào đón được taxi.)
 [To get a taxi was impossible at that time.]
-It’s always sad saying goodbye to someone you love.
-(Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.) [Saying goodbye to 
-someone you love is always sad.]
-It’s a pity that you can’t come with US.
-(Tiếc là bạn không thể đi với chúng tôi.)
-[That you can’t come with US is a pity.]
+It’s always sad saying goodbye to someone you love. (Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.) [Saying goodbye to someone you love is always sad.]
+It’s a pity that you can’t come with US. (Tiếc là bạn không thể đi với chúng tôi.)[That you can’t come with US is a pity.]
+
 - It còn được sử dụng như một tân ngữ giả (formal object), theo sau nó là một tính từ hoặc danh từ 
 được bổ nghĩa bởi cụm từ hay mệnh đề.
 Ex: I found it difficult to explain this to him.
@@ -131,7 +131,8 @@ all day for him.
 When I see him, I’ll have it out with him.
 (Gặp nó tôi sẽ nói cho nó vỡ lẽ ra mới được). If the teacher sees you doing that, you’ll 
 catch it. (Thầy mà thấy mày làm vậy thì mày liệu hồn).
-2. Đại từ sở hữu (Possessive pronouns)
+
+### Đại từ sở hữu (Possessive pronouns)
 Đại từ sở hừu (possessive pronouns) là hình thức sở hữu của đại từ nhân xưng (personal pronouns), 
 được dùng để chỉ vật gì thuộc về người nào đó.
 a. Hình thức (Form)
@@ -154,8 +155,8 @@ Ex: Tom is a friend of mine. (Tom là một người bạn của tôi.)
 [a friend of mine = one of my friends]
 I borrowed some magazines of yours. (Tôi đã mượn một số tạp chí của bạn.) [some 
 magazines of yours = some of your magazines]
-3. Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic
-Pronouns)
+
+### Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic Pronouns)
 a. Hình thức (Form)
 Đại từ phản thân và đại từ nhấn mạnh có chung hình thức.
 PERSONAL PRONOUNS (Đại 
@@ -292,11 +293,11 @@ hoặc lựa chọn.
 Ex: I don’t like these sweaters. I prefer those (ones) over there.
 (Tôi không thích những chiếc áo len này. Tôi thích những chiếc ở đằng kia hơn.)
 This (one) looks the nicest. (Cái này có vẻ đẹp nhất.)
-5. Đại từ nghi vấn (Interrogative pronouns)
-Đại từ nghi vấn là các đại từ dùng để hỏi như: who, whom, whose, what, which. Các đại từ nghi 
-vấn thường đứng đầu câu và luôn đi trước động từ.
-Ex: What do you want? (Bạn muốn gì?)
-Whose is the red car? (Chiếc ô tô màu đỏ của ai vậy1?)
+
+### Đại từ nghi vấn (Interrogative pronouns)
+Đại từ nghi vấn là các đại từ dùng để hỏi như: who, whom, whose, what, which. Các đại từ nghi vấn thường đứng đầu câu và luôn đi trước động từ. Ex:
+* What do you want? (Bạn muốn gì?)
+* Whose is the red car? (Chiếc ô tô màu đỏ của ai vậy1?)
 a. Who (ai)', là đại từ nghi vấn dùng cho người, để hỏi tên, nét nhận dạng, hoặc chức năng của 
 một hay nhiều người. Who có thể được dùng làm:
 - Chủ ngữ của động từ (subject of a verb)
@@ -394,6 +395,7 @@ What được dùng khi có sự lựa chọn rộng rãi - không bị giới h
 định.
 Ex: What would you like to drink? (Anh muôh uống gì?)
 [NOT Which would you like to drink?]
+
 6. Đại từ quan hệ (Relative pronouns)
 Các đại từ who, whom, whose, which, that là các đại từ quan hệ được dùng để thay cho danh từ đi 
 trước và đồng thời có chức năng nối mệnh đề chính với mệnh đề phụ trong mệnh đề liên hệ (relative 
@@ -557,16 +559,15 @@ người đường đến ga, nhưng chẳng người nào biết cả.)
 trong lối văn thẫn mật động từ số nhiều (plural verb) cũng có thể được dùng Ex: Neither of 
 my sisters is/ are married. (Cả hai người chị của tôi đều chưa kết hôn.)
 Does/ Do either of you like strawberries? (Cả hai bạn đều thích dâu phải không?)
-8. Đại từ bất định (Indefinite pronouns)
+
+### Đại từ bất định (Indefinite pronouns)
 Các đại từ bất định trong tiếng Anh gồm có:
-some something someone somebody somewhere
-any anything anyone anybody anywhere
-everything everyone ■everybody
-none nothing no one nobody
+* some something someone somebody somewhere
+* any anything anyone anybody anywhere
+* everything everyone ■everybodynone nothing no one nobody
+
 a. Some, any và none
-Soìne và any đều được dùng để chỉ số lượng bất định của người hoặc vật khi không cần hoặc 
-không thể nêu rõ con số chính xác là bao nhiêu. None được dùng để diễn đạt không một ai, không 
-một cái gì/ điều gì trong một nhóm người hoặc vật.
+some và any đều được dùng để chỉ số lượng bất định của người hoặc vật khi không cần hoặc không thể nêu rõ con số chính xác là bao nhiêu. None được dùng để diễn đạt không một ai, không một cái gì/ điều gì trong một nhóm người hoặc vật.
 • Some (một vài, một số): được dùng thay cho danh từ đếm được ở số nhiều và danh từ không đếm 
 được trong câu khẳng định.
 Ex: Some were at the meeting yesterday.
@@ -577,14 +578,10 @@ The children are in the park. Some are playing hide-and-seek.
 (Bọn trẻ đang ở trong công viên. Một vài đứa đang chơi trốn tìm.)
 - Some có thể được dùng trong câu hỏi chờ đợi câu trả lời ‘đồng ý’, nhất là trong lời mời hoặc câu 
 yêu cầu.
-Ex: Do you want some help with your homework? ~ Yes, please!
-(Bạn có muốn tôi giúp bạn làm bài tập không'? -Váng, giúp tôi nhé!) [Người nói biết người 
-nghe cần sự giúp đỡ]
-I’ve got too much strawberries. Would you like some?
-(Tôi có nhiều dâu lắm. Anh lấy một ít nhé?)
-- Some of được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định hoặc 
-trước dạng tân ngữ của đại từ nhân xưng. Động từ theo sau có thể ở số ít hoặc số nhiều tùy thuộc 
-vào danh từ.
+Ex: Do you want some help with your homework? ~ Yes, please! (Bạn có muốn tôi giúp bạn làm bài tập không'? -Váng, giúp tôi nhé!) [Người nói biết người nghe cần sự giúp đỡ]
+I’ve got too much strawberries. Would you like some? (Tôi có nhiều dâu lắm. Anh lấy một ít nhé?)
+
+- Some of được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định hoặc trước dạng tân ngữ của đại từ nhân xưng. Động từ theo sau có thể ở số ít hoặc số nhiều tùy thuộc  vào danh từ
 Some of + determiner + plural/ uncountable noun (+ singular/ plural verb) Some 
 of us/ you/ them (+ plural verb)
 Ex: Some of the chairs are broken. (Có mấy chiếc ghế đã bị gãy.) Some of the money was 
@@ -603,10 +600,8 @@ có từ xác định hoặc trước dạng tân ngữ của đại từ. Độ
 nhiều. ______________________________ _____________________________________
 Any of + determiner + plural/ uncountable noun (+ singular/ plural verb) 
 Any of US/ you/ them (+ singular/ plural verb)
-Ex: Does/ Do any of these books belong to you?
-(Có cuốn nào trong số sách này là của bạn không?)
-She didn’t spend any of the money.
-(Cô ấy không tiêu đồng nào trong số tiền đó.)
+Ex: Does/ Do any of these books belong to you? (Có cuốn nào trong số sách này là của bạn không?)
+She didn’t spend any of the money. (Cô ấy không tiêu đồng nào trong số tiền đó.)
 I don’t think any of US wants/ want to work tomorrow.
 (Tôi nghĩ không người nào trong chúng tối muốn đi làm, vào ngày mai.) Lưu ý: Khi any
 ữ/đứng trước danh từ hoặc đại từ số nhiều (plural noun/ pronoun) thì động từ theo sau có thể 
@@ -614,19 +609,15 @@ là số ít hoặc số nhiều. Động từ số ít thường được dùng
 nhiều thường được dùng trong lối văn thân mật hoặc văn nói.
 - Any được dùng sau iff whether; và sau các từ có nghĩa phủ định hoặc giới hạn never, hardly, 
 barely, scarely, without.
-Ex: If you recognize any of the people in the photograph, tell US.
-(Nếỉ/ bạn nhận ra bất cứ người nào trong ảnh, hãy nói cho chúng tối biết.) She spent 
-hardly any of the money.
-(Cô ấy hầu như không tiêu một đồng nào.)
+Ex: If you recognize any of the people in the photograph, tell US. (Nếỉ/ bạn nhận ra bất cứ người nào trong ảnh, hãy nói cho chúng tối biết.)
+She spent hardly any of the money. (Cô ấy hầu như không tiêu một đồng nào.)
 • None (không ai, không cái gì/ điều gì): được dùng thay cho danh từ (đếm được hoặc không đếm 
 được) đã được nói đến trước đó.
-Ex: How much money have you got? ~ None.
-(Anh có bao nhièu tiền? ~ Chẳng có đồng nào cả.) [none = no money] We had three cats 
+Ex: How much money have you got? ~ None. (Anh có bao nhièu tiền? ~ Chẳng có đồng nào cả.) [none = no money] We had three cats 
 once, but none (of them) are alive now.
 (Chúng tôi đã có lúc nuôi ba con mèo, nhưng nay không con nào còn sống.) [none = no 
 cats]
-I wanted some cake, but there was none left.
-(Tỏi muốn ăn bánh, nhưng chẳng còn chút bánh nào.)
+I wanted some cake, but there was none left. (Tỏi muốn ăn bánh, nhưng chẳng còn chút bánh nào.)
 - None of được dùng trước danh từ (danh từ đếm được số nhiều hoặc không
 đếm được) có từ xác định hoặc dùng trước dạng tân ngữ của đại từ. Động từ theo sau có thể ờ 
 số ít hoặc số nhiều._______________________________________________________
@@ -643,6 +634,7 @@ Lưu ý: Khi none of được dùng trước danh từ hoặc đại từ số n
 từ theo sau có thể ở số ít hoặc sô' nhiếu. Động từ sô' ít (singular verb) được dùng trong lối văn trịnh 
 trọng và động từ số nhiều (plural verb) thường được dùng trong lối văn thân mật hoặc văn nói.
 Ex: None of the shops were/ was open. (Không một cửa hàng nào mở cửa.)
+
 b. Something, someone, somebody, somewhere, anything, anyone, anybody, anywhere, nothing, 
 nobody, no one, everything, everyone, everybody.
 • Somebody, someone (ai đó), something (cái gì đó), somewhere (nơi. nào đó) được dùng giống như 
@@ -682,8 +674,7 @@ Ex: She told nobody about her plans.
 [= She didn’t tell anybody about her plans.]
 I said nothing. (Tôi chẳng nói gì cả.) [= I didn’t say anything.]
 - Được dùng với động từ ở hình thức số ít.
-Ex: The house is empty. There is nobody living there.
-(Căn nhà bỏ trống. Không có ai sống ở đó cả.)
+Ex: The house is empty. There is nobody living there.(Căn nhà bỏ trống. Không có ai sống ở đó cả.)
 - Khi dùng nothing, nobody, no one thì không dùng động từ phủ định.
 Ex: He said nothing. (Anh ta chẳng nói gì.)
 [NOT Ho didn’t say nothing.] Nobody tells me anything. (Không ai nói cho tôi biết điều 
@@ -706,26 +697,22 @@ Ex: Something went wrong, didn't it. (Có điều gì đó trục trặc, phải
 Someone, somebody, anyone, anybody, no one, nobody có thể dùng với sở hữu cách.
 Ex: Someone’s passport has been stolen. (Hộ chiếu của người nào dó đã bị đánh cắp.) I 
 don’t want to waste anyone’s time. (Tôi không muốn làm mất thời gian của bất cứ ai.)
-9. Đại từ hỗ tương (Reciprocal pronouns)
+
+### Đại từ hỗ tương (Reciprocal pronouns)
 Đại từ hỗ tương là đại từ chỉ mối quan hệ qua lại giữa hai hoặc nhiều người hoặc vật với nhau. 
 Đại từ hỗ tương gồm each other và one another có cùng nghĩa là ‘nhau, lẫn nhau’.
 Ex: Sue and Ann don’t like each other/ one another.
 (Sue và Ann không thích nhau.)
 [= Sue doesn’t like Ann and Ann doesn’t like Sue.]
-They sat for two hours without talking to each other/ one another. (Họ ngồi suốt hai 
-tiếng đồng hồ mà không nói gì với nhau.)
+They sat for two hours without talking to each other/ one another. (Họ ngồi suốt hai tiếng đồng hồ mà không nói gì với nhau.)
 - Các đại từ hỗ tương thường được dùng làm tân ngữ bổ nghĩa cho động từ hoặc giới từ nên vị trí 
 thông thường của chúng là sau động từ hoặc giới từ. Ex: We send each other/ one another 
-Christmas cards every year.
-(Chúng tôi gửi thiếp mừng Nô-en cho nhau mỗi năm.)
+Christmas cards every year. (Chúng tôi gửi thiếp mừng Nô-en cho nhau mỗi năm.)
 [tân ngừ của send]
-They write to each other/ one another regularly.
-(Họ thường xuyên viết thư cho nhau.) [tân ngữ của to]
+They write to each other/ one another regularly. (Họ thường xuyên viết thư cho nhau.) [tân ngữ của to]
 - Đại từ hỗ tương có thể dùng với sở hừu cách.
-Ex: They wrote down each other’s/ one another’s phone number.
-(Họ ghi số điện thoại của nhau.)
-Lưu ý: Không dùng each other sau các từ meet (gặp), marry (kết hôn), và similar (giống nhau, 
-như nhau).
+Ex: They wrote down each other’s/ one another’s phone number. (Họ ghi số điện thoại của nhau.)
+Lưu ý: Không dùng each other sau các từ meet (gặp), marry (kết hôn), và similar (giống nhau, như nhau).
 Ex: They married in 1998. (Họ cưới nhau năm 1998.)
 [NOT They married-sach-other...I
 Their interests are very similar. (Sở thích của họ rất giống nhau.)
