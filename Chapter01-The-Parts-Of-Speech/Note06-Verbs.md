@@ -1,47 +1,43 @@
 # ĐỘNG TỪ (VERBS)
-Định nghĩa (Definition)
+
+## Định nghĩa (Definition)
 Động từ (verbs) là từ hoặc cụm từ được dùng để diễn tả hành động (action) hoặc trạng thái (state).
-II. Các loại động từ (Kinds of verbs)
+
+## Các loại động từ (Kinds of verbs)
 Dựa trên các tiêu chí khác nhau, động từ có thể được phân thành nhiều loại.
-1. Ngoại động từ và nội động từ (Transitive and intransitive verbs)
-1.1. Ngoại động từ (Transitive verbs) diễn tả hành động tác động trực tiếp lên người nào đó 
-hoặc vật nào đó; nói cách khác, ngoại động từ là động từ thường được theo sau bởi danh từ 
-hoặc đại từ làm tân ngữ trực tiếp (direct object).
-Ex: Let’s invite Sally. (Chúng ta hãy mời Sally đi.) [NOT Let-s-invito.] You surprised me. 
-fAzi/i làm tôi ngạc nhiên.) [NOT You surprised.]
-Động từ invite và surprise sẽ không đủ nghĩa nếu không có danh từ Sally và đại từ me làm tân 
-ngữ.
-1.2. Nội động từ (Intransitive verbs) diễn tả hành động dừng lại ở người nói hoặc người thực 
-hiện hành động đó; nói cách khác, nội động từ là động từ không cần có tân ngữ trực tiếp (danh 
-từ hoặc đại từ) theo sau. Ex: Do sit down. (Hãy ngồi xuống.)
-The children are playing. (Bọn trẻ đang chơi đùa.)
+### Ngoại động từ và nội động từ (Transitive and intransitive verbs)
+  * Ngoại động từ (Transitive verbs) diễn tả hành động tác động trực tiếp lên người nào đó hoặc vật nào đó; nói cách khác, ngoại động từ là động từ thường được theo sau bởi danh từ hoặc đại từ làm tân ngữ trực tiếp (direct object). Ex:
+    * Let’s invite Sally. (Chúng ta hãy mời Sally đi.) [NOT Let-s-invito.]
+    * You surprised me. fAzi/i làm tôi ngạc nhiên.) [NOT You surprised.]
+  Động từ invite và surprise sẽ không đủ nghĩa nếu không có danh từ Sally và đại từ me làm tân ngữ.
+
+  * Nội động từ (Intransitive verbs) diễn tả hành động dừng lại ở người nói hoặc người thực hiện hành động đó; nói cách khác, nội động từ là động từ không cần có tân ngữ trực tiếp (danh từ hoặc đại từ) theo sau. Ex:
+      * Do sit down. (Hãy ngồi xuống.)
+      * The children are playing. (Bọn trẻ đang chơi đùa.)
 Động từ sit và play không cần có tân ngữ trực tiếp cũng đã đủ nghĩa.
-■&Lưu ý:
-Nhiều động từ có thể vừa là ngoại động từ vừa là nội động từ (nghĩa của chúng có thể 
-thay đổi).
-Ex: We lost. (Chúng tôi dã thua.)
-We lost the match. (Chúng tôi dã thua trận đấu.)
-He ran as fast as he could. (Anh ta chạy nhanh hết sức.)
-He has no idea how to run a business. (Anh ấy không biết cách quản lý một doanh 
-nghiệp.) They grow flowers in the garden. (Họ trồng hoa trong vườn.)
-Flowers grow in the garden. (Hoa mọc trong vườn.)
-- Ngoại động từ có thể có hai tân ngữ: tân ngữ trực tiếp (direct object) và tân ngữ gián 
-tiếp (indirect object).
-Ex: My friend has just sent me a postcard. Or. My friend has just sent a postcard to me. 
-[direct object: a postcard; indirect object: me]
+
+Lưu ý:
+Nhiều động từ có thể vừa là ngoại động từ vừa là nội động từ (nghĩa của chúng có thể thay đổi). Ex:
+  * We lost. (Chúng tôi dã thua.)
+  * We lost the match. (Chúng tôi dã thua trận đấu.)
+  * He ran as fast as he could. (Anh ta chạy nhanh hết sức.)
+  * He has no idea how to run a business. (Anh ấy không biết cách quản lý một doanh nghiệp.)
+  * They grow flowers in the garden. (Họ trồng hoa trong vườn.)
+  * Flowers grow in the garden. (Hoa mọc trong vườn.)
+
+- Ngoại động từ có thể có hai tân ngữ: tân ngữ trực tiếp (direct object) và tân ngữ gián tiếp (indirect object). Ex:
+  * My friend has just sent me a postcard. Or. My friend has just sent a postcard to me. [direct object: a postcard; indirect object: me]
 Tân ngữ theo sau nội động từ thường là tân 'ngữ của giới từ (prepositional object) chứ 
-không phải là tân ngữ trực tiếp của động từ.
-Ex: We walked across the fields. (Chúng tôi đi ngang qua cánh đồng.)
-[NOT We walk the fields.]
-Let’s talk about your plan. (Chúng ta hãy nói về kế hoạch của anh đi.)
-[NOT L-et-s-talk-y^ur-plarr.]
-- Một số ngoại động từ có thể được theo sau bởi một tân ngữ và một bổ ngữ của tán ngữ 
-(verb + object + object complement). Bổ ngữ của tân ngữ thường là tính từ, danh từ hoặc 
-danh ngữ.
-Ex: I find her attitude strange. (Tôi thấy thái độ của cô ta rất lạ.) They elected him 
-president. (Họ bầu ông ấy làm chủ tịch.) That boy regards Bill as his father. (Cậu bé 
-dó xem Bill như cha.)
-2. Động từ có quy tắc và động từ bất quy tắc (Regular and irregular verbs)
+không phải là tân ngữ trực tiếp của động từ. Ex:
+* We walked across the fields. (Chúng tôi đi ngang qua cánh đồng.) [NOT We walk the fields.]
+* Let’s talk about your plan. (Chúng ta hãy nói về kế hoạch của anh đi.) [NOT L-et-s-talk-y^ur-plarr.]
+
+Một số ngoại động từ có thể được theo sau bởi một tân ngữ và một bổ ngữ của tán ngữ (verb + object + object complement). Bổ ngữ của tân ngữ thường là tính từ, danh từ hoặc danh ngữ. Ex:
+* I find her attitude strange. (Tôi thấy thái độ của cô ta rất lạ.)
+* They elected him president. (Họ bầu ông ấy làm chủ tịch.)
+* That boy regards Bill as his father. (Cậu bé dó xem Bill như cha.)
+
+### Động từ có quy tắc và động từ bất quy tắc (Regular and irregular verbs)
 2.1. Động từ có quy tắc (Regular verbs) là động từ có hình thức quá khứ đơn (simple past) và 
 quá khứ phân từ (past participle) được thành lập bằng cách thêm -ed vào động từ nguyên 
 mẫu (infinitive).
@@ -50,6 +46,7 @@ work (làm việc) worked worked
 invite (mời) invited invited
 study (học) studied studied
 beg (van xin) begged begged
+
 2. Động từ bất quy tắc (Irregular verbs) là động từ có hình thức quá khứ
 đơn (simple past) và quá khứ phân từ (past participle) được thành lập
 không theo quy tắc nhất định nào. Hình thức quá khứ đơn và quá khứ
@@ -60,11 +57,10 @@ be (thì, là, ở) was/ were been
 see (nhìn thấy) saw seen
 teach (dạy) taught taught
 give (cho) gave given
-3. TrỢ dộng từ và động từ thường (Auxiliary and ordinary verbs)
-3.1. TrỢ động từ (Auxiliary verbs)
-Trợ động từ là các động từ đặc biệt (special verbs) be, have, do, can, may, must, ought, 
-shall, will, need, dare, used được chia thành hai nhóm: trợ động từ chính (principal auxiliary 
-verbs) và trợ động từ tình thái (modal auxiliary verbs).
+
+### TrỢ dộng từ và động từ thường (Auxiliary and ordinary verbs)
+#### Trợ động từ (Auxiliary verbs)
+Trợ động từ là các động từ đặc biệt (special verbs) be, have, do, can, may, must, ought, shall, will, need, dare, used được chia thành hai nhóm: trợ động từ chính (principal auxiliary verbs) và trợ động từ tình thái (modal auxiliary verbs).
 a. Trợ động từ chính (Principal auxiliary verbs) gồm be, do, have, được dùng với động từ khác để 
 chỉ thì, thể, và để thành lập câu hỏi hoặc câu phủ định.
 infinitive present tense past tense past participle
@@ -283,8 +279,7 @@ go? (Khi nào Ann phải di?)
 Did you have to pay for your second cup of coffee? (Bạn có phải trả tiền tách cà phê thứ 
 hai không'?)
 Mưu ý: Cả must và have to đều được dùng để diễn đạt sự cẩn thiết phải thực hiện điều gì đó. Ex: All 
-applicants must/ have to take an entrance exam.
-(Tất cả các ứng viên phải qua một kỳ thi sát hạch.)
+applicants must/ have to take an entrance exam. (Tất cả các ứng viên phải qua một kỳ thi sát hạch.)
 Tuy nhiên có sự khác nhau giữa must \Jằ have to và điều này đôi khi rất quan trọng.
 - Must được dùng để diễn đạt sự bắt buộc đến từ phía người nói (cảm xúc và mong ước của người 
 nói). Have to dược dùng để diễn đạt sự bắt buộc do tình thế hoặc do điểu kiện bên ngoài (như 
@@ -1193,13 +1188,13 @@ How does she stay so young? (Làm thế nào mà cô ấy cứ trẻ mãi thế 
 turning brown. (Lá đang ngả dần sang nâu.)
 Lưu ý: Một số hệ từ cũng có thể được dùng như động từ thường (ordinary verb), nhưng có 
 nghĩa khác với dộng từ dặc biệt: look, taste, feel, appear. Khi các động từ này được dùng 
-như động từ thường thì chúng thường được dùng với trạng từ (không dùng với tính từ). Ex: 
-You look very unhappy. What’s the matter?
-(Trông bạn có vẻ không vui. Có chuyện gì vậy?) [look là hệ từ.) The boss looked at me 
-angrily. (Sếp nhìn tôi một cách giận dữ.) [NOT The boss looked at me angry.]
-► EXERCISES
-I. Complete the sentences with must (not/ or (do not/ have to (in the correct form}. 
-Sometimes it’s possible to use either; sometimes only have to is possible.
+như động từ thường thì chúng thường được dùng với trạng từ (không dùng với tính từ). Ex:
+* You look very unhappy. What’s the matter? (Trông bạn có vẻ không vui. Có chuyện gì vậy?) [look là hệ từ.)
+* The boss looked at me angrily. (Sếp nhìn tôi một cách giận dữ.) [NOT The boss looked at me angry.]
+
+# EXERCISES
+
+I. Complete the sentences with must (not/ or (do not/ have to (in the correct form). Sometimes it’s possible to use either; sometimes only have to is possible.
 1. I have to go to the airport. I’m meeting someone.
 2. It’s too late. I must! have to go now.
 3. You ________ lock the door when you go out. There have been a lot of break-ins recently.
@@ -1225,6 +1220,7 @@ Sometimes it’s possible to use either; sometimes only have to is possible.
 23. You____________ wash those glasses. They’re clean.
 24. You____________ wear your best clothes. You’ll get them dirty.
 25. I __________ put the heating on. I feel really cold.
+
 II. Put in must, mustn't, needn't.
 1. Laura : You ____________ take an umbrella. It isn’t going to rain.
 John : Well, I don’t know. It might do.
@@ -1248,6 +1244,7 @@ Mom : Well, it’s a valuable book. You _______________look after it carefully a
 ________ lose it.
 8. Anne : I think I _____________ go shopping. We’ve run out of food.
 Susan : We have enough food for dinner, so I ____________ go shopping today.
+
 III. Complete the sentences with can (not}, could(not) or be (not} able to. Sometimes it’s 
 possible to use either.
 1. Natasha could! was be able to play the piano when she was four.
@@ -1266,6 +1263,7 @@ walk around now. The doctor says I_________go back to work soon.
 13. Let’s have lunch together. We __________go to that new restaurant.
 14. The train was full. I _________ find a seat anywhere.
 15. She spoke in a very low voice, but I _________ understand what she said.
+
 IV. For each situation write a sentence with should or shouldn't + one of the following.
 go away for a few days go to bed so late
 take an aspirin use her car so much
@@ -1287,9 +1285,8 @@ sometimes. You (4) _____ take a break.
 Vicky : I know I (5) ________panic, but I do. I can’t help it.
 Rachel : Anyway, you’re doing OK, aren’t you? Your results have been good. You (6) be 
 pleased. You (7)_______________to invent problem for yourself.
-VI. Complete the conversations using can/ could/ mighư must/ should/ would... + the verb in 
-brackets. In some sentences you need to use have {must have .../ should have ...}. In some 
-sentences you need the negative (can't/ couldn't...]
+
+VI. Complete the conversations using can/ could/ mighư must/ should/ would... + the verb in brackets. In some sentences you need to use have {must have .../ should have ...}. In some sentences you need the negative (can't/ couldn't...]
 1. A: I’m hungry.
 B: But you’ve just had lunch. You can’t be hungry already, (be)
 2. A: I haven’t seen your neighbors for ages.
@@ -1325,8 +1322,8 @@ I shouldn’t have eaten so much.
 10. Why didn’t you ask me to help you? (I would/ help/ you)
 11. I’m surprised nobody told you that the road was very dangerous, (you should/ warn)
 12. George was in strange mood yesterday, (he might not/ feel/ very well)
-VIII. Write the second sentence so that it has a similar meaning to the first. Use the word in 
-brackets.
+
+VIII. Write the second sentence so that it has a similar meaning to the first. Use the word in brackets.
 1. Perhaps Susan knows the address, (may) -> Susan may know the address .
 2. We should be careful, (ought)
 3. I managed to finish all my work, (able)
@@ -1355,6 +1352,7 @@ her bedroom wall.
 from the way they are now.
 14. After her husband died, the old woman had to __________ (live) on her own.
 15. Most visitors to Britain __________ (not/ drive) on the left.
+
 X. Complete the conversations. Put in a to-infinitive or an ing-form.
 1. A: I hear you sometimes sail to France in your boat.
 B: That’s right. I really enjoy sailing .
@@ -1390,6 +1388,7 @@ planning (9) (hire) a car.
 Matthew : Scotland? Are you sure? But I couldn’t face (10) ____________ (drive) all the time.
 Jessica : I’m afraid I can’t afford (11) ______________(spend) too much money.
 Andrew : And I can’t justify (12)________(take) all that time off from my studies.
+
 XII. Put in the to-infinitive or ing-form of these verbs.
 I used to like (1) going to our local cinema. It was old and rather uncomfortable, but it had 
 character. Now they’ve stopped (2) ________________(show) films there. The owner would
@@ -1404,6 +1403,7 @@ _________ (tell) you,’ he said, ‘that our electricity has failed. I don’t 
 (11) ____ (phone) the electricity company, but they say they can’t help. He went on
 (12) ____ (explain) to the audience how the film ended. I didn’t understand the story.
 But I don’t regret (13) __________ (go) to the cinema that last evening.
+
 XIII. Put the verb into the correct form.
 1. How old were you when you learned to drive? (drive)
 2. I don’t mind________ (walk) home but I’d rather___________ (get) a taxi.
@@ -1466,31 +1466,22 @@ My lawyer advised ________________ _____ ___________________________________
 14. It’s a pity I couldn’t go out with you. I’d like _____________________________________
 15. I was told that I shouldn’t believe everything he says.
 I was warned ________________ _ __________________________________________ —
+
 XVI. Choose the correct forms of the verbs.
 1. Police found the woman to lie/ lying dead on the floor.
-2. I don’t mind to be shouted/ being shouted at by him. He threatened to sack/ sacking me last week, 
-but he apologised very politely later.
+2. I don’t mind to be shouted/ being shouted at by him. He threatened to sack/ sacking me last week, but he apologised very politely later.
 3. We had arranged to meet/ meeting in my office so that he could check/ checking the documents.
-4. We found it very difficult to work/ working with Gemma. She keeps forgetting to pass/ passing
-on important message, and she won’t let anybody to help/ help her.
-5. Thank you for invite/ inviting me to come and see you next month. I’m already excited about to 
-see/ seeing you again.
-6. Look! We aren’t allowed to park/ parking here. The car needs to park/ parking on the right 
-position.
-7. I came here to see/ seeing Janet. She must have forgotten I was coming. ~ It seems rather careless 
-of her to forget/ forgetting.
-8. You say you need some advice? ~Yes, I’m sorry to bother/ bothering you, but I don’t know who 
-to ask/ to be asked.
-9. I planned to visit/ visiting my parents last week, but they suggested to postpone/ postponing the 
-visit for a week because they hadn’t finished to decorate/ decorating the spare room.
+4. We found it very difficult to work/ working with Gemma. She keeps forgetting to pass/ passing on important message, and she won’t let anybody to help/ help her.
+5. Thank you for invite/ inviting me to come and see you next month. I’m already excited about to see/ seeing you again.
+6. Look! We aren’t allowed to park/ parking here. The car needs to park/ parking on the right position.
+7. I came here to see/ seeing Janet. She must have forgotten I was coming. ~ It seems rather careless of her to forget/ forgetting.
+8. You say you need some advice? ~Yes, I’m sorry to bother/ bothering you, but I don’t know who to ask/ to be asked.
+9. I planned to visit/ visiting my parents last week, but they suggested to postpone/ postponing the visit for a week because they hadn’t finished to decorate/ decorating the spare room.
 10. The orator stopped talking/ to talk. He felt thirsty so he stopped to have/ having a drink.
-11. I had difficulty to find/ finding way to solve the situation. ~ There’s nothing you can do about 
-this situation, so it’s no use to worry/ worrying about it.
+11. I had difficulty to find/ finding way to solve the situation. ~ There’s nothing you can do about this situation, so it’s no use to worry/ worrying about it.
 12. I congratulated Ann on to pass/ passing the exam. She spent a lot of time to study/ studying.
-13. Did you accuse Nigel of to break/ breaking a plate? ~ Well, I saw him knock/ knocking it off the 
-table with his elbow.
-14. Are you going to have a rest now after to do/ doing all the cleaning? ~ No, I’ve got some letter 
-to write/ writing.
+13. Did you accuse Nigel of to break/ breaking a plate? ~ Well, I saw him knock/ knocking it off the table with his elbow.
+14. Are you going to have a rest now after to do/ doing all the cleaning? ~ No, I’ve got some letter to write/ writing.
 15. I’m annoyed about to be/ being late. ~ Well, I told you to set/ setting off in good time, didn’t I?
 16. She would like him to wear/ wearing a tie because they are going to a concert.
 17. I’m sorry to keep/ keeping you to wait/ waiting. But I’m really afraid to go/ going out in the rain.
