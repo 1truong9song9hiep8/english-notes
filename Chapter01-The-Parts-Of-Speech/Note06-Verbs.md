@@ -527,51 +527,35 @@ Why doesn’t Sam eat? (Tại sao Sam không ăn?)
 * Mức độ chắc chấn ờ quá khứ cũng được dùng tương tự như ở hiện tại.
 * Một số động từ vừa là trợ động từ tình thái (modal auxiliary verbs) vừa là động từ thường 
 (ordinary verbs).
-• NEED (cần; cần phải): dùng để diễn tả nhu cầu, sự cần thiết hoặc sự bắt buộc phải thực hiện 
-điều gì đó.
-- Need thường được dùng như một động từ thường (ordinary verb). Sau need là một động từ 
-nguyên mẫu có to hoặc một danh từ.
-( need 4- to-Infinitive/noun ]
-Ex: She needs some warm clothes for the winter.
-(Cô ấy cần một số quần áo ấm cho mùa đông.)
-You need to water this plant twice a week.
-(Anh cần phải tưới cây này hai lần một tuần.)
-We’ve got plenty of time. We don’t need to hurry.
-(Chúng ta có nhiều thời gian. Chúng ta chẳng cần phải vội vã.) Do we need to reserve seats 
-òn the train?
-(Chúng ta có cần phải giữ chỗ trước trên xe lửa không'?)
-> Need + verb-ing có nghĩa bị động.
-Ex: This room needs cleaning. (Căn phòng này cần dược lau chùi.)
-[= This room needs to be cleaned.]
-The batteries in the radio need changing.
-(Cần phải thay pin trong radio.) [= they need to be changed.]
-- Need cũng có thể được dùng như một trợ động từ tình thái (modal auxiliary verb); chủ yếu trong 
-câu phủ định, câu hỏi, sau if và whether hoặc với các từ mang nghĩa phủ định hardly, scarely, 
-never, only, nobody, anybody, v.v. Sau need, là động từ nguyên mẫu không to-.
-( need + verb (Infinitive without to) )
-Ex: That shirt isn’t dirty. You needn’t wash it.
-(Cái áo sơ mi đó không dơ. Anh không cần phải giặt.) [need not = needn’t] Need I fill in a 
-form? (Tôi có cần phải điền vào đơn không?)
-I wonder if we need reserve seats.
-(Tôi tự hỏi không biết chúng tôi có cần đặt chỗ trước không.)
-This is the only form you need fill in.
-(Đây là mẫu đơn duy nhất mà bạn cần phải điền vào.)
-> Needn’t have + past participle được dùng để diễn đạt điều gì đó đã được thực hiện trong quá khứ, 
-nhưng không cần thiết.
-Ex: You needn’t have gone to the supermarket. We already had a pizza for tonight. (Anh đâu 
-cần phải đi siêu thị làm gì. Tối nay chúng ta dã có bánh pizza rồi mà.)
-Why did you wash that shirt? It wasn’t dirty. You needn’t have washed it. (Sao em lại giặt 
-cái áo đó? Nó đâu có dơ. Em không cân phải giặt nó.)
-> Will need + to-infinitive được dùng để chỉ sự bắt buộc phải thực hiện điều gì trong tương lai hoặc 
-đưa ra lời khuyên cho tương lai.
-Ex: We’ll need to repair the roof next year.
-(Năm tới chúng ta cần phải sửa mái nhà.)
-You’ll need to work hard if you want to pass your exam.
-(Nếu muốn thi đậu bạn cần phải cố gắng học tập.)
-★ Lưu ý: Trong tiếng Anh của người Mỹ (American English), need rất ít được dùng như một trợ 
-dộng từ tình thái.
-Ex: That shirt isn’t dirty. You don’t need to wash it. [NOT needn’t wash]
-• DARE (dám)
+---
+* **NEED (cần; cần phải):** dùng để diễn tả nhu cầu, sự cần thiết hoặc sự bắt buộc phải thực hiện điều gì đó.
+  * Need thường được dùng như một động từ thường (ordinary verb). Sau need là một động từ nguyên mẫu có to hoặc một danh từ.( need 4- to-Infinitive/noun ] Ex:
+    * She needs some warm clothes for the winter. (Cô ấy cần một số quần áo ấm cho mùa đông.)
+    * You need to water this plant twice a week. (Anh cần phải tưới cây này hai lần một tuần.)
+    * We’ve got plenty of time. We don’t need to hurry.(Chúng ta có nhiều thời gian. Chúng ta chẳng cần phải vội vã.)
+    * Do we need to reserve seats òn the train? (Chúng ta có cần phải giữ chỗ trước trên xe lửa không'?)
+    
+   * Need + verb-ing có nghĩa bị động. Ex:
+     * This room needs cleaning. (Căn phòng này cần dược lau chùi.) [= This room needs to be cleaned.]
+     * The batteries in the radio need changing. (Cần phải thay pin trong radio.) [= they need to be changed.]
+
+   * Need cũng có thể được dùng như một trợ động từ tình thái (modal auxiliary verb); chủ yếu trong câu phủ định, câu hỏi, sau if và whether hoặc với các từ mang nghĩa phủ định hardly, scarely, never, only, nobody, anybody, v.v. Sau need, là động từ nguyên mẫu không to-. ( need + verb (Infinitive without to) ) Ex:
+     * That shirt isn’t dirty. You needn’t wash it. (Cái áo sơ mi đó không dơ. Anh không cần phải giặt.) [need not = needn’t]
+     * Need I fill in a form? (Tôi có cần phải điền vào đơn không?)
+     * I wonder if we need reserve seats.(Tôi tự hỏi không biết chúng tôi có cần đặt chỗ trước không.)
+     * This is the only form you need fill in. (Đây là mẫu đơn duy nhất mà bạn cần phải điền vào.)
+
+    * Needn’t have + past participle được dùng để diễn đạt điều gì đó đã được thực hiện trong quá khứ, nhưng không cần thiết. Ex:
+      * You needn’t have gone to the supermarket. We already had a pizza for tonight. (Anh đâu cần phải đi siêu thị làm gì. Tối nay chúng ta dã có bánh pizza rồi mà.)
+      * Why did you wash that shirt? It wasn’t dirty. You needn’t have washed it. (Sao em lại giặt cái áo đó? Nó đâu có dơ. Em không cân phải giặt nó.)
+
+    * Will need + to-infinitive được dùng để chỉ sự bắt buộc phải thực hiện điều gì trong tương lai hoặc đưa ra lời khuyên cho tương lai. Ex:
+      * We’ll need to repair the roof next year. (Năm tới chúng ta cần phải sửa mái nhà.)
+      * You’ll need to work hard if you want to pass your exam. (Nếu muốn thi đậu bạn cần phải cố gắng học tập.)
+
+     * Lưu ý: Trong tiếng Anh của người Mỹ (American English), need rất ít được dùng như một trợ dộng từ tình thái. Ex: That shirt isn’t dirty. You don’t need to wash it. [NOT needn’t wash]
+---
+* **DARE (dám)**
 - Dare thường được dùng như một động từ thường. Sau dare là một động từ nguyên mẫu có to (to￾infìnitive).
 Ex: She didn’t dare to tell him what happened.
 (Cô ta không dám kể cho anh ấy nghe những gì đã xảy ra.) He’s a man who dares to say 
