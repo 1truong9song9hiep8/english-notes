@@ -556,24 +556,18 @@ Why doesn’t Sam eat? (Tại sao Sam không ăn?)
      * Lưu ý: Trong tiếng Anh của người Mỹ (American English), need rất ít được dùng như một trợ dộng từ tình thái. Ex: That shirt isn’t dirty. You don’t need to wash it. [NOT needn’t wash]
 ---
 * **DARE (dám)**
-- Dare thường được dùng như một động từ thường. Sau dare là một động từ nguyên mẫu có to (to￾infìnitive).
-Ex: She didn’t dare to tell him what happened.
-(Cô ta không dám kể cho anh ấy nghe những gì đã xảy ra.) He’s a man who dares to say 
-what he thinks.
-(Anh ấy là người dám nói những gì mình nghĩ.) How did you dare to do that? (Sao anh 
-dám làm điều đó?)
-- Dare cũng có thể được dùng như một trợ động từ tình thái trong các câu phủ định, câu hỏi, sau if
-và whether hoặc với hardly, never, no one, nobody, v.v. Sau dare là một động từ nguyên mẫu 
-không to (infinitive without to). Ex: I daren’t ask her for a rise. (Tôi không dám yêu cầu bà ta 
-tăng lương.)
-[dare not = daren’t]
-Dare she tell him? (Bà ta dám nói cho ống ấy biết sao?)
-Nobody dared lift their eyes from the ground.
-(Chẳng ai dám ngước mắt nhìn lên.)
-> Dare + object + to-infinitive được dùng để thách đố.
-Ex: I dare you to run across the street with your eyes shut.
-(Tôi thách anh nhắm, mắt chạy băng qua đường.)
-> 1 dare say = I think probably; I suppose
+  * Dare thường được dùng như một động từ thường. Sau dare là một động từ nguyên mẫu có to (to￾infìnitive). Ex:
+    * She didn’t dare to tell him what happened. (Cô ta không dám kể cho anh ấy nghe những gì đã xảy ra.)
+    * He’s a man who dares to say what he thinks. (Anh ấy là người dám nói những gì mình nghĩ.)
+    * How did you dare to do that? (Sao anh dám làm điều đó?)
+
+   * Dare cũng có thể được dùng như một trợ động từ tình thái trong các câu phủ định, câu hỏi, sau if và whether hoặc với hardly, never, no one, nobody, v.v. Sau dare là một động từ nguyên mẫu không to (infinitive without to).
+     * Ex: I daren’t ask her for a rise. (Tôi không dám yêu cầu bà ta tăng lương.) [dare not = daren’t]
+     * Dare she tell him? (Bà ta dám nói cho ống ấy biết sao?)
+     * Nobody dared lift their eyes from the ground. (Chẳng ai dám ngước mắt nhìn lên.)
+
+   * Dare + object + to-infinitive được dùng để thách đố. Ex:
+     * I dare you to run across the street with your eyes shut. (Tôi thách anh nhắm, mắt chạy băng qua đường.)> 1 dare say = I think probably; I suppose
 Ex: I dare say it’ll rain soon. (Tôi dám chắc lát nữa trời sẽ mưa.)
 • USED TO (đã thường; đã từng)-, được dùng để diễn đạt tình trạng hoặc thói quen trong quá khứ 
 mà nay không còn nữa.
