@@ -333,57 +333,50 @@ Will you (please) come in? (Mời anh vào.)
 > Will! Won’t you... ? được dùng để diễn đạt lời đề nghị hoặc lời mời.
 Ex: Will you have a cup of coffee? (An/t dùng một tách cà phế nhé?) Won’t you stay for 
 lunch? (Anh ở lại dùng cơm trưa nhé?)
-• WOULD (sẽ): Would Cd) có hình thức phủ định là would not (wouldn’t)
-- Would là dạng quá khứ của will trong lối nói gián tiếp. Would được dùng sau động từ tường 
-thuật ở quá khứ trong câu gián tiếp.
-Ex: He said he would phone me on Sunday.
-(Anh ầy nói Chủ nhật sẽ gọi cho tôi.)
-Ann promised that she wouldn’t be late.
-(Ann đã hứa là cỗ ấy sẽ không đến trễ.)
-- Would được dùng để diễn tả một giả định ở quá khứ hay dự đoán về một tình huống có thể xảy 
-ra.
-Ex: At midnight Sarah was still working. She would be tired the next day, (Lúc nửa đêm Sarah 
-vẫn còn làm việc. Ngàỵ hôm sau chắc là cô ấy sẽ bị mệt.)
-It would be fun to have a beach party.
-(Tổ chức một bừa tiệc ở bãi biển chắc là sẽ rất vui.)
-- Would được dùng để chỉ một thói quen trong quá khứ.
-Ex: On the winter evenings we would all sit around the fire.
-(Vào những tối mùa đông, tất cả chúng tôi thường ngồi quây quần quanh đống lửa.)
-When I was a child, I would sing folk songs.
-(Khi còn nhỏ tôi thường hát dân ca.)
-- Would được dùng trong lời yêu cầu, lời đề nghị lịch sự. Would có tính trang trọng hơn will.
-> Would like! love/ prefer... + to-infinitive dùng để diễn đạt mong ước hoặc mong muốn một cách 
-lịch sự (lịch sự hơn dùng want).
-Ex: I’d like to try on this jacket. (Tôi muốn mặc thử cái áo vét này.) I’d love a cup of coffee. (Tôi 
-muốn một tách cà phê.)
-> Would you like + to-infinitiveI noun... ? được dùng để đưa ra lời đề nghị hoặc lời mời lịch sự.
-Ex: Would you like to have lunch with US? ~ Yes, I’d love to. Thank you. (Anh dùng cơm trưa 
-với chúng tôi nhé1? ~ Vâng, tôi rất thích. Cám ơn.) Would you like orange juice? (Bạn uổng 
-nước cam ép nhé?)
-> Would you... (please)? được dùng để yêu cầu một cách lịch sự.
-Ex: Would you pay me in cash, please? (Xin vui lòng thanh toán bằng tiền mặt.) [= Would you 
-please pay me in cash?]
-> Would you mind + verb-ing... ? được dùng để yêu cầu hoặc đề nghị một cách lịch sự.
-Ex: Would you mind waiting outside? (Xin vui lòng đợi bèn ngoài.)
-- Would you mind standing up for a moment? (Xin hãy dứng lên một lát.)
-> Would rather = would prefer', thích hơn
-would rather + bare-infinitive
-would prefer + to-infinitive
-Ex: He’d rather stay at home and play video games.
-(Anh ta thích ở nhà chơi trò chơi điện tử hơn.) Would you rather have tea or coffee?
-(Anh thích uống trà hay cà phê?)
-I’d prefer to spend the weekend in the country.
-(Tôi thích nghỉ cuối tuần ở vùng quê hơn.)
-Would rather + object + verb (past tense): muốn ai làm điều gì đó.
-Ex: I’d rather you came with US. (Tôi muốn bạn đi cùng chúng tôi.) I’d rather they didn’t tell 
-anyone what I said.
-(Tôi muốn họ đừng nói với ai những điều tôi đã nói.)
-Would rather... than = would prefer... rather than
-Ex: I’d rather stay at home tonight than go to the cinema.
-(Tối nay tôi thích ở nhà hơn là đi xem phim..)
-Mark would prefer to drive rather than take/ taking the bus.
-(Mark thích lải xe hơn đi xe buýt.)
-• SHALL (sẽ): Shall (’ll) chỉ được dùng cho ngôi thứ nhất (7 shall, We shall). Shall có hình thức 
+---
+* **WOULD (sẽ):** Would Cd) có hình thức phủ định là would not (wouldn’t)
+  * Would là dạng quá khứ của will trong lối nói gián tiếp. Would được dùng sau động từ tường thuật ở quá khứ trong câu gián tiếp. Ex:
+    * He said he would phone me on Sunday.(Anh ầy nói Chủ nhật sẽ gọi cho tôi.)
+    * Ann promised that she wouldn’t be late. (Ann đã hứa là cỗ ấy sẽ không đến trễ.)
+    
+   * Would được dùng để diễn tả một giả định ở quá khứ hay dự đoán về một tình huống có thể xảy ra. Ex:
+     * At midnight Sarah was still working. She would be tired the next day, (Lúc nửa đêm Sarah vẫn còn làm việc. Ngàỵ hôm sau chắc là cô ấy sẽ bị mệt.)
+     * It would be fun to have a beach party.(Tổ chức một bừa tiệc ở bãi biển chắc là sẽ rất vui.)
+
+   * Would được dùng để chỉ một thói quen trong quá khứ. Ex:
+     * On the winter evenings we would all sit around the fire. (Vào những tối mùa đông, tất cả chúng tôi thường ngồi quây quần quanh đống lửa.)
+     * When I was a child, I would sing folk songs.(Khi còn nhỏ tôi thường hát dân ca.)
+
+   * Would được dùng trong lời yêu cầu, lời đề nghị lịch sự. Would có tính trang trọng hơn willWould like! love/ prefer... + to-infinitive dùng để diễn đạt mong ước hoặc mong muốn một cách
+     lịch sự (lịch sự hơn dùng want) Ex:
+     * I’d like to try on this jacket. (Tôi muốn mặc thử cái áo vét này.)
+     * I’d love a cup of coffee. (Tôi muốn một tách cà phê.)
+
+   * Would you like + to-infinitiveI noun... ? được dùng để đưa ra lời đề nghị hoặc lời mời lịch sự. Ex:
+     * Would you like to have lunch with US? ~ Yes, I’d love to. Thank you. (Anh dùng cơm trưa với chúng tôi nhé1? ~ Vâng, tôi rất thích. Cám ơn.)
+     * Would you like orange juice? (Bạn uổng nước cam ép nhé?)
+
+   * Would you... (please)? được dùng để yêu cầu một cách lịch sự. Ex:
+     * Would you pay me in cash, please? (Xin vui lòng thanh toán bằng tiền mặt.) [= Would you please pay me in cash?]
+
+    * Would you mind + verb-ing... ? được dùng để yêu cầu hoặc đề nghị một cách lịch sự. Ex:
+      * Would you mind waiting outside? (Xin vui lòng đợi bèn ngoài.)
+      * Would you mind standing up for a moment? (Xin hãy dứng lên một lát.)
+
+     * Would rather = would prefer', thích hơn would rather + bare-infinitive would prefer + to-infinitive Ex:
+       * He’d rather stay at home and play video games. (Anh ta thích ở nhà chơi trò chơi điện tử hơn.)
+       * Would you rather have tea or coffee? (Anh thích uống trà hay cà phê?)
+       * I’d prefer to spend the weekend in the country. (Tôi thích nghỉ cuối tuần ở vùng quê hơn.)
+
+     * Would rather + object + verb (past tense): muốn ai làm điều gì đó. Ex:
+       * I’d rather you came with US. (Tôi muốn bạn đi cùng chúng tôi.)
+       * I’d rather they didn’t tell anyone what I said. (Tôi muốn họ đừng nói với ai những điều tôi đã nói.)
+  
+     * Would rather... than = would prefer... rather than Ex:
+       * I’d rather stay at home tonight than go to the cinema. (Tối nay tôi thích ở nhà hơn là đi xem phim..)
+       * Mark would prefer to drive rather than take/ taking the bus. (Mark thích lải xe hơn đi xe buýt.)
+
+* **SHALL (sẽ):** Shall (’ll) chỉ được dùng cho ngôi thứ nhất (7 shall, We shall). Shall có hình thức 
 phủ định là shall not (shan’t) và hình thức quá khứ là should.
 - Shall được dùng để diễn đạt hoặc dự đoán một sự việc hoặc tình huống sẽ xảy ra trong tương lai.
 Ex: We shall know the results next week.
