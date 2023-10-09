@@ -1,4 +1,4 @@
-# Danh Từ
+# DANH TỪ (NOUNS)
 ## Định nghĩa (Definition)
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
@@ -609,28 +609,28 @@ Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page to
 * **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
 * A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
 
-## EXERCISES
-**I. Look at these nouns. Are they countable (C) or uncountable (U)?**
-    1. car (C)
-    2. work (U)
-    3. news (C)
-    4. meat (U)
-    5. photo (C)
-    6. golf (U)
-    7. banana (C)
-    8. rice (U)
-    9. song (C) 
-    10. minute (C)  
-    11. music (U)
-    12. flower (U)
-    13. money (U)
-    14. ship (C)
-    15. advice (C)
-    16. love (U)
-    17. furniture (U)
-    18. electricity (U)
-    19. water (U)
-    20. meal (U)
+# EXERCISES
+I. Look at these nouns. Are they countable (C) or uncountable (U)?
+1. car (C)
+2. work (U)
+3. news (C)
+4. meat (U)
+5. photo (C)
+6. golf (U)
+7. banana (C)
+8. rice (U)
+9. song (C) 
+10. minute (C)  
+11. music (U)
+12. flower (U)
+13. money (U)
+14. ship (C)
+15. advice (C)
+16. love (U)
+17. furniture (U)
+18. electricity (U)
+19. water (U)
+20. meal (U)
 
 **II. Complete the sentences, using one of the following words. Use a/an where necessary. (accident apple milk coat sugar key electricity sand luck cheese blood letter moment music interview)**
     1. It wasn’t your fault. It was *an accident.*
