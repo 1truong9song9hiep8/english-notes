@@ -310,16 +310,26 @@ Ex: Jill left school at 16/ at the age of 16. (Jill thôi học năm 16 tuổi.)
 * aware/ conscious of : nhận thức
 #### TO
 * important to : quan trọng acceptable to : có thể chấp nhận
-* likely to : có thể accustomed to : quen với
-* agreeable to. : có thể đồng ý useful to sb. : có ích cho ai
-* next to : kế bên rude to : thô lỗ, cộc cằn
-* open to : mở delightful to sb. : thú vị đối với ai
-* pleasant to : hài lòng familiar to sb. : quen thuộc đối với ai
-* clear to : rõ ràng preferable to : đáng thích hơn
-* contrary to : trái lại, đối lập similar to : giống, tương tự
-* addicted to : đam mê equal to : tương đương với, bằng
-* engaged to : đính hôn với available to sb : sẵn cho ai
-* grateful to sb. : biết ơn ai favourable to : tán thành, ủng hộ
+* likely to : có thể
+* accustomed to : quen với
+* agreeable to. : có thể đồng ý
+* useful to sb. : có ích cho ai
+* next to : kế bên
+* rude to : thô lỗ, cộc cằn
+* open to : mở
+* delightful to sb. : thú vị đối với ai
+* pleasant to : hài lòng
+* familiar to sb. : quen thuộc đối với ai
+* clear to : rõ ràng
+* preferable to : đáng thích hơn
+* contrary to : trái lại, đối lập
+* similar to : giống, tương tự
+* addicted to : đam mê
+* equal to : tương đương với, bằng
+* engaged to : đính hôn với
+* available to sb : sẵn cho ai
+* grateful to sb. : biết ơn ai
+* favourable to : tán thành, ủng hộ
 * responsible to Í sb: có trách nhiệm với ai
 * harmful to sb/ for sth : có hại cho ai / cho cái gì
 * necessary to sth/sb : cần thiết cho việc gì, cho ai
@@ -331,137 +341,85 @@ Ex: Jill left school at 16/ at the age of 16. (Jill thôi học năm 16 tuổi.)
 * good/ bad for
 * sorry for sb/ doing sth : tiếc (cho ai I vì dã làm điều gì)
 * responsible for sth. : chịu trách nhiệm về việc gì
+
 #### AT
-* good at : giỏi (về...) surprised at : ngạc nhiên
-* bad at : dở (về...) shocked at : bị sửng sốt
-* clever at : khéo léo... amazed at : ÃinA ngạc
-* quick at : nhanh... present at : hiện diện
-* excellent at : xuất sắc về... clumsy at : vụng về
+* good at : giỏi (về...)
+* surprised at : ngạc nhiên
+* bad at : dở (về...)
+* shocked at : bị sửng sốt
+* clever at : khéo léo...
+* amazed at : ÃinA ngạc
+* quick at : nhanh...
+* present at : hiện diện
+* excellent at : xuất sắc về...
+* clumsy at : vụng về
 * skilful at : khéo léo, có kỹ năng về...
-* annoy at/ about sth. : khó chịu về điều gì angry at/ about sth : giận về điều gì
-#### IN
-rich in : giàu về interested in : thích, quan tâm (về...)
-successful in : thành công (về...) involved in sth: có liên quan tới...
-confident in : tin cậy, tin tưởng (vào ai/ cái gì)
-dangerous for
-famous for
-greedy for
-perfect for
-fit for
-: nguy hiểm...
-: nổi tiếng (về)...
-: tham ỉam...
-: hoàn hảo
-: thích hợp cho
-convenient for 
-qualified for 
-necessary for 
-suitable for
-: thuận lợi cho... : 
-có phẩm chất
-: cần thiết
-: thích hợp
-: sẵn sàng cho việc gì : tốt! 
-không tốt cho ...
-bored with : chán...
-fed up with : chán...
-busy with : bận...
-popular with : phổ biến
-pleased with : hài lòng...
-familiar with : quen thuộc...
-friendly with : thân mật...
-satisfied with : thỏa mãn vói
-delighted with/ at: vui mừng (với) 
-acquainted with : làm quen (với ai) crowded 
-with : đông đúc...
-angry with sb : giận dữ (với ai) contrasted 
-with : tương phản với annoyed with sb: khó 
-chịu (với ai) furious with sb : phẫn nộ 
-impressed with/ by : ấn tượng
-(về điều gì)
-* ABOUT *
-confused about : bối rối (về...) sad about : buồn...
-upset about : thất vọng excited about : hào hứng...
-doubtful about : nghi ngờ sorry about sth : xin lỗi (về điều gì)
-angry about sth : tức giận (về...) worried about : lo lắng
-serious about : nghiêm túc... anxious about : lo lắng
-disappointed about sth.: thất vọng về diều gỉ
-happy about/ with sb/ sth.: hạnh phúc, vui, hài lòng
-+ WITH
-disappointed with sth: thất vọng
-helpful/ useful for: có lợi, có ích
-ready for sth. : sẵn sàng cho việc gì
-good/ bad for : tốtI không tốt cho ...
-sorry for sb/ doing sth : tiếc (cho ai/ vì đã làm điều gì) responsible for sth. : chịu trách nhiệm về 
-việc gì
-serious about : nghiêm túc... anxious about 
-disappointed about sth.: thất vọng về diều gỉ 
-happy about/ with sb/ sth.: hạnh phúc, vui, hài lòng
-good at : giỏi (về...) surprised at : ngạc nhiên
-bad at : dở (về...) shocked at : bị sứng sốt
-clever at : khéo léo... amazed at : kinh ngạc
-quick at : nhanh... present at : hiện diện
-excellent at : xuất sắc về... clumsy at : vụng về
-skilful at : khéo léo, có kỹ năng về...
-annoy at/ about sth. : khó chịu về điều gì
-angry at/ about sth : giận về diều gì
+* annoy at/ about sth. : khó chịu về điều gì
+* angry at/ about sth : giận về điều gì
+
 #### WITH
-bored with : chán... delighted with/ at: vui mừng (với)
-fed up with : chán... acquainted with : làm quen (với ai)
-busy with : bận... crowded with : đông đúc...
-popular with : phổ biến angry with sb : giận dữ (với ai)
-pleased with : hài lòng... contrasted with : tương phản với
-familiar with : quen thuộc... annoyed with sb: khó chịu (với ai)
-friendly with : thân mật... furious with sb : phẫn nộ
-♦AT
-impressed with/ by : ấn tượng : thỏa mãn với...
-♦
-satisfied with
-disappointed with sth: thất vọng (về điều gì)
-dangerous for 
-famous for 
-greedy for 
-perfect for fit for
-: nguy hiểm...
-: nổi tiếng (về)...
-: tham lam...
-: hoàn hảo
-: thích hợp cho
-convenient for 
-qualified for 
-necessary for 
-suitable for
-: thuận lợi cho. : 
-có phẩm chất : cần 
-thiết
-: thích hợp
-4ABOUT
-sad about : buồn...
-upset about : thất vọng
-doubtful about : nghi ngờ
-angry about sth : tức giận (về...)
-confused about : bối rối (về...) excited about : 
-hào hứng... sorry about sth : xin lỗi (về điều 
-gì)
-: lo lắng
-: lo lắng
-+ IN
-rich in
-successful in
-confident in
-: giàu về
-: thành công (về...)
-: tin cậy, tin tưởng
-interested in : 
-involved in sth: (vào 
-ai/ cái gì)
-thích, quan tâm (về...) có 
-liên quan tới...
-worried about
-an advantage/ disadvantage of : điểm thuận lợi/ bất lợi
-za photograph/ a picture/ a map/ a plan ... of
-: một tấm ảnh/ một bức tranh/ một tấm bản đồ/ một kế 
-hoạch (của ...)
+* bored with : chán...
+* delighted with/ at: vui mừng (với)
+* fed up with : chán...
+* acquainted with : làm quen (với ai)
+* busy with : bận...
+* crowded with : đông đúc...
+* popular with : phổ biến
+* angry with sb : giận dữ (với ai)
+* pleased with : hài lòng...
+* contrasted with : tương phản với
+* familiar with : quen thuộc...
+* annoyed with sb: khó chịu (với ai)
+* friendly with : thân mật...
+* furious with sb : phẫn nộ
+* disappointed with sth: thất vọng
+* impressed with/ by : ấn tượng : thỏa mãn với...
+* disappointed with sth: thất vọng (về điều gì)
+
+#### ABOUT
+* confused about : bối rối (về...)
+* sad about : buồn...
+* upset about : thất vọng
+* excited about : hào hứng...
+* doubtful about : nghi ngờ
+* sorry about sth : xin lỗi (về điều gì)
+* angry about sth : tức giận (về...)
+* worried about : lo lắng
+* serious about : nghiêm túc...
+* anxious about : lo lắng
+* disappointed about sth.: thất vọng về diều gỉ
+* happy about/ with sb/ sth.: hạnh phúc, vui, hài lòng
+
+#### IN
+* rich in : giàu về
+* interested in : thích, quan tâm (về...)
+* successful in : thành công (về...)
+* involved in sth: có liên quan tới...
+* confident in : tin cậy, tin tưởng (vào ai/ cái gì)
+* dangerous for : nguy hiểm...
+* famous for : nổi tiếng (về)...
+* greedy for : tham ỉam...
+* perfect for : hoàn hảo
+* fit for : thích hợp cho
+* convenient for : thuận lợi cho... : 
+* qualified for : có phẩm chất
+* necessary for : cần thiết
+* suitable for : thích hợp
+* busy with : bận...
+* popular with : phổ biến
+* pleased with : hài lòng...
+* familiar with : quen thuộc...
+* friendly with : thân mật...
+* satisfied with : thỏa mãn vói
+* delighted with/ at: vui mừng (với) 
+* acquainted with : làm quen (với ai)
+* crowded with : đông đúc...
+* angry with sb : giận dữ (với ai) contrasted 
+* with : tương phản với
+* annoyed with sb: khó chịu (với ai)
+* furious with sb : phẫn nộ 
+* impressed with/ by : ấn tượng (về điều gì)
+
 #### IN
 an increase/ a decrease/ a reduction/ a rise/ a fall in (the price/ the number of sth): sự gia tăng/ sự sút giảm (giá cả/ số lượng của cái gì) Ex:
 an increase/ rise in the price (sự tăng giá)
@@ -548,9 +506,8 @@ But: a relationship/ a connection/ contact/ contrast/ difference between (two th
 
 # EXERCISES
 I. Put in at, on or in.
-1. ________Mozart was born in Salzburg 1756.
-2. __________________________ I haven’t seen Kate for 
-a few days. I last saw her ___________Tuesday.
+1. Mozart was born ***in*** Salzburg 1756.
+2. __________________________ I haven’t seen Kate for a few days. I last saw her ___________Tuesday.
 1. _______________The price of electricity is going up
 __________________ October.
 1. ____________ I’ve been invited to the wedding 14 
@@ -612,8 +569,8 @@ Alice : I’m going away (7)________ Easter, so how about the week after? Shall 
 (8)______ the twenty-seventh? That’s a Wednesday.
 Mark : I’ve got an appointment (9) ___________ the morning but nothing (10) __________ the
 afternoon. Let’s meet (11) ________ Wednesday afternoon (12) _______ half past two.
-III. Complete the conversation, using prepositions of time: in, on, at, by, during, until, for, 
-since.
+
+III. Complete the conversation, using prepositions of time: in, on, at, by, during, until, for, since.
 1. A: You only bought that book______ Saturday. Have you finished it already?
 B: I read it _______ about three hours yesterday evening.
 1. A: Let’s go shopping.
@@ -646,6 +603,7 @@ the journey.
 B: Oh, god! You hadn’t had anything___________ ten hours, had you?
 1.  A: Please hand in your complete assignment____________ tomorrow.
 B: I can’t finish it__________ the day after tomorrow, I’m afraid.
+
 IV. Complete the description with at, for, during, by, until or in.
 The city of London was found by the Romans (1) ________ the year 43 AD. (2) _______the
 next few years it quickly became the main trading centre in Britain. (3) _____________two hun
@@ -658,6 +616,7 @@ of these buildings were made of wood and (8) ____________________1666 they were 
 all destroyed by a fire which lasted (9) ________ several days. This was a great tragedy for
 the people living there (10) ________that time, but it is true that many of the areas which
 are most attractive today were planned (11) _________ the rebuilding which followed.
+
 V. Complete the sentences with in, at or on.
 1. Write your name ________the top of the page.
 2. I like that picture hanging _________the wall _____ the kitchen.
@@ -691,6 +650,7 @@ photograph _______ the back page.
 12. It’s always too hot ________ my sister’s house. The heating is always on too high.
 13. I haven’t seen Kate for some time. I last saw her _____________ Dave’s wedding.
 14. Paul lives ________ London. He’s a student ____________London University.
+
 VI. Fill in the blank space with the correct preposition from the brackets.
 1. We have a bakery _________ the house so I don’t have to walk far. (in, near, on)
 2. Is there a cinema __________ your house, on the other side of the street? (opposite,
@@ -709,6 +669,7 @@ in, among)
 2.  Our flight was delayed. We had to wait ______ the airport for four hours, (inside, at, in)
 3.  I was standing _______ the counter in the baker’s shop, waiting to be served, (in, at, on)
 4.  The village is 10,000 meters _______ the sea. (under, over, above)
+
 VII.Put in to, at, in, into or through where necessary. If no preposition is necessary, put a cross 
 (X).
 1. Three people were taken to hospital after the accident.
@@ -732,6 +693,7 @@ VII.Put in to, at, in, into or through where necessary. If no preposition is nec
 three. Now he still lives ________New York.
 1.  That man is an idiot. He pushed me__________ the swimming-pool.
 2.  What time does this train arrive__________ London?
+
 VIII. Put in the correct preposition: by, in, on or with.
 1. Who is that man standing ________ the window?
 2. I managed to put the fire out______ a fire extinguisher.
@@ -743,6 +705,7 @@ VIII. Put in the correct preposition: by, in, on or with.
 8. There was a small table_________the bed ____ a lamp and a clock_______ it.
 9. Our team lost the game only because of a mistake__________ one of our players.
 10. I didn’t feel like walking home, so I came home___________ a taxi.
+
 IX. Put in on, in, at or by.
 1. Water boils ________100 degrees Celsius.
 2. My cellphone was stolen while I was ________ a business trip.
@@ -759,6 +722,7 @@ IX. Put in on, in, at or by.
 13. Look! That car is ______ fire! Please call the fire brigade.
 14. I pressed the wrong number________ mistake.
 15. It’s a long journey. Let’s stop somewhere________ the way and have a meal.
+
 X. Complete the sentences using one of the following nouns + correct preposition.
 connection difference demand contact solution reason damage need invitation attitude 
 increase cheque cause advantage difficulty___________________________________
@@ -777,6 +741,7 @@ increase cheque cause advantage difficulty___________________________________
 13. Unfortunately there was some _______________ the arrangement.
 14. We need to provide more shelters for the homeless, so there’s a ------------------ more houses.
 15. The two companies are completely independent. There is no-------------------them.
+
 XI. Complete the advertisement for a supermarket. Put in between, for, in, of or with.
 Why not shop at Greenway Supermarket? You’ll find the cost (1) __________your weekly
 shopping is much lower. There’s quite a contrast (2) other stores. 
@@ -787,6 +752,7 @@ our good relationship (6) our customers. We believe there is simply
 no substitute (7) quality. And there is no lack (8) choice at 
 Greenway. That’s the
 difference (9) _______ Greenway and ordinary stores.
+
 XII. Say what these people's feelings are. Use the adjective in brackets and a preposition.
 1. The children are going on a trip to the zoo. (excited) They’re excited, about the trip to the zoo .
 2. Vicky doesn’t like the dark, (afraid)
@@ -807,6 +773,7 @@ They aren’t ___________________________________________________________
 I’m _________________
 1.  Our team lost in the final, (disappointed)
 We’re all____________________________
+
 XIII. Put in the correct preposition.
 1. I was delighted __________ the present you gave me.
 2. It was very nice __________ you to do my shopping.
@@ -848,6 +815,7 @@ XIII. Put in the correct preposition.
 38. Many young people want to be independent_____________ their parents nowadays.
 39. I’m very grateful __________ her__________ her help.
 40. He didn’t trust me. He was suspicious ____________my intentions.
+
 XIV. Complete these paragraphs. Use these adjectives and put a preposition after each one: 
 different, famous, full, interested, late, ready, responsible, simitar, used.
 Everything was strange here at first because this new job is (1) different from any I’ve had before. 
@@ -859,6 +827,7 @@ difference is that my flat here is (6)__________ horrible old furniture. I keep 
 I live right by the harbour. It’s a pity that I’ve never been (7) ______________ boats. The noise
 of the motor boats wakes me up every morning, so I’m never (8) _________________ work. The
 area is (9) __________ its seafood, which is great, because I love eating fish, as you know.
+
 XV. Complete the replies using a verb + object + preposition.
 1. A: I’ve bought a lot of books. I’ve spent £300.
 B: What? Have you really spent £300 on books 7
@@ -880,6 +849,7 @@ B: Oh! And why didn’t anyone _________________________________________________
 B: You mean someone _______________________________________________________
 1.  A: After the match, Mark hit an opponent, and then he was punished.
 B: Did you say they __________________________________________________________
+
 XVI. Put in these verbs and add a preposition after each one: agree, applied, ask, care, caring, 
 concentrate, decided, pay, suffering.
 I’m working in a hospital now. I (1) ___________ a nurse’s job last July and started in
@@ -890,6 +860,7 @@ the patients, and at the moment I’m (6)________________ backache. But I knew i
 like this when I (7)_____________ a career in nursing. I just try to forget all the problems
 and (8) ____________the job. I think it’s a worthwhile thing to do, and I’m sure you (9)
 ___________ me.
+
 XVII.Decide which word is correct
 1. I saw a really funny program a. at b. 
 from
@@ -935,6 +906,7 @@ a. by b. from c. for d. with
 a. for b. on c. by d. with
 1.  The bus didn’t come, so we started out foot.
 a. by b. in c. on d. with
+
 XVIII. Write the missing words. Use one word only in each space.
 This is our first real holiday (1) for ages, and I’m enjoying it tremendously. I love being (2) an 
 island. We arrived here almost a week (3) __________________________ , and I can’t believe
