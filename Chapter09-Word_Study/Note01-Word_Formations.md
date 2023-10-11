@@ -1,4 +1,4 @@
-# Từ Vựng Học (Word Study)
+# CÁCH THÀNH LẬP TỪ (WORD FORMATIONS)
 
 ## Thành lập danh từ (Noun formations)
 1. Một số danh từ được thành lập bằng cách thêm các hậu tố (suffixes) vào sau động từ:
