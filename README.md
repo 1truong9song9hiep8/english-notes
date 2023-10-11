@@ -1,6 +1,6 @@
 # english-grammar-notes
-* **[Chapter 09: TỪ VỰNG HỌC (WORDS STUDY)](english-grammar/Chapter09-Word_Study)**
-  * **[Cách Thành Lập Từ (Word Formations)](english-grammar/Chapter09-Word_Study/Note01-Word_Formations.md)**
+* **[Chapter 09: TỪ VỰNG HỌC (WORDS STUDY)](Chapter09-Word_Study)**
+  * **[Cách Thành Lập Từ (Word Formations)](Chapter09-Word_Study/Note01-Word_Formations.md)**
     * Thành lập danh từ
     * Thành lập tính từ
     * Thành lập động từ
