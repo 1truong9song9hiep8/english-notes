@@ -1,4 +1,4 @@
-# Expression Of Sentences
+# EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)
 
 ## Some, Any
 Cả some và any đều được dùng để chỉ một số lượng không xác định khi không thể hay không cần 
