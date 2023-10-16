@@ -1,5 +1,5 @@
 # english-grammar-notes
-* **[Chapter 08: EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)](Note00-Expression_Of_Sentences.md)**
+* **[Chapter 08: EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)](Chapter08-Expression_Of_Quantity/Note00-Expression_Of_Sentences.md)**
 
 * **[Chapter 09: TỪ VỰNG HỌC (WORDS STUDY)](Chapter09-Word_Study)**
   * **[Cách Thành Lập Từ (Word Formations)](Chapter09-Word_Study/Note01-Word_Formations.md)**
