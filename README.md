@@ -1,5 +1,5 @@
 # english-grammar-notes
-* **[Chapter 07: CÂU BỊ ĐỘNG(PASSIVE SENTENCES)](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md)**
+* **[Chapter 07: CÂU BỊ ĐỘNG (PASSIVE SENTENCES)](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md)**
   * **[Câu Chủ Động Và Câu Bị Động](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md#câu-chủ-động-và-câu-bi-động-active-and-passive-sentences)**
   * **[Cách Chuyển Sang Câu Bị Động](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md#cách-chuyển-sang-câu-bị-động-passive-transformation)**
   * **[Các Cấu Trúc Bị Động Đặt Biệt](Not00-Passive_Sentences.md#các-câu-trúc-bị-động-đặc-biệt-special-passive-structures)**
