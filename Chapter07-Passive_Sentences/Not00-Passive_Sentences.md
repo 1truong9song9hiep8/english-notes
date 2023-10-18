@@ -133,17 +133,13 @@ was filled with smoke. (Căn phòng đầy khói.)
   * Trạng từ hoặc cụm trạng từ chỉ thời gian đứng sau by + agent. Ex:
     * `The report was typed by the secretary this morning. (Bản báo cáo đã được thư ký đánh máy sáng nay.)`
 
-## Các câu trúc bị động đặc biệt (Special passive structures)
-
+## Các cấu trúc bị động đặc biệt (Special passive structures)
 1. Động từ với hai tân ngữ (verb with two objects)
-Khi động từ chủ động có hai tân ngữ - tân ngữ gián tiếp (indirect object) chỉ người và tân ngữ trực tiếp (direct object) chỉ vật - thì cả hai tân ngữ đều có thể làm chủ ngữ cho câu bị động.
-(a) Verb + indirect object (I.O) + direct object (D.O)
-*
-Ex: He gave the police the information.
-1.0 D.o
-(b) Verb + direct object + preposition + indirect object
-Ex: He gave the information to the police.
-D.o prep. Ị.0
+  
+  Khi động từ chủ động có hai tân ngữ - tân ngữ gián tiếp (indirect object) chỉ người và tân ngữ trực tiếp (direct object) chỉ vật - thì cả hai tân ngữ đều có thể làm chủ ngữ cho câu bị động.
+    
+    (a) Verb + indirect object (I.O) + direct object (D.O) Ex: He gave the police the information.
+    (b) Verb + direct object + preposition + indirect object Ex: He gave the information to the police.
 > Dạng bị động được thành lập bằng hai cách:
 (a) tân ngữ gián tiếp (indirect object) trở thành chủ ngữ của động từ bị động.
 Ex: The police were given the information. (Cảnh sát đã được cung cấp tin tức.)
@@ -172,51 +168,39 @@ They suggested a meeting place to US.
 -> A meeting place was suggested to US. (Người ta đã đề xuất vôi chúng tôi một nơi gặp mặt.) [NOT 
 We were suggested a meeting place.]
 1. Động từ + tân ngữ + động từ nguyên mẫu có to (verb + object + to-infinitive)
-a. Các động từ chỉ cảm xúc hoặc mong ước: like, hate, love, want, wish, prefer, hope... + object 
-+ to-infinitive dạng bị động được thành lập bằng cách dừng dạng bị động của động từ nguyên 
-mẫu.
-[ Subject + verb + object + passive infinitive (to be + pp) )
-Ex: He wants someone to take photographs.
--> He wants photographs to be taken.
-(Anh ấy muốn những bức ảnh được chụp.)
-I didn’t expect the police to find my car.
--»I didn’t expect my car to be found by the police.
-(Tôi không hy vọng xe của tôi được cảnh sát tìm thấy.) Do you wish me to serve dinner 
-now?
-—> Do you wish dinner to be served now?
-(Anh có muốn bữa tối được dọn bây giờ không'?)
-Nếu tân ngữ của động từ nguyên mẫu chỉ cùng một đối tượng với chủ ngừ của câu thì dạng bị 
-động được thành lập không có tân ngữ.
-( Subject + verb 4- to be 4- past participle ]
-Ex: He likes people to call him ‘Sir’.
--> He likes to be called ‘Sir’. (Ông ấy thích được gọi bằng ‘Ngài’.) I prefer you to call me by 
-my first name.
--> I prefer to be called by my first name. (Tôi thích được gọi bằng tên.) b. Các động từ chỉ 
-mệnh lệnh, sự yêu cầu, sự cho phép, lời khuyên, lời mời, V.V.: ask, tell, request, order, advise, 
-invite, allow ... + object 4- to-infmitive -> dạng bị động được thành lập bằng cách dùng dạng bị 
-động của động từ chính.
-("subject 4- passive verb 4- to-lnflnitive ]
-Ex: He asked me to send a stamped envelope.
-->I was asked to send a stamped envelope.
-(Tôi được yêu cầu gửi một phong bì có dán tem.)
-They advised US to come early.
-->We were advised to come early. (Chúng tôi được khuyên nên đến sớm.)
-Her boss doesn’t allow her to use the telephone.
-—> She isn’t allowed to use the telephone by her boss.
-(Cô ấy không được ông chủ cho phép dùng điện thoại.) He invited me to go out for dinner.
-—> I was invited to go out for dinner. (Tôi được mời ra ngoài ăn tối.)
-> Dạng bị động này cũng được dùng cho một số động từ chỉ tri giác: believe, consider, think, feel, 
-know, understand ... + object + to-infinitive (thường là to be).
-Ex: They believe him to be innocent.
-—> He is believed to be innocent. (Anh ta được cho là vô tội.) They knew him to be a 
-dangerous criminal.
-->He was known to be a dangerous criminal.
-(Anh ta được biết như một tội phạm nguy hiểm.)
-iỉ LƯU ý: Advise, beg, order, recommend, urge + indirect object + to-infinitive + object cũng có 
-thể được đổi sang dạng bị động bằng that... should + passive infinitive.
-Ex:
-* He urged the Council to reduce the rates. (Anh ta kiến nghị Hội đồng giảm thuế.) -> He urged that the rates should be reduced (Anh ta kiêh nghị rằng thuế cẩn phải dược giảm bớt.) -> The Council was/were urged to reduce the rates. (Hội đồng được kiến nghị cẩn phải giảm thuế.)
-1. Động từ + tân ngữ + động từ nguyên mẫu không to (verb + object + bare-infinitive)
+      a. Các động từ chỉ cảm xúc hoặc mong ước: like, hate, love, want, wish, prefer, hope... + object + to-infinitive dạng bị động được thành lập bằng cách dừng dạng bị động của động từ nguyên mẫu.
+    ```
+          Subject + verb + object + passive infinitive (to be + pp)
+    ```
+    * `He wants someone to take photographs.<br>-> He wants photographs to be taken. (Anh ấy muốn những bức ảnh được chụp.)`
+    * `I didn’t expect the police to find my car.<br>-> I didn’t expect my car to be found by the police. (Tôi không hy vọng xe của tôi được cảnh sát tìm thấy.)`
+    * `Do you wish me to serve dinner now?<br>-> Do you wish dinner to be served now? (Anh có muốn bữa tối được dọn bây giờ không?)`
+    
+    Nếu tân ngữ của động từ nguyên mẫu chỉ cùng một đối tượng với chủ ngừ của câu thì dạng bị động được thành lập không có tân ngữ.
+    ```
+          Subject + verb + to be + past participle
+    ```
+      * He likes people to call him 'Sir' -> He likes to be called 'Sir'. (Ông ấy thích được gọi bằng 'Ngài'.)`
+      * `I prefer you to call me by my first name. -> I prefer to be called by my first name. (Tôi thích được gọi bằng tên.)`
+    
+    b. Các động từ chỉ mệnh lệnh, sự yêu cầu, sự cho phép, lời khuyên, lời mời,v.v..:*ask, tell, request, order, advise, invite, allow ...* + object + to-infinitive -> dạng bị động được thành lập bằng cách dùng dạng bị động của động từ chính.
+    ```
+          Subject + passive verb + to-lnflnitive
+    ```
+      * `He asked me to send a stamped envelope. -> I was asked to send a stamped envelope. (Tôi được yêu cầu gửi một phong bì có dán tem.)`
+      * `They advised US to come early.-> We were advised to come early. (Chúng tôi được khuyên nên đến sớm.)`
+      * `Her boss doesn’t allow her to use the telephone. -> She isn’t allowed to use the telephone by her boss.(Cô ấy không được ông chủ cho phép dùng điện thoại.)`
+      * `He invited me to go out for dinner. -> I was invited to go out for dinner. (Tôi được mời ra ngoài ăn tối.)`
+    
+    Dạng bị động này cũng được dùng cho một số động từ chỉ tri giác: believe, consider, think, feel, know, understand ... + object + to-infinitive (thường là to be). Ex:
+    * `They believe him to be innocent. -> He is believed to be innocent. (Anh ta được cho là vô tội.)`
+    * `They knew him to be a dangerous criminal.-> He was known to be a dangerous criminal. (Anh ta được biết như một tội phạm nguy hiểm.)`
+    
+    Lưu ý: Advise, beg, order, recommend, urge + indirect object + to-infinitive + object cũng có thể được đổi sang dạng bị động bằng that... should + passive infinitive. Ex:
+    * `He urged the Council to reduce the rates. (Anh ta kiến nghị Hội đồng giảm thuế.) -> He urged that the rates should be reduced (Anh ta kiến nghị rằng thuế cẩn phải dược giảm bớt.)`
+    * `The Council was/were urged to reduce the rates. (Hội đồng được kiến nghị cẩn phải giảm thuế.)`
+
+3. Động từ + tân ngữ + động từ nguyên mẫu không to (verb + object + bare-infinitive)
 Các động từ chỉ giác quan: feel, see, watch, notice, hear, listen to ... + object + bare-infinitive -» dạng bị 
 động được thành lập bằng cách dùng dạng bị động của động từ chính và động từ nguyên mẫu có to (to￾infinitive).
 ( Subject 4- passive verb + to-infinitlve ]
@@ -251,8 +235,8 @@ Ex: He doesn’t like people laughing at him.
 giving me a toy drum on my fifth birthday.
 -> I remember being given a toy drum on my fifth birthday.
 (Tôi nhớ tôi được tặng một cái trống đồ chơi vào sinh nhật lần thứ năm.)
-1. Động từ + động từ nguyên mẫu/ danh động từ + tân ngữ (verb + to-infinitive/ gerund + 
-object)
+
+2. Động từ + động từ nguyên mẫu/ danh động từ + tân ngữ (verb + to-infinitive/ gerund + object)
 Một số các động từ như: advise, agree, insist, arrange, suggest, propose, recommend, determine, 
 decide, demand, etc. + to-infinitive I gerund + object thường được diễn đạt ở dạng bị động bằng 
 mệnh đề that (that clause).
