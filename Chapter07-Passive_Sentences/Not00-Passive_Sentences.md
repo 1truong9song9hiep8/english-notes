@@ -1,43 +1,37 @@
 # CÂU BỊ DỘNG (PASSIVE SENTENCES)
 
-## Câu chủ động và câu bi động (Active and passive sentences}
-
-1. Câu chủ động (Active sentences): Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động. Ex: They built this house in 1486. (Họ xây ngồi nhà này năm 1486.) This book will change your life. (Cuốn sách này sẽ làm thay đổi cuộc đời bạn.)
-
-2. Câu bị động (Passive sentences): Câu bị động là câu trong đó chủ ngữ là người hay vật nhận hoặc chịu tác động của hành động.Ex: This house was built in 1486. (Ngôi nhà này được xây năm 1486.) Your life will be changed by this book. (Cuộc dời bạn sẽ được cuốn sách này làm cho thay đổi.)
-
-a. Hình thức (Form)
-( Subject + be t past participle (4-by 4-agent) ]
-Ex: This tree was planted by my grandfather. (Cây này do ông tôi trồng) s be + pp o 
-(agent)
-b. Cách dùng (Use)
-Câu bị động (passive sentence) được dùng:
-• Khi người hoặc vật thực hiện hành động đã rõ ràng.
-Ex: The streets are swept every day.
-(Những con đường dược quét môi ngày.) [by street-sweepers]
-• Khi không biết hoặc không cần biết đến người hoặc vật thực hiện hành động. Ex: Oil has 
-been discovered at the North Pole.
-(Dầu đã được tìm thấy ở Bắc Cực.) [ai tìm thấy không quan trọng] A lot of money has 
-been stolen in the robbery.
-(Một lượng tiền lớn đã bị mất trong vụ cướp.)
-[không biết ai đã đánh cướp]
-• Khi người nói muôn nhấn mạnh người hoặc vật tiếp nhận hành động. Ex: This house was 
-built in 1486 by Sir John Latton.
-(Ngôi nhà này được ngài John Latton xây dựng năm 1486.)
+## Câu chủ động và câu bị động (Active and passive sentences}
+1. **Câu chủ động (Active sentences):** Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động. Ex:
+   * `They built this house in 1486. (Họ xây ngồi nhà này năm 1486.)`
+   * `This book will change your life. (Cuốn sách này sẽ làm thay đổi cuộc đời bạn.)`
+2. **Câu bị động (Passive sentences):** Câu bị động là câu trong đó chủ ngữ là người hay vật nhận hoặc chịu tác động của hành động. Ex:
+   * `This house was built in 1486. (Ngôi nhà này được xây năm 1486.)`
+   * `Your life will be changed by this book. (Cuộc dời bạn sẽ được cuốn sách này làm cho thay đổi.)`
+ 
+    a. Hình thức (Form)
+   ```
+             Subject + be + past participle (+ by agent)
+   ```
+    * `This tree was planted by my grandfather. (Cây này do ông tôi trồng)`
+    
+    b. Cách dùng (Use)
+    Câu bị động (passive sentence) được dùng:
+    * Khi người hoặc vật thực hiện hành động đã rõ ràng. Ex: `The streets are swept every day. (Những con đường dược quét môi ngày.) [by street-sweepers]`
+    * Khi không biết hoặc không cần biết đến người hoặc vật thực hiện hành động. Ex:
+      * `Oil has been discovered at the North Pole. (Dầu đã được tìm thấy ở Bắc Cực.) [ai tìm thấy không quan trọng]`
+      * `A lot of money has been stolen in the robbery. (Một lượng tiền lớn đã bị mất trong vụ cướp.) [không biết ai đã đánh cướp]`
+    * Khi người nói muôn nhấn mạnh người hoặc vật tiếp nhận hành động. Ex: `This house was built in 1486 by Sir John Latton. (Ngôi nhà này được ngài John Latton xây dựng năm 1486.)`
 
 ## Cách chuyển sang câu bị động (Passive transformation)
 Muôn chuyển một câu chủ động sang câu bị động, ta thực hiện các bước sau:
 1. Lấy tân ngữ (object) của câu chủ động làm chủ ngừ (subject) của câu bị động.
-Active
-Passive
-1. Đổi động từ chủ động (VA) thành động từ bị động (Vp).
-[ Vp: Be +■ past participle (pp) ]
-TENSE PASSIVE STRUCTURE
-Present simple
-People speak English here.
-Present progressive
-They are painting the house.
-Past simple
+2. Đổi động từ chủ động V[active] thành động từ bị động V[passive]: `[ Vp: Be + past participle (pp) ]`
+
+| TENSE | PASSIVE STRUCTURE |
+| :---:   | :---: |
+| Present simple | People speak English here. |
+| Present progressive | They are painting the house. |
+|Past simple
 Somebody, cleaned this room yesterday.
 Past progressive
 My sister was baking the cakes.
@@ -100,6 +94,15 @@ pp
 Having been warned about the bandits,
 •••
 [I had been warned (by sb) ...]
+|
+|
+|
+|
+|-----
+
+
+
+
 ^rLưu ý: Đôi khi get có thể được dùng thay cho be để diễn đạt những sự việc gây bất ngờ hoặc 
 khó chịu.
 Ex: There was an accident in the street but nobody got hurt.
@@ -120,18 +123,15 @@ Nobody saw him leaving the room
 Mưu ý: Dùng with (không dùng ửy) để chỉ dụng cụ, công cụ hoặc nguyên liệu được sử dụng.
 Ex: He was shot (by the policeman) with a rifle. (Anh ta bị bắn bằng súng trường.) The room 
 was filled with smoke. (Căn phòng đầy khói.)
+
 * Vị trí của trạng từ hoặc cụm trạng từ trong câu bị động
-- Trạng từ chỉ cách thức thường đứng giữa be và quá khứ phân từ (past participle). Các trạng từ 
-khác thường đứng sau trợ động từ đầu tiên.
-Ex: The problem has been carefully studied by the scientists.
-(Vấn đề đã được các nhà khoa học nghiên cứu kỹ.)
-She had never been promoted if she wouldn’t have changed her job. (Nếu cỗ ấy không đổi 
-việc thì cô ấy đã chẳng bao giờ được thăng chức.)
-- Trạng từ hoặc cụm trạng từ chỉ nơi chốn đứng trước by + agent.
-Ex: He was found in the forest by the police. (Anh ta được cảnh sát tìm thấy trong rừng.)
-- Trạng từ hoặc cụm trạng từ chỉ thời gian đứng sau by + agent.
-Ex: The report was typed by the secretary this morning. (Bản báo cáo đã được thư ký đánh 
-máy sáng nay.)
+  * Trạng từ chỉ cách thức thường đứng giữa be và quá khứ phân từ (past participle). Các trạng từ khác thường đứng sau trợ động từ đầu tiên. Ex:
+    * `The problem has been carefully studied by the scientists. (Vấn đề đã được các nhà khoa học nghiên cứu kỹ.)`
+    * `She had never been promoted if she wouldn’t have changed her job. (Nếu cỗ ấy không đổi việc thì cô ấy đã chẳng bao giờ được thăng chức.)`
+  * Trạng từ hoặc cụm trạng từ chỉ nơi chốn đứng trước by + agent. Ex:
+    * `He was found in the forest by the police. (Anh ta được cảnh sát tìm thấy trong rừng.)`
+  * Trạng từ hoặc cụm trạng từ chỉ thời gian đứng sau by + agent. Ex:
+    * `The report was typed by the secretary this morning. (Bản báo cáo đã được thư ký đánh máy sáng nay.)`
 
 ## Các câu trúc bị động đặc biệt (Special passive structures)
 
