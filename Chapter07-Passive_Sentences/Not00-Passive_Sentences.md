@@ -134,41 +134,41 @@ was filled with smoke. (Căn phòng đầy khói.)
     * `The report was typed by the secretary this morning. (Bản báo cáo đã được thư ký đánh máy sáng nay.)`
 
 ## Các cấu trúc bị động đặc biệt (Special passive structures)
-1. Động từ với hai tân ngữ (verb with two objects)
-  
-  Khi động từ chủ động có hai tân ngữ - tân ngữ gián tiếp (indirect object) chỉ người và tân ngữ trực tiếp (direct object) chỉ vật - thì cả hai tân ngữ đều có thể làm chủ ngữ cho câu bị động.
-    
-    (a) Verb + indirect object (I.O) + direct object (D.O) Ex: He gave the police the information.
-    (b) Verb + direct object + preposition + indirect object Ex: He gave the information to the police.
-> Dạng bị động được thành lập bằng hai cách:
-(a) tân ngữ gián tiếp (indirect object) trở thành chủ ngữ của động từ bị động.
-Ex: The police were given the information. (Cảnh sát đã được cung cấp tin tức.)
-(b) tân ngừ trực tiếp (direct object) trở thành chủ ngữ của động từ bị động. Ex: The information was 
-given (to) the police.
-(Tin tức đã được cung cấp cho cảnh sát.)
-Việc lựa chọn giữa hai cấu trúc bị động tùy thuộc vào điều đã được nói trước đó, hoặc vào điều cần 
-phải nhấn mạnh. Tuy nhiên tân ngữ gián tiếp (indirect object) thường được dùng làm chủ ngữ của động 
-từ bị động hơn tân ngữ trực tiếp (direct object).
-Ex: They have awarded Andrew a prize for his essay.
--> Andrew has been awarded a prize for his essay.
-(Andrew được trao giải thưởng cho bài tiểu luận của nó.)
-[phổ biến hơn ‘A prize has been awarded to Andrew for his essay.’]
-Giới từ to đôi khi được bỏ đi trước đại từ làm tân ngữ gián tiếp.
-Ex: Some flowers were sent (to) me by Harry.
-(Tôi được Harry gửi tặng vài bông hoa.)
-* Một số động từ thường dùng trong cấu trúc này gồm: allow, award, ask, give, sell, send, show, lend, 
-pay, promise, tell, offer, teach, refuse, write.
-Mưu ý: Không dùng cấu trúc (a) với hai động từ explain \jầ suggest.
-Ex: We explained the problem to the children.
-[ NOT We-explained the-children the problem ]
--> The problem was explained to the children. (Vấn đề đã được giải thích cho bọn trẻ.)
-[NOT The children were explained the problem.]
-They suggested a meeting place to US.
-[NOT They-suggested US a meeting place.]
--> A meeting place was suggested to US. (Người ta đã đề xuất vôi chúng tôi một nơi gặp mặt.) [NOT 
-We were suggested a meeting place.]
-1. Động từ + tân ngữ + động từ nguyên mẫu có to (verb + object + to-infinitive)
-      a. Các động từ chỉ cảm xúc hoặc mong ước: like, hate, love, want, wish, prefer, hope... + object + to-infinitive dạng bị động được thành lập bằng cách dừng dạng bị động của động từ nguyên mẫu.
+1. **Động từ với hai tân ngữ (verb with two objects)**
+
+   Khi động từ chủ động có hai tân ngữ - tân ngữ gián tiếp (indirect object) chỉ người và tân ngữ trực tiếp (direct object) chỉ vật - thì cả hai tân ngữ đều có thể làm chủ ngữ cho câu bị động.
+   (a) Verb + indirect object (I.O) + direct object (D.O) Ex: He gave the police the information.
+   (b) Verb + direct object + preposition + indirect object Ex: He gave the information to the police.
+       > Dạng bị động được thành lập bằng hai cách:
+    (a) tân ngữ gián tiếp (indirect object) trở thành chủ ngữ của động từ bị động.
+    Ex: The police were given the information. (Cảnh sát đã được cung cấp tin tức.)
+    (b) tân ngừ trực tiếp (direct object) trở thành chủ ngữ của động từ bị động. Ex: The information was 
+    given (to) the police.
+    (Tin tức đã được cung cấp cho cảnh sát.)
+    Việc lựa chọn giữa hai cấu trúc bị động tùy thuộc vào điều đã được nói trước đó, hoặc vào điều cần 
+    phải nhấn mạnh. Tuy nhiên tân ngữ gián tiếp (indirect object) thường được dùng làm chủ ngữ của động 
+    từ bị động hơn tân ngữ trực tiếp (direct object).
+    Ex: They have awarded Andrew a prize for his essay.
+    -> Andrew has been awarded a prize for his essay.
+    (Andrew được trao giải thưởng cho bài tiểu luận của nó.)
+    [phổ biến hơn ‘A prize has been awarded to Andrew for his essay.’]
+    Giới từ to đôi khi được bỏ đi trước đại từ làm tân ngữ gián tiếp.
+    Ex: Some flowers were sent (to) me by Harry.
+    (Tôi được Harry gửi tặng vài bông hoa.)
+    * Một số động từ thường dùng trong cấu trúc này gồm: allow, award, ask, give, sell, send, show, lend, 
+    pay, promise, tell, offer, teach, refuse, write.
+    Mưu ý: Không dùng cấu trúc (a) với hai động từ explain \jầ suggest.
+    Ex: We explained the problem to the children.
+    [ NOT We-explained the-children the problem ]
+    -> The problem was explained to the children. (Vấn đề đã được giải thích cho bọn trẻ.)
+    [NOT The children were explained the problem.]
+    They suggested a meeting place to US.
+    [NOT They-suggested US a meeting place.]
+    -> A meeting place was suggested to US. (Người ta đã đề xuất vôi chúng tôi một nơi gặp mặt.) [NOT 
+    We were suggested a meeting place.]
+
+2. Động từ + tân ngữ + động từ nguyên mẫu có to (verb + object + to-infinitive)
+        a. Các động từ chỉ cảm xúc hoặc mong ước: like, hate, love, want, wish, prefer, hope... + object + to-infinitive dạng bị động được thành lập bằng cách dừng dạng bị động của động từ nguyên mẫu.
     ```
           Subject + verb + object + passive infinitive (to be + pp)
     ```
@@ -199,24 +199,25 @@ We were suggested a meeting place.]
     Lưu ý: Advise, beg, order, recommend, urge + indirect object + to-infinitive + object cũng có thể được đổi sang dạng bị động bằng that... should + passive infinitive. Ex:
     * `He urged the Council to reduce the rates. (Anh ta kiến nghị Hội đồng giảm thuế.) -> He urged that the rates should be reduced (Anh ta kiến nghị rằng thuế cẩn phải dược giảm bớt.)`
     * `The Council was/were urged to reduce the rates. (Hội đồng được kiến nghị cẩn phải giảm thuế.)`
+3. **Động từ + tân ngữ + động từ nguyên mẫu không to (verb + object + to-infinitive)**
 
-3. Động từ + tân ngữ + động từ nguyên mẫu không to (verb + object + bare-infinitive)
-Các động từ chỉ giác quan: feel, see, watch, notice, hear, listen to ... + object + bare-infinitive -» dạng bị 
-động được thành lập bằng cách dùng dạng bị động của động từ chính và động từ nguyên mẫu có to (to￾infinitive).
-( Subject 4- passive verb + to-infinitlve ]
-Ex:
-* We saw them go out of the house. -> They were seen to go out of the house. (Người ta thấy họ ra khỏi nhà.)
-* I heard him run upstairs. -> He was heard to run upstairs. (Người ta nghe tiếng anh ta chạy lên lầu.)
+   Các động từ chỉ giác quan: feel, see, watch, notice, hear, listen to ... + object + bare-infinitive -» dạng bị 
+    động được thành lập bằng cách dùng dạng bị động của động từ chính và động từ nguyên mẫu có to (to￾infinitive).
+    ( Subject 4- passive verb + to-infinitlve ]
+    Ex:
+    * We saw them go out of the house. -> They were seen to go out of the house. (Người ta thấy họ ra khỏi nhà.)
+    * I heard him run upstairs. -> He was heard to run upstairs. (Người ta nghe tiếng anh ta chạy lên lầu.)
+    
+    Dạng bị động này cũng được dùng cho động từ make và help. Ex:
+    * They made him tell the truth. -> He was made to tell the truth. (Anh ta bị buộc phải khai ra sự thật.)
+    * You should help the old carry their heavy bags. -> The old should be helped to carry their heavy bags. (Người già nên dược mang giúp những túi nặng.)
+    
+    Let được dùng không có to.
+    Ex: They let US go. We were let go. (Chúng tôi được để cho đi.)
+    Tuy nhiên let ít được dùng ở dạng bị động, allow thường được dùng thay cho let trong câu bị động.
+    Ex: We were allowed to go.
 
-Dạng bị động này cũng được dùng cho động từ make và help. Ex:
-* They made him tell the truth. -> He was made to tell the truth. (Anh ta bị buộc phải khai ra sự thật.)
-* You should help the old carry their heavy bags. -> The old should be helped to carry their heavy bags. (Người già nên dược mang giúp những túi nặng.)
-
-Let được dùng không có to.
-Ex: They let US go. We were let go. (Chúng tôi được để cho đi.)
-Tuy nhiên let ít được dùng ở dạng bị động, allow thường được dùng thay cho let trong câu bị động.
-Ex: We were allowed to go.
-1. Động từ + tân ngữ + danh động từ (verb + object + gerund)
+4. **Động từ + tân ngữ + danh động từ (verb + object + gerund)**
 Động từ được theo sau bởi tân ngữ + danh động từ: see, hear, find, stop, keep ... + object + verb-ing -> 
 dạng bị động được thành lập bằng cách dùng dạng bị động của động từ chính.
 ( Subject 4- passive verb 4- verb-ing )
@@ -236,20 +237,16 @@ giving me a toy drum on my fifth birthday.
 -> I remember being given a toy drum on my fifth birthday.
 (Tôi nhớ tôi được tặng một cái trống đồ chơi vào sinh nhật lần thứ năm.)
 
-2. Động từ + động từ nguyên mẫu/ danh động từ + tân ngữ (verb + to-infinitive/ gerund + object)
-Một số các động từ như: advise, agree, insist, arrange, suggest, propose, recommend, determine, 
-decide, demand, etc. + to-infinitive I gerund + object thường được diễn đạt ở dạng bị động bằng 
-mệnh đề that (that clause).
-( Subject 4- verb 4- that + subject 4- should be 4- pp. ]
-Ex: He decided to sell the house.
--> He decided that the house should be sold.
-(Ồng ta quyết định nên hán căn nhà.)
-She suggested taking children to the zoo.
-->She suggested that the children should be taken to the zoo.
-(Cô ấy gợi ý rằng nên đưa bọn trẻ đi sở thú.)
-1. Động từ 4- tân ngữ 4- bổ ngữ của tân ngữ (verb 4- object 4- object complement)
-Tân ngữ trực tiếp sau một số động từ có thể được theo sau bởi một bổ ngữ của tân ngữ (bổ ngữ có 
-thể là danh từ hoặc tính từ). Trong mệnh đề bị động, các bổ ngữ này trở thành bổ ngữ của chủ ngữ 
+5. **Động từ + động từ nguyên mẫu/ danh động từ + tân ngữ (verb + to-infinitive/ gerund + object)**
+   Một số các động từ như: advise, agree, insist, arrange, suggest, propose, recommend, determine, decide, demand, etc. + to-infinitive I gerund + object thường được diễn đạt ở dạng bị động bằng mệnh đề that (that clause).
+   ```
+   ( Subject 4- verb 4- that + subject 4- should be 4- pp. ]
+   ```
+  Ex: He decided to sell the house.-> He decided that the house should be sold. (Ồng ta quyết định nên hán căn nhà.)
+  She suggested taking children to the zoo. ->She suggested that the children should be taken to the zoo. (Cô ấy gợi ý rằng nên đưa bọn trẻ đi sở thú.)
+
+6. **Động từ + tân ngữ + bổ ngữ của tân ngữ (verb + object + object complement)**
+   Tân ngữ trực tiếp sau một số động từ có thể được theo sau bởi một bổ ngữ của tân ngữ (bổ ngữ có thể là danh từ hoặc tính từ). Trong mệnh đề bị động, các bổ ngữ này trở thành bổ ngữ của chủ ngữ 
 và theo sau động từ. Ex: They elected Mr. Sanderson president.
 —> Mr. Sanderson was elected president.
 (Ông Sanderson được bầu làm chủ tịch.)
@@ -259,43 +256,44 @@ I will paint the door yellow.
 —> The door will be painted yellow. (Cửa ra vào sẽ dược sơn màu vàng.) They regard Kathy as 
 an expert.
 -> Kathy is regarded as an expert. (Kathy được xem như một chuyên gia.)
-1. Động từ 4- mệnh đề That (verb 4- That-clause)
-Khi mệnh đề that (that-clause) được dùng làm tân ngữ cho các động từ agree, allege, announce, 
-assume, hope, believe, claim, consider, estimate, expect, feel, find, knou), report, rumor, say, think, 
-understand, etc. thì dạng bị động có thể được diễn đạt theo hai cách:
-(1) Subject 4- passive verb 4- to-infinitive Subject 4- passive verb 4-
-to have 4- pp
-(2) It 4- passive verb 4- that-clause
-Ex: People say that he is a good doctor.
--> He is said to be a good doctor.
--> It is said that he is a good doctor.
-(Người ta nói rằng ông ấy là một bác sĩ giỏi.)
-We know that he was a spy.
-->He is known to have been a spy.
-->It is known that he was a spy.
-(Người ta biết ràng ông ta đã từng là một điệp viên.)
-^Lưu ý: Trong cách đổi thứ nhất (1) chúng ta phải xét đến thời gian xảy ra hành động trong mệnh đề 
-that (that-clause) và mệnh đề chính (main clause).
-- Hành động trong mệnh để that (that-clause) xảy ra đồng thời hoặc xảy ra sau hành động trong 
-mệnh chính -> dùng present infinitive (to-infinitive).
-Ex: People say that Henry is in love with Claire.
--> Henry is said to be in love with Claire. (Mọi người nói rằng Henry đang yêu Claire.) He didn’t 
-consider that she had a different idea.
-(Anh ấy không nghĩ đến việc cô ấy có ý kiến khác.)
--> She wasn’t considered to have a different idea.
-They believed that she was living abroad.
--> She was believed to be living abroad.
-(Người ta cho rằng cô ấy đang sống ở nước ngoài.) They expect that the strike will end soon.
--» The strike is expected to end soon. (Người ta mong cuộc bãi công sẽ sớm kết thúc.)
-- Hành động trong mệnh đề that xảy ra trước hành động trong mệnh đề chính -> dùng perfect 
-infinitive (to have + past participle).
-Ex: They report that two people were injured in the explosion.
--> Two people are reported to have been injured in the explosion.
-(Có hai người được cho là đã bị thương trong vụ nổ.)
-The police alleged that we had brought goods into the country illegally.
--> We were alleged to have brought goods into the country illegally by the police.
-(Chúng tôi bị cảnh sất cho là đã nhập khẩu hàng hóa trái phép.)
-1. Câu mệnh lệnh (Imperative sentences)
+
+7. **Động từ + mệnh đề That (verb + That-clause)**
+
+   Khi mệnh đề that (that-clause) được dùng làm tân ngữ cho các động từ agree, allege, announce, assume, hope, believe, claim, consider, estimate, expect, feel, find, knou), report, rumor, say, think, understand, etc. thì dạng bị động có thể được diễn đạt theo hai cách:
+  (1) Subject 4- passive verb 4- to-infinitive Subject 4- passive verb 4-
+  to have 4- pp
+  (2) It 4- passive verb 4- that-clause
+  Ex: People say that he is a good doctor.
+  -> He is said to be a good doctor.
+  -> It is said that he is a good doctor.
+  (Người ta nói rằng ông ấy là một bác sĩ giỏi.)
+  We know that he was a spy.
+  ->He is known to have been a spy.
+  ->It is known that he was a spy.
+  (Người ta biết ràng ông ta đã từng là một điệp viên.)
+  ^Lưu ý: Trong cách đổi thứ nhất (1) chúng ta phải xét đến thời gian xảy ra hành động trong mệnh đề 
+  that (that-clause) và mệnh đề chính (main clause).
+  - Hành động trong mệnh để that (that-clause) xảy ra đồng thời hoặc xảy ra sau hành động trong 
+  mệnh chính -> dùng present infinitive (to-infinitive).
+  Ex: People say that Henry is in love with Claire.
+  -> Henry is said to be in love with Claire. (Mọi người nói rằng Henry đang yêu Claire.) He didn’t 
+  consider that she had a different idea.
+  (Anh ấy không nghĩ đến việc cô ấy có ý kiến khác.)
+  -> She wasn’t considered to have a different idea.
+  They believed that she was living abroad.
+  -> She was believed to be living abroad.
+  (Người ta cho rằng cô ấy đang sống ở nước ngoài.) They expect that the strike will end soon.
+  -» The strike is expected to end soon. (Người ta mong cuộc bãi công sẽ sớm kết thúc.)
+  - Hành động trong mệnh đề that xảy ra trước hành động trong mệnh đề chính -> dùng perfect 
+  infinitive (to have + past participle).
+  Ex: They report that two people were injured in the explosion.
+  -> Two people are reported to have been injured in the explosion.
+  (Có hai người được cho là đã bị thương trong vụ nổ.)
+  The police alleged that we had brought goods into the country illegally.
+  -> We were alleged to have brought goods into the country illegally by the police.
+  (Chúng tôi bị cảnh sất cho là đã nhập khẩu hàng hóa trái phép.)
+
+8. **Câu mệnh lệnh (Imperative sentences)**
 Câu mệnh lệnh (imperative sentences): Verb + object I Don’t + verb + object dạng bị động được thành 
 lập bằng cách dùng động từ LET.
 ( Let 4- object 4- be 4- past participle )
