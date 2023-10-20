@@ -1,18 +1,19 @@
 # Note 04: So Sánh
-Có 3 cấp độ so sánh tính từ và trạng từ: so sánh bằng, so sánh hơn, và so sánh nhất.
-### So sánh bằng (Positive form)
+Có 3 cấp độ so sánh tính từ và trạng từ: *so sánh bằng, so sánh hơn, và so sánh nhất.*
+
+## So sánh bằng (Positive form)
 Hình thức so sánh bằng được thành lập bằng cách thêm *as* vào trước và sau tính từ (adjective) hoặc trạng từ (adverb).
 ```
-    ( s + V 4- 05 4- adj/ adv 4- 05 4- noun/ pronoun/ clause ]
+    S + V + as + adj/adv + as + N/Pronoun/Clause
 ```
 Ex:
-- *My hands were as cold as ice. (Tay tôi lạnh như đá.)*
-- *Jane sings as well as her sister. (Jane hát hay như chị cố ấy.)*
-- *Is the film as interesting as you expected? (Phim có hay như bạn mong đợi không?)*
+- `My hands were as cold as ice. (Tay tôi lạnh như đá.)`
+- `Jane sings as well as her sister. (Jane hát hay như chị cố ấy.)`
+- `Is the film as interesting as you expected? (Phim có hay như bạn mong đợi không?)`
 
 Trong câu phủ định so có thể được dùng thay cho as.
 ```
-    [ not as/ so 4- adj/ adv 4- as j
+    S + V + not as/so + adj/adv + as + N/pronoun
 ```
 Ex
 - *This flat isn’t as so big as our old one. (Cân hộ này không lớn hằng căn hộ cữ của chúng tôi.)*
@@ -31,10 +32,10 @@ Ex:
 > Chúng ta dùng 'the same as’ chứ không dùng 'the same like'<br>
 Ex:
 - What would you like to drink? ~ I’ll have the same as you. (Anh muốn uống gì? ~ Tôi uống giống như anh.) [NOT the same like]
-  Less... than = not as/ so... as
-Ex:
-- This dress is less expensive than that one. (Cái áo đầm này khổng đắt như cái áo kia.)  [= This dress isn’t as/so expensive as... ]
-- The city center was less crowded than usual. (Trung tâm thành phố ít đông hơn thường ngày.) [= The city center wasn’t as crowded as usual.]
+
+Less... than = not as/ so... as, Ex:
+- `This dress is less expensive than that one. (Cái áo đầm này khổng đắt như cái áo kia.)  [= This dress isn’t as/so expensive as... ]`
+- `The city center was less crowded than usual. (Trung tâm thành phố ít đông hơn thường ngày.) [= The city center wasn’t as crowded as usual.]`
 
 Nhưng trong lối nói thân mật not as/so...as thường được dùng hơn less...than.
 - Khi nói gấp bao nhiêu lần, ta dùng cấu trúc twice as... as, three times as... as, etc. Ex:
