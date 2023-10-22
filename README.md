@@ -7,6 +7,11 @@
     * **[Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)](Chapter01-The-Parts-Of-Speech/Note01-Nouns.md#sự-tương-hợp-giữa-chủ-ngữ-và-động-từ-subject-and-verb-agreement)**
     * **[Sở hữu cách (Possessive/ Genitive Case)](Chapter01-The-Parts-Of-Speech/Note01-Nouns.md#sở-hữu-cách-possessive-genitive-case)**
     * **[Bài tập (Exercises)](Chapter01-The-Parts-Of-Speech/Note01-Nouns.md#exercises)**
+  * **[ĐẠI TỪ (PRONOUNS)](Chapter01-The-Parts-Of-Speech/Note02-Pronouns.md#pronouns)**
+    * **[Định nghĩa (Definition)](Chapter01-The-Parts-Of-Speech/Note02-Pronouns.md#định-nghĩa-definition)**
+    * **[Các loại đại từ](Note02-Pronouns.md#các-loại-đại-từ-kinds-of-pronounss)**
+    * **[Bài tập (Exercises)](Note02-Pronouns.md#exercises)**
+ 
 * **[Chapter 07: CÂU BỊ ĐỘNG (PASSIVE SENTENCES)](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md)**
   * **[Câu Chủ Động Và Câu Bị Động](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md#câu-chủ-động-và-câu-bi-động-active-and-passive-sentences)**
   * **[Cách Chuyển Sang Câu Bị Động](Chapter07-Passive_Sentences/Not00-Passive_Sentences.md#cách-chuyển-sang-câu-bị-động-passive-transformation)**
