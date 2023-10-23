@@ -27,16 +27,16 @@ Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm t
 
 Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ *a/an.*, ví dụ: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
         
-> **Lưu ý:**<br>
->Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.* Ex:
-> * **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
+**Lưu ý:**<br>
+Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.<br>
+Ex:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
 
-> Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.
-  Ex:
-> * **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
-> * *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
+Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.<br>
+Ex:
+* `**The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*`
+* `*There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*`
   
-> Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa. Ex:
+Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa. Ex:
 > * The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
 > * *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
 > * I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
