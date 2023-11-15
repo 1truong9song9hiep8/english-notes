@@ -9,54 +9,66 @@ Có 3 loại câu điều kiện chính:
 2. **Điều kiện không có thật trong hiện tại (Unreal condition in the present):** không thể thực hiện được trong hiện tại hoặc tương lai vì hành động trong mệnh đề If không thể xảy ra (giả định trái ngược với thực tế trong hiện tại).
 3. **Điều kiện không có thật trong quá khứ (Unreal condition in the past):** không thể thực hiện được trong quá khứ vì hành động trong mệnh đề If đã không xảy ra (giả định trái ngược với thực tế trong quá khứ).
 
-## Thì của dộng từ trong câu điều kiện (Verb forms used in conditional sentences)
+## Thì của động từ trong câu điều kiện (Verb forms used in conditional sentences)
 
-### Loại 1: Real Condition
+### Câu điều kiện loại 1: Real condition
 
 a. Để nói về tình huống có thể xảy ra trong hiện tại hoặc tương lai, chúng ta dùng thì hiện tại đơn (present simple) trong mệnh đề if và will + động từ nguyên mẫu (will + infinitive) trong mệnh đề chính.
 IF-CLAUSE MAIN CLAUSE
 Present simple will + infinitive
 
 Ex:
-* If it doesn’t rain, we will have a picnic. (Nếu trời không mưa, chúng ta sẽ đi dã ngoại.)
-* The cat will scratch you if you pull her tail. (Con mèo sẽ cào bạn nếu bạn kéo đuôi nó.)
+* *If it doesn’t rain, we will have a picnic. (Nếu trời không mưa, chúng ta sẽ đi dã ngoại.)*
+* *The cat will scratch you if you pull her tail. (Con mèo sẽ cào bạn nếu bạn kéo đuôi nó.)*
 
-b. Thì hiện tại đơn (present simple) được dùng trong cả hai mệnh đề để chỉ một sự thật hiển nhiên, một quy luật tự nhiên hoặc một hành động xảy ra thường xuyên. Ex:
+b. Thì hiện tại đơn (present simple) được dùng trong cả hai mệnh đề để chỉ một sự thật hiển nhiên, một quy luật tự nhiên hoặc một hành động xảy ra thường xuyên.
+
+Ex:
 * *If you heat ice, it turns to water. (Nếu bạn đun nóng nước đá nó sẽ tan thành nước.)*
 * *If you press this switch, the computer comes on. (Nếu bạn nhấn vào nút này, máy tính sẽ bật.)*
 * *If Daniel has any money, he spends it. (Nếu Daniel có tiền anh ta sẽ tiêu xài hết.)*
 
-c. Các động từ tình thái *can, may, might, should, ought to, have to, must,...* có thể được dùng trong mệnh đề chính (main clause) để nói đến khả năng, sự chắc chắn, sự cho phép, sự bắt buộc hoặt sự cần thiết.Ex:
+c. Các động từ tình thái *can, may, might, should, ought to, have to, must,...* có thể được dùng trong mệnh đề chính (main clause) để nói đến khả năng, sự chắc chắn, sự cho phép, sự bắt buộc hoặt sự cần thiết.
+
+Ex:
 * *If it rains, we are going to stay home. (Nếu trời mưa, chúng tôi sẽ ở nhà.)*
 * *If you need a ticket, I can get you one. (Nếu bạn cẩn vé tôi có thể mua cho bạn một tấm.)*
 * *If Matthew goes to a job interview, he should wear/ ought to wear a tie. (Nếu Matthew đi phỏng vấn xin việc, anh ấy nên đeo cà vạt.)*
 * If you want to see clearly, you must wear your glasses.(Nếu bạn muốn thấy rõ, bạn phải mang kính.)*
 * *If Henry jogs regularly, he may/ might lose weight. (Neu Henry chạy bộ thường xuyên, anh ấy có thể giảm cân.)*
 
-d. Đôi khi chúng ta có thể dùng should trong mệnh đề điều kiện (If-clause) để gợi ý một điều gì đó không chắc chắn. Ex:
+d. Đôi khi chúng ta có thể dùng should trong mệnh đề điều kiện (If-clause) để gợi ý một điều gì đó không chắc chắn. 
+
+Ex:
 * *If you should change your mind, please phone me. (Hãy gọi điện cho tôi nếu bạn đổi ý.)*
 * *If anyone should call, please take a message. (Nếu có ai gọi đến, vui lòng ghi lại lời nhắn.)*
 
 
-> **Note**<br>
+**Note**
 > Không dùng will trong mệnh đề diều kiện (lf-clause). Ex: *If we hurry, we’ll catch the bus. [NOT If we’ll hurry, we’ll catch the bus.] (Nếu vội, chúng ta sẽ đón xe buýt.)*
 > <br>
 > Nhưng will có thể được dùng trong mệnh đề điều kiện khi ta đưa ra lời yêu cẩu. Ex: *If you’ll just wait a moment, I’ll find someone to help you. (Vui lòng đợi một lát, tôi sẽ tìm người đến giúp.) [= Please wait a moment...]*
 
 ### Loại 2: Present Unreal Condition
-a. Để nói về tình huống không có thật hoặc không thể xảy ra trong hiện tại hoặc tương lai, chúng ta dùng thì quá khứ đơn (past simple) trong mệnh đề if và would + động từ nguyên mẫu (would+infinitive) trong mệnh đề chính.Ex:
-* If I knew her name, I would tell you. (Nếu tôi biết tên cô ấy, tôi sẽ nói cho anh biết.) —> but I doesn’t know her name.
-* If we didn’t have a car, we would find it’s difficult to get about. (Nếu chúng ta không có ô tô, chúng ta sẽ thấy khó khăn trong việc di lại.) -> but we have a car.
-* If my dog had six legs, it would run very fast! (Nếu con chó của tôi có sáu chân, nó sẽ chạy rất nhanh.)
+a. Để nói về tình huống không có thật hoặc không thể xảy ra trong hiện tại hoặc tương lai, chúng ta dùng thì quá khứ đơn (past simple) trong mệnh đề if và would + động từ nguyên mẫu (would+infinitive) trong mệnh đề chính.
 
-b. Could và might cũng có thể được dùng trong mệnh đề chính để nói đến khả năng có thể xảy ra. Ex:
-* If she had a camera, she could take some photos. (Giá như có máy ảnh, cô ấy có thể chụp vài tâm hình.) [could take = would be able to  take]
-* If Rachel worked harder, she might do even better at her studies. (Giá như Rachel học chăm hơn thì kết quả học tập của cô ấy có thể còn tốt hơn nữa.)
+Ex:
+* *If I knew her name, I would tell you. (Nếu tôi biết tên cô ấy, tôi sẽ nói cho anh biết.) -> but I doesn’t know her name.*
+* *If we didn’t have a car, we would find it’s difficult to get about. (Nếu chúng ta không có ô tô, chúng ta sẽ thấy khó khăn trong việc di lại.) -> but we have a car.*
+* *If my dog had six legs, it would run very fast! (Nếu con chó của tôi có sáu chân, nó sẽ chạy rất nhanh.)*
 
-c. Were thường được dùng thay cho was (với các chủ từ I, he, she, it) trong mệnh đề if. Cấu trúc If I were you thường được dùng để đưa ra lời khuyên. Ex:
-* **If Nick were rich, he would have a yacht. [OR ... If Nick was rich,...] (Neu Nick giàu có, anh ấy sẽ mua một chiếc du thuyền.)
-* I’d go out if it weren’t raining. [OR ... it wasn’t raining] (Giá như trời không mưa thì tôi sẽ đi chơi.)
-* If I were you, I would accept their invitation. (Nếu tồi là anh, tôi sẽ chấp nhận lời mời của họ.)
+b. Could và might cũng có thể được dùng trong mệnh đề chính để nói đến khả năng có thể xảy ra. 
+
+Ex:
+* *If she had a camera, she could take some photos. (Giá như có máy ảnh, cô ấy có thể chụp vài tâm hình.) [could take = would be able to  take]*
+* *If Rachel worked harder, she might do even better at her studies. (Giá như Rachel học chăm hơn thì kết quả học tập của cô ấy có thể còn tốt hơn nữa.)*
+
+c. Were thường được dùng thay cho was (với các chủ từ I, he, she, it) trong mệnh đề if. Cấu trúc If I were you thường được dùng để đưa ra lời khuyên. 
+
+Ex:
+* *If Nick were rich, he would have a yacht. [OR ... If Nick was rich,...] (Neu Nick giàu có, anh ấy sẽ mua một chiếc du thuyền.)*
+* *I’d go out if it weren’t raining. [OR ... it wasn’t raining] (Giá như trời không mưa thì tôi sẽ đi chơi.)*
+* *If I were you, I would accept their invitation. (Nếu tồi là anh, tôi sẽ chấp nhận lời mời của họ.)*
 
 > **Lưu ý**<br>
 > Không dùng would trong mệnh đề điểu kiện (ií-clause) Ex: If I ate cake, I’d get fat. [NOT If I would eat cate,...] (Nếu tôi ăn bánh, tôi sẽ bị mập.)<br>
@@ -64,7 +76,9 @@ Nhưng would có thể được dùng trong trong mệnh đề /7 khi chúng ta 
 
 ### Loại 3: Past Unreal Condition
 
-a. Để nói về một tình huống đã không xảy ra trong quá khứ, chúng ta dùng thì quá khứ hoàn thành (past perfect) trong mệnh đề if và would have + quá khứ phân từ (would have + past participle) trong mệnh đề chính. Ex:
+a. Để nói về một tình huống đã không xảy ra trong quá khứ, chúng ta dùng thì quá khứ hoàn thành (past perfect) trong mệnh đề if và would have + quá khứ phân từ (would have + past participle) trong mệnh đề chính. 
+
+Ex:
 * If he had studied hard, he would have passed his exam. (Giá như anh ta học hành chăm chỉ thì anh ta đã đậu rồi.) -> but he didn’t study hard so he failed.
 * If I had known of your arrival, I would have met you. (Giá mà tôi biết anh đến thì tôi đã đi đón anh rồi.) but I didn’t know so I didn’t come.
 
