@@ -11,7 +11,7 @@ Có 3 loại câu điều kiện chính:
 
 ## Thì của động từ trong câu điều kiện (Verb forms used in conditional sentences)
 
-### Câu điều kiện loại 1: Real condition
+### 1. Câu điều kiện loại 1 (Real condition)
 
 a. Để nói về tình huống có thể xảy ra trong hiện tại hoặc tương lai, chúng ta dùng thì hiện tại đơn (present simple) trong mệnh đề if và will + động từ nguyên mẫu (will + infinitive) trong mệnh đề chính.
 IF-CLAUSE MAIN CLAUSE
@@ -49,7 +49,7 @@ Ex:
 > <br>
 > Nhưng will có thể được dùng trong mệnh đề điều kiện khi ta đưa ra lời yêu cẩu. Ex: *If you’ll just wait a moment, I’ll find someone to help you. (Vui lòng đợi một lát, tôi sẽ tìm người đến giúp.) [= Please wait a moment...]*
 
-### Loại 2: Present Unreal Condition
+### 2. Câu điều kiện loại 2 (Present Unreal Condition)
 a. Để nói về tình huống không có thật hoặc không thể xảy ra trong hiện tại hoặc tương lai, chúng ta dùng thì quá khứ đơn (past simple) trong mệnh đề if và would + động từ nguyên mẫu (would+infinitive) trong mệnh đề chính.
 
 Ex:
@@ -74,21 +74,27 @@ Ex:
 > Không dùng would trong mệnh đề điểu kiện (ií-clause) Ex: If I ate cake, I’d get fat. [NOT If I would eat cate,...] (Nếu tôi ăn bánh, tôi sẽ bị mập.)<br>
 Nhưng would có thể được dùng trong trong mệnh đề /7 khi chúng ta đưa ra lời yêu cầu. Ex: If you’d like to come this way, the doctor will see you now. (Vui lòng đi lối này, bác sĩ sẽ khám cho bà.) [= Please come this way ...]
 
-### Loại 3: Past Unreal Condition
+### 3. Câu điều kiện loại 3 (Past Unreal Condition)
 
-a. Để nói về một tình huống đã không xảy ra trong quá khứ, chúng ta dùng thì quá khứ hoàn thành (past perfect) trong mệnh đề if và would have + quá khứ phân từ (would have + past participle) trong mệnh đề chính. 
+Để nói về một tình huống đã không xảy ra trong quá khứ, chúng ta dùng **thì quá khứ hoàn thành (past perfect)** trong mệnh đề if và **would have + quá khứ phân từ (would have + past participle)** trong mệnh đề chính.
+```
+                [If + S + had + Vpp/V-ed], [S  + would/could/might + have + Vpp/V-ed]
+```
 
 Ex:
-* If he had studied hard, he would have passed his exam. (Giá như anh ta học hành chăm chỉ thì anh ta đã đậu rồi.) -> but he didn’t study hard so he failed.
-* If I had known of your arrival, I would have met you. (Giá mà tôi biết anh đến thì tôi đã đi đón anh rồi.) but I didn’t know so I didn’t come.
+* *If he had studied hard, he would have passed his exam. (Giá như anh ta học hành chăm chỉ thì anh ta đã đậu rồi.) -> but he didn’t study hard so he failed.*
+* *If I had known of your arrival, I would have met you. (Giá mà tôi biết anh đến thì tôi đã đi đón anh rồi.) but I didn’t know so I didn’t come.*
 
-b. Could have và might have cũng có thể được dùng để chỉ khả nâng đã có thể xảy ra. Ex:
-* If I had had my cellphone yesterday, I could have contacted you. (Giá như hôm qua tôi có đem theo điện thoại thì tôi đã có thể liền lạc với anh.) [could have contact = would have been able to contact]
-* We just caught the train. If we had stopped to buy a paper, we might have missed it. (Chúng ta vừa kịp tàu. Nếu như chúng ta dừng lại mua báo, thì có thể chúng ta đã bị lỡ tàu.)
+**Could have** và **might have** cũng có thể được dùng để chỉ khả nâng đã có thể xảy ra. 
 
->**Lưu ý:**<br>
->* Không dùng would trong mệnh để điều kiện (if-clause). Ex: If you hadn’t made that mistake, you’d have passed your test.[NOT If you would have made that mistake. ...] (Giá mà bạn không bị lỗi đó thì bạn đã qua được kỳ thi rồi.)
->* Dạng rút gọn ’d có thể dùng cho cả had\ià would. Ex: *If you’d asked me, I’d have told you. (Giá mà bạn hỏi tôi thì tôi đã nói cho bạn biết rồi.)*
+Ex:
+* *If I had had my cellphone yesterday, I could have contacted you. (Giá như hôm qua tôi có đem theo điện thoại thì tôi đã có thể liền lạc với anh.) [could have contact = would have been able to contact]*
+* *We just caught the train. If we had stopped to buy a paper, we might have missed it. (Chúng ta vừa kịp tàu. Nếu như chúng ta dừng lại mua báo, thì có thể chúng ta đã bị lỡ tàu.)*
+
+**Lưu ý:**<br>
+Không dùng would trong mệnh để điều kiện (if-clause). Ex: If you hadn’t made that mistake, you’d have passed your test.[NOT If you would have made that mistake. ...] (Giá mà bạn không bị lỗi đó thì bạn đã qua được kỳ thi rồi.)
+
+Dạng rút gọn ’d có thể dùng cho cả had\ià would. Ex: *If you’d asked me, I’d have told you. (Giá mà bạn hỏi tôi thì tôi đã nói cho bạn biết rồi.)*
 
 ### Khái quát các thì cơ bản được dùng trong câu điểu kiện (Overview of basic verb forms used in conditional sentences)
 table
