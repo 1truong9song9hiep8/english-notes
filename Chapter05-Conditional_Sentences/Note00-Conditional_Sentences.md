@@ -173,12 +173,13 @@ Ta cũng có thể diễn đạt câu điều kiện mà không cần dùng ỉ/
 >**Luu y**<br>
 > Không dùng dạng rút gọn (contracted forms) trong mệnh đề đảo ngữ phủ định. Ex: Had the plane not been diverted, they would have arrived early. (Nếu máy bay không bay trệch hướng thì họ đã đến sớm.) [NOT-Hadn’t tho plane-been diverted::.]
 
-1. Imagine (that), provided/ providing (that), on condition (that), as/ so long as, (miễn là, với điều kiện là), suppose/ supposing (that) (giả sử như), only if (chỉ với điều kiện là), otherwise (nếu không thì), but for + noun (nếu không),... có thể dùng thay cho If trong câu điều kiện. Ex:
-* I will come only if nothing is said to the press. (Tôi sẽ đến với điều kiện là không được nói gì vối báo chí.)
-* You can use my car provided that/ as long as you drive carefully. (Anh có thể dùng ô tô của tôi miễn là anh lái cẩn thận.)
-* We must be back before midnight; otherwise we’ll be locked out. (Chúng ta phải về trước 12 giờ đêm, nếu không chúng ta sẽ bị nhốt ở ngoài.) [= If we are not back by midnight, we’ll be locked out.]
-* Suppose the plane is late? (Nếu chuyến bay bị trễ thì sao?) [= What if7 What will happen if the plane is late?]
-* But for the storm, we could have arrived earlier. (Nếu không bị bão thì chúng ta dã đến sớm hơn.) [ = If it hadn’t been for the storm,...]
+1. Imagine (that), provided/ providing (that), on condition (that), as/ so long as, (miễn là, với điều kiện là), suppose/ supposing (that) (giả sử như), only if (chỉ với điều kiện là), otherwise (nếu không thì), but for + noun (nếu không),... có thể dùng thay cho If trong câu điều kiện.
+Ex:
+* *I will come only if nothing is said to the press. (Tôi sẽ đến với điều kiện là không được nói gì vối báo chí.)*
+* *You can use my car provided that/ as long as you drive carefully. (Anh có thể dùng ô tô của tôi miễn là anh lái cẩn thận.)*
+* *We must be back before midnight; otherwise we’ll be locked out. (Chúng ta phải về trước 12 giờ đêm, nếu không chúng ta sẽ bị nhốt ở ngoài.) [= If we are not back by midnight, we’ll be locked out.]*
+* *Suppose the plane is late? (Nếu chuyến bay bị trễ thì sao?) [= What if7 What will happen if the plane is late?]*
+* *But for the storm, we could have arrived earlier. (Nếu không bị bão thì chúng ta dã đến sớm hơn.) [ = If it hadn’t been for the storm,...]*
 
 # EXERCISES
 I. Put the verbs into the correct form.
