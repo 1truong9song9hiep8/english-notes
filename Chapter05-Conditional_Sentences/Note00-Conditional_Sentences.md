@@ -139,16 +139,18 @@ không có dấu phẩy. Ex: If I don’t practise my golf, I won’t get any be
 ### Những cách khác để diễn tả điều kiện (Other ways of expressing conditions)
 
 1. Unless (trừ khi; nếu ... không)
-Trong câu điều kiện có thật (real conditionals), ta có thể thay liên từ ìf bằng unless. Unless tương đương với ‘if... not’ hoặc ‘except if (trừ khi). Ex:
-* Unless you study hard, you’ll fail in the exam. (Nếu bạn không học hành chăm chỉ, bạn sẽ thi rớt.) [= If you don’t study hard, you’ll fail in the exam.]
-* My grandma can’t see unless she wears glasses. (Bà tối không thể nhìn thấy nếu không mang kính.) [= My grandma can’t see if she doesn’t wear glasses.]
+Trong câu điều kiện có thật (real conditionals), ta có thể thay liên từ ìf bằng unless. Unless tương đương với ‘if... not’ hoặc ‘except if (trừ khi).<br>
+Ex:
+* *Unless you study hard, you’ll fail in the exam. (Nếu bạn không học hành chăm chỉ, bạn sẽ thi rớt.) [= If you don’t study hard, you’ll fail in the exam.]*
+* *My grandma can’t see unless she wears glasses. (Bà tối không thể nhìn thấy nếu không mang kính.) [= My grandma can’t see if she doesn’t wear glasses.]*
 
-Tuy nhiên, chúng ta dùng if... not chứ không dùng unless. khi sự việc trong mệnh đề if là nguyên nhân chính gây ra tình huống mà chúng ta đang nói đến. Ex:
-* She’d look nicer if she didn’t wear so much make-up. (Trông cồ ấy sẽ dễ thương hơn nếu cô ấy không trang điểm dậm thế.) [NOT ■■ .unless she wore so much -make-up.]
-* My wife will be very upset if I don’t get back tomorrow. (Nếu ngày mai tôi không về thì ƯỢ tôi sẽ rất lo lắng.) [NOT—vunless I get back tomorrow.]
+Tuy nhiên, chúng ta dùng if... not chứ không dùng unless. khi sự việc trong mệnh đề if là nguyên nhân chính gây ra tình huống mà chúng ta đang nói đến.<br>
+Ex:
+* *She’d look nicer if she didn’t wear so much make-up. (Trông cồ ấy sẽ dễ thương hơn nếu cô ấy không trang điểm dậm thế.) [NOT .unless she wore so much -make-up.]*
+* *My wife will be very upset if I don’t get back tomorrow. (Nếu ngày mai tôi không về thì ƯỢ tôi sẽ rất lo lắng.) [NOT—vunless I get back tomorrow.]*
 
-trong câu hỏi. Ex:
-* What will you do if you don’t pass the test? (Nếu thi rớt bạn sẽ làm gi?)
+Trong câu hỏi. Ex:
+* *What will you do if you don’t pass the test? (Nếu thi rớt bạn sẽ làm gi?)*
 
 Chúng ta thường dùng unless khi đưa ra lời cảnh báo. Ex:
 * You will be late unless you hurry! (Nếu bạn không khẩn trương lên thì bạn sẽ bị muộn đấy.)
@@ -170,8 +172,9 @@ Ta cũng có thể diễn đạt câu điều kiện mà không cần dùng ỉ/
 * If they had asked me, I could have given them some advice. -> Had they asked me, I could have given them some advice. (Giá như họ hỏi tôi thì tôi đã có thể cho họ vài lời khuyên.)
 * If anyone should call, please take a message. -> Should anyone call, please take a message. (Nếu có ai gọi điện, xin hãy ghi lại tin nhắn.)
   
->**Luu y**<br>
-> Không dùng dạng rút gọn (contracted forms) trong mệnh đề đảo ngữ phủ định. Ex: Had the plane not been diverted, they would have arrived early. (Nếu máy bay không bay trệch hướng thì họ đã đến sớm.) [NOT-Hadn’t tho plane-been diverted::.]
+**Lưu ý**
+Không dùng dạng rút gọn (contracted forms) trong mệnh đề đảo ngữ phủ định. Ex
+* *Had the plane not been diverted, they would have arrived early. (Nếu máy bay không bay trệch hướng thì họ đã đến sớm.) [NOT-Hadn’t tho plane-been diverted::.]*
 
 1. Imagine (that), provided/ providing (that), on condition (that), as/ so long as, (miễn là, với điều kiện là), suppose/ supposing (that) (giả sử như), only if (chỉ với điều kiện là), otherwise (nếu không thì), but for + noun (nếu không),... có thể dùng thay cho If trong câu điều kiện.
 Ex:
