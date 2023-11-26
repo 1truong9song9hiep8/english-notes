@@ -1,10 +1,12 @@
 # CÂU BỊ DỘNG (PASSIVE SENTENCES)
 
 ## Câu chủ động và câu bị động (Active and passive sentences}
-1. **Câu chủ động (Active sentences):** Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động. Ex:
-   * `They built this house in 1486. (Họ xây ngồi nhà này năm 1486.)`
-   * `This book will change your life. (Cuốn sách này sẽ làm thay đổi cuộc đời bạn.)`
-2. **Câu bị động (Passive sentences):** Câu bị động là câu trong đó chủ ngữ là người hay vật nhận hoặc chịu tác động của hành động. Ex:
+1. **Câu chủ động (Active sentences):** Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động.
+
+   Ex:
+   * *They built this house in 1486. (Họ xây ngồi nhà này năm 1486.)*
+   * *This book will change your life. (Cuốn sách này sẽ làm thay đổi cuộc đời bạn.)*
+3. **Câu bị động (Passive sentences):** Câu bị động là câu trong đó chủ ngữ là người hay vật nhận hoặc chịu tác động của hành động. Ex:
    * `This house was built in 1486. (Ngôi nhà này được xây năm 1486.)`
    * `Your life will be changed by this book. (Cuộc dời bạn sẽ được cuốn sách này làm cho thay đổi.)`
  
@@ -23,9 +25,9 @@
     * Khi người nói muôn nhấn mạnh người hoặc vật tiếp nhận hành động. Ex: `This house was built in 1486 by Sir John Latton. (Ngôi nhà này được ngài John Latton xây dựng năm 1486.)`
 
 ## Cách chuyển sang câu bị động (Passive transformation)
-Muôn chuyển một câu chủ động sang câu bị động, ta thực hiện các bước sau:
+Muốn chuyển một câu chủ động sang câu bị động, ta thực hiện các bước sau:
 1. Lấy tân ngữ (object) của câu chủ động làm chủ ngừ (subject) của câu bị động.
-2. Đổi động từ chủ động V[active] thành động từ bị động V[passive]: `[ Vp: Be + past participle (pp) ]`
+2. Đổi động từ chủ động `V[active]` thành động từ bị động `V[passive]`: `[ Vp: Be + past participle (pp) ]`
 
 | TENSE | PASSIVE STRUCTURE |
 | :---:   | :---: |
