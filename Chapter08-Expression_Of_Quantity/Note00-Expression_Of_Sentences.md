@@ -1,30 +1,28 @@
 # EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)
 
 ## Some, Any
-Cả some và any đều được dùng để chỉ một số lượng không xác định khi không thể hay không cần 
-phải nêu rõ số lượng chính xác.
-d. considered
-d. was supposed be
-d. checked
-d. to lose
-1. Some (một vài; một ít)
-Some thường được dùng trong câu khẳng định, trước danh từ đếm được số nhiều (countable plural 
-nouns) hoặc danh từ không đếm được (uncountable nouns).
-Ex: My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)
-He is busy. He’s got some work to do.
-(Anh ta bận. Anh ta có một số việc phải làm.) There’s some milk in the fridge. (Có một ít 
-sữa trong tủ lạnh.)
-I need some stamps. ~ There are some in the drawer.
-(Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)
-Some được dùng trong câu hỏi khi chúng ta mong chờ câu trả lời Yes (Có). Ex: Have you brought 
-some paper and a pen? (Bạn có mang theo giấy, viết chứ1?)
--> người nói hy vọng người nghe có mang theo giấy và viết.
-Did you buy some oranges? (Bạn có mua cam chứ?)
--> người nói hi vọng người nghe đã mua.
-Some còn được dùng trong câu yêu cầu, lời mời hoặc lời đề nghị.
-Ex: Would you like some more coffee?
-(Anh dùng thêm một ít cà phê nữa nhé?) Can I have some sugar, please? (Vui lòng cho tôi 
-xin một ít đường.) Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)
+Cả some và any đều được dùng để chỉ một số lượng không xác định khi không thể hay không cần phải nêu rõ số lượng chính xác.
+
+1. **Some (một vài; một ít)**
+Some thường được dùng trong câu khẳng định, trước danh từ đếm được số nhiều (countable plural nouns) hoặc danh từ không đếm được (uncountable nouns).
+
+Ex: 
+- *My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)*
+- *He is busy. He’s got some work to do. (Anh ta bận. Anh ta có một số việc phải làm.)*
+- * There’s some milk in the fridge. (Có một ít sữa trong tủ lạnh.)*
+  * I need some stamps. ~ There are some in the drawer. (Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)*
+
+Some được dùng trong câu hỏi khi chúng ta mong chờ câu trả lời Yes (Có).
+
+Ex:
+
+- *Have you brought some paper and a pen? (Bạn có mang theo giấy, viết chứ1?) -> người nói hy vọng người nghe có mang theo giấy và viết.*
+- Did you buy some oranges? (Bạn có mua cam chứ?) -> người nói hi vọng người nghe đã mua.
+
+Some còn được dùng trong câu yêu cầu, lời mời hoặ lời đề nghị. Ex:
+- *Would you like some more coffee? (Anh dùng thêm một ít cà phê nữa nhé?)*
+- * Can I have some sugar, please? (Vui lòng cho tôi xin một ít đường.)*
+  * Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)
 2. Any (... nào)
 Any thường được dùng trong câu phủ định hoặc nghi vấn, trước danh từ đếm được số nhiều và 
 danh từ không đếm được.
