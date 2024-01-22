@@ -1,6 +1,6 @@
 # AS IF, AS THOUGH, IT'S HIGH ME, IT'S TIME, WOULD RATHER
 ## As If, As Through
-As if, as though được dùng để diễn đạt một người hoặc một vật nào đó trông như thế nào, nghe như thế nào, cảm thấy như thế nào (thường dùng với động từ look, sound, feel).
+As if, as though được dùng để diễn đạt một người hoặc một vật nào đó trông như thế nào, nghe như thế nào, cảm thấy như thế nào (thường dùng với động từ look, sound, feel).<br>
 Ex: 
 -That house looks as if/ as though it’s going to fall down. (Trông ngôi nhà dó có vẻ như sắp sập.)
 - Mary sounded as if/ as though she had just run all the way. (Giọng Mary nghe có vẻ như cô ấy vừa chạy suốt quãng đường.)
@@ -9,7 +9,7 @@ Ex:
 Chúng ta cũng có thể dùng It looks as if! as though... hoặc It sounds as if I as though...
 Ex: *Do you hear that music next door? It sounds as if they’re having a party. (Bạn có nghe tiếng nhạc phát ra từ nhà bên cạnh không? Nghe có vẻ như họ đang mở tiệc.)*
 
-Chúng ta có thể dùng as if ỉ as though với những động từ khác để nói cách một người làm một việc gì.
+Chúng ta có thể dùng as if ỉ as though với những động từ khác để nói cách một người làm một việc gì.<br>
 Ex:
 - He ran as if he was running for his life. (Anh ta chạy như thể đang gặp nguy.)
 - After the interruption, he went on talking as if nothing had happened.(Sau khi bị ngắt lời, ông ta tiếp tục nói như thể khống xảy ra chuyện gì.)
@@ -25,23 +25,20 @@ Ex:
 So sánh: She acts as if she owns the place. (Perhaps she owns the place.) She acts as if she owned the place. (But she definitely doesn’t own it.)
 • Điều không có thật ở quá khứ
 [ s 4 V 4- as if/ as though 4- s 4- V(past perfect) )
-Ex: Tom looked tired as if he had worked very hard.
-(Trông Tom. có vẻ mệt mỏi như thể anh ta đã làm việc rất vất vả.) -> but he didn’t work 
-hard.
-He talked as if he had seen the accident yesterday.
-(Anh ta nói như thể hôm qua anh ta đã chứng kiến tai nạn đó vậy.) -> but he didn’t see it.
-
+Ex:
+- Tom looked tired as if he had worked very hard. (Trông Tom. có vẻ mệt mỏi như thể anh ta đã làm việc rất vất vả.) -> but he didn’t work hard.
+- He talked as if he had seen the accident yesterday. (Anh ta nói như thể hôm qua anh ta đã chứng kiến tai nạn đó vậy.) -> but he didn’t see it.
 Lưu ý:
-Were có thể được dùng thay thế was (với các chủ tử I, fie, she, it) trong mệnh đề giả định. 
+Were có thể được dùng thay thế was (với các chủ tử I, fie, she, it) trong mệnh đề giả định.<br>
 Ex:
 - Gary's only 40. Why do you talk about him as if he were/ was an old man? (Gary mới 40. Sao anh lại nói về anh ta như thể anh ta là một ông lão vậy?)
 
-Động từ đứng trước as if/ as though có thể ở thì hiện tại hoặc quá khứ mà không có sự thay đổi thì trong mệnh đề giả định.
+Động từ đứng trước as if/ as though có thể ở thì hiện tại hoặc quá khứ mà không có sự thay đổi thì trong mệnh đề giả định.<br>
 Ex:
 - He talks/ talked as if he knew everything. (Anh ta nói như thể anh ta biết mọi chuyện.)
 - He looks/ looked as though he hadn’t had a decent meal for a month.(Trông ông ta như thể cả tháng nay chẳng có bữa ăn tươm tất nào.)
 
-Trong mệnh để so sánh (mệnh để chỉ cách thức và mệnh đề chính có cùng chủ ngữ), chúng ta có thể dùng as ií/as though theo sau bởi một phân từ (present/ past participle) hoặc động từ nguyên mẫu có to (to-infinitive).
+Trong mệnh để so sánh (mệnh để chỉ cách thức và mệnh đề chính có cùng chủ ngữ), chúng ta có thể dùng as ií/as though theo sau bởi một phân từ (present/ past participle) hoặc động từ nguyên mẫu có to (to-infinitive).<br>
 Ex:
 - He ran off to the house as if escaping.
 - After scoring, Fowler fell to the floor as if hit by a bullet.
