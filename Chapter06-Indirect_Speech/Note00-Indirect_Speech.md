@@ -1,6 +1,6 @@
 # Lời Nói Gián Tiếp (Indirect Speech)
 
-## Lời nói trực tiếp và lời nói gián tiếp (Direct and indirect speech)
+## 1. Lời nói trực tiếp và lời nói gián tiếp (Direct and indirect speech)
 Có hai cách để thuật lại những gì mà một người nào đó đã nói: trực tiếp và gián tiếp.
 
 1. Lời nói trực tiếp (direct speech) là sự lặp lại chính xác những từ của người nói.<br>
@@ -11,22 +11,25 @@ Ex: "I don’t like this party" Bill said.
 2. Lời nói gián tiếp (indirect/ reported speech) là lời tường thuật lại ý của người nói, đôi khi không cần phải dùng đúng những từ của người nói.<br>
 Ex: Bill said (that) he didn’t like that party. (BiZZ nói rằng anh ấy không thích bữa tiệc đó.)
 
-## Câu trần thuật trong lời nói gián tiếp (Statements in indirect speech)
+## 2. Câu trần thuật trong lời nói gián tiếp (Statements in indirect speech)
 Khi chuyển một câu trần thuật từ trực tiếp sang gián tiếp, chúng ta cần lưu ý đến những thay đổi sau:
 
 1. Dùng động từ giới thiệu `say` hoặc `tell`, `say that`, `say to somebody that`, `tell somebody that`. Động từ giới thiệu trong lời nói gián tiếp thường ở quá khứ và liên từ `that` có thể được bỏ.<br>
 Ex:
 - Tom said (that) he was feeling ill. (Tom nói anh ấy thấy không khỏe.)
 - I told her (that) I didn’t have any money.(Tồi nói với cô ấy là tôi không có tiền.)
-
 LƯU ý: tell + tân ngữ (object) thường được dùng hơn say to + tần ngữ.
-1. Đổi các đại từ nhân xưng, đại từ hoặc tính từ sở hữu sao cho tương ứng với chủ ngữ hoặc tân ngữ 
-của mệnh đề chính.
+
+2. Đổi các đại từ nhân xưng, đại từ hoặc tính từ sở hữu sao cho tương ứng với chủ ngữ hoặc tân ngữ của mệnh đề chính.
 a. Đại từ nhân xưng (personal pronouns)
-Chủ ngừ (subject) Tân ngữ (object)
-I -> he, she me -> him, her
-we —> they us —> them
-you —> I, we you -> me, us
+Chủ ngừ (subject)
+I -> He/She
+We -> They
+You -> You
+Đại từ (Object)
+me -> him, her
+us -> them
+you -> me,us
 b. Đại từ sở hữu (possessive pronouns) mine -> his, hers
 ours -» theirs
 yours —> mine, ours
@@ -42,6 +45,7 @@ said, ‘I like my new house.’
 -» I said (that) I liked my new house. (Tôi nối rằng tôi thích ngôi nhà môi của mình.)
 
 1. Đổi thì của động từ thành thì quá khứ tương ứng.
+---------|--------------|--------------------
 DIRECT SPEECH INDIRECT SPEECH ỉlẾi
 Present simple
 Tom said, ‘I never eat meat. ’
