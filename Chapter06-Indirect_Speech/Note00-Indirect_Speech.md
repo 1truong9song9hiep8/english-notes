@@ -131,21 +131,17 @@ Ex: Tom said (that) New York was bigger than London.
 The teacher said (that) the moon moved around the earth.
 c. Lời nói trực tiếp có các động từ tình thái could, would, should, might, ought to, used to, had 
 better.
-Ex: Tom said, ‘You had better not contact her.’
--> Tom said (that) I had better not contact her.
-(Tom nói tốt hơn tôi không nên gặp cô ta.)
-He said, ‘They should/ ought to widen this road.’
--> He said they should/ ought to widen this road.
-(Anh ấy nói họ nên mở rộng con đường này.)
-— Must có thể được giữ nguyên hoặc đổi thành had to (bổn phận được thực hiện ngay) hoặc would 
-have to (bổn phận tùy thuộc vào một hành động nào đó ở tương lai khá xa).
-Ex: An said, “I must go for a job interview tomorrow.”
-(An nói ngày mai anh ấy phải đi phỏng vấn xin việc.)
-She said, “When you leave school you must find a job.”
--> She told me (that) when I left school I must/ would have to find a job. (Bà ấy nói với tôi rằng khi 
-học xong tôi phải tìm việc làm.)
-d. Lời nói trực tiếp là câu điều kiện không có thật (unreal conditionals) hoặc mệnh đề giả định 
-theo sau wish, would rather, would sooner, it’s time. Ex: He said, “If I were you I wouldn’t 
+Ex:
+- Tom said, ‘You had better not contact her.’-> Tom said (that) I had better not contact her. (Tom nói tốt hơn tôi không nên gặp cô ta.)
+- He said, ‘They should/ ought to widen this road.’ -> He said they should/ ought to widen this road. (Anh ấy nói họ nên mở rộng con đường này.)
+
+Must có thể được giữ nguyên hoặc đổi thành had to (bổn phận được thực hiện ngay) hoặc would have to (bổn phận tùy thuộc vào một hành động nào đó ở tương lai khá xa).
+Ex:
+- An said, “I must go for a job interview tomorrow.” (An nói ngày mai anh ấy phải đi phỏng vấn xin việc.)
+- She said, “When you leave school you must find a job.”-> She told me (that) when I left school I must/ would have to find a job. (Bà ấy nói với tôi rằng khi học xong tôi phải tìm việc làm.)
+
+d. Lời nói trực tiếp là câu điều kiện không có thật (unreal conditionals) hoặc mệnh đề giả định theo sau wish, would rather, would sooner, it’s time.
+Ex: He said, “If I were you I wouldn’t 
 wait.”
 -> He said if he were me he wouldn’t wait.
 (Anh ấy nói rằng nếu anh ấy là tôi anh ấy sẽ không chờ đợi.)
@@ -155,34 +151,34 @@ chúng không phải làm bài kiểm tra.) He said, “It’s time we began pla
 holidays.”
 -> He said that it was time they began planning their holidays. 6An7ỉ ấy nói rằng đã đến 
 lúc họ bắt dầu lèn kế hoạch di nghỉ.)
-e. Thì quá khứ đơn (past simple) hoặc quá khứ tiếp diễn (past progressive) trong mệnh đề chỉ 
-thời gian.
-Ex: He said, ‘When I saw them, they were playing tennis.’
-—> He said when he saw them they were playing tennis.
-(Anh ấy nói khi anh ấy gặp họ thì họ đang chơi tennis.)
-Thì quá khứ đơn có thể giữ nguyên không đổi, nhất là khi mối quan hệ thời gian quá khứ rõ 
-ràng (không gây nhầm lẫn với hành'động ở hiện tại).
-Ex: She said, ‘Ann arrived on Monday.’ -> She said Ann arrived/ had arrived on Monday. 
-(Bà ấy nói Ann đến hôm thứ Hai.)
-But:He said, T loved her.’ —> He said he had loved her. (Anh ấy nói anh ấy đã từng yêu cô 
-ta.) [NOT He said he loved her.]
-\
+
+e. Thì quá khứ đơn (past simple) hoặc quá khứ tiếp diễn (past progressive) trong mệnh đề chỉ thời gian.
+Ex: He said, ‘When I saw them, they were playing tennis." -> He said when he saw them they were playing tennis. (Anh ấy nói khi anh ấy gặp họ thì họ đang chơi tennis.)
+
+Thì quá khứ đơn có thể giữ nguyên không đổi, nhất là khi mối quan hệ thời gian quá khứ rõ ràng (không gây nhầm lẫn với hành'động ở hiện tại).
+Ex: She said, ‘Ann arrived on Monday.’ -> She said Ann arrived/ had arrived on Monday. (Bà ấy nói Ann đến hôm thứ Hai.)
+But:He said, T loved her.’ —> He said he had loved her. (Anh ấy nói anh ấy đã từng yêu cô ta.) [NOT He said he loved her.]
 
 1. Đổi một số tính từ chỉ định và trạng từ hoặc cụm trạng từ chỉ nơi chốn, thời gian.
-DIRECT (Trực tiếp) INDIRECT (Gián tiếp)
-this that
-these those
-here there
-now then; at that time
-today that day
-yesterday the day before; the previous day
-the day before yesterday two days before
-tomorrow the dry after; the next/ following day
-the day after tomorrow two days after; in two days’ time
-ago before
-this week that week
-last week the week before; the previous week
-next week the week after; the following/ next week
+
+    | DIRECT (Trực tiếp)     | INDIRECT (Gián tiếp)|
+    | --------- | --------- |
+    | this | that | Giá trị 3 |
+    | these | those | Giá trị 6 |
+    | here    | there
+    | now    | then; at that time
+    | today    | that day
+    | yesterday | the day before; the previous day
+    |the day before yesterday| two days before
+    | tomorrow| the dry after; the next/ following day
+    | the day after tomorrow| two days after; in two days’ time
+    | ago| before
+    |this week| that week
+    |last week| the week before; the previous week
+    | next week | the week after; the following/ next week
+ 
+ 
+ 
 Ex: He said, T saw her yesterday.’
 ->He said he had seen her the previous day. (Anh ấy nói hôm trước anh ẩy đã gặp cô ta.)
 ‘I’ll do it the day after tomorrow,’ he promised.
@@ -193,24 +189,22 @@ my driving licence last Tuesday.’
 bằng lái hôm thứ Ba tuần trước.) They said. ‘We’ll return to Paris next month.’
 —>They said they would return to Paris the month after/ the next month.
 (Họ nói tháng sau họ sẽ về Paris.)
-Wl_ưu ý:
-a. Nếu thời điểm được đề cập trong lời nói trực tiếp vẫn chưa đến, thì của động từ và trạng từ 
-chỉ thời gian trong lời nói gián tiếp vẫn giữ nguyên.
-Ex: Jane said, ‘I’ll go to Bali by the end ot this month.’
-(Jane nói, “Cuối tháng này tôi sẽ đi Ball. ”)
+
+Lưu ý
+
+a. Nếu thời điểm được đề cập trong lời nói trực tiếp vẫn chưa đến, thì của động từ và trạng từ chỉ thời gian trong lời nói gián tiếp vẫn giữ nguyên.
+Ex: Jane said, ‘I’ll go to Bali by the end ot this month.’(Jane nói, “Cuối tháng này tôi sẽ đi Ball. ”)
 + Câu nói của Jane được thuật lại trước cuối tháng này.
 -> Jane said she will/ would go to Bali by the end of this month.
 + Câu nói được thuật lại sau đó vài tháng.
 -> Jane said she would go to Bali by the end of that month.
-■ b. Nếu địa điểm được đề cập trong lời nói trực tiếp cùng địa điểm với người tường thuật, trạng 
-từ chỉ nơi chốn trong lời nói gián tiếp không đổi.
+
+b. Nếu địa điểm được đề cập trong lời nói trực tiếp cùng địa điểm với người tường thuật, trạng từ chỉ nơi chốn trong lời nói gián tiếp không đổi.
 Ex: The old man said, Tve lived in this village for over 80 years.’
 + Thông thường chúng ta chuyển sang gián tiếp
--> The old man said he had lived in that village for over 80 years. (Ông lão nối ông đã sống 
-trong ngôi làng đó hơn 80 năm.)
+-> The old man said he had lived in that village for over 80 years. (Ông lão nối ông đã sống trong ngôi làng đó hơn 80 năm.)
 + Nhưng nếu người tường thuật đang ở trong ngôi làng đó thì trạng từ chĩ nơi chốn không đổi. 
--> The old man said he had lived in this village for over 80 years.
-(Ồng lão nói ông đã sống trong ngôi làng này hơn 80 năm.)
+-> The old man said he had lived in this village for over 80 years. (Ồng lão nói ông đã sống trong ngôi làng này hơn 80 năm.)
 
 ## Câu hỏi trong lời nói gián tiếp (Questions in indirect speeches}
 Có hai loại câu hỏi: câu hỏi Yes-No và câu hỏi Wh-
