@@ -3,25 +3,23 @@
 ## Lời nói trực tiếp và lời nói gián tiếp (Direct and indirect speech)
 Có hai cách để thuật lại những gì mà một người nào đó đã nói: trực tiếp và gián tiếp.
 
-1. Lời nói trực tiếp (direct speech) là sự lặp lại chính xác những từ của người nói. Ex: Bill said, ‘I don’t like this party. (Bill nói, “Tôi không thích bữa tiệc này.”)
-- Lời nói trực tiếp được đặt trong dấu ngoặc kép và sau động từ chính có dấu phẩy (,) hoặc dấu 
-hai chấm (:).
-- Đôi khi mệnh đề chính cũng có thể đặt sau lời nói trực tiếp.
-Ex: ‘I don’t like this party,’ Bill said.
-1. Lời nói gián tiếp (indirect/ reported speech) là lời tường thuật lại ý của người nói, đôi khi không 
-cần phải dùng đúng những từ của người nói.
-Ex: Bill said (that) he didn’t like that party.
-(BiZZ nói rằng anh ấy không thích bữa tiệc đó.)
+1. Lời nói trực tiếp (direct speech) là sự lặp lại chính xác những từ của người nói.<br>
+Ex: Bill said, "I don’t like this party. (Bill nói, “Tôi không thích bữa tiệc này.”)
+- Lời nói trực tiếp được đặt trong dấu ngoặc kép và sau động từ chính có dấu phẩy (,) hoặc dấu hai chấm (:).
+- Đôi khi mệnh đề chính cũng có thể đặt sau lời nói trực tiếp. <br>
+Ex: "I don’t like this party" Bill said.
+2. Lời nói gián tiếp (indirect/ reported speech) là lời tường thuật lại ý của người nói, đôi khi không cần phải dùng đúng những từ của người nói.<br>
+Ex: Bill said (that) he didn’t like that party. (BiZZ nói rằng anh ấy không thích bữa tiệc đó.)
 
 ## Câu trần thuật trong lời nói gián tiếp (Statements in indirect speech)
 Khi chuyển một câu trần thuật từ trực tiếp sang gián tiếp, chúng ta cần lưu ý đến những thay đổi sau:
 
-1. Dùng động từ giới thiệu say hoặc tell', say that; say to somebody that; tell somebody that. Động 
-từ giới thiệu trong lời nói gián tiếp thường ở quá khứ và liên từ that có thể được bỏ.
-Ex: Tom said (that) he was feeling ill. (Tom nói anh ấy thấy không khỏe.) I told her (that) I 
-didn’t have any money.
-(Tồi nói với cô ấy là tôi không có tiền.)
-■&LƯU ý: tell + tân ngữ (object) thường được dùng hơn say to + tần ngữ.
+1. Dùng động từ giới thiệu `say` hoặc `tell`, `say that`, `say to somebody that`, `tell somebody that`. Động từ giới thiệu trong lời nói gián tiếp thường ở quá khứ và liên từ `that` có thể được bỏ.<br>
+Ex:
+- Tom said (that) he was feeling ill. (Tom nói anh ấy thấy không khỏe.)
+- I told her (that) I didn’t have any money.(Tồi nói với cô ấy là tôi không có tiền.)
+
+LƯU ý: tell + tân ngữ (object) thường được dùng hơn say to + tần ngữ.
 1. Đổi các đại từ nhân xưng, đại từ hoặc tính từ sở hữu sao cho tương ứng với chủ ngữ hoặc tân ngữ 
 của mệnh đề chính.
 a. Đại từ nhân xưng (personal pronouns)
@@ -42,6 +40,7 @@ my, our
 Mưu ý: Khi tường thuật lại lời nói của chính mình, đại từ và tính từ sở hữu không đổi. Ex: I 
 said, ‘I like my new house.’
 -» I said (that) I liked my new house. (Tôi nối rằng tôi thích ngôi nhà môi của mình.)
+
 1. Đổi thì của động từ thành thì quá khứ tương ứng.
 DIRECT SPEECH INDIRECT SPEECH ỉlẾi
 Present simple
@@ -163,6 +162,8 @@ Ex: She said, ‘Ann arrived on Monday.’ -> She said Ann arrived/ had arrived 
 (Bà ấy nói Ann đến hôm thứ Hai.)
 But:He said, T loved her.’ —> He said he had loved her. (Anh ấy nói anh ấy đã từng yêu cô 
 ta.) [NOT He said he loved her.]
+\
+
 1. Đổi một số tính từ chỉ định và trạng từ hoặc cụm trạng từ chỉ nơi chốn, thời gian.
 DIRECT (Trực tiếp) INDIRECT (Gián tiếp)
 this that
@@ -211,9 +212,7 @@ trong ngôi làng đó hơn 80 năm.)
 Có hai loại câu hỏi: câu hỏi Yes-No và câu hỏi Wh-
 1. Câu hỏi Yes-No (Yes-No questions)
 Khi đổi câu hỏi Yes-No từ trực tiếp sang gián tiếp, ta cần lưu ý những điểm sau:
-- Dùng động từ giới thiệu ask, inquire, wonder, want to know. Ask CÓ the được theo sau bởi tân 
-ngữ trực tiếp (He asked me ...), nhưng inqizire, wonder, want to know thì không có tân ngữ 
-theo sau (NOT He wondered me ■■■)
+- Dùng động từ giới thiệu ask, inquire, wonder, want to know. Ask CÓ the được theo sau bởi tân ngữ trực tiếp (He asked me ...), nhưng inqizire, wonder, want to know thì không có tân ngữ theo sau (NOT He wondered me ■■■)
 - Dùng if hoặc whether ngay sau động từ giới thiệu của mệnh đề chính. If Ị whether có nghĩa 
 ‘có ... không’
 - Đổi cấu trúc câu hỏi thành câu trần thuật.
