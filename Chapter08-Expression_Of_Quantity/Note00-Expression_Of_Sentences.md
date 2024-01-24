@@ -63,50 +63,35 @@ a large number of a great number of plenty of
 a lot of lots of
 much a large amount of a great deal of 
 plenty of a lot of lots of
-Ex: I haven’t got much time for reading.
-(Tối không có nhiều thời gian để đọc sách.)*
-There are so many people here that I feel tired.
-(Ở đây có nhiều người đến nỗi tôi cảm thấy mệt.)*
-A large amount of information is stored in the computer. (Một lượng lớn thông tin được lưu 
-trữ trong máy tính.)*
-She has got a great deal of homework today.
-(Hôm nay cô ấy có nhiều bài tập về nhà.)*
-Did you spend much money for the cars? ~ Yes, I spent a lot of money for them. But I 
-want to have a lot of cars.
-(Bạn có tốn nhiều tiền để mua những chiếc ôtô này không? ~ Có, tôi đã tốn nhiều tiền để 
-mua chúng. Nhưng tôi thích có nhiều ôtô.)* Don’t hurry - *we have plenty of time.
-(Đừng vội - *chúng ta có nhiều thời gian mà)
-There are plenty of eggs in the fridge. (Có nhiều trứng trong tủ lạnh.)* He is making lots 
-of money. (Anh ta đang kiếm được nhiều tiền.)* George used to have lots of friends in New 
-York.
-(Trước đây George có nhiều bạn ở New York.)*
-A large number of students have part-time jobs nowadays.
-(Ngày nay, nhiều sinh viển làm việc bán thời gian.)*
-- *Theo nguyên tắc chung, chúng ta dùng many, much trong câu phủ định và câu hỏi và dùng a lot 
-of, lots of trong câu khẳng định.
-Ex: We didn’t spend much money for Christmas presents. But we spent a lot of money for the 
-party. (Chúng tôi đã không tốn nhiều tiền mua quà Giáng Sinh. Nhưng chúng tôi đã tiêu 
-nhiều tiền cho bữa tiệc.)* Do you know many people here? (Anh có quen nhiều người ở đây 
-không?) He’s got lots of/ a lot of men friends, but he doesn’t know many women. (Anh ta 
-có nhiều bạn trai, nhưng anh ta không quen nhiều bạn gái.)*
-Tuy nhiên trong lối văn trang trọng, đôi khi chúng ta có thể dùng many và much trong câu xác 
-định. Và trong lối nói thân mật, a lot of cũng có thể được dùng trong câu phủ định và câu hỏi.
-Ex: Many students have financial problem.
-(Nhiều sinh viên gặp khó khăn về tài chính.)* There was much bad driving on the road.
-(Có nhiều xe chạy ẩu trên dường.)*
-I don’t have many/ a lot of friends. (Tôi không có nhiều bạn.)* Do you eat much/ a lot of 
-fruit? (Bạn có ăn nhiều trái cây không?)
-- *Chúng ta dùng much và many (không được dừng a lot of, lots of, plenty of,...)* sau các từ so, as,
-và too.
-Ex: There was so much traffic that it took me an hour to get home.
-(Có quá nhiều xe cộ đến nỗi tôi phải mất một giờ đồng hồ mới về đến nhà.)* [NOT ...so a lot 
-of traffic...]
-You made too many mistakes in your writing.
-(Bạn đă phạm quá nhiều lỗi trong bài viết.)*
-Jason has a lot of friends, but I think I have as many friends as him. (Jason có nhiều bạn, 
-nhưng tôi cho rằng tôi củng có nhiều bạn không kém anh ấy.)*
-+ Very much thường được dùng trong câu khẳng định như một trạng từ, chứ không phải là từ hạn 
-định.
+Ex:
+- I haven’t got much time for reading. (Tối không có nhiều thời gian để đọc sách.)*
+- There are so many people here that I feel tired. (Ở đây có nhiều người đến nỗi tôi cảm thấy mệt.)*
+- A large amount of information is stored in the computer. (Một lượng lớn thông tin được lưu trữ trong máy tính.)*
+- She has got a great deal of homework today. (Hôm nay cô ấy có nhiều bài tập về nhà.)*
+- Did you spend much money for the cars? ~ Yes, I spent a lot of money for them. But I want to have a lot of cars. (Bạn có tốn nhiều tiền để mua những chiếc ôtô này không? ~ Có, tôi đã tốn nhiều tiền để mua chúng. Nhưng tôi thích có nhiều ôtô.)*
+- Don’t hurry - *we have plenty of time (Đừng vội - *chúng ta có nhiều thời gian mà)
+- There are plenty of eggs in the fridge. (Có nhiều trứng trong tủ lạnh.)*
+- He is making lots of money. (Anh ta đang kiếm được nhiều tiền.)*
+- George used to have lots of friends in New York. (Trước đây George có nhiều bạn ở New York.)*
+- A large number of students have part-time jobs nowadays. (Ngày nay, nhiều sinh viển làm việc bán thời gian.)*
+
+Theo nguyên tắc chung, chúng ta dùng many, much trong câu phủ định và câu hỏi và dùng a lot of, lots of trong câu khẳng định. Ex:
+- We didn’t spend much money for Christmas presents. But we spent a lot of money for the party. (Chúng tôi đã không tốn nhiều tiền mua quà Giáng Sinh. Nhưng chúng tôi đã tiêu nhiều tiền cho bữa tiệc.)*
+- Do you know many people here? (Anh có quen nhiều người ở đây không?)
+- He’s got lots of/ a lot of men friends, but he doesn’t know many women. (Anh ta có nhiều bạn trai, nhưng anh ta không quen nhiều bạn gái.)*
+
+Tuy nhiên trong lối văn trang trọng, đôi khi chúng ta có thể dùng many và much trong câu xác định. Và trong lối nói thân mật, a lot of cũng có thể được dùng trong câu phủ định và câu hỏi. Ex:
+- Many students have financial problem. (Nhiều sinh viên gặp khó khăn về tài chính.)*
+- There was much bad driving on the road. (Có nhiều xe chạy ẩu trên dường.)*
+- I don’t have many/ a lot of friends. (Tôi không có nhiều bạn.)*
+- Do you eat much/ a lot of fruit? (Bạn có ăn nhiều trái cây không?)
+
+Chúng ta dùng much và many (không được dừng a lot of, lots of, plenty of,...)* sau các từ so, as, và too. Ex:
+- There was so much traffic that it took me an hour to get home. (Có quá nhiều xe cộ đến nỗi tôi phải mất một giờ đồng hồ mới về đến nhà.)* [NOT ...so a lot of traffic...]
+- You made too many mistakes in your writing. (Bạn đă phạm quá nhiều lỗi trong bài viết.)*
+- Jason has a lot of friends, but I think I have as many friends as him. (Jason có nhiều bạn, nhưng tôi cho rằng tôi củng có nhiều bạn không kém anh ấy.)*
+
+Very much thường được dùng trong câu khẳng định như một trạng từ, chứ không phải là từ hạn định.
 Ex: I very much enjoy travelling. (Tôi rất thích đi du lịch.)*
 - *Many of, much of + determiner/ pronoun
 Ex: I won’t pass the exam; I’ve missed too many of my lessons. (Tôi không thể thi đậu; tôi đã bỏ quá nhiều bài vở.)*
