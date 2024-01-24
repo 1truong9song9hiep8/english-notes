@@ -1,227 +1,218 @@
-# EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)
+# PART8: EXPRESSION OF QUANTITY (SỰ DIỄN TẢ VỀ SỐ LƯỢNG)
 
-## Some, Any
+## 1. Some, Any
+
 Cả some và any đều được dùng để chỉ một số lượng không xác định khi không thể hay không cần phải nêu rõ số lượng chính xác.
 
 1. **Some (một vài; một ít)**
-Some thường được dùng trong câu khẳng định, trước danh từ đếm được số nhiều (countable plural nouns) hoặc danh từ không đếm được (uncountable nouns).
-
-Ex: 
-- *My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)*
-- *He is busy. He’s got some work to do. (Anh ta bận. Anh ta có một số việc phải làm.)*
-- * There’s some milk in the fridge. (Có một ít sữa trong tủ lạnh.)*
-  * I need some stamps. ~ There are some in the drawer. (Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)*
-
-Some được dùng trong câu hỏi khi chúng ta mong chờ câu trả lời Yes (Có).
-
+Some thường được dùng trong câu khẳng định, trước danh từ đếm được số nhiều (countable plural nouns) hoặc danh từ không đếm được (uncountable nouns).<br>
 Ex:
+	- **My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)**
+	- **He is busy. He’s got some work to do. (Anh ta bận. Anh ta có một số việc phải làm.)**
+	- **There’s some milk in the fridge. (Có một ít sữa trong tủ lạnh.)**
+   	- **I need some stamps. ~ There are some in the drawer. (Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)**
 
-- *Have you brought some paper and a pen? (Bạn có mang theo giấy, viết chứ1?) -> người nói hy vọng người nghe có mang theo giấy và viết.*
-- Did you buy some oranges? (Bạn có mua cam chứ?) -> người nói hi vọng người nghe đã mua.
+Some được dùng trong câu hỏi khi chúng ta mong chờ câu trả lời Yes (Có).<br>
+Ex:
+	- **Have you brought some paper and a pen? (Bạn có mang theo giấy, viết chứ1?) -> người nói hy vọng người nghe có mang theo giấy và viết.*
+	- *Did you buy some oranges? (Bạn có mua cam chứ?) -> người nói hi vọng người nghe đã mua.
 
 Some còn được dùng trong câu yêu cầu, lời mời hoặ lời đề nghị. Ex:
-- *Would you like some more coffee? (Anh dùng thêm một ít cà phê nữa nhé?)*
-- * Can I have some sugar, please? (Vui lòng cho tôi xin một ít đường.)*
-  * Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)
-2. Any (... nào)
-Any thường được dùng trong câu phủ định hoặc nghi vấn, trước danh từ đếm được số nhiều và 
-danh từ không đếm được.
-Ex: Have you got any butter? ~ Sorry, I haven’t got any butter.
-(Bạn có tí bơ nào không? ~ Rất tiếc là tôi không có bơ) There aren’t any chairs in the 
-room. (Không có cái ghế nàữ trong phòng.) [= There are no chairs in the room.]
-Any có nghĩa 'bất cử' được dùng trong mệnh đề khẳng định, trước danh từ số ít (đếm được hoặc 
-không đếm được) hoặc sau các từ có nghĩa phủ định (never, hardly, scarely, without, ...).
-Ex: You can catch any bus. They all go to the center.
-(Bạn có thể đón bất cứ chiếc xe buýt nào. Tất cả chúng đều đến khu trung tâm.)
-I’m free all day. Come and see me any time you like.
-(Tôi rảnh rỗi cả ngày. Hãy đến thăm tôi bất cứ lúc nào anh thích.)
-He’s lazy. He never does any work.
-(Anh ta thật lười nhác. Anh ta chẳng bao giờ làm bất cứ việc gì.) They crossed the frontier 
-without any difficulty.
-(Họ vượt qua biên giới không chút khó khăn.)
-Any có thể được dùng trong mệnh đề If (If-clauses).
-Ex: If there are any letters for me, can you send them on to this address? (Nếu có lá thư nào gửi cho 
-tôi, bạn có thể gửi chúng đến địa chỉ này được không?)
-If you need any more money, please let me know. (Nếu anh cần thêm tiền, xin hãy cho tôi 
-biết.)
-^rLưu ý:
-- Khi danh từ đã được xác định, chúng ta có thể dùng some và any không có danh từ theo sau.
-Ex: Tim wanted some milk, but he couldn’t find any.
-(Tim muốn uống sữa, nhưng anh ấy không tìm được chút sữa nào.)
-If you have no stamps, I will give you some. (Nếu bạn không có tem, tôi sẽ cho bạn vài con.)
-- Các đại từ phiếm chỉ something, anything, someone, anyone, somebody, anybody, somewhere, 
-anywhere... được dùng tương tự như cách dùng some và any.
-Ex: There’s somebody at the front door. (Có ai dó ồ của trước.)
-Is there anybody here? (Có ai ở đây khổng?)
-Would you like something to drink? (Anh uống chút gì nhé?) I’m not thirsty. I don’t want 
-anything to drink.
-(Tôi không khát. Tôi không muốn uống gì cả.) Let’s go somewhere for dinner. ~ Is there 
-anywhere we can go? (Chúng ta đi đâu đó ăn tối đi. ~ Chúng ta đi đâu đây?)
+- **Would you like some more coffee? (Anh dùng thêm một ít cà phê nữa nhé?)*
+- ** Can I have some sugar, please? (Vui lòng cho tôi xin một ít đường.)**
+  * Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)*
 
-## Much, many, a lot of, lots of, a great deal of, a large number of, ... .
+**2. Any (... nào)**
+
+Any thường được dùng trong câu phủ định hoặc nghi vấn, trước danh từ đếm được số nhiều và danh từ không đếm được.<br>
+Ex:
+- *Have you got any butter? ~ Sorry, I haven’t got any butter. (Bạn có tí bơ nào không? ~ Rất tiếc là tôi không có bơ)
+- *There aren’t any chairs in the room. (Không có cái ghế nàữ trong phòng.)* [= There are no chairs in the room.]
+
+Any có nghĩa 'bất cử' được dùng trong mệnh đề khẳng định, trước danh từ số ít (đếm được hoặc không đếm được) hoặc sau các từ có nghĩa phủ định (never, hardly, scarely, without, ...)*.<br>
+Ex:
+- *You can catch any bus. They all go to the center. (Bạn có thể đón bất cứ chiếc xe buýt nào. Tất cả chúng đều đến khu trung tâm.)*
+- *I’m free all day. Come and see me any time you like. (Tôi rảnh rỗi cả ngày. Hãy đến thăm tôi bất cứ lúc nào anh thích.)*
+- *He’s lazy. He never does any work. (Anh ta thật lười nhác. Anh ta chẳng bao giờ làm bất cứ việc gì.)*
+- *They crossed the frontier without any difficulty. (Họ vượt qua biên giới không chút khó khăn.)*
+
+Any có thể được dùng trong mệnh đề If (If-clauses).<br>
+Ex:
+- *If there are any letters for me, can you send them on to this address? (Nếu có lá thư nào gửi cho tôi, bạn có thể gửi chúng đến địa chỉ này được không?)
+- *If you need any more money, please let me know. (Nếu anh cần thêm tiền, xin hãy cho tôi biết.)*
+
+Lưu ý:
+- *Khi danh từ đã được xác định, chúng ta có thể dùng some và any không có danh từ theo sau.<br>
+Ex:
+- *Tim wanted some milk, but he couldn’t find any.(Tim muốn uống sữa, nhưng anh ấy không tìm được chút sữa nào.)*
+- *If you have no stamps, I will give you some. (Nếu bạn không có tem, tôi sẽ cho bạn vài con.)*
+
+Các đại từ phiếm chỉ something, anything, someone, anyone, somebody, anybody, somewhere, anywhere... được dùng tương tự như cách dùng some và any.<br>
+Ex: 
+- *There’s somebody at the front door. (Có ai dó ồ của trước.)*
+- *Is there anybody here? (Có ai ở đây khổng?)
+- *Would you like something to drink? (Anh uống chút gì nhé?) I’m not thirsty. I don’t want anything to drink. (Tôi không khát. Tôi không muốn uống gì cả.)*
+- *Let’s go somewhere for dinner. ~ Is there anywhere we can go? (Chúng ta đi đâu đó ăn tối đi. ~ Chúng ta đi đâu đây?)
+
+## 2. Much, many, a lot of, lots of, a great deal of, a large number of, ... .
 Much, many, a lot of, ... là các từ chỉ lượng bất định, có nghĩa một số lượng lớn người, vật hoặc sự việc.
-Với danh từ đếm được số nhiều (With 
-countable plural nouns)
-Với danh từ không đếm được (With 
-uncountable nouns)
+Với danh từ đếm được số nhiều (With countable plural nouns)
+Với danh từ không đếm được (With uncountable nouns)
 ‘ many
 a large number of a great number of plenty of 
 a lot of lots of
 much a large amount of a great deal of 
 plenty of a lot of lots of
 Ex: I haven’t got much time for reading.
-(Tối không có nhiều thời gian để đọc sách.)
+(Tối không có nhiều thời gian để đọc sách.)*
 There are so many people here that I feel tired.
-(Ở đây có nhiều người đến nỗi tôi cảm thấy mệt.)
+(Ở đây có nhiều người đến nỗi tôi cảm thấy mệt.)*
 A large amount of information is stored in the computer. (Một lượng lớn thông tin được lưu 
-trữ trong máy tính.)
+trữ trong máy tính.)*
 She has got a great deal of homework today.
-(Hôm nay cô ấy có nhiều bài tập về nhà.)
+(Hôm nay cô ấy có nhiều bài tập về nhà.)*
 Did you spend much money for the cars? ~ Yes, I spent a lot of money for them. But I 
 want to have a lot of cars.
 (Bạn có tốn nhiều tiền để mua những chiếc ôtô này không? ~ Có, tôi đã tốn nhiều tiền để 
-mua chúng. Nhưng tôi thích có nhiều ôtô.) Don’t hurry - we have plenty of time.
-(Đừng vội - chúng ta có nhiều thời gian mà)
-There are plenty of eggs in the fridge. (Có nhiều trứng trong tủ lạnh.) He is making lots 
-of money. (Anh ta đang kiếm được nhiều tiền.) George used to have lots of friends in New 
+mua chúng. Nhưng tôi thích có nhiều ôtô.)* Don’t hurry - *we have plenty of time.
+(Đừng vội - *chúng ta có nhiều thời gian mà)
+There are plenty of eggs in the fridge. (Có nhiều trứng trong tủ lạnh.)* He is making lots 
+of money. (Anh ta đang kiếm được nhiều tiền.)* George used to have lots of friends in New 
 York.
-(Trước đây George có nhiều bạn ở New York.)
+(Trước đây George có nhiều bạn ở New York.)*
 A large number of students have part-time jobs nowadays.
-(Ngày nay, nhiều sinh viển làm việc bán thời gian.)
-- Theo nguyên tắc chung, chúng ta dùng many, much trong câu phủ định và câu hỏi và dùng a lot 
+(Ngày nay, nhiều sinh viển làm việc bán thời gian.)*
+- *Theo nguyên tắc chung, chúng ta dùng many, much trong câu phủ định và câu hỏi và dùng a lot 
 of, lots of trong câu khẳng định.
 Ex: We didn’t spend much money for Christmas presents. But we spent a lot of money for the 
 party. (Chúng tôi đã không tốn nhiều tiền mua quà Giáng Sinh. Nhưng chúng tôi đã tiêu 
-nhiều tiền cho bữa tiệc.) Do you know many people here? (Anh có quen nhiều người ở đây 
+nhiều tiền cho bữa tiệc.)* Do you know many people here? (Anh có quen nhiều người ở đây 
 không?) He’s got lots of/ a lot of men friends, but he doesn’t know many women. (Anh ta 
-có nhiều bạn trai, nhưng anh ta không quen nhiều bạn gái.)
+có nhiều bạn trai, nhưng anh ta không quen nhiều bạn gái.)*
 Tuy nhiên trong lối văn trang trọng, đôi khi chúng ta có thể dùng many và much trong câu xác 
 định. Và trong lối nói thân mật, a lot of cũng có thể được dùng trong câu phủ định và câu hỏi.
 Ex: Many students have financial problem.
-(Nhiều sinh viên gặp khó khăn về tài chính.) There was much bad driving on the road.
-(Có nhiều xe chạy ẩu trên dường.)
-I don’t have many/ a lot of friends. (Tôi không có nhiều bạn.) Do you eat much/ a lot of 
+(Nhiều sinh viên gặp khó khăn về tài chính.)* There was much bad driving on the road.
+(Có nhiều xe chạy ẩu trên dường.)*
+I don’t have many/ a lot of friends. (Tôi không có nhiều bạn.)* Do you eat much/ a lot of 
 fruit? (Bạn có ăn nhiều trái cây không?)
-- Chúng ta dùng much và many (không được dừng a lot of, lots of, plenty of,...) sau các từ so, as,
+- *Chúng ta dùng much và many (không được dừng a lot of, lots of, plenty of,...)* sau các từ so, as,
 và too.
 Ex: There was so much traffic that it took me an hour to get home.
-(Có quá nhiều xe cộ đến nỗi tôi phải mất một giờ đồng hồ mới về đến nhà.) [NOT ...so a lot 
+(Có quá nhiều xe cộ đến nỗi tôi phải mất một giờ đồng hồ mới về đến nhà.)* [NOT ...so a lot 
 of traffic...]
 You made too many mistakes in your writing.
-(Bạn đă phạm quá nhiều lỗi trong bài viết.)
+(Bạn đă phạm quá nhiều lỗi trong bài viết.)*
 Jason has a lot of friends, but I think I have as many friends as him. (Jason có nhiều bạn, 
-nhưng tôi cho rằng tôi củng có nhiều bạn không kém anh ấy.)
+nhưng tôi cho rằng tôi củng có nhiều bạn không kém anh ấy.)*
 + Very much thường được dùng trong câu khẳng định như một trạng từ, chứ không phải là từ hạn 
 định.
-Ex: I very much enjoy travelling. (Tôi rất thích đi du lịch.)
-- Many of, much of + determiner/ pronoun
-Ex: I won’t pass the exam; I’ve missed too many of my lessons. (Tôi không thể thi đậu; tôi đã bỏ quá nhiều bài vở.)
-You can’t see much of a country in a week. (Trong một tuần bạn không thể tham quan được nhiều nơi trong một nước.)
+Ex: I very much enjoy travelling. (Tôi rất thích đi du lịch.)*
+- *Many of, much of + determiner/ pronoun
+Ex: I won’t pass the exam; I’ve missed too many of my lessons. (Tôi không thể thi đậu; tôi đã bỏ quá nhiều bài vở.)*
+You can’t see much of a country in a week. (Trong một tuần bạn không thể tham quan được nhiều nơi trong một nước.)*
 
-## Few, a few, little, a little
-Few và a few được dùng trước các danh từ đếm được số nhiều (countable plural nouns). Little and a 
-little được dùng trước các danh từ không đếm được (uncountable nouns).
-- Few, little (ít; không nhiều) thường có nghĩa phủ định và chỉ một số lượng rất ít (ít hơn những gì 
+## 3. Few, a few, little, a little
+Few và a few được dùng trước các danh từ đếm được số nhiều (countable plural nouns). Little and a little được dùng trước các danh từ không đếm được (uncountable nouns).
+- *Few, little (ít; không nhiều) thường có nghĩa phủ định và chỉ một số lượng rất ít (ít hơn những gì 
 bạn muốn hoặc mong đợi).
 Ex: He isn’t popular. He has few friends. (Anh ta không được mọi người yêu mến. Anh ta có ít bạn 
-bè.) [few friends = not many friends] Few customers have come into the shop. It has been 
-quiet. (ít khách hàng vào cửa hiệu. Nó rất vắng lặng.) [few customers = not many customers]
-Hurry up! There is little time. (Nhanh lên nào! Còn ít thời gian lắm.) [little time = not much 
+bè.)* [few friends = not many friends] Few customers have come into the shop. It has been 
+quiet. (ít khách hàng vào cửa hiệu. Nó rất vắng lặng.)* [few customers = not many customers]
+Hurry up! There is little time. (Nhanh lên nào! Còn ít thời gian lắm.)* [little time = not much 
 time, not enough time]
 He spoke little English, so it was difficult to communicate with him. (Anh ta nói được ít tiếng 
-Anh, nên rất khó giao tiếp với anh ta.) [little English = not much English]
-- A few, a little (một vài, một ít) thường có nghĩa khẳng định và chỉ một số lượng nhỏ (gần nghĩa với 
+Anh, nên rất khó giao tiếp với anh ta.)* [little English = not much English]
+- *A few, a little (một vài, một ít) thường có nghĩa khẳng định và chỉ một số lượng nhỏ (gần nghĩa với 
 some).
 Ex: I enjoy my life here. I have a few friends and we meet quite often. (Tôi thích sống ở đây. Tôi có 
-vài người bạn và chúng tôi rất thường gặp nhau.)
+vài người bạn và chúng tôi rất thường gặp nhau.)*
 [a few friends = some friends, a small number of friends]
 A few customers have come into the shop. It has been fairly busy. (Một số khách hàng vào cửa 
-hiệu. Nó khá nhộn nhịp.)
+hiệu. Nó khá nhộn nhịp.)*
 [a few customers = some customers, a small number of customers] Let’s go and have a drink. 
 We’ve got a little time before the train leaves. (Chúng ta đi uống nước nhé. Chúng ta còn một 
-ít thời gian trước khi tàu chạy.)
+ít thời gian trước khi tàu chạy.)*
 -* [a little time = some time, a small amount of time]
 He spoke a little English, so we were able to communicate with him. (Anh ta nói được một ít 
-tiếng Anh, nên chúng tôi có thể giao tiếp với anh ta.)
+tiếng Anh, nên chúng tôi có thể giao tiếp với anh ta.)*
 -> [a little English = some English, a small amount of English] Would you like a little salt on your 
 vegetables?
 (Cho một chút muối vào rau của bạn nhé?)
 -> [a little salt = some salt, a small amount of salt]
-■&LƯU ý:
-- Only a little và only a few có nghĩa phủ định.
+LƯU ý:
+- *Only a little và only a few có nghĩa phủ định.
 Ex: We must be quick. We’ve got only a little time.
-(Chúng ta phải nhanh lên. Chúng ta chỉ còn một ít thời gian.) -> [only a little = not much] 
+(Chúng ta phải nhanh lên. Chúng ta chỉ còn một ít thời gian.)* -> [only a little = not much] 
 Only a few customers have come in.
-(Chỉcó một vài khách hàng bước vào.) -» [only a few = not many]
-- (a) little of/ (a) few of+ determiner/ pronoun.
-Ex: Only a few of the children in this class like math.
-(Chỉ vài đứa trẻ trong lớp này thích toán.)
-Could I try a little of your wine? (Tôi uống thử một chút rượu của anh cố được không?)
+(Chỉcó một vài khách hàng bước vào.)* -» [only a few = not many]
+- *(a) little of/ (a) few of+ determiner/ pronoun.
+Ex:
+- *Only a few of the children in this class like math. (Chỉ vài đứa trẻ trong lớp này thích toán.)*
+- *Could I try a little of your wine? (Tôi uống thử một chút rượu của anh cố được không?)
 
-## All, most, some, no, all of, most of, some of, none of.
-1. All (tất cả), most (phần lớn; đa số), some (một vài), no (không) được dùng
-như từ hạn định (determiner) trước danh từ đếm được số nhiều hoặc danh từ không đếm được
-__________________________________ ........................................................
-[ All/most/some/no (+adjective) + plural noun/uncountable noun )
-Ex: All children are fond of candy. (Tất cả trẻ con đều thích kẹo.) Most cheese is made from 
-cow’s milk.
-(Phần lờn phó mát được làm từ sữa bò.)
-Some food makes me ill. (Một số thức ăn làm tôi buồn nôn.)
-There are no rooms available. (Không có phòng trống.) Most Swiss people understand 
-French.
-(Đa số người Thụy Sĩ hiểu tiếng Pháp.)
-All classical music sends me to sleep.
-(Tất cả các loại nhạc cổ điển đều làm cho tôi buồn ngủ.)
-2. All of, most of, some of, none of được dùng trước các từ hạn định (determiners: a, an, the, my, his, 
-this,...) và các đại từ (pronouns).
-Ex: Have all (of) the plants died? ~No, not all of them.
-(Tất cả cây cối đều chết hết sao? ~Không, không phải tất cả.)
-Most of her friends live abroad.
-(Phần lớn bạn bè của có ta sống ở nước ngoài.) Some of those people are very friendly.
-(Một vài người trong số đó rất thân thiện.)
-These books are all Jane’s. None of them belong to me.
-(Tất cả sách này là của Jane. Không có cuốn nào của tôi cả.)
-^Lưu ý:
-Chúng ta có thể bỏ ơísau all hoặc half khi of đứng trước từ hạn định (không được bỏ of khi ỡ/đứng trước đại từ). Ex:
-* All (of) my friends live in London, but all of them have been to the meeting. (Tất cả bạn bè tôi đều sống ở London, nhưng tất cả đều đã đến dự cuộc họp mặt.)
-* Half (of) this money is mine, and half of it is yours. (Phân nửa số tiền này là của tôi, còn phân nửa của anh.)
+## 4. All, most, some, no, all of, most of, some of, none of.
+1. **All** (*tất cả*), *most* (phần lớn; đa số), **some** (một vài), **no** (không) được dùng như từ hạn định (determiner) trước danh từ đếm được số nhiều hoặc danh từ không đếm được.
+```
+		All/most/some/no (+adjective) + plural noun/uncountable noun
+```
+Ex:
+- ****All children** are fond of candy. (Tất cả trẻ con đều thích kẹo.)**
+- *Most cheese is made from cow’s milk. (Phần lờn phó mát được làm từ sữa bò.)*
+- *Some food makes me ill. (Một số thức ăn làm tôi buồn nôn.)*
+- *There are no rooms available. (Không có phòng trống.)*
+- *Most Swiss people understand French. (Đa số người Thụy Sĩ hiểu tiếng Pháp.)*
+- *All classical music sends me to sleep. (Tất cả các loại nhạc cổ điển đều làm cho tôi buồn ngủ.)*
 
-- Chúng ta thường không dùng of khi không có từ hạn định (mạo từ hoặc từ sở hữu) đứng trước danh từ. Tuy nhiên trong một vài trường hợp most of cũng có thể được dùng mà không có từ hạn định theo sau, ví dụ như trước các tên riêng và địa danh. Ex:
-- * The Romans conquered most of England. (Người La Mã đã xâm chiếm phần lớn nước Anh.)
-- Các cụm danh từ đứng sau all of, most of, some of,... thường xác định (phải có the, these, those
-...; hoặc các tính từ sở hữu my, his, her...). Ex: Most of the boys in my class want to choose well-paid jobs. (Phẩn lớn nam sinh trong lớp tôi muốn chọn công việc ởược trả lương cao.)
-- Chúng ta có thể bỏ danh từ sau all, most, some, none nếu nghĩa đã rõ ràng. Ex:
-- * The band sang a few songs. Most were old ones, but some were new. (Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.)
-  * I wanted some cake, but there was none left. (Tôi muốn ăn một ít bánh, nhưng chẳng còn tí bánh nào.)
+2. **All of, most of, some of, none of** được dùng trước các từ hạn định (determiners: a, an, the, my, his, this,...)* và các đại từ (pronouns).<br>
+Ex:
+- *Have all (of) the plants died? ~No, not all of them. (Tất cả cây cối đều chết hết sao? ~Không, không phải tất cả.)*
+- *Most of her friends live abroad. (Phần lớn bạn bè của có ta sống ở nước ngoài.)*
+- *Some of those people are very friendly. (Một vài người trong số đó rất thân thiện.)*
+- *These books are all Jane’s. None of them belong to me.(Tất cả sách này là của Jane. Không có cuốn nào của tôi cả.)*
 
-## Every, each
-Every và each thường được dùng trước danh từ đếm được ở số ít (singular countable nouns). Ex:
-* The police questioned every/ each person in the building. (Cảnh sát thẩm vấn từng người trong tòa nhà.) [NOT ... every/ each people]
-* Every/ Each room has a number. (Mỗi phòng đều có số.) [NOT Every/ Each rooms]
+Lưu ý:
+Chúng ta có thể bỏ ơísau all hoặc half khi of đứng trước từ hạn định (không được bỏ of khi ỡ/đứng trước đại từ).<br>
+Ex:
+* All (of) my friends live in London, but all of them have been to the meeting. (Tất cả bạn bè tôi đều sống ở London, nhưng tất cả đều đã đến dự cuộc họp mặt.)*
+* Half (of) this money is mine, and half of it is yours. (Phân nửa số tiền này là của tôi, còn phân nửa của anh.)*
 
-Trong nhiều trường hợp, every và each có thể được dùng với nghĩa tương tự nhau. Ex: You look more beautiful each/ every time I see you. (Mỗi lần tôi gặp bạn, bạn trông xinh hơn.)
+Chúng ta thường không dùng of khi không có từ hạn định (mạo từ hoặc từ sở hữu) đứng trước danh từ. Tuy nhiên trong một vài trường hợp most of cũng có thể được dùng mà không có từ hạn định theo sau, ví dụ như trước các tên riêng và địa danh. Ex: *The Romans conquered most of England. (Người La Mã đã xâm chiếm phần lớn nước Anh.)*
+
+Các cụm danh từ đứng sau all of, most of, some of,... thường xác định (phải có the, these, those
+...; hoặc các tính từ sở hữu my, his, her...)*. Ex: Most of the boys in my class want to choose well-paid jobs. (Phẩn lớn nam sinh trong lớp tôi muốn chọn công việc ởược trả lương cao.)*
+- *Chúng ta có thể bỏ danh từ sau all, most, some, none nếu nghĩa đã rõ ràng. Ex:
+- ** The band sang a few songs. Most were old ones, but some were new. (Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.)*
+  * I wanted some cake, but there was none left. (Tôi muốn ăn một ít bánh, nhưng chẳng còn tí bánh nào.)*
+
+## 5. Every, each
+**Every** và **each** thường được dùng trước danh từ đếm được ở số ít (singular countable nouns). Ex:
+- The police questioned every/ each person in the building. (Cảnh sát thẩm vấn từng người trong tòa nhà.)* [NOT ... every/ each people]
+- Every/ Each room has a number. (Mỗi phòng đều có số.)* [NOT Every/ Each rooms]
+
+Trong nhiều trường hợp, every và each có thể được dùng với nghĩa tương tự nhau. Ex: *You look more beautiful each/ every time I see you. (Mỗi lần tôi gặp bạn, bạn trông xinh hơn.)*
 Tuy nhiên every và each vẫn có sự khác nhau về nghĩa.
-### Every (mỗi; mọi)
-Chúng ta dùng every khi chúng ta nghĩ về người hoặc vật như một tổng thể hoặc một nhóm (cùng 
-nghĩa với all).
-Ex: Every guest watched as the President came in. [= all guests] (Khi Tổng thống bước vào, mọi 
-quan khách đều nhìn theo.) I go for a walk every day. (Tôi đi dạo mỗi ngày.) [= all days]
-Every có thể được dùng để nói về ba hoặc nhiều hơn ba người hoặc vật, thường là một số lượng lớn.
-Ex: There were cars parked along every street in town. [= all the streets] (O tô đậu dọc theo mọi con 
-dường trong thị xã.)
-### Each (mỗi)
+#### Every (mỗi; mọi)
+Chúng ta dùng every khi chúng ta nghĩ về người hoặc vật như một tổng thể hoặc một nhóm (cùng nghĩa với all). Ex: 
+- *Every guest watched as the President came in. [= all guests] (Khi Tổng thống bước vào, mọi quan khách đều nhìn theo.)*
+- *I go for a walk every day. (Tôi đi dạo mỗi ngày.)* [= all days]
+
+Every có thể được dùng để nói về ba hoặc nhiều hơn ba người hoặc vật, thường là một số lượng lớn.<br>
+Ex: There were cars parked along every street in town. [= all the streets] (O tô đậu dọc theo mọi con dường trong thị xã.)*
+#### Each (mỗi)
 Chúng ta dùng each khi chúng ta nghĩ về người hoặc vật một cách riêng rẽ, từng người hoặc từng vật trong một nhóm. Ex:
-* Each person in turn shook hand with him. (Lần lượt từng người bắt tay với ông ấy.)
-* Each day seemed to pass very slowly. (Dường như từng ngày trôi qua chậm chạp.)
+- *Each person in turn shook hand with him. (Lần lượt từng người bắt tay với ông ấy.)*
+- *Each day seemed to pass very slowly. (Dường như từng ngày trôi qua chậm chạp.)*
 
 Each có thể được dùng để nói về hai hoặc nhiều hơn hai, thường là một nhóm nhỏ người hoặc vật. Ex:
-* There are four books on the table. Each book was a different color. (Trên bàn có 4 cuốn sách. Mỗi cuốn có màu khác nhau.)
-* There were cars parked along each side of the street. [= both sides] (Ô tô đậu dọc theo hai bên đường.)
+* There are four books on the table. Each book was a different color. (Trên bàn có 4 cuốn sách. Mỗi cuốn có màu khác nhau.)*
+* There were cars parked along each side of the street. [= both sides] (Ô tô đậu dọc theo hai bên đường.)*
 
-Each có thể được dùng một mình hoặc dùng với of (Each of + determiner/ pronoun). Ex:
-* There are six flats. Each has its own entrance.(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)
-* Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.)
-* Each of us sees the world differently. (Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời.)
+Each có thể được dùng một mình hoặc dùng với of (Each of + determiner/ pronoun).<br>
+*Ex:*
+- *There are six flats. Each has its own entrance.(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)*
+- *Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.)*
+- *Each of us sees the world differently. (Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời.)*
 
 # EXERCISES
 I. Complete the sentences with some or any.
@@ -400,7 +391,7 @@ a. Somebody b. All c. All of US d. Every of US
 a. each b. every c. all d. any
 4. When we were on holiday, we spent too _____________ money.
 a. a lot of b. many c. much d. lots of
-5. What would you like to eat? I don’t mind. _________ - whatever you’ve got.
+5. What would you like to eat? I don’t mind. _________ - *whatever you’ve got.
 a. Something b. Anything c. Nothing d. Any food
 6. We couldn’t buy anything because ____________of the shops were open.
 a. all b. half c. most d. none
