@@ -7,20 +7,20 @@ Cả some và any đều được dùng để chỉ một số lượng không x
 1. **Some (một vài; một ít)**
 Some thường được dùng trong câu khẳng định, trước danh từ đếm được số nhiều (countable plural nouns) hoặc danh từ không đếm được (uncountable nouns).<br>
 Ex:
-	- ***My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)**
-	- ***He is busy. He’s got some work to do. (Anh ta bận. Anh ta có một số việc phải làm.)**
-	- ***There’s some milk in the fridge. (Có một ít sữa trong tủ lạnh.)**
-   	- ***I need some stamps. ~ There are some in the drawer. (Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)**
+	- *My mother bought some eggs. (Mẹ tôi đã mua vài quả trứng.)**
+	- *He is busy. He’s got some work to do. (Anh ta bận. Anh ta có một số việc phải làm.)**
+	- *There’s some milk in the fridge. (Có một ít sữa trong tủ lạnh.)**
+   	- *I need some stamps. ~ There are some in the drawer. (Tôi cần vài con tem. ~ Có vài con tem trong ngăn kéo.)**
 
 Some được dùng trong câu hỏi khi chúng ta mong chờ câu trả lời Yes (Có).<br>
 Ex:
-	- ***Have you brought some paper and a pen? (Bạn có mang theo giấy, viết chứ1?) -> người nói hy vọng người nghe có mang theo giấy và viết.*
+	- *Have you brought some paper and a pen? (Bạn có mang theo giấy, viết chứ1?) -> người nói hy vọng người nghe có mang theo giấy và viết.*
 	- **Did you buy some oranges? (Bạn có mua cam chứ?) -> người nói hi vọng người nghe đã mua.
 
 Some còn được dùng trong câu yêu cầu, lời mời hoặ lời đề nghị. Ex:
-- ***Would you like some more coffee? (Anh dùng thêm một ít cà phê nữa nhé?)*
-- *** Can I have some sugar, please? (Vui lòng cho tôi xin một ít đường.)**
-  * Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)*
+- *Would you like some more coffee? (Anh dùng thêm một ít cà phê nữa nhé?)*
+- *Can I have some sugar, please? (Vui lòng cho tôi xin một ít đường.)*
+- Let’s go out for some drink. (Chúng ta hãy đi uống nước đi.)*
 
 **2. Any (... nào)**
 
@@ -98,42 +98,29 @@ You can’t see much of a country in a week. (Trong một tuần bạn không th
 
 ## 3. Few, a few, little, a little
 Few và a few được dùng trước các danh từ đếm được số nhiều (countable plural nouns). Little and a little được dùng trước các danh từ không đếm được (uncountable nouns).
-- **Few, little (ít; không nhiều) thường có nghĩa phủ định và chỉ một số lượng rất ít (ít hơn những gì 
-bạn muốn hoặc mong đợi).
-Ex: He isn’t popular. He has few friends. (Anh ta không được mọi người yêu mến. Anh ta có ít bạn 
-bè.)* [few friends = not many friends] Few customers have come into the shop. It has been 
-quiet. (ít khách hàng vào cửa hiệu. Nó rất vắng lặng.)* [few customers = not many customers]
-Hurry up! There is little time. (Nhanh lên nào! Còn ít thời gian lắm.)* [little time = not much 
-time, not enough time]
-He spoke little English, so it was difficult to communicate with him. (Anh ta nói được ít tiếng 
-Anh, nên rất khó giao tiếp với anh ta.)* [little English = not much English]
-- **A few, a little (một vài, một ít) thường có nghĩa khẳng định và chỉ một số lượng nhỏ (gần nghĩa với 
-some).
-Ex: I enjoy my life here. I have a few friends and we meet quite often. (Tôi thích sống ở đây. Tôi có 
-vài người bạn và chúng tôi rất thường gặp nhau.)*
-[a few friends = some friends, a small number of friends]
-A few customers have come into the shop. It has been fairly busy. (Một số khách hàng vào cửa 
-hiệu. Nó khá nhộn nhịp.)*
-[a few customers = some customers, a small number of customers] Let’s go and have a drink. 
-We’ve got a little time before the train leaves. (Chúng ta đi uống nước nhé. Chúng ta còn một 
-ít thời gian trước khi tàu chạy.)*
--* [a little time = some time, a small amount of time]
-He spoke a little English, so we were able to communicate with him. (Anh ta nói được một ít 
-tiếng Anh, nên chúng tôi có thể giao tiếp với anh ta.)*
--> [a little English = some English, a small amount of English] Would you like a little salt on your 
-vegetables?
-(Cho một chút muối vào rau của bạn nhé?)
--> [a little salt = some salt, a small amount of salt]
-LƯU ý:
+- *Few, little (ít; không nhiều) thường có nghĩa phủ định và chỉ một số lượng rất ít (ít hơn những gì bạn muốn hoặc mong đợi).*
+Ex:
+- *He isn’t popular. He has few friends. (Anh ta không được mọi người yêu mến. Anh ta có ít bạn bè.)* [few friends = not many friends]
+- Few customers have come into the shop. It has been quiet. (ít khách hàng vào cửa hiệu. Nó rất vắng lặng.)* [few customers = not many customers]
+- Hurry up! There is little time. (Nhanh lên nào! Còn ít thời gian lắm.)* [little time = not much time, not enough time]
+- He spoke little English, so it was difficult to communicate with him. (Anh ta nói được ít tiếng Anh, nên rất khó giao tiếp với anh ta.)* [little English = not much English]
+
+A few, a little (một vài, một ít) thường có nghĩa khẳng định và chỉ một số lượng nhỏ (gần nghĩa với some).
+Ex:
+- *I enjoy my life here. I have a few friends and we meet quite often. (Tôi thích sống ở đây. Tôi có vài người bạn và chúng tôi rất thường gặp nhau.)[a few friends = some friends, a small number of friends]*
+- *A few customers have come into the shop. It has been fairly busy. (Một số khách hàng vào cửa hiệu. Nó khá nhộn nhịp.)* [a few customers = some customers, a small number of customers]
+- *Let’s go and have a drink. We’ve got a little time before the train leaves. (Chúng ta đi uống nước nhé. Chúng ta còn một ít thời gian trước khi tàu chạy.) [a little time = some time, a small amount of time]*
+- *He spoke a little English, so we were able to communicate with him. (Anh ta nói được một ít tiếng Anh, nên chúng tôi có thể giao tiếp với anh ta.) [a little English = some English, a small amount of English]*
+- *Would you like a little salt on your vegetables? (Cho một chút muối vào rau của bạn nhé?) [a little salt = some salt, a small amount of salt]*
+
+Lưu ý:
 - **Only a little và only a few có nghĩa phủ định.
-Ex: We must be quick. We’ve got only a little time.
-(Chúng ta phải nhanh lên. Chúng ta chỉ còn một ít thời gian.)* -> [only a little = not much] 
-Only a few customers have come in.
-(Chỉcó một vài khách hàng bước vào.)* -» [only a few = not many]
+Ex: We must be quick. We’ve got only a little time. (Chúng ta phải nhanh lên. Chúng ta chỉ còn một ít thời gian.)* -> [only a little = not much] 
+Only a few customers have come in. (Chỉcó một vài khách hàng bước vào.)* -» [only a few = not many]
 - **(a) little of/ (a) few of+ determiner/ pronoun.
 Ex:
 - **Only a few of the children in this class like math. (Chỉ vài đứa trẻ trong lớp này thích toán.)*
-- **Could I try a little of your wine? (Tôi uống thử một chút rượu của anh cố được không?)
+- *Could I try a little of your wine? (Tôi uống thử một chút rượu của anh cố được không?)*
 
 ## 4. All, most, some, no, all of, most of, some of, none of.
 1. **All** (*tất cả*), *most* (phần lớn; đa số), **some** (một vài), **no** (không) được dùng như từ hạn định (determiner) trước danh từ đếm được số nhiều hoặc danh từ không đếm được.
@@ -141,7 +128,7 @@ Ex:
 		All/most/some/no (+adjective) + plural noun/uncountable noun
 ```
 Ex:
-- *****All children** are fond of candy. (Tất cả trẻ con đều thích kẹo.)**
+- ***All children** are fond of candy. (Tất cả trẻ con đều thích kẹo.)**
 - **Most cheese is made from cow’s milk. (Phần lờn phó mát được làm từ sữa bò.)*
 - **Some food makes me ill. (Một số thức ăn làm tôi buồn nôn.)*
 - **There are no rooms available. (Không có phòng trống.)*
@@ -166,7 +153,7 @@ Chúng ta thường không dùng of khi không có từ hạn định (mạo t�
 Các cụm danh từ đứng sau all of, most of, some of,... thường xác định (phải có the, these, those
 ...; hoặc các tính từ sở hữu my, his, her...)*. Ex: Most of the boys in my class want to choose well-paid jobs. (Phẩn lớn nam sinh trong lớp tôi muốn chọn công việc ởược trả lương cao.)*
 - **Chúng ta có thể bỏ danh từ sau all, most, some, none nếu nghĩa đã rõ ràng. Ex:
-- *** The band sang a few songs. Most were old ones, but some were new. (Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.)*
+- * The band sang a few songs. Most were old ones, but some were new. (Ban nhạc hát một vài bài. Phẩn lớn là các bài cũ, nhưng cũng có một sô' bài mới.)*
   * I wanted some cake, but there was none left. (Tôi muốn ăn một ít bánh, nhưng chẳng còn tí bánh nào.)*
 
 ## 5. Every, each
@@ -194,9 +181,9 @@ Each có thể được dùng để nói về hai hoặc nhiều hơn hai, thư�
 
 Each có thể được dùng một mình hoặc dùng với of (Each of + determiner/ pronoun).<br>
 *Ex:*
-- **There are six flats. Each has its own entrance.(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)*
-- **Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.)*
-- **Each of us sees the world differently. (Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời.)*
+- *There are six flats. Each has its own entrance.(Có 6 căn hộ. Mỗi căn đều có lối đi riêng.)*
+- *Each of the houses has a backyard. fMỗỉ ngôi nhà đều có sân sau.)*
+- *Each of us sees the world differently. (Mỗi người trong chúng ta có cái nhìn khác nhau về cuộc đời.)*
 
 # EXERCISES
 I. Complete the sentences with some or any.
