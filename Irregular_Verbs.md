@@ -1,5 +1,9 @@
-abide abode abode chịu đựng, trú ngụ
-arise arose arisen phát sinh, nảy sinh
+# Irregular verb
+| Present | Past | PP | ý nghĩa |
+| --------------- | --------------- |--------|------|
+| abide | abode | abode | chịu đựng, trú ngụ
+| Row 2, Column 1 | Row 2, Column 2 |
+- arise arose arisen phát sinh, nảy sinh
 awake awoke awoken thức dậy, đánh thức
 be was/were been thì, là, ở
 bear bore born, borne chịu, mang, sinh
