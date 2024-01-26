@@ -574,11 +574,10 @@ Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo h
 **Lưu ý:**
 Sở hữu cách (’s) là cách dùng bắt buộc khi danh từ chỉ chủ sở hữu là tên người (Tom, Susan, John,...). Ex: John’s house (NOT the house of John) *But:* The houses **of** London. [NOT London’s houses]
         
-        - Có thể dùng sở hữu cách (’s) mà không có danh từ chính theo sau khi:
-        
-Danh từ chính là một trong các từ *shop, school, house, church, hospital, office, surgery, firm.* Ex:
-* He is going to **the doctor’s** *(Anh ta sẽ đi bác sĩ.)* [= the doctor’s **surgery]**
-* We had lunch at **Bill’s.** *(Chúng tôi ăn trưa ở nhà Bill.)* [= Bill’s **house]**
+Có thể dùng sở hữu cách (’s) mà không có danh từ chính theo sau khi:        
+- Danh từ chính là một trong các từ *shop, school, house, church, hospital, office, surgery, firm.* Ex:
+	- He is going to **the doctor’s** *(Anh ta sẽ đi bác sĩ.)* [= the doctor’s **surgery]**
+	- We had lunch at **Bill’s.** *(Chúng tôi ăn trưa ở nhà Bill.)* [= Bill’s **house]**
 * You can buy it at **the butcher’s.** *(Bạn có thể mua nó ở cửa hàng thịt.)* [= the butcher’s **shop]**
 * She got married at **st. Joseph’s.** *(Cô ấy kết hôn tại nhà thờ Thánh Joseph.)* [= st Joseph’s **church]**
 
