@@ -1,8 +1,8 @@
 # DANH TỪ (NOUNS)
-## Định nghĩa (Definition)
+## 1. Định nghĩa (Definition)
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
-## Các loại danh từ (Kinds of nouns)
+## 2. Các loại danh từ (Kinds of nouns)
 Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành nhiều loại:
 
 ### 1. Danh từ cụ thể và danh từ trừu tượng (Concrete nouns and abstract nouns)
@@ -33,20 +33,21 @@ Ex:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát c
 
 Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.<br>
 Ex:
-* `**The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*`
-* `*There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*`
+* **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
+* *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
   
-Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa. Ex:
-> * The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
-> * *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
-> * I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
-> * *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
+Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa.<br>
+Ex:
+- *The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
+- *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
+- *I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
+- *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
   
-> Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ex:
-> * Have you got any **coffee?** (Bạn còn cà phê không?)*
-> * ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
-> * *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
-> * *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
+Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ex:
+- Have you got any **coffee?** (Bạn còn cà phê không?)*
+- ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
+- *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
+- *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
             
 ### 3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)
 Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
@@ -113,7 +114,7 @@ Các chữ cái, chữ số, dấu hiệu và những từ loại khác không p
 * Dot your ***i’s.** (Nhớ chấm dấu các chữ ỉ.)*
 * She spelt ‘necessary’ with two ***c’s. '** (Cô ta đánh vần từ ‘necessary’ có hai chữ c.)*
             
-b. Các danh từ tận cùng bằng *s, sh, ch, X, z* được tạo thành số nhiều bằng cách thêm *-es.* Ex:
+b. Các danh từ tận cùng bằng *s, sh, ch, x, z* được tạo thành số nhiều bằng cách thêm *-es.* Ex:
 * dish (cái đĩa) → dishes (những cái đĩa)
 * church (nhà thờ) → churches (những ngôi nhà thờ)
 * box (cái hộp) → boxs (những cái hộp)
