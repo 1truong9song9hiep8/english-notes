@@ -500,114 +500,54 @@ Danh từ tập hợp đi với động từ số ít nếu người nói xem t�
         **There + be + noun**_____ ĨĨ-—J
         Ex: There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)* There **were** many
 
-## Sở hữu cách (Possessive/ Genitive Case)
-Sở hữu cách được dùng để diễn đạt sự sở hữu.
-### Cách thành lập sở hữu cách (The formation of the possessive case)
+## 5. Sở Hữu Cách
+Sở hữu cách là cách diễn đạt thể hiện sự sở hữu.
+### 1. Cách thành lập sở hữu cách
 Sở hữu cách được thành lập bằng cách:
 
-1. Thêm ’s vào sau danh từ số ít và danh từ số nhiều không tận cùng bằng -s.
-   * my father’s car *(xe ô tô của cha tôi)* [= the car of my father]
-   * Mary’s dog (con *chó của Mary)* [= the dog of Mary]
-   * the bull’s horns *(sừng bò)* [= the horns of the bull]
-   * the children’s room *(phòng của bọn trể)[=* the room of the children]
+- Thêm 's vào sau danh từ số ít và danh từ số nhiều tận cùng không bằng -s. ví dụ: *my father's car = the car of my father.*, *Mary's dog = the dog of Mary.*, *the bull's horns = the horns of the bull.*, *the children's room = the room of the children.*
 
-2. Thêm dấu phẩy (’) vào sau các danh từ số nhiều tận cùng bằng -s.
-   * my parents’ house *(nhà của cha mẹ tôi)* [= the house of my parents]
-   * the Smiths’ car *(xe ô tô của gia đình Smith)* [= the car of the Smiths]
-   * a girls’ school *(trường học dành cho nữ sinh; trường nữ)* [= a school of the girls]
-   * the eagles’ nest *(tổ chim đại bàng)* [= the nest of the eagles]
+- Thêm dấu phẩy vào sau các danh từ số nhiều tận cùng bằng *-s*, ví dụ: My parents' house, the Smiths' car, a girls' shool, an eagles' nest.
 
-3. Thêm ’s hoặc dấu phẩy (’) vào các danh từ số ít hoặc tên riêng tận cùng bằng -s (nhưng ’s được dùng phổ biến hơn).
-   * my boss’s office / my boss’ office *(văn phòng của ông chủ tôi)*
-   * Charles’s mother / Charles’ mother *(mẹ của Charles)* 
-        
-**Lưu ý:** Các tên cổ điển tận cùng bằng -s thường chỉ thêm dấu phẩy ('), *Archimedes’ Law *(định luật Archimedes)*
+- Thêm (s) hoặc ('s) vào sau các danh từ số ít hoặc tên riêng tận cùng bằng -s, nhưng -s được dùng phổ biến hơn, ví dụ: My boss's office = My boss' office = the office of my boss
 
-4. Với danh từ ghép, thêm ’s vào từ cuối cùng. Ex:
-   * my brother-in-law’s guitar *(cây ghi-ta của anh rể tôi.)*
-   * the commander-in-chiefs directions *(chỉ thị của tổng tư lệnh)*
+- Với danh từ ghép, thêm 's vào từ cuối cùng. Ví dụ: My mother-in-law's guitar, the comander-in-chief directions.
 
-5. 's cũng có thể được dùng sau các cụm từ. Ex:
-   * **Henry the Eighth’s** six wives, *(sáu người vợ của vua Henry VIII)*
-   * **the man next door’s** wife *(vợ của người đàn ông ở kế bên nhà)*
-   * **Joe and Ann’s** children *(các con của Joe và Ann.)* [một nhóm trẻ) But: **Joe’s and Ann’s** children *(các con của Joe và các con của Ann)* [hai nhóm trẻ]
-        
-**Lưu ý:** Khi sử dụng sở hữu cách, các mạo từ *(a, an, the)* đứng trước người hay vật ‘bị sở hữu’ phải được bỏ. ví dụ:
-* the daughter of the politician = the politician’s daughter
-* the plays of Shakespeare = Shakespeare’s plays
+- Thêm 's vào các cụm từ. ví dụ: Henry the eighth's six wives, the man next door's wife, *Joe and Ann*'s children
 
-### Cách dùng sở hữu cách *’s* và *of + danh từ* (Use of the possessive and of + noun)
-1. Cách dùng sở hữu cách
-   Sở hữu cách (’s) chủ yếu được dùng cho danh từ chỉ người (people) hoặc động vật (animals). Ex:
-   * the girl’s name *(tên của cô gái)*
-   * the horse’s tail *(đuôi ngựa)*
-   * Mr Evans’s daughter *(con gái của ông Evans)*
-   
-Không dùng sở hữu cách khi danh từ chỉ chủ sở hữu là danh từ chỉ đồ vật (things) hoặc ý tưởng (ideas). Trong trường hợp này ta thường dùng ***of + danh từ.***
-<br> Ex: the name of the book *(tên sách)* [NOT the book’s name]
-        
-Ngoài ra sở hữu cách còn có thể được dùng với:
-- Danh từ chỉ các châu lục (continents), quốc gia (countries), thành phố (cities), trường học (schools). <br>
-Ex: the Europe’s population *(dân số của châu Ầu)* the city’s new theater *(nhà hát mới của thành phố)* Italy’s largest city *(thành phố lớn nhất của Ý)*
-- Danh từ chỉ thuyền bè, xe lửa, máy bay, xe hơi, và các loại xe cộ khác; tuy nhiên trong trường hợp này cấu trúc ***of + danh từ*** thông dụng hơn. <br>
-Ex: the train’s heating system/ the heating system of the train *(hệ thống dốt nóng của xe lửa)*
-            a glider’s wings/ the wings of a glider *(cánh của tàu lượn)*
-        
-- Danh từ chỉ một tổ chức hoặc một nhóm người ***(of + danh từ*** cũng có thể được dùng). <br>
-            Ex: the government’s decision/ the decision **of** the government *(quyết định của chính phủ)*
-        The company’s success/ the success of the company *(thành công của công ty)*
+- Khi sử dụng sở hữu cách, các mạo từ a/an/the đứng trước vật bị sở hữu phải được bỏ. ví dụ: The daungher of the politician = the politician's daungher.
 
-- Từ hoặc cụm từ chỉ thời gian hoặc khoảng thời gian.
-Ex: a week’s holiday *(kì nghỉ dài một tuần)* today’s paper *(báo hôm nay)* ten minutes’ break *(nghỉ giải lao 10 phút)* two years’ time *(thời gian hai năm)*
-        
-****Cụm từ chỉ tiền bạc (money) hoặc giá trị (worth). Ex:
-* a pound’s worth of stamps *(các con tem trị giá một bảng Anh)* fifty dollars’ worth of picture *(bức tranh giá 50 dô la)*
-        
-****Một số cụm từ khác
-* a yard’s distance *(khoảng cách một thước Anh)*
-* for God’s sake *(vì lòng kính Chúa)*
-* death’s door *(của tử, sắp chết)*
-* for children’s sake *(vì lòng yêu trẻ)*
-* journey’s end *(cuối chuyến đi)*
-* a stone’s throw *(một khoáng cách ngắn)* the water’s edge *(mép nước)*
-        
-**Lưu ý:**
-Sở hữu cách (’s) là cách dùng bắt buộc khi danh từ chỉ chủ sở hữu là tên người (Tom, Susan, John,...). Ex: John’s house (NOT the house of John) *But:* The houses **of** London. [NOT London’s houses]
-        
-Có thể dùng sở hữu cách (’s) mà không có danh từ chính theo sau khi:        
-- Danh từ chính là một trong các từ *shop, school, house, church, hospital, office, surgery, firm.* Ex:
-	- He is going to **the doctor’s** *(Anh ta sẽ đi bác sĩ.)* [= the doctor’s **surgery]**
-	- We had lunch at **Bill’s.** *(Chúng tôi ăn trưa ở nhà Bill.)* [= Bill’s **house]**
-* You can buy it at **the butcher’s.** *(Bạn có thể mua nó ở cửa hàng thịt.)* [= the butcher’s **shop]**
-* She got married at **st. Joseph’s.** *(Cô ấy kết hôn tại nhà thờ Thánh Joseph.)* [= st Joseph’s **church]**
+### 2. Cách dùng sở hữu cách *'s* và *of + danh từ*
+#### Cách dùng sở hữu cách (*'s*)
+- Sở hữu cách ('s) chủ yếu được dùng cho danh từ chỉ người hoặc vật. Với tên người thì sở hữu cách là bắt buộc, ví dụ: *the girl's name, the horse's tail, Mr Evans's daungher*
 
-Danh từ chính đã được nói đến trước hoặc sắp được nói đến. Ex:
-* This isn’t my book. It’s my **brother’s.** *(Đây không phải là sách của tôi. Đây là sách của anh tôi.)* [= my brother’s **book]**
-* **Susan’s** is the only house that was painted violet. *(Nhà của Susan là ngôi nhà duy nhất sơn màu tím.)* [= Susan’s **house]**
+- Không dùng sở hữu cách khi chủ sở hữu là những danh từ chỉ đồ vật hoặc ý tưởng, thay vào đó chúng ta sử dụng cấu trúc ***of + danh từ***, ví dụ: *the name of the book*
 
-2. Cách dùng ***of + danh từ*** (of + noun)
-Sở hữu với ***of*** thường được dùng cho danh từ chỉ sự vật (things) hoặc ý tưởng (ideas). Ex:
-  * the roof **of** the church *(mái nhà thờ)* [NOT the church’s reef]
-  * the result of the match *(kết quả của trận đấu)* [NOT the match’s result]
-  * the keys of the car *(chìa khóa ô tô)* [NOT the car’s keys]
+- Sở hữu cách được dùng với các châu lục, quốc gia, thành phố, trường học. Ví dụ: *the Eropan's population, the city's new theater, Italy lagnest's city*
 
-Đôi khi có thể dùng cấu trúc ***danh từ + danh tù*** (noun + noun) Ex: the church roof, the match result, the car keys.
-        
-Ngoài ra câu trúc ***of + danh từ*** còn có thể được dùng với:
-****Danh từ có a / *an* đứng trước.
-Ex: I’m a big fan **of** Sting. *(Tôi rất hăm mộ Sting.)* [NOT Sting’s a big fan]
-        
-****Các từ *the beginning I end I top! bottom! front/back I part I middle/side ledge.*
-Ex: the top **of** the page *(dầu trang)* [NOT the page’s top OR the page top] the beginning **of** the month *(đầu tháng)*
-        
-****Danh từ chỉ người khi theo sau danh từ đó là một cụm từ hoặc mệnh đề. Examples:
-* The children obeyed the directions **of the man** with a whistle. *(Bọn trẻ làm theo sự chỉ dẫn của người đàn ông cầm còi.)*
-* I took the name card **of a girl** I met on the train. *(Tôi dã xin danh thiếp của cô gái mà tôi gặp trên xe lửa.)*
-        
-**Lưu ý:**
-Đôi khi chúng ta có thể gặp cả hai cấu trúc ’s và **of** trong cùng một câu. Cách sở hữu này được gọi là sở hữu cách kép (double possessive). Examples:
-* **We** saw a play **of Shaw’s = We** saw one of Shaw’s plays. *(Chúng tôi đã xem một vở kịch của Shaw.)*
-* A daughter of **Mr Brown’s** has arrived. = One of Mr Brown’s daughters has arrived. *(Một người con gái của ông Brown đã đến rồi.)*
+- Sở hữu cách được dùng với các danh từ chỉ thuyền bè, xe lửa, máy bay, xe hơi, các loại xe cộ khác, tuy nhiên cấu trúc ***of + danh từ*** thường được dùng hơn. Ví dụ: the train's heating system
+
+- Sở hữu cách được dùng với các danh từ chỉ một tổ chức hoặc nhóm người. Ví dụ: the gorvement's desision
+
+- Sở hữu cách được dùng với các danh từ chỉ thời gian. Ví dụ: a week's holiday, today's paper, ten minute's break, two years' time
+
+- tiền bạc hoặc giá trị. Ví dụ: a pound's worth of stamps, fifty dollar's worth of picture.
+
+- Một số cụm từ khác như: *a yard’s distance (khoảng cách một thước Anh), for God’s sake (vì lòng kính Chúa), death’s door (của tử, sắp chết), for children’s sake (vì lòng yêu trẻ), journey’s end (cuối chuyến đi), a stone’s throw (một khoáng cách ngắn) the water’s edge (mép nước)...*
+
+#### Cách dùng cấu trúc *of + danh từ*
+- Cấu trúc *of + danh từ* thường được dùng để chỉ sự vật hoặc ý tưởng. Ví dụ: *the roof of the church (mái nhà thờ) [NOT the church’s reef], the result of the match (kết quả của trận đấu) [NOT the match’s result], the keys of the car (chìa khóa ô tô) [NOT the car’s keys]...*
+
+- Đôi khi chúng ta có thể sử dụng cấu trúc ***Danh từ + danh từ***. Ví dụ: *the church roof, the match result, the car keys.*
+
+- Cấu trúc **of + danh từ*** có thể được dùng với danh từ có a/an* đứng trước. Ví dụ: *I’m a big fan of Sting. (Tôi rất hăm mộ Sting.) [NOT Sting’s a big fan]*
+
+- Cấu trúc **of + danh từ*** có thể được dùng với các từ *the beginning/end/top/bottom/front/back/part/middle/side/edge.* Ví dụ: *the top of the page (dầu trang) [NOT the page’s top OR the page top], the beginning of the month (đầu tháng)*
+
+- Cấu trúc **of + danh từ*** có thể được dùng với các danh từ mà theo sau nó là một cụm từ hoặc mệnh đề. Ví dụ: I took the name card of a girl I met on the train (tôi có được danh thiếp của cô gái mà tôi đã gặp trên xe lửa)
+
+- Đôi khi ta có thể bắt gặp cả sở hữu cách và cấu trúc câu *of + danh từ* trong một câu. Ví dụ: *We saw a play of Shaw’s = We saw one of Shaw’s plays. (Chúng tôi đã xem một vở kịch của Shaw.)
+A daughter of Mr Brown’s has arrived. = One of Mr Brown’s daughters has arrived. (Một người con gái của ông Brown đã đến rồi.)*
 
 # EXERCISES
 I. Look at these nouns. Are they countable (C) or uncountable (U)?
@@ -979,14 +919,14 @@ XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and 
 19. the room/ my sisters
 20. the door/ the garage
 
-XIV. Rewrite the underlined phrases, using a possessive form. (Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.)
+XIV. Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.
 1. The storm last week caused a lot of damage. <br> *Last week’s storm caused a lot of damage.*   
 2. The meeting tomorrow has been cancelled. <br> *Tomorrow’s meeting has been cancelled.*
 3. The only cinema in the town has closed down. <br> The only cinema of the town has closed down.
 4. Exports from Britain to the United States have fallen recently. <br> *Britain to the United States’s export have fallen recently.*
-5. Tourism is the main industry in the region.
+5. Tourism is the main industry in the region. The region's main industry is tourism.
 6. The prices this year are even lower.
 7. A rest for five minutes is enough for me.
 8. From here it’s a drive of two hours.
-9. I’ll see you in a week.
-10. The paper yesterday reported the assassination of the Prime Minister
+9. I’ll see you in a week. a week's I'll see you
+10. The paper yesterday reported the assassination of the Prime Minister.<br> Yesterday's paper reported the assassination of the Prime Minister.
