@@ -3,17 +3,17 @@
 Đại từ (pronouns) là từ dùng để thay thế cho danh từ.
 
 ## Các loại đại từ (Kinds of pronouns)
-- Đại từ nhân xưng (personal pronouns)
-- Đại từ sở hữu (possessive pronouns)
-- Đại từ phản thân và đại từ nhấn mạnh (reflexive and emphatic pronouns)
-- Đại từ chỉ định (demonstrative pronouns)
-- Đại từ nghi vấn (interrogative pronouns)
-- Đại từ liên hệ (relative pronouns)
-- Đại từ phân bổ (distributive pronouns)
-- Đại từ bất định (indefinite pronouns)
-- Đại từ hỗ tương (reciprocal pronouns)
+1. Đại từ nhân xưng (personal pronouns)
+2. Đại từ sở hữu (possessive pronouns)
+3. Đại từ phản thân và đại từ nhấn mạnh (reflexive and emphatic pronouns)
+4. Đại từ chỉ định (demonstrative pronouns)
+5. Đại từ nghi vấn (interrogative pronouns)
+6. Đại từ liên hệ (relative pronouns)
+7. Đại từ phân bổ (distributive pronouns)
+8. Đại từ bất định (indefinite pronouns)
+9. Đại từ hỗ tương (reciprocal pronouns)
 
-###  Đại từ nhân xưng (Personal pronouns)
+## 1.Đại từ nhân xưng (Personal pronouns)
 Đại từ nhân xưng là các đại từ được dùng để chỉ người, vật, nhóm người hoặc vật cụ thể.
 #### Hình thức (Form)
 Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you*và *it).*
@@ -114,7 +114,7 @@ There was a knock at the door. I thought **it** was the postman. **He** usually 
             
             If the teacher sees you doing that, you’ll catch **it.** *(Thầy mà thấy mày làm vậy thì mày liệu hồn).*
 
-### Đại từ sở hữu (Possessive pronouns)
+## 2. Đại từ sở hữu (Possessive pronouns)
 Đại từ sở hừu (possessive pronouns) là hình thức sở hữu của đại từ nhân xưng (personal pronouns), được dùng để chỉ vật gì thuộc về người nào đó.
 #### Hình thức (Form)
 **It** không có dạng đại từ sở hữu. Its là dạng tính từ sở hữu của **it.**
@@ -338,7 +338,7 @@ I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp ch�
         
         without help.]
         
-#### Đại từ chỉ định (Demonstrative pronouns)
+## 3. Đại từ chỉ định (Demonstrative pronouns)
         
         Đại từ chỉ định gồm các từ: *this, that, these, those.* Đại từ chỉ định được dùng để chỉ định vật, sự vật hoặc để giới thiệu hay nhận dạng người nào đó.
         
@@ -458,7 +458,7 @@ I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp ch�
         
         **This** (one) looks the nicest. *(Cái này có vẻ đẹp nhất.)*
         
-#### 5. Đại từ nghi vấn (Interrogative pronouns)
+## 5. Đại từ nghi vấn (Interrogative pronouns)
         
         Đại từ nghi vấn là các đại từ dùng để hỏi như: *who, whom, whose, what, which.* Các đại từ nghi
         
@@ -1161,32 +1161,23 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                 
                 don’t want to waste **anyone’s time.** *(Tôi không muốn làm mất thời gian của bất cứ ai.)*
 ```
-### Đại từ hỗ tương (Reciprocal pronouns)
+## 7. Đại từ hỗ tương (Reciprocal pronouns)
 Đại từ hỗ tương là đại từ chỉ mối quan hệ qua lại giữa hai hoặc nhiều người hoặc vật với nhau.<br>
-Đại từ hỗ tương gồm **each other** và **one another** có cùng nghĩa là **nhau, lẫn nhau.**<br>
-```
-- Sue and Ann don’t like each other/ one another.(Sue và Ann không thích nhau.)
-        [= Sue doesn’t like Ann and Ann doesn’t like Sue.]
+Đại từ hỗ tương gồm **each other** và **one another** có cùng nghĩa là **nhau, lẫn nhau.**
+- Sue and Ann don’t like each other/ one another.(Sue và Ann không thích nhau.)[= Sue doesn’t like Ann and Ann doesn’t like Sue.]
 - They sat for two hours without talking to each other/ one another.(Họ ngồi suốt hai tiếng đồng hồ mà không nói gì với nhau.)
-```            
+
 Các đại từ hỗ tương thường được dùng làm tân ngữ bổ nghĩa cho động từ hoặc giới từ nên vị trí thông thường của chúng là sau động từ hoặc giới từ. Ví dụ:
-```
-- We send **each other/ one another** Christmas cards every year.
-      (Chúng tôi gửi thiếp mừng Nô-en cho nhau mỗi năm.)[tân ngừ của send]
-- They write to **each other/ one another** regularly.
-      (Họ thường xuyên viết thư cho nhau.)* [tân ngữ của to]
-```
-Đại từ hỗ tương có thể dùng với sở hừu cách. ví dụ:<br>
-```They wrote down **each other’s/ one another’s** phone number.(Họ ghi số điện thoại của nhau.)```
+- We send **each other/ one another** Christmas cards every year. (Chúng tôi gửi thiếp mừng Nô-en cho nhau mỗi năm.)[tân ngừ của send]
+- They write to **each other/ one another** regularly. (Họ thường xuyên viết thư cho nhau.)* [tân ngữ của to]
 
->[!NOTE]
->Không dùng *each other* sau các từ meet *(gặp),* marry *(kết hôn),* và similar *(giống nhau, như nhau).*
+Đại từ hỗ tương có thể dùng với sở hừu cách. ví dụ: They wrote down **each other’s/ one another’s** phone number.(Họ ghi số điện thoại của nhau.)
 
-ví dụ:
-- They married in 1998. *(Họ cưới nhau năm 1998.) [NOT They married each other...] <br>
+Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết hôn),* và similar *(giống nhau, như nhau). Ví dụ:
+- They married in 1998. *(Họ cưới nhau năm 1998.) [NOT They married each other...]
 - Their interests are very similar. *(Sở thích của họ rất giống nhau.)* [NOT... similar each other]
-                
-## EXERCISES
+
+# EXERCISES
 ### I. Subject or object form? Put in the pronouns.
         
         **1.** There’s no need to shout. I can hear *you .*
