@@ -13,61 +13,43 @@
 8. Đại từ bất định (indefinite pronouns)
 9. Đại từ hỗ tương (reciprocal pronouns)
 
-## 1.Đại từ nhân xưng (Personal pronouns)
+## 1. Đại từ nhân xưng (Personal pronouns)
 Đại từ nhân xưng là các đại từ được dùng để chỉ người, vật, nhóm người hoặc vật cụ thể.
-#### Hình thức (Form)
-Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you*và *it).*
-#### Cách dùng (Use)
+
+Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you* và *it).*
+
 Đại từ nhân xưng được dùng để thay thế cho danh từ khi không cần thiết sử dụng hoặc lặp lại chính xác danh từ hoặc cụm danh từ đó. ví dụ:
-```
-- John’s broken his leg. He’ll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)
-    [NOT John will be in hospital ...]
-- Tell Mary I miss her.(Hãy nói với Mary rầng tôi nhớ cô ấy.)
-    [NOT Tell Mary I miss Mary.)
-```
-I, he, she, we, they được dùng làm:
-- Chủ ngữ của động từ (subjects of a verb)
-  ```
+- John’s broken his leg. He’ll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)[NOT John will be in hospital ...]
+- Tell Mary I miss her.(Hãy nói với Mary rầng tôi nhớ cô ấy.) [NOT Tell Mary I miss Mary.)
+
+I, he, she, we, they được dùng làm chủ ngữ của động từ (subjects of a verb)
   - I like you.(Tôi thích anh.)
   - He wants to leave now.(Anh ấy muốn đi ngay bây giờ.)
   - They have lived here for twenty years.(Họ đã sống ở đây 20 năm rồi.)
-  ```
- - Bổ ngữ của động từ *to be* (complements of the verb *to be)*
-   ```
-   - It was I who chose this colour. *(Chính tôi là người chọn màu này.)*
-   ```
-**me, him, her, us, them** được dùng làm:
-- Tân ngữ trực tiếp hoặc gián tiếp của động từ (direct objects or indirect objects of a verb).
-```
-They called US on the telephone. *(Họ đã gọi điện cho chúng tôi.)*
-Bill’s uncle sent him a birthday present. *(Chú của Bill gửi cho anh ấy một món quà sinh nhật.)*
-```                    
-- Tân ngữ của giới từ (objects of a preposition)
-```
-He said he couldn’t live without **her.** *(Anh ấy nói anh ấy không thể sống thiếu cô ta.)*
+
+ I, he, she, we, they được dùng làm Bổ ngữ của động từ *to be* (complements of the verb *to be)* - It was I who chose this colour. *(Chính tôi là người chọn màu này.)*
+ 
+**me, him, her, us, them** được dùng làm tân ngữ trực tiếp hoặc gián tiếp của động từ (direct objects or indirect objects of a verb).
+- They called US on the telephone. *(Họ đã gọi điện cho chúng tôi.)*
+- Bill’s uncle sent him a birthday present. *(Chú của Bill gửi cho anh ấy một món quà sinh nhật.)*
+                    
+**me, him, her, us, them** được dùng làm Tân ngữ của giới từ (objects of a preposition)
+- He said he couldn’t live without **her.** *(Anh ấy nói anh ấy không thể sống thiếu cô ta.)*
+
 **you** và **it** có thể được dùng làm chủ ngữ hoặc tân ngữ vì chúng có hình thức chủ ngữ và tân ngữ giống nhau.
 Did **you** see the snake? *(Anh có nhìn thấy con rắn không'?)*
 *Yes,* I saw **it** and **it** saw me, too. *(Có, tồi thấy nó và nó cũng thấy tôi.)*
 Did **it** frighten **you?** *(Nó có làm anh sợ không?)*
-```    
+
 Lưu ý: Hình thức tân ngữ thường được dùng khi đại từ đứng một mình hoặc sau *be.*
-```Who spilt coffee all over the table? ~ Me./ Sorry, it was me. *(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.)```
-        But Who spilt coffee all over the table? ~ I did.
+Who spilt coffee all over the table? ~ Me./ Sorry, it was me. *(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.) But Who spilt coffee all over the table? ~ I did.
         
-**Một số cách dùng của it**
-- **It** thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết hoặc không quan trọng).
-  ```
-  I’ve bought a new watch. It’s very modern. *(Tôi vừa mua đồng hồ đeo tay mới. Nó rất hiện đại.)* 
-Look at that bird. How beautiful **it** is! *(Nhìn con chim đó xem.Đẹp quá!)*
-The baby next doorkept me awake. It cried all night. *(Đứa bé ở nhà bên làm tôi không ngủ được. Nó khóc suốt đêm.)*
-```
-**It** được dùng để chỉ người khi muốn xác định người đó là ai. Sau khi đã được xác định, thì *he* hoặc *she* được sử dụng tùy theo người đó là nam hay nữ.
-```  
-Who was it on the telephone? ~ **It** was Vicky. **She** just called to say **she’s** arrived home safely. *(Ai đã gọi điện vậy? ~ Vicky. Cô ấy vừa gọi để báo cô ấy đã về đến nhà bình yên.)*
-There was a knock at the door. I thought **it** was the postman. **He** usually came at that time. *(Có tiếng gõ cửa. Tôi nghĩ đó là người dưa thư. Anh ta thường đến vào giờ đó.)*
-```        
-- Đại từ **it** *(điều đó; nó)* được dùng để chỉ một hành động, một tình huống hoặc một ý tưởng đã dược nói đến trong một cụm từ, một mệnh đề hoặc câu đi trước
-```
+Một số cách dùng của it:
+- **It** thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết hoặc không quan trọng). Ví dụ: I’ve bought a new watch. It’s very modern. *(Tôi vừa mua đồng hồ đeo tay mới. Nó rất hiện đại.), Look at that bird. How beautiful **it** is! *(Nhìn con chim đó xem.Đẹp quá!), The baby next doorkept me awake. It cried all night. *(Đứa bé ở nhà bên làm tôi không ngủ được. Nó khóc suốt đêm.)*
+
+- **It** được dùng để chỉ người khi muốn xác định người đó là ai. Sau khi đã được xác định, thì *he* hoặc *she* được sử dụng tùy theo người đó là nam hay nữ. Ví dụ: Who was it on the telephone? ~ **It** was Vicky. **She** just called to say **she’s** arrived home safely. *(Ai đã gọi điện vậy? ~ Vicky. Cô ấy vừa gọi để báo cô ấy đã về đến nhà bình yên.), There was a knock at the door. I thought **it** was the postman. **He** usually came at that time. *(Có tiếng gõ cửa. Tôi nghĩ đó là người dưa thư. Anh ta thường đến vào giờ đó.)*
+
+Đại từ **it** *(điều đó; nó)* được dùng để chỉ một hành động, một tình huống hoặc một ý tưởng đã dược nói đến trong một cụm từ, một mệnh đề hoặc câu đi trước
             When the factory closes, it will means 500 people losing their jobs. *(Khi nhà máy đóng cửa, điều đó có nghĩa là sẽ có 500 người mất việc.)* [it = the close of the factory]
             
             He smokes in bed, though I don’t like it. *(Anh ta hút thuốc trên giường, mặc dù tôi không tliich điều đó.)* [it = his smoking in bed]
@@ -105,33 +87,24 @@ There was a knock at the door. I thought **it** was the postman. **He** usually 
             **It was** Jim who lent us the money. *(Chính Jim đã cho chúng tôi mượn tiền.)*
             
             **It was** three weeks later that he heard the news. *(Đến ba tuần sau anh ta mới nghe tin.)*
-            
-        - Đại từ **it** đôi khi được sử dụng trong các đặc ngữ có tính chất thân mật.
-            
-            Hang it all, we can’t wait all day for him. *(Thật bực mình, chúng ta không thể đợi nó suốt cả ngày được).*
-            
-            When I see him, I’ll have it out with him. *(Gặp nó tôi sẽ nói cho nó vỡ lẽ ra mới được).* 
-            
-            If the teacher sees you doing that, you’ll catch **it.** *(Thầy mà thấy mày làm vậy thì mày liệu hồn).*
+
+Đại từ **it** đôi khi được sử dụng trong các đặc ngữ có tính chất thân mật.
+- Hang it all, we can’t wait all day for him. *(Thật bực mình, chúng ta không thể đợi nó suốt cả ngày được).*
+- When I see him, I’ll have it out with him. *(Gặp nó tôi sẽ nói cho nó vỡ lẽ ra mới được).*
+- If the teacher sees you doing that, you’ll catch **it.** *(Thầy mà thấy mày làm vậy thì mày liệu hồn).*
 
 ## 2. Đại từ sở hữu (Possessive pronouns)
 Đại từ sở hừu (possessive pronouns) là hình thức sở hữu của đại từ nhân xưng (personal pronouns), được dùng để chỉ vật gì thuộc về người nào đó.
-#### Hình thức (Form)
+Đại từ sở hữu bao gồm: I-my, you-your, he-his, she-her, we-our, they-their
 **It** không có dạng đại từ sở hữu. Its là dạng tính từ sở hữu của **it.**
-            
-#### Cách dùng (Use)
+
 Đại từ sở hữu được dùng không có danh từ theo sau. Nó thay thế cho *tính từ sớ hữu + danh từ* (possessive adjective + noun)
-```
-Can I borrow your keys? I can’t find **mine.** *(Tôi có thể mượn chìa khóa của bạn được không'? Tôi không tìm thấy chìa khóa của tôi.)* [mine = my keys]
-You are using my pen. Where’s **yours?** *(Bạn đang dùng viết của tôi đấy. Viết của bạn dâu?)* [yours = your pen]
-```
-Đại từ sở hữu cũng có thể được dùng trước danh từ mà nó thay thế.
-```
-**Ours** is the third house on the left. *(Nhà của chúng tôi là ngôi nhà thứ ba bên tay trái.)* [ours = our house]
-```
-Không dùng mạo từ trước đại từ sở hữu.
-            
-            Ex: That coat is mine. *(Áo khoác đó của tôi)* [NOT That coat is the mine.]
+- Can I borrow your keys? I can’t find **mine.** *(Tôi có thể mượn chìa khóa của bạn được không'? Tôi không tìm thấy chìa khóa của tôi.)* [mine = my keys]
+- You are using my pen. Where’s **yours?** *(Bạn đang dùng viết của tôi đấy. Viết của bạn dâu?)* [yours = your pen]
+
+Đại từ sở hữu cũng có thể được dùng trước danh từ mà nó thay thế. Ví dụ: **Ours** is the third house on the left. *(Nhà của chúng tôi là ngôi nhà thứ ba bên tay trái.)* [ours = our house]
+
+Không dùng mạo từ trước đại từ sở hữu. Ví dụ: That coat is mine. *(Áo khoác đó của tôi)* [NOT That coat is the mine.]
             
 >[!IMPORTANT]
 > Đôi khi ta có thể thấy đại từ sở hữu đứng sau giới từ *of.* Sự kết hợp này được gọi là sở hữu kép (double possessive).
