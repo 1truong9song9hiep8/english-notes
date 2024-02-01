@@ -14,37 +14,8 @@ Tính từ giới hạn (Limiting adjectives) là tính từ được dùng đ�
 Tính từ xác định bao gồm: my, your, his, her, its, our, their, ví dụ: Have you seen my new coat? *(Bạn có thấy cái áo khoác mới của tồi không'?), **Her** father is a teacher. *(Cha của cô ấy là giáo viển.)*, The dog has just had **its** breakfast. *(Con chó vừa ăn xong bữa sáng của nó.)*
 
 **Từ xác định hoặc tính từ chỉ định (Demonstrative determiners/ adjectives)** *this, that, these, those, other, another, the other.*Examples: I like **these earrings.** Where did you get them? *(Tôi thích đôi hoa tai này. Bạn mua ở đâu vậy1?)*, **That table** is nice, isn’t it? ~ Yes, but I don’t like **those chairs.** *(Cái bàn đó đẹp, phải không'? -Vâng, nhưng tôi không thích những cái ghế đó.)*
-                
-            
-            *+ This! these',* chỉ người hay vật ở khoảng cách gần với người nói.
-            
-            - Examples:
-                
-                This little boy says he’s tired. *(Thằng bé này nói là nó bị mệt.)*
-                
-                Come and see **these** photos. *(Hãy đến xem những tấm hình này.)*
-                
-            
-            *+ That! those',* chỉ người hay vật ở khoảng cách xa.
-            
-            - Examples:
-                
-                Tell **those** men to go away. *(Bảo những gã kia biến đi.)*
-                
-                Give me **that** hammer. *(Đưa tôi cây búa đó.)*
-                
-            
-            *This, these, that, those* thường được dùng với danh từ chỉ thời gian. *This / these* chỉ thời gian hiện tại
-            
-            hoặc khoảng thời gian sắp tới, *that/ those* chỉ thời gian quá khứ hoặc khoảng thời gian xa hơn trong
-            
-            tương lai.
-            
-            - Examples:
-                
-                I'm taking my driving test **this** weekend, so I’m pretty busy **these** days. *(Cuối tuần này tôi sẽ thi lấy bằng lái, nên những ngày này tôi khá bận rộn.)*
-                
-                Do you remember **that summer** we all went to Spain. *(Bạn có nhớ mùa hề mà tất cả chúng ta cùng đi Tây Ban Nha không?)*
+- ***This/these*** chỉ người hay vật ở khoảng cách gần với người nói hoặc chỉ thời gian hiện tại hoặc khoảng thời gian sắp tới. Examples: *This little boy says he’s tired. *(Thằng bé này nói là nó bị mệt.), Come and see **these** photos. *(Hãy đến xem những tấm hình này.)*
+- ***That/those*** chỉ người hay vật ở khoảng cách xa hay chỉ thời gian quá khứ hoặc khoảng thời gian xa hơn trong tương lai.. Examples: *Tell **those** men to go away. *(Bảo những gã kia biến đi.), Give me **that** hammer. *(Đưa tôi cây búa đó.)* I'm taking my driving test **this** weekend, so I’m pretty busy **these** days. *(Cuối tuần này tôi sẽ thi lấy bằng lái, nên những ngày này tôi khá bận rộn.)* Do you remember **that summer** we all went to Spain. *(Bạn có nhớ mùa hề mà tất cả chúng ta cùng đi Tây Ban Nha không?)*
                 
             
             *This, these, that, those + danh từ + of + đại từ sở hữu* có thể được dùng để nhấn mạnh, thay cho *tính*
