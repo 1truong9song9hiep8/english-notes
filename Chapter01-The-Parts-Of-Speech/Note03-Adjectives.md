@@ -1,54 +1,19 @@
 # Note 03: Adjectives
-## Định nghĩa (Definition)
-Tính từ (adjectives) là từ chỉ tính chất của người, vật, hoặc sự việc được biểu thị bằng một danh từ hoặc đại từ.
+Tính từ (adjectives) là từ chỉ tính chất của người, vật, hoặc sự việc.
+
+Tính từ bổ nghĩa cho danh từ, đại từ hoặc động từ liên kết.
 ## Các loại tính từ (Kinds of adjectives)
 Dựa trên các tiêu chí khác nhau tính từ có thể được phân thành:
-### Tính từ mô tả và tính từ giới hạn (Descriptive adjectives and limiting adjectives)
+### 1. Tính từ mô tả và tính từ giới hạn (Descriptive adjectives and limiting adjectives)
 #### Tính từ mô tả (Descriptive adjectives)
 Tính từ mô tả (Descriptive adjectives) là tính từ được dùng để mô tả hình dáng, kích thước, phẩm chất, đặc tính, màu sắc ... của người, vật hoặc sự việc. Ex: tall *(cao),* fat *(mập),* heavy *(nặng),* rich (giồu?, old *(già, cũ),* new *(mới),* intelligent *(thông minh),* blue *(màu xanh),* beautiful *(đẹp),* good *(tốt), ...*
-<br> 
-Tính từ mô tả chiếm phần lớn số lượng tính từ trong tiếng Anh. Ví dụ:<br>
-|---
--- That man is a rich businessman.(Người đàn ông đó là một thương gia giàu có.)<br>
--- My school is small and old.(Trường của tôi nhỏ và cũ.)
+Tính từ mô tả chiếm phần lớn số lượng tính từ trong tiếng Anh, ví dụ: *That man is a rich businessman.(Người đàn ông đó là một thương gia giàu có.), My school is small and old.(Trường của tôi nhỏ và cũ.*
 #### Tính từ giới hạn (Limiting adjectives)
 Tính từ giới hạn (Limiting adjectives) là tính từ được dùng để đặt giới hạn cho danh từ mà nó  bổ nghĩa. Tính từ giới hạn gồm:      
-**Từ xác định hoặc tính từ chỉ sự sở hữu (Possessive determiners/ adjectives)**: được dùng trước danh từ để chỉ danh từ đó thuộc về người nào hoặc vật nào.
-|-------------
-|            
-|            PERSONAL PRONOUNS (Đại từ nhân xưng) - POSSESSIVE D ADJECTIVES (Từ xácđịnh/ tính từ sờ hữu)
-            
-            I - my *(của tôi)*
-            
-            you - your *(của bạn/ anh Ị chị)*
-            
-            he - his *(của anh ấy)*
-            
-            she - her *(của chị ấy)*
-            
-            it - its *(của nó)*
-            
-            we - our *(của chúng tôi)*
-            
-            they - their *(của họ, của chúng)*
-            
-            - Examples:
-                
-                Have you seen my new coat? *(Bạn có thấy cái áo khoác mới của tồi không'?)*
-                
-                **Her** father is a teacher. *(Cha của cô ấy là giáo viển.)*
-                
-                The dog has just had **its** breakfast. *(Con chó vừa ăn xong bữa sáng của nó.)*
-                
-**Từ xác định hoặc tính từ chỉ định (Demonstrative determiners/ adjectives)** *this, that, these, those, other, another, the other.*
-            
-            **This/ that +** danh từ số it (singular noun) **These/ those +** danh từ số nhiều (plural noun)
-            
-            - Examples:
-                
-                I like **these earrings.** Where did you get them? *(Tôi thích đôi hoa tai này. Bạn mua ở đâu vậy1?)*
-                
-                **That table** is nice, isn’t it? ~ Yes, but I don’t like **those chairs.** *(Cái bàn đó đẹp, phải không'? -Vâng, nhưng tôi không thích những cái ghế đó.)*
+**Từ xác định hoặc tính từ chỉ sự sở hữu (Possessive determiners/ adjectives)**: được dùng trước danh từ để chỉ danh từ đó thuộc về người nào hoặc vật nào.<br>
+Tính từ xác định bao gồm: my, your, his, her, its, our, their, ví dụ: Have you seen my new coat? *(Bạn có thấy cái áo khoác mới của tồi không'?), **Her** father is a teacher. *(Cha của cô ấy là giáo viển.)*, The dog has just had **its** breakfast. *(Con chó vừa ăn xong bữa sáng của nó.)*
+
+**Từ xác định hoặc tính từ chỉ định (Demonstrative determiners/ adjectives)** *this, that, these, those, other, another, the other.*Examples: I like **these earrings.** Where did you get them? *(Tôi thích đôi hoa tai này. Bạn mua ở đâu vậy1?)*, **That table** is nice, isn’t it? ~ Yes, but I don’t like **those chairs.** *(Cái bàn đó đẹp, phải không'? -Vâng, nhưng tôi không thích những cái ghế đó.)*
                 
             
             *+ This! these',* chỉ người hay vật ở khoảng cách gần với người nói.
@@ -408,25 +373,14 @@ e. Từ xác định hoặc tính từ nghi vấn (Interrogative determiners/ ad
                     - Examples:
             
 
-They provided opportunities for **both rich and poor.** *(Họ tạo cơ hội cho cả người giàu lẫn người nghèo.)*
 
-Ex: There are **more unemployed** than ever before. *(Chưa bao giờ người thất nghiệp lại nhiều như hiện nay.)* 
 
-cấu trúc cặp đôi *and* và *or,* và sau sở hữu cách.
 
-Đôi khi chúng ta có thể dùng tính từ không có *the* sau các lượng từ như *many và more,* trong
 
-[NOT the poor's problems]
 
-OR poor people’s problems
 
-Ex: the problems of the poor
 
-‘s với các cụm từ này.
 
-*(Không một thanh niên nào trong làng tìm dược việc làm ở đây.)* Không dùng sở hữu cách
-
-Ex: **The young** are usually keen to travel. *(Thanh niên thường thích đi du lịch.)*
 
 None of **the young people** in the village can find jobs here.
 
@@ -444,11 +398,8 @@ The + tính từ (the + adjective) chỉ được dùng để nói đến một 
 
 He is a lover of **the beautiful.** *(Ông ta là người yêu cái đẹp.)* Are you interested in **the**
 
-the supernatural *(hiện tượng siêu nhiên)*
 
-the evil *(cái ác)*
 
-Ex: the good *(cái thiện)* the beautiful *(cái đẹp)*
 
 - *The + adjective* đôi khi còn được dùng để đề cập đến những khái niệm trừu tượng.
 
@@ -462,164 +413,10 @@ Các cụm từ này có nghĩa số nhiều (the unemployed = all unemployed pe
 
 The gap between **the rich** and **the poor** is on the increase. *(Khoảng cách giữa người giàu*
 
-the under-fives *(những đứa trẻ dưới 5 tuổi),* the unemployed *(những người thất nghiệp)...*
-
-deaf *(những người điếc),* the disabled *(những người tàn tật),* the sick *(những người bệnh),*
-
-Ex: the blind *(những người mù),* the poor *(những người nghèo),* the old *(những người già),* the
-
 người có tình trạng thể lực hoặc hoàn cảnh xã hội đặc biệt.
 
 Một số tính từ có thể được dùng với *the* để nói về một nhóm người trong xã hội, nhất là những nhóm
 
-## Tính từ được dùng như danh từ (Adjectives used as nouns)
-Một số tính từ có thể được dùng với the để nói về một nhóm người trong xã hội, nhất là những nhóm người có tình trạng thể lực hoặc hoàn cảnh xã hội đặc biệt.
-Ex: the blind (những người mù), the poor (những người nghèo), the old (những người già), the 
-deaf (những người điếc), the disabled (những người tàn tật), the sick (những người bệnh),
-the under-fives (những đứa trẻ dưới 5 tuổi), the unemployed (những người thất nghiệp)... 
-The gap between the rich and the poor is on the increase. (Khoảng cách giữa người giàu 
-và người nghèo ngày càng tăng.) The young are usually keen to travel.
-(Thanh niên thường thích đi du lịch.)
-
-Ex: a black **and** white dress *(một cái áo đầm màu đen và trắng)* a red, white **and** green flag *(một*
-
-Khi có hai hoặc hơn hai tính từ chỉ màu sắc, ta dùng liên từ ***and.***
-
-Basil was a **tall well-built** man. *(Basil là một người cao to lực lưỡng.)*
-
-Ex: It was a **cold windy** day. *(Đó là một ngày gió lạnh.)*
-
-- Nếu các tính từ cùng loại, thì tính từ ngắn thường được đặt trước tính từ dài.
-
-Ex: the **first two** days *(Hai ngày dầu tiên)* [NOT th**e** two f**i**rst days]
-
-(cardinal adjectives - *one, two, three,...)*
-
-Tính từ chỉ thứ tự (ordinal adjectives - *first, second, third,...)* đứng trước tính từ chỉ số lượng
-
-a **long narrow** street *(một con dường dài và hẹp)*
-
-Ex; a **tall thin** girl *(một cô gái cao gầy)*
-
-từ chỉ hình dáng và chiểu rộng *(round/ oval/ fat/ thin/ wide/ narrow/...*
-
-Tính từ chỉ kích thước và chiểu dài *(big/ small/ tall/ long/ short/...)* thường đứng trước tính
-
-**Mưu ý:**
-
-[colour, origin, material, purpose]
-
-*(Đôi ủng cưỡi ngựa bằng da, màu đỏ được sản xuất tại Tây Ban Nha này là của Tom.)*
-
-**leather riding** boots belong to Tom.
-
-*(Đưa giúp tôi cái xô nhựa cũ màu xanh kia.)* [age, colour, material] These **red Spanish**
-
-**plastic** bucket.
-
-*(Ann có gương mặt tròn, nhỏ hồng hào.)* [size, shape, colour] Please give me that **old green**
-
-Ann has a **small round pink** face.
-
-quality, material]
-
-That poor man used to live in a **big, modern brick** house.*(Người đàn ông nghèo khổ đó đã từng sống trong một ngôi nhà gạch lớn và hiện đại)* [size,
-
-[opinion, material, purpose]
-
-*(Cô ấy đã mua hai khung hình bằng gỗ rất đẹp.)*
-
-She bought two **beautiful wooden picture** frames.
-
-Ex: Who’s that **fat old** lady over there? *(Bà lão mập mạp kia là ai vậy1?)* [NOT that old ÍQt lady]
-
-a *bread* knife, *walking* stick, *riding* boots, *bath* tower,...
-
-*leather, ...* an *electric* kettle, *political* matters,...
-
-*Japanese, American, Chinese, ... stone, plastic, steel, paper,*
-
-*red, blue, brown, green, black, ...*
-
-*round, oval, triangular,...*
-
-*new, old, young, elderly, ...*
-
-*difficult, warm, wise, modern...*
-
-*quiet, boring, shiny, important, famous, angry, wet, sunny, fast,*
-
-*small, long, large, short, tall, fat...*
-
-*lovely, nice, wonderful, great, awful, terrible, beautiful,... big,*
-
-*a, the, this, my, those, some, several, ... one, four, ten, ...*
-
-12. Purpose (what for?)
-
-11. Type (what kind?)
-
-10. Material (made of?)
-
-9. Origin (where from?)
-
-8. Colour
-
-7. Shape
-
-6. Age (how old?)
-
-5. Quality
-
-4. Size (how big?)
-
-3. Opinion (how good?)
-
-2. Cardinal adjectives
-
-1. Determiners
-
-EXAMPLE
-
-GROUP
-
-được sắp xếp theo thứ tự sau (từ trên xuống)
-
-Khi có hai hoặc nhiều tính từ đứng trước danh từ thì trật tự thường (nhưng không phải luôn luôn)
-
-- **Trật tự của các tính từ**
-
-từ miêu tả.
-
-cho biết cảm nghĩ khách quan của người nói. -> Tính từ chỉ quan điểm thường được dùng trước tính
-
-thước, hình dáng, tuổi tác, chất liệu, v.v. Các tính từ ‘nice, beautiful’ là tính từ chỉ quan điểm. Chúng
-
-Các tính từ ‘new, round, wooden, large’ là tính từ miêu tả. Chúng cho ta những thông tin về kích
-
-round wooden table in the kitchen. *(Trong nhà bếp có một cái bàn gỗ tròn, to và dẹp.)*
-
-*(Cô ấy sống trong ngôi nhà mới xinh đẹp trên ngọn đồi này.)* There is a beautiful large
-
-Ex: She lives in a nice new house on the hill.
-
-thể dùng hai hoặc nhiều tính từ trước một danh từ để bổ nghĩa cho danh từ đó.
-
-**VI. Trật tự của tính từ đứng trước danh từ (Order of adjectives before nouns}** Chúng ta có
-
-*(Chúng ta nên giữ phòng sạch sẽ và ngăn nắp.)*
-
-*(Chúng ta hãy sơn nhà bếp màu vàng đi.)* We should keep our room **clean** and **tidy.**
-
-Let’s paint the kitchen **yellow.**
-
-(Học *sinh làm thầy giáo nổi giận.)*
-
-Ex: The students made their teacher **angry.**
-
-Một vị trí khác nừa của tính từ là đứng sau tân ngữ trong cấu trúc *động từ + tân ngữ + tinh từ.*
-
-**3. Động từ + tân ngữ + tính từ (Verb + object + adjective)**
 
 *(Tôi muốn nói chuyện với người có trách nhiệm.)*
 
@@ -689,11 +486,7 @@ problem is I’ve got no money. *(Vấn đề duy nhất là tôi không có ti�
 
 Ex: Be careful crossing the **main** road. *(Hãy cẩn thận khi băng qua con đường chính.)* The **only**
 
-only *(duy nhất),* former *(trước, cũ),* upper *(bên trên),* outer *(bên ngoài).*
 
-indoor *(trong nhà),* outdoor *(ngoài trời),* elder *(hơn tuổi, lớn hơn),* eldest *(lớn tuổi nhất),*
-
-Một số tính từ chỉ có thể đứng trước danh từ như: main *(chính),* chief *(chính, chủ yếu),*
 
 - 
 
@@ -711,28 +504,11 @@ Ex: He's a **rich** businessman, *(ông ấy là một thương gia giàu có.)*
 
 ■ár **Lưu ý:** Phẩn lớn tính từ đều có thể đứng ở cả hai vị trí - trước danh từ và sau hệ từ (linking verbs
 
-She appeared very **confident.** *(Cô ấy có vẻ rất tự tin.)*
 
-*trở lạnh.)*
 
-This dress is **new,** isn’t it? *(Chiếc áo đầm này mới, phải không'?)* It’s getting **cold.** *(Trời đang*
 
-Ex: The children seemed **happy.** *(Trông bọn trẻ có vẻ rất vui.)*
 
-*vẻ),* taste *(có vị),* smell *(có mùi),* appear *(hình như, có vẻ).*
-
-*dường như),* look *(trông có vẻ),* become *(trở nến),* get *(trở nên),* feel *(cảm thấy),* sound *(nghe có*
-
-**1.2. VỊ trí vị ngữ** (predicative position): đứng sau các hệ từ (linking verbs) be *(thỉ),* seem *(có vẻ,*
-
-student. *(Anh ta là một học sinh thông mình.)*
-
-**1.1. VỊ trí thuộc ngữ** (attributive position): đứng trước danh từ.**Ex:** The **new** secretary doesn’t like me. *(Người thư ký mới không thích tôi.)* He is an **intelligent**
-
-**1. VỊ trí thuộc ngữ và vị trí vị ngừ (Attributive and predicative position)**
-
-**V. Vị trí của tính từ (Position of adjectives}**
-
+Một số tính từ cũng có thể đứng sau danh từ
 - > She has a **five-year-old** son. *(Cô ấy có một đứa con trai 5 tuổi.)*
 
 *(Học sinh đó đã viết hai bài tường trình mỗi bài dài 10 trang.)* Her son is **five years old.**
@@ -965,3 +741,66 @@ Ex: **Whose cars** are those outside? *(Những chiếc xe bện ngoài kia là 
 - **Whose +** danh từ đếm được hoặc không đếm được (countable/ uncountable noun)
 
 e. Từ xác định hoặc tính từ nghi vấn (Interrogative determiners/ adjectives) *whose, what, which.*
+
+
+
+
+## Vị Trí Của Tính Từ Trong Câu
+1. Đứng trước danh từ (hay còn gọi là vị trí thuộc ngữ), dùng để bổ nghĩa cho danh từ, ví dụ: *The new secretary doesn't like me, He is an itelligient student.*
+2. Đứng sau động từ liên kết (linking verb): be *(thỉ),* seem *(có vẻ,* * taste *(có vị),* smell *(có mùi),* appear *(hình như, có vẻ).*dường như),* look *(trông có vẻ),* become *(trở nến),* get *(trở nên),* feel *(cảm thấy),* sound *(nghe có vẻ)*, ví dụ: Ex: The children seemed **happy.** *(Trông bọn trẻ có vẻ rất vui.)* This dress is **new,** isn’t it? *(Chiếc áo đầm này mới, phải không'?)* It’s getting **cold.** *(Trời đang*
+
+   Lưu ý: phần lớn các tính từ có thể ở cả 2 vị trí trước danh từ và sau động từ liên kết, tuy nhiên một số động từ lại chỉ có một vị trí cố định:
+
+Một số tính từ chỉ có thể đứng trước danh từ như: main *(chính),* chief *(chính, chủ yếu),* indoor *(trong nhà),* outdoor *(ngoài trời),* elder *(hơn tuổi, lớn hơn),* eldest *(lớn tuổi nhất),* only *(duy nhất),* former *(trước, cũ),* upper *(bên trên),* outer *(bên ngoài).*
+
+3. Đứng sau danh từ và bổ nghĩa cho danh từ đó:
+
+4. Đứng sau tân ngữ trong cấu trúc **động từ + tân ngữ + tính từ**, ví dụ: The students made their teacher **angry.** (Học *sinh làm thầy giáo nổi giận.)*, Let’s paint the kitchen **yellow.** *(Chúng ta hãy sơn nhà bếp màu vàng đi.)* We should keep our room **clean** and **tidy.** *(Chúng ta nên giữ phòng sạch sẽ và ngăn nắp.)*
+
+
+## Trật Tự Của Tính Từ
+Khi có hai hoặc nhiều tính từ đúng trước danh từ thì trật tự của các tính từ được xếp như sau:
+1. **Determiners**: *a, the, this, my, those, some, several, ...*
+2. **Cardinal adjectives**: *one, four, ten, ...*
+3. **Opinion(how good)**: *lovely, nice, wonderful, great, awful, terrible, beautiful,... big,*
+4. **Size (how big?)**: *small, long, large, short, tall, fat...*
+5. **Quality**: *quiet, boring, shiny, important, famous, angry, wet, sunny, fast,*difficult, warm, wise, modern...*
+6. **Age (how old?)**: *new, old, young, elderly, ...*
+7. **Shape**: *round, oval, triangular,...*
+8. **Colour**: *red, blue, brown, green, black, ...*
+9. **Origin (where from?)**: *Japanese, American, Chinese, ...
+10. **Material (made of?)**: *stone, plastic, steel, paper,*
+11. **Type (what kind?)**: *leather, ...* an *electric* kettle, *political* matters,...
+12. **Purpose (what for?)**: a *bread* knife, *walking* stick, *riding* boots, *bath* tower,...
+
+**Mẹo nhớ:** Ông(OP) - Say(S) -  Ăn(A) - Súp(S) - Của(C) - Ông(O) - Mập(M) - Phì(P)
+
+Ví dụ:
+- Who’s that **fat old** lady over there? *(Bà lão mập mạp kia là ai vậy1?)* [NOT that old fat lady]
+- She bought two **beautiful wooden picture** frames. *(Cô ấy đã mua hai khung hình bằng gỗ rất đẹp.)*
+- That poor man used to live in a **big, modern brick** house.*(Người đàn ông nghèo khổ đó đã từng sống trong một ngôi nhà gạch lớn và hiện đại)* [size, [opinion, material, purpose]
+- Ann has a **small round pink** face. *(Ann có gương mặt tròn, nhỏ hồng hào.)* [size, shape, colour] 
+- Please give me that **old green**(Đưa giúp tôi cái xô nhựa cũ màu xanh kia.)* [age, colour, material]
+- These **red Spanish plastic** bucket. [color, quality, material]
+- **leather riding** boots belong to Tom. *(Đôi ủng cưỡi ngựa bằng da, màu đỏ được sản xuất tại Tây Ban Nha này là của Tom.)* [colour, origin, material, purpose]
+
+**Lưu ý**
+- Tính từ chỉ kích thước và chiểu dài *(big/ small/ tall/ long/ short/...)* thường đứng trước tính từ chỉ hình dáng và chiểu rộng *(round/ oval/ fat/ thin/ wide/ narrow/...* Ex; a **tall thin** girl *(một cô gái cao gầy)* a **long narrow** street *(một con dường dài và hẹp)*
+- Tính từ chỉ thứ tự (ordinal adjectives - *first, second, third,...)* đứng trước tính từ chỉ số lượng (cardinal adjectives - *one, two, three,...)* Ex: the **first two** days *(Hai ngày dầu tiên)* [NOT th**e** two f**i**rst days]
+- Nếu các tính từ cùng loại, thì tính từ ngắn thường được đặt trước tính từ dài. Ex: It was a **cold windy** day. *(Đó là một ngày gió lạnh.)* Basil was a **tall well-built** man. *(Basil là một người cao to lực lưỡng.)*
+- Khi có hai hoặc hơn hai tính từ chỉ màu sắc, ta dùng liên từ ***and.***. Ex: a black **and** white dress *(một cái áo đầm màu đen và trắng)* a red, white **and** green flag *(một lá cờ đỏ, trắng và xanh)*
+
+## Tính Từ Đóng Vai Trò Như Danh Từ
+Đôi khi các tính từ được dùng với the để nói về một nhóm kiểu người ví dụ: the blind *(những người mù),* the poor *(những người nghèo),* the old *(những người già),* the deaf *(những người điếc),* the disabled *(những người tàn tật),* the sick *(những người bệnh), the under-fives *(những đứa trẻ dưới 5 tuổi),* the unemployed *(những người thất nghiệp)...* Những từ này có nghĩa số nhiều nên sẽ đi với động từ dạng số nhiều.
+
+The + adjective cũng được dùng để đề cập đến những khái niệm: the good *(cái thiện)* the beautiful *(cái đẹp), the evil *(cái ác), the supernatural *(hiện tượng siêu nhiên)...*
+
+The + tính từ chỉ được dùng đến một nhóm người với nghĩa tổng quát, còn khi ta muốn nói đến cụ thể phải dùng thêm danh từ như: person, people, man, woman... ví dụ: The gap between the rich and the poor is on the increase. (Khoảng cách giữa người giàu và người nghèo ngày càng tăng.) The young are usually keen to travel. (Thanh niên thường thích đi du lịch.)
+
+Ex: **The young** are usually keen to travel. *(Thanh niên thường thích đi du lịch.)* *(Không một thanh niên nào trong làng tìm dược việc làm ở đây.)* 
+Không dùng sở hữu cách ‘s với các cụm từ này. Ex: the problems of the poor OR poor people’s problems [NOT the poor's problems]
+
+Đôi khi chúng ta có thể dùng tính từ không có *the* sau các lượng từ như *many và more,* trong cấu trúc cặp đôi *and* và *or,* và sau sở hữu cách. Ex: There are **more unemployed** than ever before. *(Chưa bao giờ người thất nghiệp lại nhiều như hiện nay.)* They provided opportunities for **both rich and poor.** *(Họ tạo cơ hội cho cả người giàu lẫn người nghèo.)*
+
+
+
