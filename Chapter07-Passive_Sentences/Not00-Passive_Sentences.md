@@ -1,14 +1,12 @@
 # CÂU BỊ DỘNG (PASSIVE SENTENCES)
 
-## Câu chủ động và câu bị động (Active and passive sentences}
-1. **Câu chủ động (Active sentences):** Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động.
-
-   Ex:
+## 1. Câu chủ động và câu bị động (Active and passive sentences}
+1. **Câu chủ động (Active sentences):** Câu chủ động là câu trong đó chủ ngữ là người hay vật thực hiện hành động. Ex:
    * *They built this house in 1486. (Họ xây ngồi nhà này năm 1486.)*
    * *This book will change your life. (Cuốn sách này sẽ làm thay đổi cuộc đời bạn.)*
 3. **Câu bị động (Passive sentences):** Câu bị động là câu trong đó chủ ngữ là người hay vật nhận hoặc chịu tác động của hành động. Ex:
-   * `This house was built in 1486. (Ngôi nhà này được xây năm 1486.)`
-   * `Your life will be changed by this book. (Cuộc dời bạn sẽ được cuốn sách này làm cho thay đổi.)`
+   * This house was built in 1486. (Ngôi nhà này được xây năm 1486.)
+   * Your life will be changed by this book. (Cuộc dời bạn sẽ được cuốn sách này làm cho thay đổi.)
  
     a. Hình thức (Form)
    ```
@@ -317,11 +315,11 @@ They were having dinner. (Họ đang ăn tối.)
 This barrel holds 25 litres. (Thùng này chứa được 25 lít.) [NOT 25 littres are hold by this 
 barrel.]
 
-## Thể sai khiến (The causative form)
+## 3. Thể sai khiến (The causative form)
 
 Thể sai khiến (causative form) được dùng để nói rằng chúng ta sắp xếp cho một người khác làm điều gì đó cho chúng ta, nghĩa là chủ ngữ không phải là người thực hiện hành động; chủ ngữ yêu cầu, sai bảo, cầu xin hoặc trả tiền cho người khác làm việc đó. Ex:
-* He repaired the roof. (Anh ấy sửa mái nhà.) -> anh ấy tự làm
-* He had the roof repaired. (Anh ấy nhờ người ta sửa mái nhà.) -> người khác làm
+* He repaired the roof. (Anh ấy sửa mái nhà.) -> anh ấy tự làm.
+* He had the roof repaired. (Anh ấy nhờ người ta sửa mái nhà.) -> người khác làm.
 
 Thể sai khiến có thể được diễn đạt bằng hai cách: chủ động và bị động.
 
@@ -519,13 +517,8 @@ Sunday the road ______________ (close) and traffic _____________ (divert).
 (steal) earlier in the day. The car (later/ find) in a car park where 
 it (abandon) by the thief. A man (arrest) in connection with the
 robbery and __________ (still/ question) by the police.
-VII. Choose the correct verb forms in this news report about a storm.
-Millions of pounds’ worth of damage (1) ________by a storm which (2)_______ across the
-north of England last night. The River Ribble (3) _________ its banks after heavy rain. Many
-people (4) ____from the floods by fire-fighters, who (5) _________ hundreds of calls for help.
-Wind speeds (6) ____ ninety miles an hour in some places. Roads (7) ________ by fallen trees,
-and electricity lines (8)_________ down, leaving thousands of homes without electricity.
-‘Everything possible (9)________ to get things back to normal,’ a spokesman (10)__________ .
+
+VII. Choose the correct verb forms in this news report about a storm. Millions of pounds’ worth of damage (1) ________by a storm which (2)_______ across the north of England last night. The River Ribble (3) _________ its banks after heavy rain. Many people (4) ____from the floods by fire-fighters, who (5) _________ hundreds of calls for help. Wind speeds (6) ____ ninety miles an hour in some places. Roads (7) ________ by fallen trees, and electricity lines (8)_________ down, leaving thousands of homes without electricity. ‘Everything possible (9)________ to get things back to normal,’ a spokesman (10)__________ .
 1. a. has caused b. has been caused c. caused
 2. a. swept b. was swept c. was being swept
 3. a. was burst b. has been burst c. burst
@@ -536,6 +529,7 @@ and electricity lines (8)_________ down, leaving thousands of homes without elec
 8. a. were brought b. brought c. had brought
 9. a. was done b. is being done c. is doing
 10. a. said b. was said c. say
+
 VIII. Reply to what people say. Use the subject in brackets.
 1. A: The bus fares have been increased, (they)
 B: What? You mean_____________________________________________________ again!
@@ -657,12 +651,3 @@ a. supposes to be b. is supposed being c. is supposed to be
 a. checking b. check c. be checked
 1.  Claude Jennings is said ____________ his memory.
 a to have been lost b. to be lost c. to have lost
-Chương 8
-sự DIỄN TẢ VỀ SỐ LỨựNG (EXPRESSION OF QUANTITY)
-I. Some, Any
-Cả some và any đều được dùng để chỉ một số lượng không xác định khi không thể hay không cần 
-phải nêu rõ số lượng chính xác.
-d. considered
-d. was supposed be
-d. checked
-d. to lose
