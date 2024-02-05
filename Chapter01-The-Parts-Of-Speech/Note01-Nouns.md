@@ -257,7 +257,7 @@ Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *
 b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
 Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
-### Chức năng của danh từ (Functions of Nouns)
+## Chức Năng Của Danh Từ
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
 
 1. Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
@@ -283,7 +283,7 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
     
 8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
-### Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)**
+## Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
 1. Động từ số ít (Singular verbs)
