@@ -3,19 +3,20 @@
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
 ## 2. Các loại danh từ (Kinds of nouns)
+
 Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành nhiều loại:
 
 ### 1. Danh từ cụ thể và danh từ trừu tượng (Concrete nouns and abstract nouns)
 **Danh từ cụ thể (Concrete nouns):** Là danh từ chỉ những gì hữu hình; những gì mà chúng ta có thể cảm thấy trực tiếp qua giác quan (nhìn, nghe, sờ, ngửi,...) như: *house, man, cloud, cat, pen, mountain, v.v…* Danh từ cụ thể được phân thành hai tiểu loại:
 - Danh từ chung (common nouns) là danh từ dùng để gọi tên những sự vật thuộc cùng một loại.<br>
-            Ex: table *(cái bàn),* man *(con người),* dog *(con chó),* pen *(cây viết), ...*
+            Ví dụ: table *(cái bàn),* man *(con người),* dog *(con chó),* pen *(cây viết), ...*
   
   Trong danh từ chung có danh từ tập hợp (collective nouns) dùng để chỉ một nhóm người, vật hoặc sự vật.<br>
-              Ex: family *(gia đình),* crowd *(dám đông),* team *(đội),* police *(cảnh sát),* government *(chính phủ),* cattle *(bò),...*
+              Ví dụ: family *(gia đình),* crowd *(dám đông),* team *(đội),* police *(cảnh sát),* government *(chính phủ),* cattle *(bò),...*
 - Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.<br>
-            Ex: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
+            Ví dụ: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
             
-**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* existence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* Ví dụistence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
 
 ### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
 **Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được, ví dụ: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
@@ -29,21 +30,21 @@ Phần lớn các danh từ không đếm được đều ở dạng số ít, k
         
 **Lưu ý:**<br>
 Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.<br>
-Ex:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
+Ví dụ:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
 
 Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.<br>
-Ex:
+Ví dụ:
 * **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
 * *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
   
 Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa.<br>
-Ex:
+Ví dụ:
 - *The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
 - *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
 - *I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
 - *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
   
-Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ex:
+Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ví dụ:
 - Have you got any **coffee?** (Bạn còn cà phê không?)*
 - ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
 - *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
@@ -52,11 +53,11 @@ Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không
 ### 3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)
 Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
 
-**Danh từ đơn (Simple nouns)** là danh từ chỉ có một từ. Ex: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
+**Danh từ đơn (Simple nouns)** là danh từ chỉ có một từ. Ví dụ: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
 
 **Danh từ ghép (Compound nouns)** là danh từ gồm hai hoặc nhiều từ kết hợp với nhau.
 Danh từ ghép có thể được viết thành hai từ riêng biệt, có gạch ngang giữa hai từ hoặc kết hợp thành một từ. <br>
-Ex: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
+Ví dụ: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
 
 **Cách thành lập danh từ ghép**
 * Danh từ + danh từ (noun + noun)
@@ -98,44 +99,44 @@ Ex: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop
 * Lưu ý: Danh từ ghép có thể được thành lập bởi nhiểu hơn hai từ: *mother-in-law* (mẹ vợ/ chổng), *glass dining-table* (bàn ăn bằng kính), *merry-go-round* (trò chơi ngựa quay),...
 
 ### 4. Danh từ số ít và danh từ số nhiều (Singular nouns and plural nouns)
-Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ex:
+Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ví dụ:
 * The **girl** is singing. *(Cô gái dang hát) → The singular*
 * The **girls** are singing. *(Các cô gái đang hát) → plural*
 
 #### Cách thành lập danh từ số nhiều (Formation of the plural nouns)
 
-a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít. Ex:
+a. Hầu hết các danh từ số nhiều được thành lập bằng cách thêm -s vào danh từ số ít. Ví dụ:
 * boy *(con trai) →* boys *(những đứa con trai)*
 * house (ngôi nhà) → houses (những ngôi nhà)
 * dog (con chó) → dogs (những con chó)
             
-Các chữ cái, chữ số, dấu hiệu và những từ loại khác không phải là danh từ mà được dùng như danh từ thì thường thêm *’s.* Ex:
+Các chữ cái, chữ số, dấu hiệu và những từ loại khác không phải là danh từ mà được dùng như danh từ thì thường thêm *’s.* Ví dụ:
 * There are two ***9’s*** in 99. *(Trong số 99 có hai số 9.)*
 * Dot your ***i’s.** (Nhớ chấm dấu các chữ ỉ.)*
 * She spelt ‘necessary’ with two ***c’s. '** (Cô ta đánh vần từ ‘necessary’ có hai chữ c.)*
             
-b. Các danh từ tận cùng bằng *s, sh, ch, x, z* được tạo thành số nhiều bằng cách thêm *-es.* Ex:
+b. Các danh từ tận cùng bằng *s, sh, ch, x, z* được tạo thành số nhiều bằng cách thêm *-es.* Ví dụ:
 * dish (cái đĩa) → dishes (những cái đĩa)
 * church (nhà thờ) → churches (những ngôi nhà thờ)
 * box (cái hộp) → boxs (những cái hộp)
 * bus (xe buýt) → buses (những chiếc xe buýt)
 * quiz (cuộc thi) → quizzes (các câu đố)
             
-Các danh từ tận cùng bằng *phụ âm + y* (consonant + y) được tạo thành số nhiều bằng cách đổi *y* thành *i* và thêm *es.* Ex:
+Các danh từ tận cùng bằng *phụ âm + y* (consonant + y) được tạo thành số nhiều bằng cách đổi *y* thành *i* và thêm *es.* Ví dụ:
 * baby (em bé) → babies (những em bé)
 * party (bữa tiệc) → parties (những bữa tiệc)
 * fly (con ruồi) → flies (những con ruồi)
             
-Các danh từ tận cùng bằng một *nguyên âm + y* (vowel + y) thì chỉ thêm -s. Ex:
+Các danh từ tận cùng bằng một *nguyên âm + y* (vowel + y) thì chỉ thêm -s. Ví dụ:
 * day (ngày) → days (các ngày)
 * key (chìa khóa) → keys (những chiếc chìa khóa)
 * boy (con trai) → boys (những người con trai)
             
-Các danh từ riêng (proper nouns) tận cùng bằng -y, chỉ cần thêm *-s.* Ex:
+Các danh từ riêng (proper nouns) tận cùng bằng -y, chỉ cần thêm *-s.* Ví dụ:
 * Do you know the **Kennedys.** *(Bạn có biết gia đình Kennedy không?)*
 * I hate **Februarys.** *(Tôi ghét tháng Hai.)*
 ---
-d.  Một số danh từ tận cùng bằng *f* hoặc *fe*: *calf, half, knife, leaf, life, loaf, self, sheaf, chef, thief, wife, wolf* được tạo thành số nhiều bằng cách đổi *f hoặc fe thành -ves.*, Ex:
+d.  Một số danh từ tận cùng bằng *f* hoặc *fe*: *calf, half, knife, leaf, life, loaf, self, sheaf, chef, thief, wife, wolf* được tạo thành số nhiều bằng cách đổi *f hoặc fe thành -ves.*, Ví dụ:
 * knife (con dao) → knives (những con dao)
 * calf (con bê) → calves (những con bê)
 * thief (tên trộm) → thieves (những tên cướp)
@@ -220,42 +221,42 @@ i. Một số danh từ có hai hình thức số nhiều với hai nghĩa khác
 * staff *(nhân viền)*
 ---             
 j. Số nhiều của các danh từ ghép
-* Trong hình thức danh từ ghép danh từ + danh từ (noun + noun), thì danh từ thứ nhất thường ở dạng số ít và danh từ thứ hai được đổi ra số nhiều. Ex:
+* Trong hình thức danh từ ghép danh từ + danh từ (noun + noun), thì danh từ thứ nhất thường ở dạng số ít và danh từ thứ hai được đổi ra số nhiều. Ví dụ:
   * toothbrush *(bàn chải đánh răng)*
   * boy-friend *(bạn trai)*
   * ticket collector *(người soát vé)*
                 
-* Trong hình thức danh từ ghép danh từ + trạng từ (noun + adv), danh từ + giới từ + danh từ (noun + prep + noun), danh từ + tính từ (noun + adj), thì hình thức số nhiều được thành lập với danh từ đầu tiên. Ex:
+* Trong hình thức danh từ ghép danh từ + trạng từ (noun + adv), danh từ + giới từ + danh từ (noun + prep + noun), danh từ + tính từ (noun + adj), thì hình thức số nhiều được thành lập với danh từ đầu tiên. Ví dụ:
   * passer-by *(người đi đường)*
   * looker-on *(người xem)*
   * mother-in-law *(mẹ vợ! chồng)*
                 
-* Trong các hình thức danh từ ghép còn lại: tính từ + danh từ (adj + noun), danh động từ + danh từ (gerund + noun), động từ + danh từ (verb + noun), v.v. thì hình thức số nhiều biến đổi ở thành phần sau cùng. Ex:
+* Trong các hình thức danh từ ghép còn lại: tính từ + danh từ (adj + noun), danh động từ + danh từ (gerund + noun), động từ + danh từ (verb + noun), v.v. thì hình thức số nhiều biến đổi ở thành phần sau cùng. Ví dụ:
   * blackboard *(bảng đen)* -> blackboards
   * washing -> washing
   * machine *(máy giặt)* -> machines
   * pickpocket *(tên móc túi)* -> pickpockets
   * breakdown *(sự suy sụp)* -> breakdowns
 
-* Một số danh từ biến đổi cả hai thành phần. Ex:
+* Một số danh từ biến đổi cả hai thành phần. Ví dụ:
   * man driver *(tài xế nam)* -> men drivers
   * woman doctor *(bà bác sĩ)* -> women doctors
                 
 #### Cách phát âm đuôi -s hoặc -es** (The pronunciation of -s or *-es)
 Có* 3 cách phát âm đuôi -s/ *-* *es* của danh từ số nhiều: /s/, *ITJ* và /iz/              
 * **/iz/** khi ***es*** đứng sau danh từ tận cùng bằng các âm xuýt: /s/, /z/, /J7, /3/, /tf/, /dy.<br>
-Ex: watches, boxes, bridges, buses, crashes, buzzes...
+Ví dụ: watches, boxes, bridges, buses, crashes, buzzes...
 * /s/ khi s đứng sau các danh từ tận cùng bằng các âm vô thanh: /p/, /f/, /t/, /k/, /0/.<br>
-Ex: cups, cats, books, beliefs, cloths, ...
+Ví dụ: cups, cats, books, beliefs, cloths, ...
 * *Ill* khi s đứng sau danh từ tận cùng bằng nguyên âm *(a, e, ì, o, u)* và các phụ âm hữu thanh còn lại: /b/, /v/, /d/, /d/, /g/, /1/, /m/, /n/, /ỊJ/, /r/, /00/, /ei/, /eo/, ...<br>
-Ex: toys, answers, lessons, legs, trees, knives, ends, dreams, hills, songs...
+Ví dụ: toys, answers, lessons, legs, trees, knives, ends, dreams, hills, songs...
                 
 #### Mâu thuẫn giữa hình thức số và nghĩa của danh từ
 a. Một sô danh từ có hình thức *số* ít nhưng có nghĩa sô nhiều (có thể dùng với động từ số nhiều)<br>
-Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),* government *(chính phủ),* clergy *(tu sĩ),...*
+Ví dụ: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),* government *(chính phủ),* clergy *(tu sĩ),...*
                 
 b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
-Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
+Ví dụ: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
 ## 3. Chức Năng Của Danh Từ
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
@@ -263,7 +264,7 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
 1. Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
    * Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
 
-3. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence), Ex:
+3. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence), Ví dụ:
    * I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
    * The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object), a lot of questions -> tân ngữ trực tiếp (direct object)]
 
@@ -273,40 +274,37 @@ Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ
 4. Tân ngữ của giới từ (Object of a preposition), He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
    * Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
     
-5. Bổ ngữ của chủ ngữ (Subjective complement), Ex: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
+5. Bổ ngữ của chủ ngữ (Subjective complement), Ví dụ: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
    * Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
     
-6. Bổ ngữ của tân ngừ (Objective complement), Ex: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
+6. Bổ ngữ của tân ngừ (Objective complement), Ví dụ: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
    * Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
     
-7. Một phần của ngữ giới từ (Part of prepositional phrases), Ex: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
+7. Một phần của ngữ giới từ (Part of prepositional phrases), Ví dụ: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
     
-8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
+8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ví dụ: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
 ## 4. Sự Tương Hợp Giữa Chủ Ngữ Và Động từ (Subject and Verb Agreement)
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
-#### Động từ số ít (Singular verbs)
+### Động từ số ít (Singular verbs)
 Động từ số ít thường được dùng khi chủ ngữ là:
-1. Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun). Ex:
-     * This **book is** very interesting. *(Cuốn sách này rất hay.)*
-     * **Traffic is** always busy at this time of day. *(Vào thời điểm này trong ngày xe cộ luôn đông đúc.)*
+1. Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun). Ví dụ:
+   * This **book is** very interesting. *(Cuốn sách này rất hay.)*
+   * **Traffic is** always busy at this time of day. *(Vào thời điểm này trong ngày xe cộ luôn đông đúc.)*
 
-2. Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng. Ex:
-     * **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
-     * **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
-        
-    * *Each, Every, Either, Neither* + danh từ số ít (singular noun)
-        
-        - **Every seat has** a number. *(Mỗi ghế đều có số.)*
-        
-        - Come on Tuesday or Thursday. **Either day is OK.** *(Hãy đến vào thứ Ba hoặc thứ Năm. Ngày nào cũng được.)*
-        
-        - **Each door is** different colour. *(Mỗi cánh cửa có màu sắc khác nhau.)*
+2. Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng. Ví dụ:
+   * **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
+   * **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
+
+3. *Each, Every, Either, Neither* + danh từ số ít (singular noun)
+   - **Every seat has** a number. *(Mỗi ghế đều có số.)*
+   - Come on Tuesday or Thursday. **Either day is OK.** *(Hãy đến vào thứ Ba hoặc thứ Năm. Ngày nào cũng được.)*
+   - **Each door is** different colour. *(Mỗi cánh cửa có màu sắc khác nhau.)*
         
         *****Each! Every I Either/ Neither/ Any / None **+ of +*** danh từ/ đại từ số nhiều (plural noun/ pronoun).
         
-        Examples: 
+        Ví dụ: 
         
         - **Each of the houses is** slightly different. *(Mỗi ngôi nhà hơi khác nhau.)*
         
@@ -320,25 +318,25 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         Lưu ý: *Neither of, none of, any of + danh từ/ đại từ số nhiều* cũng có thể dùng với động từ số nhiều.
         
-        - Ex: None of my friends lives/ live near me.
+        - Ví dụ: None of my friends lives/ live near me.
         
         *****Each/ Every* + danh từ số ít + ***and +** each/ every* + danh từ số ít
         
-        - Ex: **Each boy and each girl has** an English book. *(Mỗi nam sinh và mỗi nữ sinh đều có một cuốn sách tiếng Anh.)*
+        - Ví dụ: **Each boy and each girl has** an English book. *(Mỗi nam sinh và mỗi nữ sinh đều có một cuốn sách tiếng Anh.)*
         
     - d. *More than one* + danh từ đếm được số ít (singular count noun)
         
-        Ex: **More than one person has** known the news. *(Nhiều người đã biết tin này.)*
+        Ví dụ: **More than one person has** known the news. *(Nhiều người đã biết tin này.)*
         
         *One of* + danh từ số nhiều (plural noun)
         
-        Ex: **One of my friends is** going to Honolulu next week.
+        Ví dụ: **One of my friends is** going to Honolulu nVí dụt week.
         
         *(Tuần tới, một trong những người bạn của tôi sẽ đi Honolulu.)*
         
     - e. *Everything, everybody, anything, nothing, nobody, everyone, something, somebody, no one/ none, someone, anyone, anybody, somewhere, anywhere, nowhere.*
         
-        Ex: **Everything looks** bright and clean. *(Mọi thứ có vẻ sáng sủa và sạch sẽ.)* **Someone is** knocking at the door. *(Có ai đó đang gõ cửa.)*
+        Ví dụ: **Everything looks** bright and clean. *(Mọi thứ có vẻ sáng sủa và sạch sẽ.)* **Someone is** knocking at the door. *(Có ai đó đang gõ cửa.)*
         
     - f. Một số danh từ có dạng số nhiều nhưng có nghĩa số ít:
         - News *(tin tức)*
@@ -347,19 +345,19 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         - Bệnh: measles *(bệnh sởi),* mumps *(bệnh quai bị),* rickets *(bệnh còi xương),...*
         - Quốc gia: the Philippines *(nước Philippine),* the United States *(Hoa Kỳ), ...*
         
-        Ex: **Physics is** more difficult than chemistry. *(Môn lý khó hơn môn hóa.)*
+        Ví dụ: **Physics is** more difficult than chemistry. *(Môn lý khó hơn môn hóa.)*
         
-        **The news was** worse than I had expected. *(Tin tức xấu hơn tôi nghĩ.)*
+        **The news was** worse than I had Ví dụpected. *(Tin tức xấu hơn tôi nghĩ.)*
         
         Lưu ý: Một sô' từ tận cùng bằng *-ics* có thể được dùng với động từ số ít hoặc số nhiều.
         
-        Ex: Politics is a complicated business. *(Chính trị là một hoạt động phức tạp.)*
+        Ví dụ: Politics is a complicated business. *(Chính trị là một hoạt động phức tạp.)*
         
         What are your politics? *(Quan điểm chính trị của anh là thế nào?)*
         
     - g. Khoảng cách, khoảng thời gian, số tiền, và sự đo lường
         
-        **Examples:**
+        **Ví dụamples:**
         
         **3.6 kilometers is** about 2 miles. *(3.6 kilômét là khoảng 2 dặm.)*
         
@@ -371,133 +369,114 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         hoặc sự đo lường, nhưng *động từ số nhiều* được dùng khi nói vể sô' lượng người hoặc vật.
         
-        Ex: **Three quarters of a ton is** too much. *(3/4 tấn là quá nhiều.)*
+        Ví dụ: **Three quarters of a ton is** too much. *(3/4 tấn là quá nhiều.)*
         
         *h* **third of the students are** from abroad. *(1/3 số học sinh đêh từ các nước khác.)*
         
     - h. Tên của một cuốn sách, một bài báo, một câu chuyện, một bộ phim, v.v.
         
-        Ex: *Tom and Jerry* **is** very well known all over the world. *(Phim ‘Tom và Jerry’ nổi tiếng khắp thế giới.)*
+        Ví dụ: *Tom and Jerry* **is** very well known all over the world. *(Phim ‘Tom và Jerry’ nổi tiếng khắp thế giới.)*
         
         *The Arabian Nights* **has** delighted many generations. *(Truyện Nghìn lẻ một đêm’ đã làm say mê nhiều thế hệ.)*
         
     - i. Một mệnh đề, một danh động từ, v.v. (a clause, gerund,...)
         
-        Ex: **That you get very high grades in school is** necessary. *(Điều cần thiết là bạn đạt điểm cao ở trường.)*
+        Ví dụ: **That you get very high grades in school is** necessary. *(Điều cần thiết là bạn đạt điểm cao ở trường.)*
         
         **Smoking is** harmful to your health. *(Hút thuốc có hại cho sức khỏe của bạn.)*
-        
-2. Động từ số nhiều (Plural verbs)
+
+   ### Động từ số nhiều (Plural verbs)
    Động từ số nhiều thường được dùng khi chủ ngữ là:
 
-   a. Danh từ số nhiều (plural noun). Ex:
+   a. Danh từ số nhiều (plural noun). Ví dụ:
    * These **books are** very interesting. *(Những cuốn sách này rất hay.)*
    * The **goods have** been sent to you direct from our factory. *(Hàng đã dược gửi thẳng đến cho bạn từ nhà máy của chúng tôi.)*
 
-   b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau. Ex:
+   b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau. Ví dụ:
    * **My best friend and my adviser are** arriving tonight. *(Bạn thân của tôi và cô vấn của tôi tối nay sẽ đến.)*
    * **Water and oil don’t** mix. *(Nước và dầu khỗng thể hòa tan với nhau.)*
    
-   c. *The* + tính từ (adjective) -> danh từ (noun), Ex:
+   c. *The* + tính từ (adjective) -> danh từ (noun), Ví dụ:
       * **The rich are** not always happy. *(Người giàu không phải lúc nào củng hạnh phúc.)*
       * After the accident, **the injured were** taken to hospital. *(Sau tai nạn, những người bị thương được đưa vào bệnh viện.)*
         
-   d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun), Ex:
+   d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun), Ví dụ:
       * **Some books** I bought yesterday **are** in English. *(Một số sách tôi đã mua hôm qua là sách tiếng Anh.)*
       * **All the seats have** a number. *(Tất cả các ghế đều có số.)*
         
-   e. Các danh từ tập hợp *police, people, cattle.*Ex:
-   * **The police have** warned motorists to take extra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
+   e. Các danh từ tập hợp *police, people, cattle.*Ví dụ:
+   * **The police have** warned motorists to take Ví dụtra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
    * **The cattle are** suffering from a disease called BSE. (Bò *đang bị một căn bệnh gọi là BSE.)* [NOT The cattle is ...J
         
-3. Động từ số ít hay số nhiều? (Singular or plural verbs?)
-    - a. Các danh từ tập hợp (collective nouns) như: *family, team, government, staff, class, firm, crowd, public, orchestra, club, committee, audience, band, the BBC, the United Nations,...* (ngoại trừ *police, cattle, people)* có thể được dùng với động từ số ít hoặc số nhiều (tùy theo ý người nói muốn diễn đạt).
-        
-Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
-        
-        Danh từ tập hợp đi với động từ số nhiều nếu người nói muốn nhấn mạnh đến các thành phần hoặc bộ phận của tập hợp này.
-        
-        Ex:
+### Các trường hợp khác
+1. Các danh từ tập hợp (collective nouns) như: *family, team, government, staff, class, firm, crowd, public, orchestra, club, committee, audience, band, the BBC, the United Nations,...* (ngoại trừ *police, cattle, people)* có thể được dùng với động từ số ít hoặc số nhiều (tùy theo ý người nói muốn diễn đạt).
+
+   Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
+   
+   Danh từ tập hợp đi với động từ số nhiều nếu người nói muốn nhấn mạnh đến các thành phần hoặc bộ phận của tập hợp này.
+
+   Ví dụ:
       * Our **team is** the best. **It** has a good chance of winning. *(Đội chúng tôi là dội hay nhất. Đội chúng tôi có cơ hội thắng trận.)* -> đội bóng
-      * Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* tất cả các cầu thủ trong đội
-      * **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.)*
+      * *Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* -> tất cả các cầu thủ trong đội*
+      * **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.) -> các thành viên trong gia đình*
+      * *The average British **family has** 3.6 members. *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung)*
+   
+   Trong tiếng Anh của người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả các trường hợp (*family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng.
+   Ví dụ: The team **is** in Detroit this weekend. **They** have a good chance of winning.
+
+2. Khi hai danh từ hoặc đại từ kết hợp với nhau bằng: ***with, along with, as well as, together with, accompanied by, besides, in addition to*** thì động từ được chia với danh từ hoặc đại từ thứ nhất.<br>
+   `Noun1 + with/ along with/ as well as... + Noun2 + Verb(Noun1)`
+
+   Ví dụ:
+    * The Managing Director, **together with** his heads of department, **is** coming to the meeting. *(Giám đốc điều hành cùng với các trưởng ban sẽ đến dự cuộc họp.)*
+    * The horses **as well as** the horse-breaker **are** in the racecourse now. *(Hiện giờ, những con ngựa củng như người dạy ngựa đang ở trường đua.)*
         
-        - > các thành viên trong gia đình
+3. Hai danh từ hoặc đại từ kết hợp với nhau bằng: ***or, either ... or, neither ... nor, not ... but, not only ... but also*** thì động từ được chia theo danh từ hoặc đại từ thứ hai.
+
+   Ví dụ:
+   - *The room is too crowded - two chairs **or a table has** to be moved out. *(Căn phòng quá chật - hai cái ghế hoặc một cái bàn phải được chuyển ra ngoài.)*
+   - ***Either** you **or I am** right. (Hoặc anh đúng hoặc tôi đúng.)*
+   - ***Neither** she **nor her daughters have** arrived. (Cả bà ấy lẫn các con gái của bà ấy đều chưa đèn.)*
+   - ***Not Tom but his parents live here.** (Không phải Tom mà là cha mẹ anh ấy sống ở dây.)*
+   - ***Not only** the bathroom **but also the rest of the house was** flooded. (Không chỉ phòng tắm mà toàn bộ ngôi nhà đều bị ngập nước.)*
         
-        The average British **family has** 3.6 members.
+   Khi hai danh từ số ít được kết hợp bằng *neither... nor* thì động từ thường chia ở số nhiều, nhưng động từ số ít cũng có thể được dùng trong lối văn trang trọng.
+
+   Ví dụ:
+   - **Neither** she **nor** her daughter **have** arrived, (informal)
+   - **Neither** she **nor** her daughter **has** arrived, (formal)
         
-        *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung) Trong tiếng Anh của người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả các trường hợp *{family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng.
-        
-        Ex: The team **is** in Detroit this weekend. **They** have a good chance of winning.
-        
-    - b. Hai danh từ/ đại từ kết hợp với nhau bằng: *with, along with, as well as, together with, accompanied by, besides, in addition to* động từ được chia với danh từ/ đại từ thứ nhất.
-        
-        **(Noun, + with/ along with/ as well as... + Noun2 + Verb (Noun,))**
-        
-      Ex:
-      * The Managing Director, **together with** his heads of department, **is** coming to the meeting. *(Giám đốc điều hành cùng với các trưởng ban sẽ đến dự cuộc họp.)*
-      * The horses **as well as** the horse-breaker **are** in the racecourse now. *(Hiện giờ, những con ngựa củng như người dạy ngựa đang ở trường đua.)*
-        
-    - c. Hai danh từ/ đại từ kết hợp với nhau bằng: *or, either ... or, neither ... nor, not ... but, not only ... but also* -> động từ được chia theo danh từ/ đại từ thứ hai.
-        
-        **Either or Neither nor + Noun, + No but + Noun2 + Verb (Noun2)**
-        
-        **Not only but also**
-        
-        Ex:
-      * The room is too crowded - two chairs **or a table has** to be moved out. *(Căn phòng quá chật - hai cái ghế hoặc một cái bàn phải được chuyển ra ngoài.)*
-      * **Either** you **or I am** right. *(Hoặc anh đúng hoặc tôi đúng.)*
-      * **Neither** she **nor her daughters have** arrived. *(Cả bà ấy lẫn các con gái của bà ấy đều chưa đèn.)*
-      * **Not Tom but his parents live here.** *(Không phải Tom mà là cha mẹ anh 'ấy sống ở dây.)*
-      * **Not only** the bathroom **but also the rest of the house was** flooded. *(Không chỉ phòng tắm mà toàn bộ ngôi nhà đều bị ngập nước.)*
-        
-        + Khi hai danh từ số ít được kết hợp bằng *neither... nor* thì động từ thường chia ở số nhiều, nhưng động từ số ít cũng có thể được dùng trong lối ván trang trọng. Ex:
-        * **Neither** she **nor** her daughter **have** arrived, (informal)
-        * **Neither** she **nor** her daughter **has** arrived, (formal)
-        
-    - d. *The number of* + danh từ số nhiều (plural noun) -> động từ chia ở số ít (singular verb) Ex:
+4. ***The number of* + danh từ số nhiều (plural noun)** thì động từ chia ở số ít (singular verb).
+
+   Ví dụ:
       * **The number of** books stolen from the library **is** large. *(Số sách bị lấy cắp ở thư viện rất lớn.)*
       * *A number of* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb)
-      * Ex: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
+      * Ví dụ: **A number of** problems **have** arisen. *(Một số vấn đề đã nảy sình.)*
         
-    - e. Chủ từ là một cụm danh từ được kết hợp bởi hai danh từ -» động từ chia với danh từ thứ nhất. **( Noun Ị + preposition + Noun2 <• Verb (Noun^**
-        Ex: **A box** of cigarettes **contains** 20 pipes. *(Một hộp thuôc lá có 20 điêu.)* **The effects** of stress **are**
-        very serious. *(Những ảnh hưởng của việc căng thẳng thần kinh là rất nghiêm trọng.)*
+5. Khi chủ từ là một cụm danh từ được kết hợp bởi hai danh từ thì động từ chia với danh từ thứ nhất.
+
+   Ví dụ:
+   - **A box** of cigarettes **contains** 20 pipes. *(Một hộp thuôc lá có 20 điêu.)*
+   - **The effects** of stress **are** very serious. *(Những ảnh hưởng của việc căng thẳng thần kinh là rất nghiêm trọng.)*
         
-    - f. Các từ như *all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest,* the remainder + **of*** được dùng với:
-        - động từ số ít nếu danh từ theo sau ở số ít.
-        - động từ số nhiều nếu danh từ theo sau ở số nhiều.
-        
-        **All, Some, Plenty,**
-        
-        **+ singular**
-        
-        **Noun -> singular Verb**
-        
-        **Half, Part, A lot,...**
-        
-        **+ 0F + plural Noun**
-        
-        - **> plural Verb**
-        
-        X——“■■■
-        
-        —————
-        
-        Ex:
+6. Các từ như ***all, some, none, part, half, most, plenty, a lot, lots, majority, minority, the last, the rest, the remainder*** + ***of*** được dùng với:
+   - động từ số ít nếu danh từ theo sau ở số ít.
+   - động từ số nhiều nếu danh từ theo sau ở số nhiều.
+           
+   Ví dụ:
       * Some of the **apples were** rotten. *(Một vài quả táo đã bị thôi.)*
       * Some of the **milk was** sour. *(Một ít sữa đã bị chua.)*
       * **A** lot of **time is** needed to learn a language. *(Học một ngôn ngữ cần rất nhiều thời gian.)*
       * A lot of my **friends want** to emigrate. *(Nhiều người bạn của tôi muốn dì cư.)*
         
-    - g. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb) *No* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb) Ex:
-      * No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
-      * No **people think** alike. *(Không ai suy nghĩ giống ai.)*
+7. *No* + danh từ số ít (singular noun) -> động từ chia ở số ít (singular verb)<br>
+   *No* + danh từ số nhiều (plural noun) -> động từ chia ở số nhiều (plural verb) Ví dụ:
+   - No **student is** to leave the room. *(Không một sinh viên nào được ra khỏi phòng.)*
+   - No **people think** alike. *(Không ai suy nghĩ giống ai.)*
     
-    - h. Trong cụm từ *There + be ...,* động từ *be* phải tương hợp với chủ từ thật (real subject) đứng ngay :  **people** in the waiting room. *(Có nhiều người trong phòng đợi.)* sau nó.
-        
-        **There + be + noun**_____ ĨĨ-—J
-        Ex: There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)* There **were** many
+8. Trong cụm từ *There + be ...* động từ *be* phải tương hợp với chủ từ đứng ngay sau nó, ví dụ:
+   - There **were** many **people** in the waiting room. *(Có nhiều người trong phòng đợi.)*
+   - There **is** a lot of **noise** in the street. *(Có nhiều tiếng ồn ngoài đường.)*
 
 ## 5. Sở Hữu Cách
 Sở hữu cách là cách diễn đạt thể hiện sự sở hữu.
@@ -512,7 +491,7 @@ Sở hữu cách được thành lập bằng cách:
 
 - Với danh từ ghép, thêm 's vào từ cuối cùng. Ví dụ: My mother-in-law's guitar, the comander-in-chief directions.
 
-- Thêm 's vào các cụm từ. ví dụ: Henry the eighth's six wives, the man next door's wife, *Joe and Ann*'s children
+- Thêm 's vào các cụm từ. ví dụ: Henry the eighth's six wives, the man nVí dụt door's wife, *Joe and Ann*'s children
 
 - Khi sử dụng sở hữu cách, các mạo từ a/an/the đứng trước vật bị sở hữu phải được bỏ. ví dụ: The daungher of the politician = the politician's daungher.
 
@@ -548,7 +527,7 @@ Sở hữu cách được thành lập bằng cách:
 - Đôi khi ta có thể bắt gặp cả sở hữu cách và cấu trúc câu *of + danh từ* trong một câu. Ví dụ: *We saw a play of Shaw’s = We saw one of Shaw’s plays. (Chúng tôi đã xem một vở kịch của Shaw.)
 A daughter of Mr Brown’s has arrived. = One of Mr Brown’s daughters has arrived. (Một người con gái của ông Brown đã đến rồi.)*
 
-# EXERCISES
+# Ví dụERCISES
 I. Look at these nouns. Are they countable (C) or uncountable (U)?
 1. car (C)
 2. work (U)
@@ -590,7 +569,7 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
 
 **III. Complete the postcard. Choose the correct form.**
             The island is very peaceful. (0) Life/ A-life is good here. Everybody moves at a nice slow pace. People
-            have (1) time/ a time to stop and talk. It’s (2) experience/ an experience I won’t forget a long time. There
+            have (1) time/ a time to stop and talk. It’s (2) Ví dụperience/ an Ví dụperience I won’t forget a long time. There
             aren’t many shops, so I can’t spend all my money, although I did buy (3) painting/ a painting yesterday.
             Now I’m sitting on the beach reading (4) paper/ a paper. The hotel breakfast is so enormous that I don’t
             need to have lunch. I’ve just brought (5) orange/ an orange with me to eat later. I’ve been trying all the
@@ -603,7 +582,7 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
 4. I didn’t have time/ a time for breakfast.
 5. We had wonderful time/ a wonderful time in Paris.
 6. It’s very difficult to find a work/ job at the moment.
-7. They offered me a job because I had a lot of experience/ experiences.
+7. They offered me a job because I had a lot of Ví dụperience/ Ví dụperiences.
 8. I haven’t got a paper/ any paper to write on.
 9. Bad news don’t/ doesn’t make people happy.
 10. We had very good weather/ a very good weather while we were on holiday.
@@ -644,7 +623,7 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
     
     4. Have you ever seen the new
     
-    in that shop next door?
+    in that shop nVí dụt door?
     
     a. radioes
     
@@ -795,7 +774,7 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
 10. I went to the store to get some nails, hammers, and srews. In other words, I boughtsome ________.
 
 ### VII. Choose the correct form of the verb, singular or plural.**
-1. The results of Dr. Noll’s experiment was/ were published in a scientific journal.
+1. The results of Dr. Noll’s Ví dụperiment was/ were published in a scientific journal.
 2. One of your children has/ have lost a shoe.
 3. A number of police officers here works/ work with dogs.
 4. There is/ are some interesting pictures in today’s paper.
@@ -833,12 +812,12 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
 5. Everyone________ (be) pleased with her answer.
 6. None of my brothers ____________ (remember) my mother’s birthday.
 7. Both of these shirts _________ (be) dirty.
-8. Fifty minutes_____ (be) the maximum length of time allowed for the exam.
+8. Fifty minutes_____ (be) the maximum length of time allowed for the Ví dụam.
 9. Some of my friends_________ (live) abroad.
 10. Ann, along with her friends __________ (be) playing volleyball.
 11. I wonder if either of those alternatives ___________ (be) a good idea.
 12. A lot of the students in the class __________ (be) from Southeast Asia.
-13. Alex, as well as his two older brothers,_________ (have) a good full-time job.
+13. AlVí dụ, as well as his two older brothers,_________ (have) a good full-time job.
 14. Two-thirds of the money ________ (be) mine.
 15. The Japanese ________(have) a long and interesting history.
 
@@ -922,7 +901,7 @@ XIV. Viết lại các cụm từ được gạch chân, sử dụng hình thứ
 1. The storm last week caused a lot of damage. <br> *Last week’s storm caused a lot of damage.*   
 2. The meeting tomorrow has been cancelled. <br> *Tomorrow’s meeting has been cancelled.*
 3. The only cinema in the town has closed down. <br> The only cinema of the town has closed down.
-4. Exports from Britain to the United States have fallen recently. <br> *Britain to the United States’s export have fallen recently.*
+4. Ví dụports from Britain to the United States have fallen recently. <br> *Britain to the United States’s Ví dụport have fallen recently.*
 5. Tourism is the main industry in the region. The region's main industry is tourism.
 6. The prices this year are even lower.
 7. A rest for five minutes is enough for me.
