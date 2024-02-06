@@ -257,7 +257,7 @@ Ex: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *
 b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
 Ex: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
-## Chức Năng Của Danh Từ
+## 3. Chức Năng Của Danh Từ
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
 
 1. Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
@@ -267,8 +267,8 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
    * I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
    * The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object), a lot of questions -> tân ngữ trực tiếp (direct object)]
 
-   * Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
-   * Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
+Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
+Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
     
 4. Tân ngữ của giới từ (Object of a preposition), He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
    * Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
@@ -283,17 +283,16 @@ Danh từ có thể có những chức năng khác nhau trong câu. Danh từ c�
     
 8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ex: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
-## Sự tương hợp giữa chủ ngữ và động từ (Subject and Verb Agreement)
+## 4. Sự Tương Hợp Giữa Chủ Ngữ Và Động từ (Subject and Verb Agreement)
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
-1. Động từ số ít (Singular verbs)
-   Động từ số ít thường được dùng khi chủ ngữ là:
-
-   * Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun). Ex:
+#### Động từ số ít (Singular verbs)
+Động từ số ít thường được dùng khi chủ ngữ là:
+1. Danh từ đếm được số ít (singular noun) hoặc danh từ không đếm được (uncountable noun). Ex:
      * This **book is** very interesting. *(Cuốn sách này rất hay.)*
      * **Traffic is** always busy at this time of day. *(Vào thời điểm này trong ngày xe cộ luôn đông đúc.)*
 
-   * Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng. Ex:
+2. Hai danh từ (noun) nối với nhau bằng *and* cùng chỉ về một người, một vật, hoặc một ý tưởng. Ex:
      * **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
      * **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
         
