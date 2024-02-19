@@ -1,4 +1,4 @@
-# DANH TỪ (NOUNS)
+# DANH TỪ (NOUNS) DONE
 ## 1. Định nghĩa (Definition)
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
