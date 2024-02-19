@@ -381,28 +381,28 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
         
         **Smoking is** harmful to your health. *(Hút thuốc có hại cho sức khỏe của bạn.)*
 
-   ### Động từ số nhiều (Plural verbs)
-   Động từ số nhiều thường được dùng khi chủ ngữ là:
+### Động từ số nhiều (Plural verbs)
+Động từ số nhiều thường được dùng khi chủ ngữ là:
 
-   a. Danh từ số nhiều (plural noun). Ví dụ:
-   * These **books are** very interesting. *(Những cuốn sách này rất hay.)*
-   * The **goods have** been sent to you direct from our factory. *(Hàng đã dược gửi thẳng đến cho bạn từ nhà máy của chúng tôi.)*
+a. Danh từ số nhiều (plural noun). Ví dụ:
+- These **books are** very interesting. *(Những cuốn sách này rất hay.)*
+- The **goods have** been sent to you direct from our factory. *(Hàng đã dược gửi thẳng đến cho bạn từ nhà máy của chúng tôi.)*
 
-   b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau. Ví dụ:
-   * **My best friend and my adviser are** arriving tonight. *(Bạn thân của tôi và cô vấn của tôi tối nay sẽ đến.)*
-   * **Water and oil don’t** mix. *(Nước và dầu khỗng thể hòa tan với nhau.)*
+b. Hai danh từ (noun) nối với nhau bằng *and* chỉ hai người, hai vật hoặc hai sự vật khác nhau. Ví dụ:
+* **My best friend and my adviser are** arriving tonight. *(Bạn thân của tôi và cô vấn của tôi tối nay sẽ đến.)*
+* **Water and oil don’t** mix. *(Nước và dầu khỗng thể hòa tan với nhau.)*
    
-   c. *The* + tính từ (adjective) -> danh từ (noun), Ví dụ:
-      * **The rich are** not always happy. *(Người giàu không phải lúc nào củng hạnh phúc.)*
-      * After the accident, **the injured were** taken to hospital. *(Sau tai nạn, những người bị thương được đưa vào bệnh viện.)*
+c. *The* + tính từ (adjective) -> danh từ (noun), Ví dụ:
+* **The rich are** not always happy. *(Người giàu không phải lúc nào củng hạnh phúc.)*
+* After the accident, **the injured were** taken to hospital. *(Sau tai nạn, những người bị thương được đưa vào bệnh viện.)*
         
-   d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun), Ví dụ:
-      * **Some books** I bought yesterday **are** in English. *(Một số sách tôi đã mua hôm qua là sách tiếng Anh.)*
-      * **All the seats have** a number. *(Tất cả các ghế đều có số.)*
+d. *Some, a few, both, many, a lot of, all,...* + danh từ số nhiều (plural noun), Ví dụ:
+* **Some books** I bought yesterday **are** in English. *(Một số sách tôi đã mua hôm qua là sách tiếng Anh.)*
+* **All the seats have** a number. *(Tất cả các ghế đều có số.)*
         
-   e. Các danh từ tập hợp *police, people, cattle.*Ví dụ:
-   * **The police have** warned motorists to take Ví dụtra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
-   * **The cattle are** suffering from a disease called BSE. (Bò *đang bị một căn bệnh gọi là BSE.)* [NOT The cattle is ...J
+e. Các danh từ tập hợp *police, people, cattle.* Ví dụ:
+* **The police have** warned motorists to take Ví dụtra care. *(Cảnh sát cảnh báo những người đi xe máy phải hết sức cẩn thận.)* [NOT The poliec has warned ...]
+* **The cattle are** suffering from a disease called BSE. (Bò *đang bị một căn bệnh gọi là BSE.)* [NOT The cattle is ...J
         
 ### Các trường hợp khác
 1. Các danh từ tập hợp (collective nouns) như: *family, team, government, staff, class, firm, crowd, public, orchestra, club, committee, audience, band, the BBC, the United Nations,...* (ngoại trừ *police, cattle, people)* có thể được dùng với động từ số ít hoặc số nhiều (tùy theo ý người nói muốn diễn đạt).
