@@ -3,7 +3,6 @@
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
 ## 2. Các loại danh từ (Kinds of nouns)
-
 Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành nhiều loại:
 
 ### 1. Danh từ cụ thể và danh từ trừu tượng (Concrete nouns and abstract nouns)
@@ -16,7 +15,7 @@ Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành
 - Danh từ riêng (proper nouns) là tên riêng của từng sự vật, đối tượng riêng lẻ.<br>
             Ví dụ: John, France *(nước Pháp),* the Thames *(sông Thames), ...*
             
-**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái),* Ví dụistence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
+**Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái), istence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
 
 ### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
 **Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được, ví dụ: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
@@ -29,23 +28,22 @@ Là danh từ chỉ những chất liệu, chất lỏng, những khái niệm t
 Phần lớn các danh từ không đếm được đều ở dạng số ít, không có hình thức số nhiều. Chúng ta có thể dùng *some, any, much, little* trước danh từ không đếm được nhưng không dùng số và mạo từ *a/an.*, ví dụ: some **water** *(một ít nước),* much **rice** *(nhiều gạo),* little **information** *(ít thông tin),* some **advice** *(một vài lời khuyên),* a little **fear** *(hơi sợ),* some **bread** *(một ít bánh mì),...*
         
 **Lưu ý:**<br>
-Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường.<br>
-Ví dụ:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
+Con số và mạo từ *a/an* không được dùng trước danh từ không đếm được, nhưng chúng có thể được dùng kèm với *danh từ chỉ sự đo lường. Ví dụ:* **Three bottles** of milk (ba chai sữa), **a bowl** of rice (một bát cơm), **a piece** of information (một mẩu tin), **two loaves** of bread (hai ổ bánh mi),...*
 
 Các danh từ riêng (proper nouns) là tên riêng của cá thể thường dùng ở số ít nhưng đôi khi cũng có thể dùng ở số nhiều.<br>
 Ví dụ:
-* **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)*
+* **The Smiths** is going to Spain for their summer holiday. (Gia đình Smith sẽ đi nghỉ hè ở Tây Ban Nha)
 * *There are **three Davids** in my class. (Trong lớp tôi có ba người tên David.)*
   
 Nhiều danh từ có thể được dùng như danh từ đếm được hoặc không đếm được, thường khác nhau về nghĩa.<br>
 Ví dụ:
 - *The window’s made of unbreakable **glass.** (Cửa sổ được làm bằng kính không vỡ.)*
-- *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)
+- *Would you like **a glass** of milk? (Con uống một ly sữa nhé?)*
 - *I’d like some tissue **paper.** (Tôi muốn mua một ít giấy lụa.)*
 - *I’m going out to buy **some papers.** (Tôi sẽ đi mua vài tờ báo.)*
   
-Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…*Ví dụ:
-- Have you got any **coffee?** (Bạn còn cà phê không?)*
+Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không đếm được. Nhưng chúng có thể đếm được khi mang nghĩa *tách, ly, chai, v.v…* Ví dụ:
+- *Have you got any **coffee?** (Bạn còn cà phê không?)*
 - ***Two coffees,** please. (Cho hai ly cà phê.) [= two cups of coffee]*
 - *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
 - *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
@@ -56,8 +54,7 @@ Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) 
 **Danh từ đơn (Simple nouns)** là danh từ chỉ có một từ. Ví dụ: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
 
 **Danh từ ghép (Compound nouns)** là danh từ gồm hai hoặc nhiều từ kết hợp với nhau.
-Danh từ ghép có thể được viết thành hai từ riêng biệt, có gạch ngang giữa hai từ hoặc kết hợp thành một từ. <br>
-Ví dụ: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
+Danh từ ghép có thể được viết thành hai từ riêng biệt, có gạch ngang giữa hai từ hoặc kết hợp thành một từ. Ví dụ: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* non-stop train *(tàu suốt),* writing table *(bàn viết)*
 
 **Cách thành lập danh từ ghép**
 * Danh từ + danh từ (noun + noun)
@@ -67,7 +64,8 @@ Ví dụ: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* no
   - bus driver *(tài xế xe buýt)*
   - kitchen table *(bàn bếp)*
   - river bank *(hờ sông)*
-  - cupboard *(tủ chạn)* postman *(người đưa thư)*
+  - cupboard *(tủ chạn)*
+  - postman *(người đưa thư)*
   
 * Tính từ + danh từ (adjective + noun)
   - quicksilver *(thủy ngân)*
@@ -80,7 +78,7 @@ Ví dụ: greenhouse *(nhà kính),* world peace *(hòa hình thế giới),* no
   - fruit picking *(việc hái quả)*
   - lorry driving *(việc lái xe tải)*
   - coal-mining *(việc khai thác mỏ than)*
-  - bird-watching (*quan sát nhận dạng chim)*
+  - bird-watching *(quan sát nhận dạng chim)*
   
 * Danh động từ + danh từ (gerund + noun)
   - waiting-room *(phòng đợi)*
@@ -176,7 +174,7 @@ f. Số nhiều bất qui tắc (Irregular plurals)
   - man (đàn ông) —> men
   - mouse (con chuột) —> mice
   - woman (đàn bà) —> women
-  - louse (con rậri) -> lice
+  - louse (con rận) -> lice
   - tooth (răng) -> teeth
   - goose (con ngỗng) —> geese
   - foot (bàn chân) -> feet
@@ -185,9 +183,9 @@ f. Số nhiều bất qui tắc (Irregular plurals)
   - ox (con bò) -> oxen
 
 * Một số danh từ không thay đổi khi ở số nhiều.
-  - sheep (con cừu) , swine (con lợn) , grouse (gà rừng), salmon (cá hồi), deer (con nai) aircraft , (máy bay) trout (cá hồi), plaice (cá bơn sao), fish (con cá) craft (tàu, thuyền) squid (mực ống) carp (cá chép).
+  - sheep (con cừu) , swine (con lợn) , grouse (gà rừng), salmon (cá hồi), deer (con nai), aircraft , (máy bay), trout (cá hồi), plaice (cá bơn sao), fish (con cá), craft (tàu, thuyền), squid (mực ống), carp (cá chép).
 
-* Một số danh từ tận cùng bằng -s không thay đổi khi ở số nhiều, means (phương tiện) works (nhà máy) species (loài) Swiss (người Thụy Sĩ) barracks (doanh trại) crossroads (ngã tư) headquarters (sở chỉ huy) series (dãy, chuỗi).
+* Một số danh từ tận cùng bằng -s không thay đổi khi ở số nhiều, means (phương tiện), works (nhà máy), species (loài), Swiss (người Thụy Sĩ), barracks (doanh trại), crossroads (ngã tư), headquarters (sở chỉ huy) series (dãy, chuỗi).
 ---
 g. Một số danh từ chỉ có hình thức số nhiều (luôn được dùng với động từ số nhiều)
 * Quần áo gồm hai phần: pants *(quần),* pyjamas *(đồ pijama),* trousers *(quần dài),* jeans *(quần jin),...*
@@ -252,11 +250,9 @@ Ví dụ: cups, cats, books, beliefs, cloths, ...
 Ví dụ: toys, answers, lessons, legs, trees, knives, ends, dreams, hills, songs...
                 
 #### Mâu thuẫn giữa hình thức số và nghĩa của danh từ
-a. Một sô danh từ có hình thức *số* ít nhưng có nghĩa sô nhiều (có thể dùng với động từ số nhiều)<br>
-Ví dụ: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),* government *(chính phủ),* clergy *(tu sĩ),...*
+a. Một sô danh từ có hình thức *số* ít nhưng có nghĩa sô nhiều (có thể dùng với động từ số nhiều) Ví dụ: army *(quân đội),* police *(cảnh sát),* family *(gia đình),* team *(đội),* cattle *(trâu bò),* government *(chính phủ),* clergy *(tu sĩ),...*
                 
-b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhimg có nghĩa số ít (được dùng với động từ số ít)<br>
-Ví dụ: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
+b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiều nhưng có nghĩa số ít (được dùng với động từ số ít) Ví dụ: news *(tin tức),* mumps *(bệnh quai bị),* measles *(bệnh sởi),* rickets *(bệnh còi xương),* billiards *(trò chơi bi-da),* dominoes *(trò chơi đô-mỉ-nô), ...*
 
 ## 3. Chức Năng Của Danh Từ
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
@@ -527,7 +523,7 @@ Sở hữu cách được thành lập bằng cách:
 - Đôi khi ta có thể bắt gặp cả sở hữu cách và cấu trúc câu *of + danh từ* trong một câu. Ví dụ: *We saw a play of Shaw’s = We saw one of Shaw’s plays. (Chúng tôi đã xem một vở kịch của Shaw.)
 A daughter of Mr Brown’s has arrived. = One of Mr Brown’s daughters has arrived. (Một người con gái của ông Brown đã đến rồi.)*
 
-# Ví dụERCISES
+# EXERCISES
 I. Look at these nouns. Are they countable (C) or uncountable (U)?
 1. car (C)
 2. work (U)
