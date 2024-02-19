@@ -1,4 +1,4 @@
-# Pronouns
+# ĐẠI TỪ (PRONOUNS)
 ## Định nghĩa (Definition)
 Đại từ (pronouns) là từ dùng để thay thế cho danh từ.
 
@@ -16,20 +16,21 @@
 ## 1. Đại từ nhân xưng (Personal pronouns)
 Đại từ nhân xưng là các đại từ được dùng để chỉ người, vật, nhóm người hoặc vật cụ thể.
 
-Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you* và *it).*
+Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you* và *it): I-me, we-us, you-you, he-him, she-her, they-them.*
 
-Đại từ nhân xưng được dùng để thay thế cho danh từ khi không cần thiết sử dụng hoặc lặp lại chính xác danh từ hoặc cụm danh từ đó. ví dụ:
-- John’s broken his leg. He’ll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)[NOT John will be in hospital ...]
-- Tell Mary I miss her.(Hãy nói với Mary rầng tôi nhớ cô ấy.) [NOT Tell Mary I miss Mary.)
+Đại từ nhân xưng được dùng để thay thế cho danh từ khi không cần thiết sử dụng hoặc lặp lại chính xác danh từ hoặc cụm danh từ đó.<br>
+Ví dụ:
+- *John’s broken his leg. He’ll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)*
+- *Tell Mary I miss her.(Hãy nói với Mary rầng tôi nhớ cô ấy.) [NOT Tell Mary I miss Mary.)*
 
-I, he, she, we, they được dùng làm chủ ngữ của động từ (subjects of a verb)
+**I, he, she, we, they** được dùng làm chủ ngữ của động từ.
   - I like you.(Tôi thích anh.)
   - He wants to leave now.(Anh ấy muốn đi ngay bây giờ.)
   - They have lived here for twenty years.(Họ đã sống ở đây 20 năm rồi.)
 
- I, he, she, we, they được dùng làm Bổ ngữ của động từ *to be* (complements of the verb *to be)* - It was I who chose this colour. *(Chính tôi là người chọn màu này.)*
+ **I, he, she, we, they** được dùng làm bổ ngữ của động từ *to be* - It was I who chose this colour. *(Chính tôi là người chọn màu này.)*
  
-**me, him, her, us, them** được dùng làm tân ngữ trực tiếp hoặc gián tiếp của động từ (direct objects or indirect objects of a verb).
+**me, him, her, us, them** được dùng làm tân ngữ trực tiếp hoặc gián tiếp của động từ.
 - They called US on the telephone. *(Họ đã gọi điện cho chúng tôi.)*
 - Bill’s uncle sent him a birthday present. *(Chú của Bill gửi cho anh ấy một món quà sinh nhật.)*
                     
@@ -37,12 +38,11 @@ I, he, she, we, they được dùng làm chủ ngữ của động từ (subject
 - He said he couldn’t live without **her.** *(Anh ấy nói anh ấy không thể sống thiếu cô ta.)*
 
 **you** và **it** có thể được dùng làm chủ ngữ hoặc tân ngữ vì chúng có hình thức chủ ngữ và tân ngữ giống nhau.
-Did **you** see the snake? *(Anh có nhìn thấy con rắn không'?)*
-*Yes,* I saw **it** and **it** saw me, too. *(Có, tồi thấy nó và nó cũng thấy tôi.)*
-Did **it** frighten **you?** *(Nó có làm anh sợ không?)*
+- Did **you** see the snake? *(Anh có nhìn thấy con rắn không'?)* *Yes,* I saw **it** and **it** saw me, too. *(Có, tồi thấy nó và nó cũng thấy tôi.)*
+- Did **it** frighten **you?** *(Nó có làm anh sợ không?)*
 
 Lưu ý: Hình thức tân ngữ thường được dùng khi đại từ đứng một mình hoặc sau *be.*
-Who spilt coffee all over the table? ~ Me./ Sorry, it was me. *(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.) But Who spilt coffee all over the table? ~ I did.
+- Who spilt coffee all over the table? ~ Me./ Sorry, it was me. *(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.) But Who spilt coffee all over the table? ~ I did.
         
 Một số cách dùng của it:
 - **It** thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết hoặc không quan trọng). Ví dụ: I’ve bought a new watch. It’s very modern. *(Tôi vừa mua đồng hồ đeo tay mới. Nó rất hiện đại.), Look at that bird. How beautiful **it** is! *(Nhìn con chim đó xem.Đẹp quá!), The baby next doorkept me awake. It cried all night. *(Đứa bé ở nhà bên làm tôi không ngủ được. Nó khóc suốt đêm.)*
@@ -50,43 +50,29 @@ Một số cách dùng của it:
 - **It** được dùng để chỉ người khi muốn xác định người đó là ai. Sau khi đã được xác định, thì *he* hoặc *she* được sử dụng tùy theo người đó là nam hay nữ. Ví dụ: Who was it on the telephone? ~ **It** was Vicky. **She** just called to say **she’s** arrived home safely. *(Ai đã gọi điện vậy? ~ Vicky. Cô ấy vừa gọi để báo cô ấy đã về đến nhà bình yên.), There was a knock at the door. I thought **it** was the postman. **He** usually came at that time. *(Có tiếng gõ cửa. Tôi nghĩ đó là người dưa thư. Anh ta thường đến vào giờ đó.)*
 
 Đại từ **it** *(điều đó; nó)* được dùng để chỉ một hành động, một tình huống hoặc một ý tưởng đã dược nói đến trong một cụm từ, một mệnh đề hoặc câu đi trước
-            When the factory closes, it will means 500 people losing their jobs. *(Khi nhà máy đóng cửa, điều đó có nghĩa là sẽ có 500 người mất việc.)* [it = the close of the factory]
+- When the factory closes, it will means 500 people losing their jobs. *(Khi nhà máy đóng cửa, điều đó có nghĩa là sẽ có 500 người mất việc.)* [it = the close of the factory]
+- He smokes in bed, though I don’t like it. *(Anh ta hút thuốc trên giường, mặc dù tôi không tliich điều đó.)* [it = his smoking in bed]
+
+Đại từ **it** được dùng để nói về thời tiết, thời gian, nhiệt độ, khoảng cách, số đo.
+- **It** is raining heavily. *(Trời dang mưa to.)*
+- **It** is half past three now. *(Bây giờ là 3 giờ rưỡi.)*
+- **It** is thirty degrees in this room. *(Nhiệt độ trong phòng này là 30 dộ.)*
+- **It** is six miles to the nearest hospital from here. *(Khoảng cách từ dây đến bệnh viện gần nhất là 6 dặm.)*
+- **It** is five meters long. *(Chiều dài là 5 mét.)*
+
+It được dùng làm chủ ngữ giả (formal subject) khi chủ ngữ thật (real subject) của câu là một động từ nguyên mẫu, một danh động từ hoặc một mệnh đề ở cuối câu.
+- **It** was impossible to get a taxi at that time. *(Vào giờ dó không thể nào đón được taxi.)* [To get a taxi was impossible at that time.]
+- **It’s** always sad saying goodbye to someone you love. *(Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.)* [Saying goodbye to someone you love is always sad.]
+- **It’s** a pity that you can’t come with US. *(Tiếc là bạn không thể đi với chúng tôi.)* [That you can’t come with US is a pity.]
             
-            He smokes in bed, though I don’t like it. *(Anh ta hút thuốc trên giường, mặc dù tôi không tliich điều đó.)* [it = his smoking in bed]
-            ```
-- Đại từ **it** được dùng như một chú ngừ giả (formal subject) để nói về thời tiết, thời gian, nhiệt độ, khoảng cách, số đo.
-     ```       
-            **It** is raining heavily. *(Trời dang mưa to.)*
+It còn được sử dụng như một tân ngữ giả (formal object), theo sau nó là một tính từ hoặc danh từ được bổ nghĩa bởi cụm từ hay mệnh đề.
+- I found **it** difficult to explain this to him. *(Tôi thấy khó giải thích điều này với anh ta.)*
+- He thought it no use going over the subject again. *(Anh ta cho rang xem xét lại vấn đề cũng chẳng ích lợi gì.)*
+- I find it strange that she doesn’t want to travel. *(Tôi thấy lạ là cô ta không muốn đi du lịch.)*
             
-            **It** is half past three now. *(Bây giờ là 3 giờ rưỡi.)*
-            
-            **It** is thirty degrees in this room. *(Nhiệt độ trong phòng này là 30 dộ.)*
-            
-            **It** is six miles to the nearest hospital from here. *(Khoảng cách từ dây đến bệnh viện gần nhất là 6 dặm.)*
-            
-            **It** is five meters long. *(Chiều dài là 5 mét.)*
-          ```  
-- It được dùng làm chủ ngữ giả (formal subject) khi chủ ngữ thật (real subject) của câu là một động từ nguyên mẫu, một danh động từ hoặc một mệnh đề ở cuối câu.
-            
-            **It** was impossible to get a taxi at that time. *(Vào giờ dó không thể nào đón được taxi.)* [To get a taxi was impossible at that time.]
-            
-            **It’s** always sad saying goodbye to someone you love. *(Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.)* [Saying goodbye to someone you love is always sad.]
-            
-            **It’s** a pity that you can’t come with US. *(Tiếc là bạn không thể đi với chúng tôi.)* [That you can’t come with US is a pity.]
-            
-        - It còn được sử dụng như một tân ngữ giả (formal object), theo sau nó là một tính từ hoặc danh từ được bổ nghĩa bởi cụm từ hay mệnh đề.
-            
-            I found **it** difficult to explain this to him. *(Tôi thấy khó giải thích điều này với anh ta.)*
-            
-            He thought it no use going over the subject again. *(Anh ta cho rang xem xét lại vấn đề cũng chẳng ích lợi gì.)*
-            
-            I find it strange that she doesn’t want to travel. *(Tôi thấy lạ là cô ta không muốn đi du lịch.)*
-            
-        - Đại từ it được dùng với động từ *to be* (It is/ was ...) để nhấn mạnh cho một từ hoặc cụm từ trong câu.
-            
-            **It was** Jim who lent us the money. *(Chính Jim đã cho chúng tôi mượn tiền.)*
-            
-            **It was** three weeks later that he heard the news. *(Đến ba tuần sau anh ta mới nghe tin.)*
+Đại từ it được dùng với động từ *to be* (It is/ was ...) để nhấn mạnh cho một từ hoặc cụm từ trong câu.
+- **It was** Jim who lent us the money. *(Chính Jim đã cho chúng tôi mượn tiền.)*
+- **It was** three weeks later that he heard the news. *(Đến ba tuần sau anh ta mới nghe tin.)*
 
 Đại từ **it** đôi khi được sử dụng trong các đặc ngữ có tính chất thân mật.
 - Hang it all, we can’t wait all day for him. *(Thật bực mình, chúng ta không thể đợi nó suốt cả ngày được).*
@@ -95,7 +81,8 @@ Một số cách dùng của it:
 
 ## 2. Đại từ sở hữu (Possessive pronouns)
 Đại từ sở hừu (possessive pronouns) là hình thức sở hữu của đại từ nhân xưng (personal pronouns), được dùng để chỉ vật gì thuộc về người nào đó.
-Đại từ sở hữu bao gồm: I-my, you-your, he-his, she-her, we-our, they-their
+Đại từ sở hữu bao gồm: I-mine(cái của tôi), you-yours(cái của bạn), he-his(cái của anh ấy), she-hers(cái của chị ấy), we-ours(cái của chúng tôi), they-theirs(cái của họ)
+
 **It** không có dạng đại từ sở hữu. Its là dạng tính từ sở hữu của **it.**
 
 Đại từ sở hữu được dùng không có danh từ theo sau. Nó thay thế cho *tính từ sớ hữu + danh từ* (possessive adjective + noun)
@@ -105,223 +92,49 @@ Một số cách dùng của it:
 Đại từ sở hữu cũng có thể được dùng trước danh từ mà nó thay thế. Ví dụ: **Ours** is the third house on the left. *(Nhà của chúng tôi là ngôi nhà thứ ba bên tay trái.)* [ours = our house]
 
 Không dùng mạo từ trước đại từ sở hữu. Ví dụ: That coat is mine. *(Áo khoác đó của tôi)* [NOT That coat is the mine.]
+
+**Lưu Ý:**<br>
+Đôi khi ta có thể thấy đại từ sở hữu đứng sau giới từ *of.* Sự kết hợp này được gọi là sở hữu kép (double possessive).
+- Tom is **a friend of mine.** *(Tom là một người bạn của tôi.)* [a friend of mine = one of my friends]
+- I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp chí của bạn.)* [some magazines of yours = some of your magazines]
             
->[!IMPORTANT]
-> Đôi khi ta có thể thấy đại từ sở hữu đứng sau giới từ *of.* Sự kết hợp này được gọi là sở hữu kép (double possessive).
-Tom is **a friend of mine.** *(Tom là một người bạn của tôi.)* [a friend of mine = one of my friends]
-I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp chí của bạn.)* [some magazines of yours = some of your magazines]
-            
-#### Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic Pronouns)**
-        
-        a. Hình thức (Form)
-        
-        Đại từ phản thân và đại từ nhấn mạnh có chung hình thức.
-        
-        PERSONAL PRONOUNS (Đại
-        
-        từ nhân xưng)
-        
-        REFLEXIVE/
-        
-        (Đại từ ph
-        
-        EMPHATIC PRONOUNS ản
-        
-        thân/ nhân mạnh)
-        
-        I
-        
-        mysetf
-        
-        *(tự! chính tôi)*
-        
-        You
-        
-        yourself
-        
-        *(tự! chính bạn)*
-        
-        He
-        
-        himself
-        
-        *(tự Ị chính anh ấy)*
-        
-        PERSONAL PRONOUNS (Đại từ
-        
-        nhân xưng)
-        
-        I
-        
-        *(tôi)*
-        
-        You
-        
-        *(anh, chị, bạn)*
-        
-        He
-        
-        *(anh ấy)*
-        
-        She
-        
-        *(chị ấy)*
-        
-        We
-        
-        *(chúng tôi)*
-        
-        They
-        
-        *(họ, chúng nó)*
-        
-        POSSESSIVE PRONOUNS (Đại từ sở
-        
-        hữu)
-        
-        mine
-        
-        *(cái của tôi)*
-        
-        yours
-        
-        *(cái của anh / bạn)*
-        
-        his
-        
-        *(cái của anh ấy)*
-        
-        hers
-        
-        *(cái của chị ấy)*
-        
-        ours
-        
-        *(cái của chúng tói)*
-        
-        theirs
-        
-        *(cái của họ/ chúng)*She
-        
-        herself
-        
-        *(tựỊ chính chị ấy)*
-        
-        It
-        
-        itself
-        
-        *(tự! chính nó)*
-        
-        We
-        
-        ourselves
-        
-        *(tự! chính chúng tôi)*
-        
-        You
-        
-        yourselves
-        
-        *(tự Ị chính các bạn)*
-        
-        They
-        
-        themselves
-        
-        *(tự! chính họ)*
-        
-        b. Cách dùng (Use)
-        
-        - **Đại từ phản thân** (Reflexive pronouns)
-        
-        Đại từ phản thân được dùng làm tân ngữ (object) của động từ khi hành động của động từ do chủ
-        
-        ngữ thực hiện tác động lại ngay chính chủ ngữ. Nói cách khác, đại từ phản thân được dùng khi chủ
-        
-        ngữ và tân ngữ của động từ là cùng một đối tượng.
-        
-        Ex: When the policeman came in, the gunman shot **him.**
-        
-        *(Khi viên cảnh sát xông vào, tên cướp đã bắn anh ta.)* [him = the police] When the
-        
-        policeman came in, the gunman shot **himself.**
-        
-        *(Khi viên cảnh sát xông vào, tên cướp đã dùng súng tự sát.)* [himself = the gunman]
-        
-        Jane looks at **herself** in the mirror. *(Jane soi mình trong gương.)* We’ve locked **ourselves**
-        
-        out. *(Chúng tối tự khóa cửa nhốt mình bến ngoài.)* This refrigerator defrosts **itself.** *(Tủ lạnh*
-        
-        *này tự rã đông.)*
-        
-        Ngoài chủ ngữ của mệnh đề, đại từ phản thân còn có thể chỉ những thành phần khác trong câu.
-        
-        Ex: **His** letters are all about **himself.**
-        
-        *(Thư của anh ta toàn viết về bản thân anh ta.)*
-        
-        I love **you** for **yourself,** not for your money.
-        
-        *(Tôi yéu em vì chính bản thân em chứ không phải vì tiền của em.)* **Lưu ý:** Đại từ phản thân
-        
-        có thể được dùng sau giới từ, nhưng sau giới từ chỉ vị trí (preposition of place) chúng ta thường
-        
-        dùng đại từ nhân xưng *(me, you, him, her,...)* Ex: I’m annoyed **with myself.** *(Tôi giận chính bản*
-        
-        *thân mình.)*
-        
-        But: Mike didn’t have any money **with him.** *(Mike không đem theo tiền.)*
-        
-        In the mirror I saw a lorry **behind me.** *(Nhìn vào gương tôi thấy một chiếc xe tải phía sau.)*
-        
-        - **Đại từ nhấn mạnh** (Emphatic pronouns)
-        
-        Đại từ nhấn mạnh có cùng hình thức với đại từ phản thân, được dùng để nhấn mạnh một danh từ
-        
-        hoặc đại từ. Đại từ nhấn mạnh thường đứng ngay sau từ được nhấn mạnh và có nghĩa là *‘chính*
-        
-        *người đó/ vật đó’.* Ex: My sister **herself** designed all these clothes.
-        
-        *(Chính chị tôi đã thiết kế những bộ quần áo này.)*
-        
-        I spoke to the president **himself.**
-        
-        *(Tôi dã nói chuyện với chính ngài chủ tịch.)*
-        
-        The film **itself** wasn’t very good but I like the music.
-        
-        *(Bản thân bộ phim thì không hay lắm, nhưng tôi thích phần nhạc trong phim.)*
-        
-        Khi nhấn mạnh chủ ngữ, đại từ nhấn mạnh có thể đứng cuối câu. Ex: I saw him do it **myself.**
-        
-        *(Chính mắt tôi thấy anh ta làm điều đó.)* [= I *myself* saw him do it.]
-        
-        c. **By + oneself =** alone, without help
-        
-        *By myself! yourself! himself, ... có* nghĩa *‘một mình’* (alone) hoặc *‘không có ai giúp đỡ'*
-        
-        (without help).
-        
-        Ex: He likes living **by himself.** *(Ông ta thích sống một mình.)*
-        
-        [= He likes living alone.]Do you need help? ~ No, thanks. I can do it **by myself.**
-        
-        *(Bạn có cần giúp không'? ~ Không, cám ơn. Tôi có thể làm một mình.)* [= I can do it
-        
-        without help.]
+## 3. Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic Pronouns)
+Đại từ phản thân và đại từ nhấn mạnh có chung hình thức. **My-Myself(tự/chính tôi), yourself(tự/chính bạn), himself(tự/chính anh ấy), herself(tự/chính cô ấy), itself(tự/chính nó), ourselves(tự/chính chúng ta), yourselves(tự/chính các bạn), themselft(tự/chính họ)**
+
+Đại từ phản thân được dùng làm tân ngữ (object) của động từ khi hành động của động từ do chủ ngữ thực hiện tác động lại ngay chính chủ ngữ. Nói cách khác, đại từ phản thân được dùng khi chủ ngữ và tân ngữ của động từ là cùng một đối tượng.
+- When the policeman came in, the gunman shot **him.** *(Khi viên cảnh sát xông vào, tên cướp đã bắn anh ta.)* [him = the police]
+- When the policeman came in, the gunman shot **himself.** *(Khi viên cảnh sát xông vào, tên cướp đã dùng súng tự sát.)* [himself = the gunman]
+- Jane looks at **herself** in the mirror. *(Jane soi mình trong gương.)*
+- We’ve locked **ourselves** out. *(Chúng tối tự khóa cửa nhốt mình bến ngoài.)*
+- This refrigerator defrosts **itself.** *(Tủ lạnh này tự rã đông.)*
+        
+Ngoài chủ ngữ của mệnh đề, đại từ phản thân còn có thể chỉ những thành phần khác trong câu. Ví dụ:
+- **His** letters are all about **himself.** *(Thư của anh ta toàn viết về bản thân anh ta.)*
+- I love **you** for **yourself,** not for your money. *(Tôi yéu em vì chính bản thân em chứ không phải vì tiền của em.)*
+
+**Lưu ý:** Đại từ phản thân có thể được dùng sau giới từ, nhưng sau giới từ chỉ vị trí (preposition of place) chúng ta thường dùng đại từ nhân xưng *(me, you, him, her,...)* Ex:
+- I’m annoyed **with myself.** *(Tôi giận chính bản thân mình.)* But: Mike didn’t have any money **with him.** *(Mike không đem theo tiền.)*
+- In the mirror I saw a lorry **behind me.** *(Nhìn vào gương tôi thấy một chiếc xe tải phía sau.)*
+        
+Đại từ nhấn mạnh có cùng hình thức với đại từ phản thân, được dùng để nhấn mạnh một danh từ hoặc đại từ. Đại từ nhấn mạnh thường đứng ngay sau từ được nhấn mạnh và có nghĩa là *chính người đó/ vật đó’.* Ex:
+- My sister **herself** designed all these clothes. *(Chính chị tôi đã thiết kế những bộ quần áo này.)*
+- I spoke to the president **himself.** *(Tôi dã nói chuyện với chính ngài chủ tịch.)*
+- The film **itself** wasn’t very good but I like the music. *(Bản thân bộ phim thì không hay lắm, nhưng tôi thích phần nhạc trong phim.)*
+        
+Khi nhấn mạnh chủ ngữ, đại từ nhấn mạnh có thể đứng cuối câu. Ex:
+- I saw him do it **myself.** *(Chính mắt tôi thấy anh ta làm điều đó.)* [= I *myself* saw him do it.]
+
+
+**By + oneself = alone, without help** By myself! yourself! himself, ... có nghĩa *một mình* (alone) hoặc *không có ai giúp đỡ* Ex:
+- He likes living **by himself.** *(Ông ta thích sống một mình.)* [= He likes living alone.]
+- Do you need help? ~ No, thanks. I can do it **by myself.** *(Bạn có cần giúp không'? ~ Không, cám ơn. Tôi có thể làm một mình.)*
         
 ## 3. Đại từ chỉ định (Demonstrative pronouns)
-        
-        Đại từ chỉ định gồm các từ: *this, that, these, those.* Đại từ chỉ định được dùng để chỉ định vật, sự vật hoặc để giới thiệu hay nhận dạng người nào đó.
-        
-        Ex: **These** are my candies. **Those** are yours. *(Đây là kẹo của tôi. Kia là kẹo của bạn.)*
-        
-        **This** costs more than **that.** *(Cái này đắt hơn cái kia.)*
-        
-        **This** is my brother. *(Đây là anh trai tôi.)*
-        
-        Who’s **that? ~ That’s** Tom **Jones.** *(Ai kia? ~ Đó là Tom Jones.)*
+Đại từ chỉ định gồm các từ: *this, that, these, those.* Đại từ chỉ định được dùng để chỉ định vật, sự vật hoặc để giới thiệu hay nhận dạng người nào đó.Ex:
+- **These** are my candies. **Those** are yours. *(Đây là kẹo của tôi. Kia là kẹo của bạn.)*
+- **This** costs more than **that.** *(Cái này đắt hơn cái kia.)*
+- **This** is my brother. *(Đây là anh trai tôi.)*
+- Who’s **that? ~ That’s** Tom **Jones.** *(Ai kia? ~ Đó là Tom Jones.)*
         
         a. **This** *(cái này! người này), số* nhiều là **these** *(những cái này! những người này)* được dùng để chỉ vật ở khoảng cách gần (với người nói).
         
@@ -631,16 +444,15 @@ I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp ch�
         [NOT Which would you like to drink?]
         
 #### 6. Đại từ quan hệ (Relative pronouns)
+Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ được dùng để thay cho danh từ đi trước và đồng thời có chức năng nối mệnh đề chính với mệnh đề phụ trong mệnh đề liên hệ (relative clauses).
         
-        Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ được dùng để thay cho danh từ đi trước và đồng thời có chức năng nối mệnh đề chính với mệnh đề phụ trong mệnh đề liên hệ (relative clauses).
+*Who/ whom* được dùng để chỉ người, *which* chỉ vật hoặc sự vật, *that* có thể chỉ cả người lẫn vật và *whose* chỉ sự sở hữu. Chúng ta sẽ nói thêm ở phần **Mệnh Đề Quan Hệ** ở chương 4.
         
-        *Who/ whom* được dùng để chỉ người, *which* chỉ vật hoặc sự vật, *that* có thể chỉ cả người lẫn vật và *whose* chỉ sự sở hữu. (Về nghĩa và cách dùng các đại từ quan hệ, xem ***Relative Clause)***
-        
-    - **7. Đại từ phân bổ (Distributive pronouns)**
-        
-        Đại từ phân bổ gồm các từ: *all, most, each, both, either, neither.*a. **All** *(tất cả):* được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All*
-        
-        *có* thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu.
+#### 7. Đại từ phân bổ (Distributive pronouns)
+Đại từ phân bổ gồm các từ: **all, most, each, both, either, neither**
+
+---
+**All** *(tất cả):* được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All* có thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu.
         
         **Ex: All** were unanimous to vote him. *(Tất cả đều nhất trí bầu ông ta.)*
         
@@ -728,188 +540,83 @@ I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp ch�
         
         Ex: **Everybody** enjoyed the party. *(Tất cả mọi người đều thích bữa tiệc.)* [NOT All enjoyed
         
-        ■■■]
-        
-        b. **Most** *(phần lớn; hầu hết)-,* được dùng để chỉ phần lớn nhất của cái gì hoặc đa số người hoặc
-        
-        vật.
-        
-        Ex: We all ate a lot, but Ashley ate **(the) most.**
-        
-        *(Tất cả chúng tôi đều ăn nhiều, nhưng Ashley ăn nhiều nhất.)*
-        
-        All the victims were male, and most were between the ages of 15 and 25. *(Tất cả các*
-        
-        *nạn nhân đều là nam, và đa số ở độ tuổi từ 15 đèn 25.)* There are hundreds of verbs in
-        
-        English, and **most** are regular. *(Tiếng Anh có hàng trăm động từ, và đa số là động từ có*
-        
-        *quy tắc.)*
-        
-        *Most of* được dùng trước danh từ (đếm được hoặc không đếm được) có từ xác định *(a, the,*
-        
-        *my, this,...)* hoặc hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau ở số ít hay số
-        
-        nhiều tùy thuộc vào danh từ.
-        
-        **Most of + determiner + noun (+ singular/ plural verb)**
-        
-        **Most of us/ you/ them (+ plural verb)**
-        
-        - *J*
-        
-        Ex: **Most of the people** here know each other.
-        
-        *(Hầu hết mọi người ở đây đều quen nhau.)* John spends **most of his free time** in the
-        
-        library.
-        
-        *(Phần lớn thời gian rảnh rỗi, John ở trong thư viện.)* He’s eaten **most of a chicken.**
-        
-        *(Anh ta ăn gần hết một con gà.)* **Most of us** enjoy shopping. *(Đa số chúng tôi thích đi*
-        
-        *mua sắm.)*
-        
-        c. **Each** *(mỗi):* được dùng để chỉ từng cá nhân hoặc từng đơn vị trong một sô lượng người hoặc
-        
-        vật từ hai trở lên.
-        
-        Ex: I asked two children and **each** told a different story.
-        
-        *(Tôi hỏi hai đứa trẻ và mỗi đứa kể một câu chuyện khác nhau.)* There are six flats. **Each**
-        
-        has its own entrance.
-        
-        *(Có 6 căn hộ. Mỗi căn có lối đi riêng.)*
-        
-        - *Each of* được dùng trước một danh từ số nhiều có từ xác định *(the, my, these,..)* hoặc hình thức
-        
-        tân ngữ của đại từ nhân xưng. Động từ theo sau thường ở số ít. _ __________
-        
-        **Each of + determiner + plural noun (+ singular verb) Each of US/**
-        
-        **you/ them (+ singular verb)**
-        
-        Ex: She gave **each of her grandchildren** 50p.
-        
-        *(Bà ấy cho mỗi đứa cháu 50 penny.)*
-        
-        **Each of us** sees the world differently.
-        
-        *(Mồi người trong chúng ta nhìn nhận thế giới một cách khác nhau.)*
-        
-        - *Each* có thể theo sau một tân ngữ (trực tiếp hay gián tiếp) hoặc đứng sau một con số.
-        
-        Ex: I want them **each** to be happy.
-        
-        *(Tôi muốn mỗi người trong bọn họ đều được hạnh phúc.)*
-        
-        She gave the students **each** a copy of the script.
-        
-        *(Cô ấy đưa cho mỗi học sinh một bản sao của kịch bản.)* He gave us £5 **each.** *(Ông ta cho mỗi*
-        
-        *đứa chúng tôi 5 pao.)*- *Each* có thể đứng sau trợ động từ (auxiliary verb) và động từ *to be,* hoặc đứng trước động từ thường
-        
-        (ordinary verb). Trong trường hợp này ta phải dùng danh từ, đại từ và động từ ở số nhiều.
-        
-        Ex: We’ve **each** got our own cabinets.
-        
-        *(Mỗi người trong chúng tôi đều có tủ riêng của mình.)*
-        
-        You are **each** right in a different way.
-        
-        *(Các bạn mỗi người đều đúng theo một cách khác nhau.)*
-        
-        The students **each** have different point of view.
-        
-        *(Các sinh viển mỗi người đều có quan điểm khác nhau.)*
-        
-        d. **Both** *(cả hai)',* được dùng để chỉ cả hai người hoặc hai vật.
-        
-        Ex: He has two brothers; **both** live in London.
-        
-        *(Anh ta có hai anh trai; cả hai đều sống ở London.)*
-        
-        I couldn’t decide which of the two shirts to buy. I like **both.**
-        
-        *(Trong hai cái áo này tôi không thể quyết định nên mua cái nào. Tôi thích cả hai.)*
-        
-        - *Both (of)* được dừng trước danh từ số nhiều có từ xác định đứng trước hoặc trước hình thức tân ngữ
-        
-        của đại từ nhân xưng. Động từ theo sau *ở số* nhiều.
-        
-        **Both (of) + determiner + plural noun (+ plural verb)**
-        
-        **Both of us/ you/ them (+ plural verb)**
-        
-        Ex: **Both (of) her children** are boys.
-        
-        *(Cả hai đứa con của cô ấy đều là con trai.)*
-        
-        Marta sends **both of you** her regards.
-        
-        *(Marta gửi lời thăm hỏi đến cả hai bạn.)*
-        
-        *+ Of* có thể bỏ khi đứng trước danh từ, nhưng không được bỏ khi đứng trước đại từ.
-        
-        - *Both* có thể đứng sau trợ động từ (auxiliary verb), sau động từ *to be,* hoặc trước động từ thường.
-        
-        Ex: We can both swim. *(Cả hai chúng tôi đều biết bơi.)*
-        
-        I have two daughters. They’re **both** doctors.
-        
-        *(Tôi có hai con gái.. Cả hai đứa đều là bác sĩ)*
-        
-        My parents **both** work in education.
-        
-        *(Cha mẹ tôi đều làm việc trong ngành giáo dục.)*
-        
-        - *Both* có thể đứng sau một đại từ số nhiều được dùng làm tân ngữ.Ex: She invited US **both.** *(Cô ấy mời cả hai chúng ta.)*
-        
-        Mary sends you **both** her love. *(Mary gởi lời thăm hai bạn.)* **Mưu ý:** Không dùng mạo
-        
-        từ *the* trước *both.*
-        
-        Ex: Both the children are naughty. *(Cả hai đứa trẻ đều rất nghịch ngợm.)* [NOT The both children... ]
-        
-        e. **Either** *(mỗi, một):* được dùng để chỉ cái này hoặc cái kia trong hai cái. Ex: Olive oil and
-        
-        sesame oil are both fine, so you could use **either.** *(Cả dầu ôliu và dầu mè đều tốt, vì thế bạn có thể dùng một trong hai.)*
-        
-        Do you want tea or coffee? ~ **Either.** I don’t mind. *(Anh muốn dùng trà hay cà phê? ~ Gì củng được.)*
-        
-        *Either of* được dùng trước một danh từ số nhiều có từ xác định hoặc dạng tân ngữ của đại từ.
-        
-        Động tứ theo sau thường ở số ít.
-        
-        **Either of + determiner + plural noun(+ singular verb) Either of us/ you/ them (+ singular verb)**
-        
-        Ex: Does **either of you** speak French? *(Trong hai người có người nào biết nói tiếng Pháp không?)*
-        
-        Take one of the books on the table - **either of them** will do. *(Hãy lấy một trong hai cuốn sách trên bàn - cuốn nào cũng được.)*
-        
-        I don’t like **either of my math teachers.** *(Tôi không thích người nào trong hai giáo viễn dạy toán cả.)*
-        
-        f. **Neither** *(cả hai ... không):* được dùng để chỉ không phải cái này mà cũng không phải cái kia trong hai cái.
+---
+**Most** *(phần lớn; hầu hết)*: được dùng để chỉ phần lớn nhất của cái gì hoặc đa số người hoặc vật. Ví dụ:
+- We all ate a lot, but Ashley ate **(the) most.** *(Tất cả chúng tôi đều ăn nhiều, nhưng Ashley ăn nhiều nhất.)*
+- All the victims were male, and most were between the ages of 15 and 25. *(Tất cả các nạn nhân đều là nam, và đa số ở độ tuổi từ 15 đèn 25.)*
+- There are hundreds of verbs in English, and **most** are regular. *(Tiếng Anh có hàng trăm động từ, và đa số là động từ có quy tắc.)*
+
+*Most of* được dùng trước danh từ (đếm được hoặc không đếm được) có từ xác định *(a, the, my, this,...)* hoặc hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau ở số ít hay số nhiều tùy thuộc vào danh từ.
+- **Most of the people** here know each other. *(Hầu hết mọi người ở đây đều quen nhau.)*
+- John spends **most of his free time** in the library. *(Phần lớn thời gian rảnh rỗi, John ở trong thư viện.)*
+- He’s eaten **most of a chicken.** *(Anh ta ăn gần hết một con gà.)*
+- **Most of us** enjoy shopping. *(Đa số chúng tôi thích đi mua sắm.)*
+
+---
+**Each** *(mỗi):* được dùng để chỉ từng cá nhân hoặc từng đơn vị trong một sô lượng người hoặc vật từ hai trở lên. Ex:
+- I asked two children and **each** told a different story.*(Tôi hỏi hai đứa trẻ và mỗi đứa kể một câu chuyện khác nhau.)*
+- There are six flats. **Each** has its own entrance. *(Có 6 căn hộ. Mỗi căn có lối đi riêng.)*
+        
+*Each of* được dùng trước một danh từ số nhiều có từ xác định *(the, my, these,..)* hoặc hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau thường ở số ít. Ex:
+- She gave **each of her grandchildren** 50p. *(Bà ấy cho mỗi đứa cháu 50 penny.)*
+- **Each of us** sees the world differently. *(Mồi người trong chúng ta nhìn nhận thế giới một cách khác nhau.)*
+        
+*Each* có thể theo sau một tân ngữ (trực tiếp hay gián tiếp) hoặc đứng sau một con số. Ex:
+- I want them **each** to be happy. *(Tôi muốn mỗi người trong bọn họ đều được hạnh phúc.)*
+- She gave the students **each** a copy of the script. *(Cô ấy đưa cho mỗi học sinh một bản sao của kịch bản.)*
+- He gave us £5 **each.** *(Ông ta cho mỗi đứa chúng tôi 5 pao.)*
+
+*Each* có thể đứng sau trợ động từ (auxiliary verb) và động từ *to be,* hoặc đứng trước động từ thường (ordinary verb). Trong trường hợp này ta phải dùng danh từ, đại từ và động từ ở số nhiều. Ex:
+- We’ve **each** got our own cabinets. *(Mỗi người trong chúng tôi đều có tủ riêng của mình.)*
+- You are **each** right in a different way. *(Các bạn mỗi người đều đúng theo một cách khác nhau.)*
+- The students **each** have different point of view. *(Các sinh viển mỗi người đều có quan điểm khác nhau.)*
+        
+---
+**Both** *(cả hai)',* được dùng để chỉ cả hai người hoặc hai vật. Ex:
+- He has two brothers; **both** live in London. *(Anh ta có hai anh trai; cả hai đều sống ở London.)*
+- I couldn’t decide which of the two shirts to buy. I like **both.** *(Trong hai cái áo này tôi không thể quyết định nên mua cái nào. Tôi thích cả hai.)*
+
+*Both (of)* được dừng trước danh từ số nhiều có từ xác định đứng trước hoặc trước hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau *ở số* nhiều. Ex:
+- **Both (of) her children** are boys. *(Cả hai đứa con của cô ấy đều là con trai.)*
+- Marta sends **both of you** her regards. *(Marta gửi lời thăm hỏi đến cả hai bạn.)*
+        
+*Of* có thể bỏ khi đứng trước danh từ, nhưng không được bỏ khi đứng trước đại từ.
+        
+*Both* có thể đứng sau trợ động từ (auxiliary verb), sau động từ *to be,* hoặc trước động từ thường. Ex:
+- We can both swim. *(Cả hai chúng tôi đều biết bơi.)*
+- I have two daughters. They’re **both** doctors. *(Tôi có hai con gái.. Cả hai đứa đều là bác sĩ)*
+- My parents **both** work in education. *(Cha mẹ tôi đều làm việc trong ngành giáo dục.)*
+
+*Both* có thể đứng sau một đại từ số nhiều được dùng làm tân ngữ.Ex:
+- She invited US **both.** *(Cô ấy mời cả hai chúng ta.)*
+- Mary sends you **both** her love. *(Mary gởi lời thăm hai bạn.)*
+
+**Lưu ý:** Không dùng mạo từ *the* trước *both.* Ex: Both the children are naughty. *(Cả hai đứa trẻ đều rất nghịch ngợm.)* [NOT The both children... ]
+
+---
+**Either** *(mỗi, một):* được dùng để chỉ cái này hoặc cái kia trong hai cái. Ex:
+- Olive oil and sesame oil are both fine, so you could use **either.** *(Cả dầu ôliu và dầu mè đều tốt, vì thế bạn có thể dùng một trong hai.)*
+- Do you want tea or coffee? ~ **Either.** I don’t mind. *(Anh muốn dùng trà hay cà phê? ~ Gì củng được.)*
+        
+*Either of* được dùng trước một danh từ số nhiều có từ xác định hoặc dạng tân ngữ của đại từ. Động tứ theo sau thường ở số ít.
+- Does **either of you** speak French? *(Trong hai người có người nào biết nói tiếng Pháp không?)*
+- Take one of the books on the table - **either of them** will do. *(Hãy lấy một trong hai cuốn sách trên bàn - cuốn nào cũng được.)*
+- I don’t like **either of my math teachers.** *(Tôi không thích người nào trong hai giáo viễn dạy toán cả.)*
+        
+---
+f. **Neither** *(cả hai ... không):* được dùng để chỉ không phải cái này mà cũng không phải cái kia trong hai cái.
         
         Ex: There were two witnesses, but **neither** would make a statement. *(Có hai nhân chứng, nhưng cả hai đều không cho lời khai.)*
         
         Is your friend British or American? ~ **Neither.** She’s Australia. *(Bạn của anh là người Anh hay người Mỹ? ~ Cả hai đều không phải. Cô ấy là người úc.)*
         
-        - *Neither of* được dùng trước danh từ số nhiều có từ xác định *(the, my, these,...),* hoặc trước một đại từ. Động từ theo sau thường ở số ít.
+*Neither of* được dùng trước danh từ số nhiều có từ xác định *(the, my, these,...),* hoặc trước một đại từ. Động từ theo sau thường ở số ít. Ex:
+- **Neither of the books** was published in this country. *(Cả hai cuốn sách đều không được xuất bản ở nước này.)*
+- I asked two people the way to the station but **neither of them** knew. *(Tôi đã hỏi hai người đường đến ga, nhưng chẳng người nào biết cả.)*
         
-        **Neither of + determiner + plural noun (+singular verb) Neither of US/ you/ them (+ singular verb)**
-        
-        Ex: **Neither of the books** was published in this country. *(Cả hai cuốn sách đều không được xuất bản ở nước này.)*
-        
-        I asked two people the way to the station but **neither of them** knew. *(Tôi đã hỏi hai người đường đến ga, nhưng chẳng người nào biết cả.)*
-        
-        **LƯU ý:** Động từ số ít (singular verb) thường được dùng sau *either of và neither of,* nhưng trong lối văn thẫn mật động từ số nhiều (plural verb) cũng có thể được dùng 
-        
-        Ex: Neither of my sisters **is/ are** married. *(Cả hai người chị của tôi đều chưa kết hôn.)*
-        
-        **Does/ Do** either of you like strawberries? *(Cả hai bạn đều thích dâu phải không?)*
-        
+ **LƯU ý:** Động từ số ít (singular verb) thường được dùng sau *either of và neither of,* nhưng trong lối văn thẫn mật động từ số nhiều (plural verb) cũng có thể được dùng, ví dụ:
+ - Neither of my sisters **is/ are** married. *(Cả hai người chị của tôi đều chưa kết hôn.)*
+ - **Does/ Do** either of you like strawberries? *(Cả hai bạn đều thích dâu phải không?)*
 
 #### 8. Đại từ bất định (Indefinite pronouns)
 Các đại từ bất định trong tiếng Anh gồm có:
