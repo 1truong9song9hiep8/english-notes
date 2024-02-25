@@ -15,7 +15,7 @@ Ex: *an apple, an egg, an island, an umbrella, an orange an hour /an aor/, an ho
 'anast man/
 + Đối với chữ viết tắt: a/ an được dùng theo âm của chữ thứ nhất.
 Ex: *an MP /an em'pi/ , an SOS /an es 00 'es/, a ƯFO /9 ju ef 'oo/
-### Các trường hựp dùng mạo từ a/an
+### Các trường hợp dùng mạo từ a/an
 1. Mạo từ a/an được dùng trước **danh từ đếm được số ít** để cho biết danh từ đó lần đầu được đề cập và người ta không biết đó là ai, ví dụ:
    - She lives in a nice small house. (Cô ấy sống trong một  ngôi nhà nhỏ, đẹp.) [không xác định ngôi nhà nào]
    - I saw a boy in the street. (Tôi nhìn thấy một cậu bé trển đường.)* [người nghe không biết cụ thể đó là cậu bé nào]
@@ -111,15 +111,12 @@ Ex: *I'm the oldest in my family. (Tối là người lớn tuổi nhất trong 
 day of a week. (Thứ Hai là ngày đầu tuần.)* It's the only way to the station. (Đó là đường 
 duy nhât đến nhà ga.)* We went to the same school. (Chúng tôi đã học cùng trường.)*
 
-g. The được dùng trước tên các đảng chính trị, tên tàu thủy, và tên các ban nhạc.
-Ex: *She's a longlife member of the Republican Party.
-(Bà ấy là thành viển lâu năm của Đảng Cộng Hòa.)*
-The Titanic sank on its first voyage across the Atlantic in 1912. (Tàu Titanic đã bị đắm trong
-chuyến đi đầu tiền băng qua Đại Tây Dương năm 1912.)*
-The Beatles was an internationally famous British pop group. (Beatles là ban nhạc pop 
-Anh nổi tiếng thế giới.)*
+7. The được dùng trước tên các đảng chính trị, tên tàu thủy, và tên các ban nhạc, ví dụ:
+   - She's a longlife member of **the Republican Party**. (Bà ấy là thành viển lâu năm của Đảng Cộng Hòa.)
+   - **The Titanic** sank on its first voyage across the Atlantic in 1912. (Tàu Titanic đã bị đắm trong chuyến đi đầu tiền băng qua Đại Tây Dương năm 1912.)
+   - The Beatles was an internationally famous British pop group. (Beatles là ban nhạc pop Anh nổi tiếng thế giới.)
 
-8. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình
+9. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình
 Ex: *The Taylors have lived in this town for over 50 years.
 [= the Taylor family]
 (Gia đình Taylor đã sống ở thị trấn này hơn 50 năm rồi.)*
@@ -137,7 +134,7 @@ Ex: *The Times; The Washington Post; New Scientist
 một tờ báo cụ thể nào đó.
 Ex: *I read about the accident in the paper. (Tôi đọc vê tai nạn đó trên bắo.)*
 
-9. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ 
+10. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ 
 plural countable noun) được dùng để nói về người hoặc vật cụ thể.
 Ex: *I often listen to music. (Tòi thường nghe nhạc.)* [= all music] -> nói chưng The film wasn't 
 very good but I like the music.
