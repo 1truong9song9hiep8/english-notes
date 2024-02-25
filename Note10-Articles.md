@@ -116,10 +116,8 @@ duy nhât đến nhà ga.)* We went to the same school. (Chúng tôi đã học 
    - **The Titanic** sank on its first voyage across the Atlantic in 1912. (Tàu Titanic đã bị đắm trong chuyến đi đầu tiền băng qua Đại Tây Dương năm 1912.)
    - The Beatles was an internationally famous British pop group. (Beatles là ban nhạc pop Anh nổi tiếng thế giới.)
 
-9. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình
-Ex: *The Taylors have lived in this town for over 50 years.
-[= the Taylor family]
-(Gia đình Taylor đã sống ở thị trấn này hơn 50 năm rồi.)*
+9. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình Ex: *The Taylors have lived in this town for over 50 years.
+[= the Taylor family] (Gia đình Taylor đã sống ở thị trấn này hơn 50 năm rồi.)*
 The được dùng trước tên người ở số ít để phân biệt một người với một người khác có cùng tên.
 Ex: *We have two Mr Smiths. Which do you want? ~ I want the Mr Smith who signed this 
 letter. (Ở đây có hai ông tên Smith. Anh cần gặp õng nào? ~ Tôi muốn gặp ông Smith đã ký 
@@ -130,64 +128,43 @@ Ex: *The man's name was Alfred Hitchcock. ~ Not the Alfred Hitchcock? (Tên củ
 i. The thường được dùng trước tên các tờ báo (newspapers), nhưng the không được dùng trước tên 
 các tạp chí (magazines).
 Ex: *The Times; The Washington Post; New Scientist
-★ Lưu ý: Chúng ta cũng dùng the với (news)paper, nhưng the (news)paper không có nghĩa là 
-một tờ báo cụ thể nào đó.
+Lưu ý: Chúng ta cũng dùng the với (news)paper, nhưng the (news)paper không có nghĩa là một tờ báo cụ thể nào đó.
 Ex: *I read about the accident in the paper. (Tôi đọc vê tai nạn đó trên bắo.)*
 
-10. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ 
-plural countable noun) được dùng để nói về người hoặc vật cụ thể.
-Ex: *I often listen to music. (Tòi thường nghe nhạc.)* [= all music] -> nói chưng The film wasn't 
-very good but I like the music.
-(Phim thì không hay lắm nhưng tôi thích nhạc phim.)*
-[= the music in the film] -> nói cụ thể
-Cars have wheels. (Xe hơi có các bánh xe.)* [= all car] -> nói chung The cars in this car 
-park belong to people who work here.
-(Xe trong chỗ đậu xe này là của những người làm việc ở đây.)*
--> nói cụ thể
-Children need love and attention. (Trễ con cần tình thương và sự quan tâm chăm sóc.)* [= 
+10. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ plural countable noun) được dùng để nói về người hoặc vật cụ thể.
+Ex: *I often listen to music. (Tòi thường nghe nhạc.)* [= all music] -> nói chưng The film wasn't very good but I like the music. (Phim thì không hay lắm nhưng tôi thích nhạc phim.)*
+[= the music in the film] -> nói cụ thể Cars have wheels. (Xe hơi có các bánh xe.)* [= all car] -> nói chung The cars in this car 
+park belong to people who work here. (Xe trong chỗ đậu xe này là của những người làm việc ở đây.)*
+-> nói cụ thể Children need love and attention. (Trễ con cần tình thương và sự quan tâm chăm sóc.)* [= 
 all children] -> nói chung
 We took the children to the zoo. (Chúng tôi dẫn bọn trẻ đi sở thú.)* -> một nhóm trẻ cụ thể, 
 có thể là con của người nói
-k. The thường không được dùng khi nói đến người hoặc vật một cách chung chung, nhưng the + 
-danh từ đếm được số ít (the + a singular countable noun) có thể được dùng để nói chung về một 
-loài động vật, một loại dụng cụ hoặc máy móc, các phát minh khoa học và các nhạc khí.
-Ex: *The tiger is in danger of becoming extinct. (Cọp đang có nguy cơ bị tuyệt chủng.)* [The tiger 
-= All tigers] -> đề cập đến cả loài cọp The blue whale is the largest mammal on earth.
-(Cá voi xanh là loài động vật có vú to nhất trên trái đất.)* [= all blue whales]
-Life would be quieter without the telephone.
-(Không có điện thoại cuộc sống sẽ yên tĩnh hơn.)*
-Who invented the airplane/ the wheel/ the camera?
-(Ai dã phát minh ra máy bay/ bánh xe/ máy ảnh?) The piano is really difficult. (Dương 
-cầm rất khó chơi.)* Sandra can play the piano, the violin and the clarinet.
-(Sandra biết chơi dương cầm, violin và kèn clarinet.)*
-& Lưu ý: Chúng ta cũng có thể dùng a/ an để nói khái quát bằng cách nêu một thành viên bất kỳ 
-của một loại.
-Ex: *A baby deer can stand as soon as it's born. (Hươu con có thể dứng ngay khi mới sinh ra.)* 
-Nhưng a/ an không được dùng khi nói khái quát về tất cả các thành viên của một loại. Ex: *The 
-tiger is in danger of becoming extinct./ Tigers are in danger of becoming extinct.
-[NOT ATiger is in danger...]
-l. The + tính từ (The + adjective) được dùng đế' nói về một nhóm người cụ thể nào đó trong xã 
-hội: the young, the old, the elderly, the poor, the rich, the sick, the disabled, the unemployed, the 
-homeless, the deaf, the blind... Ex: *The government should provide accommodation for the 
-homeless.
-(Chính phủ nên cung cấp nơi ăn chốn ở cho những người vô gia cư.)*
-Life must be hard for the unemployed in our society today.
-(Trong xã hội chúng ta ngày nay, cuộc sống hẳn là rất khó khăn đối với những người thất 
-nghiệp.)*
-m. The + quốc tịch (The + nationality) được dùng để chỉ toàn dân của một quốc gia nào đó.
-Ex: *The French are famous for their cooking.
-(Người Pháp nổi tiếng về nấu ăn.)*
-The Chinese invented printing.
-(Người Trung Quốc đã phát minh ra kỹ thuật in ấn.)*
-n. The thường được dùng trước nhừng danh từ có of theo sau.
-Ex: *the palace of Westminster. (Lâu đài Westminster)
+k. The thường không được dùng khi nói đến người hoặc vật một cách chung chung, nhưng the + danh từ đếm được số ít (the + a singular countable noun) có thể được dùng để nói chung về một  loài động vật, một loại dụng cụ hoặc máy móc, các phát minh khoa học và các nhạc khí. Ex:
+- The tiger is in danger of becoming extinct. (Cọp đang có nguy cơ bị tuyệt chủng.)* [The tiger = All tigers] -> đề cập đến cả loài cọp
+- The blue whale is the largest mammal on earth. (Cá voi xanh là loài động vật có vú to nhất trên trái đất.)* [= all blue whales]
+- Life would be quieter without the telephone. (Không có điện thoại cuộc sống sẽ yên tĩnh hơn.)*
+- Who invented the airplane/ the wheel/ the camera? (Ai dã phát minh ra máy bay/ bánh xe/ máy ảnh?)
+- The piano is really difficult. (Dương cầm rất khó chơi.)
+- Sandra can play the piano, the violin and the clarinet. (Sandra biết chơi dương cầm, violin và kèn clarinet.)
+
+Lưu ý: Chúng ta cũng có thể dùng a/ an để nói khái quát bằng cách nêu một thành viên bất kỳ của một loại. Ex:
+- *A baby deer can stand as soon as it's born. (Hươu con có thể dứng ngay khi mới sinh ra.)* 
+
+Nhưng a/ an không được dùng khi nói khái quát về tất cả các thành viên của một loại. Ex: *The tiger is in danger of becoming extinct./ Tigers are in danger of becoming extinct. [NOT ATiger is in danger...]
+
+The + tính từ (The + adjective) được dùng đế' nói về một nhóm người cụ thể nào đó trong xã hội: the young, the old, the elderly, the poor, the rich, the sick, the disabled, the unemployed, the homeless, the deaf, the blind... Ex: *The government should provide accommodation for the homeless. (Chính phủ nên cung cấp nơi ăn chốn ở cho những người vô gia cư.)*
+Life must be hard for the unemployed in our society today. (Trong xã hội chúng ta ngày nay, cuộc sống hẳn là rất khó khăn đối với những người thất nghiệp.)
+
+
+The + quốc tịch (The + nationality) được dùng để chỉ toàn dân của một quốc gia nào đó. Ex: *The French are famous for their cooking. (Người Pháp nổi tiếng về nấu ăn.)*
+The Chinese invented printing. (Người Trung Quốc đã phát minh ra kỹ thuật in ấn.)
+
+The thường được dùng trước nhừng danh từ có of theo sau. Ex: *the palace of Westminster. (Lâu đài Westminster)
 the Gulf of Mexico (Vinh Mexico) [= Mexico Gulf]
 the University of London (Đại học London) [= London University] the music of the 
 eighteenth century (âm nhạc thế kỷ 18) [= eighteenth-century music]
-a book on the history of Ireland (một cuốn sách về lịch sử Ai-len) [= a book on Irish 
-history]
-Lying by the side of the road we saw the wheel of a car. (Chúng tôi nhìn thấy một chiếc vô-
-lăng nằm bên đường.)*
+a book on the history of Ireland (một cuốn sách về lịch sử Ai-len) [= a book on Irish history]
+Lying by the side of the road we saw the wheel of a car. (Chúng tôi nhìn thấy một chiếc vô-lăng nằm bên đường.)*
 
 
 The không được dùng trước danh từ số nhiều và danh từ không đếm được với nghĩa chung. Ex: *Elephants are intelligent animals. (Voi là con vật thông minh.)* [NOT The elephants arc 
