@@ -75,73 +75,45 @@ Ex: *a house but an hour
 a university but an umbrella
 
 ### Mạo từ xác định (THE)
-Mạo từ xác định the được dùng cho tất cả các danh từ: danh từ đếm được số ít, danh từ đếm được số nhiều và danh từ không đếm được
-Ex: *the boy, the boys, the food
+Mạo từ xác định the được dùng cho tất cả các danh từ: danh từ đếm được số ít, danh từ đếm được số nhiều và danh từ không đếm được, ví dụ: *the boy, the boys, the food...*
 #### Các trường hợp dùng mạo từ the
-a. Mạo từ xác định the được dùng trước danh từ chỉ người hoặc vật đã xác định hoặc đã được đề 
-cập đến trước đó - người nghe biết (hoặc có thể hiểu) người nói đang nói về người hoặc vật 
-nào.
-Ex: *Did you lock the car? (Anh đã khóa xe rồi chứ?) [= your car/ our car] Could you close 
-the door? (Anh đóng giùm cái cửa được không?) [chỉ có một cái cửa đang mở]
-His car struck a tree; you can still see the mark on the tree.
-(Xe anh ta đâm vào một cái cây; bạn vẫn có thể nhìn thấy dấu vêt trên cây.)*
-['tree' trong câu thứ hai đã được đề cập đến trong câu thứ nhất]
-Lưu ý: The dược dùng để chỉ người hoặc vật đã xác định, a/ an được dùng để chỉ người hoặc 
-vật không xác định.
-Ex: *We hired a car to go to Scotland. (Chúng tôi dã thuê một chiếc xe dể đi Scotland.)* 
-[người nghe không biết là chiếc xe nào]
-But: I cleaned the car yesterday. (Hôm qua tôi đã rửa xe.)* [my car/ our car]
-[người nghe biết rõ chiếc xe nào đang được nói đến]
-Ann is looking for a job. (Ann đang tìm việc.)* [không nói đến một công việc cụ thể nào] 
-But: Did Ann get the job she applied for?
-(Có phải Ann đã nhận được việc làm mà cô ây đã xin không?)
-[một công việc cụ thể nào đó]
-She's got two children: a boy and a girl. The boy is fourteen and the girl is eight. (Cô ấy 
-có hai con: một trai và một gái. Đứa con trai 14 tuổi và bé gái 8 tuổi.)* [Trong câu thứ nhất 
-người nói dùng 'a boy' 'a girl'y] để cập đến lẩn đầu. Trong câu thứ hai người nói dùng 'the 
-boy' 'the girl'yj] người nghe đã biết cậu bé và cô bé nào đang được nói đến.]
-b. The được dùng trước danh từ được xác định bằng một cụm từ hoặc một mệnh đề theo sau.
-Ex: *Who's is the girl in blue? (Cô gái mặc đồ xanh là ai vậy?)
-What did you do with the camera I lent you?
-(Bạn đã làm gì với cái máy ảnh tôi cho bạn mượn?)
-Tell Pat the story about John and Susie.
-(Hãy kể cho Pat nghe chuyện John và Susie đi.)*
-c. The được dùng trước các danh từ chỉ nơi chôn cụ thể.
-Ex: *Turn left here for the station. (Rẽ trái ở đây để đến nhà ga.)*
-[nhà ga trong thị trấn hoặc thành phố này]
-But: The train stopped at a station. (Tàu dừng ở ga.)*
-[không biết cụ thể là ga nào]
-Ann is in the garden. (Ann đang ở trong vườn.)* [vườn của ngôi nhà này] Mưu ý: Khi chúng 
-ta nói (go to) the cinema, the theater thì không nhất thiết là chúng ta muốn nói đến một rạp chiếu 
-bóng hay một nhà hát cụ thể nào đó.
-Ex: *I often go to the cinema, but I haven't been to the theater for ages.
-(Tôi thường đi xem phim, nhưng lâu rồi tôi không đi xem hất.)*
-d. The được dùng trước danh từ chỉ vật gì đó là duy nhất, hoặc vật gì đó chỉ có một trong môi 
-trường quanh ta: the earth, the sun, the sky, the stars, the moon, the planets, the world, the 
-equator, the Government, the police, the Japanese, the Prime Minister, the capital,...
-Ex: *The earth goes round the sun and the moon goes round the earth. (Trái đất xoay quanh 
-mặt trời còn mặt trăng xoay quanh trái đất.)* [chỉ có duy nhất một trái đất, một mặt trời và 
-một mặt trăng trong thái dương hệ của chúng ta.]
-Have you never heard of the Thirty Years' War?
-(Bạn chưa bao giờ nghe nói đến Cuộc Chiến tranh Ba mươi năm sao?) [chỉ có một cuộc 
-chiến]
-Madrid is the capital of Spain. (Madrid là thủ đô của Tây Ban Nha.)* [chỉ có một thủ đô]
-I'll meet you outside the main entrance.
-(Tôi sẽ gặp anh ngoài cổng chính.)*
-[chỉ có một cổng chính trong tòa nhà]
-e. The được dùng với một số cụm từ đề cập đến môi trường vật chất của chúng ta - tức thế giới quanh 
-ta và khí hậu của nó - hoặc các mặt thông thường khác trong cuộc sống: the environment, the town, 
-the country, the sea, the seaside, the night, the mountains, the desert, the rain, the wind,
-Ex: *Do you prefer the town or the country?
-(Bạn thích thành thị hay nông thôn hơn?)
-I love listening to the wind. (Tồi thích nghe tiếng gió.)* My wife likes the seaside, but I prefer 
-the mountains.
-(Vợ tôi thích miền biển, nhưng tôi lại thích miền núi hơn.)*
-f. The được dùng trước tính từ hoặc trạng từ trong so sánh nhất, trước first, second, third ..., và trước 
-next, last, same, only.
+1. Mạo từ **the** được dùng trước danh từ đã được người nghe hoặc người đọc biết đến. ví dụ:
+   - *Did you lock the car? (Anh đã khóa xe rồi chứ?) [= your car/ our car]
+   - Could you close the door? (Anh đóng giùm cái cửa được không?) [chỉ có một cái cửa đang mở]
+   - His car struck a tree; you can still see the mark on the tree. (Xe anh ta đâm vào một cái cây; bạn vẫn có thể nhìn thấy dấu vêt trên cây.)* ['tree' trong câu thứ hai đã được đề cập đến trong câu thứ nhất]
+
+Lưu ý: The dược dùng để chỉ người hoặc vật đã xác định, a/an được dùng để chỉ người hoặc vật không xác định.Ex:
+- *We hired a car to go to Scotland. (Chúng tôi dã thuê một chiếc xe dể đi Scotland.)* [người nghe không biết là chiếc xe nào] But: I cleaned the car yesterday. (Hôm qua tôi đã rửa xe.)* [my car/ our car] [người nghe biết rõ chiếc xe nào đang được nói đến]
+- Ann is looking for a job. (Ann đang tìm việc.)* [không nói đến một công việc cụ thể nào]  But: Did Ann get the job she applied for? (Có phải Ann đã nhận được việc làm mà cô ây đã xin không?) [một công việc cụ thể nào đó]
+- She's got two children: a boy and a girl. The boy is fourteen and the girl is eight. (Cô ấy có hai con: một trai và một gái. Đứa con trai 14 tuổi và bé gái 8 tuổi.)* [Trong câu thứ nhất  người nói dùng 'a boy' 'a girl'y] để cập đến lẩn đầu. Trong câu thứ hai người nói dùng 'the boy' 'the girl'yj] người nghe đã biết cậu bé và cô bé nào đang được nói đến.]
+
+2. The được dùng trước danh từ được xác định bằng một cụm từ hoặc một mệnh đề theo sau. Ex:
+   - Who's is the girl in blue? (Cô gái mặc đồ xanh là ai vậy?)
+   - What did you do with the camera I lent you? (Bạn đã làm gì với cái máy ảnh tôi cho bạn mượn?)
+   - Tell Pat the story about John and Susie. (Hãy kể cho Pat nghe chuyện John và Susie đi.)
+
+3. The được dùng trước các danh từ chỉ nơi chôn cụ thể, ví dụ:
+   - *Turn left here for the station. (Rẽ trái ở đây để đến nhà ga.)* [nhà ga trong thị trấn hoặc thành phố này] But: The train stopped at a station. (Tàu dừng ở ga.)* [không biết cụ thể là ga nào]
+   - Ann is in the garden. (Ann đang ở trong vườn.)* [vườn của ngôi nhà này]
+   
+   Mưu ý: Khi chúng ta nói (go to) the cinema, the theater thì không nhất thiết là chúng ta muốn nói đến một rạp chiếu bóng hay một nhà hát cụ thể nào đó. Ex:
+   - *I often go to the cinema, but I haven't been to the theater for ages. (Tôi thường đi xem phim, nhưng lâu rồi tôi không đi xem hất.)*
+
+4. The được dùng trước danh từ chỉ vật gì đó là duy nhất, hoặc vật gì đó chỉ có một trong môi trường quanh ta: the earth, the sun, the sky, the stars, the moon, the planets, the world, the equator, the Government, the police, the Japanese, the Prime Minister, the capital,... ví dụ:
+   -  *The earth goes round the sun and the moon goes round the earth. (Trái đất xoay quanh mặt trời còn mặt trăng xoay quanh trái đất.)* [chỉ có duy nhất một trái đất, một mặt trời và  một mặt trăng trong thái dương hệ của chúng ta.]
+   -  Have you never heard of the Thirty Years' War? (Bạn chưa bao giờ nghe nói đến Cuộc Chiến tranh Ba mươi năm sao?) [chỉ có một cuộc chiến]
+   -  Madrid is the capital of Spain. (Madrid là thủ đô của Tây Ban Nha.)* [chỉ có một thủ đô] I'll meet you outside the main entrance. (Tôi sẽ gặp anh ngoài cổng chính.)* [chỉ có một cổng chính trong tòa nhà]
+
+5. The được dùng với: the environment, the town, the country, the sea, the seaside, the night, the mountains, the desert, the rain, the wind, ví dụ:
+   - *Do you prefer the town or the country? (Bạn thích thành thị hay nông thôn hơn?)
+   - I love listening to the wind. (Tồi thích nghe tiếng gió.)*
+   - My wife likes the seaside, but I prefer  the mountains. (Vợ tôi thích miền biển, nhưng tôi lại thích miền núi hơn.)*
+
+6. the được dùng trước tính từ hoặc trạng từ trong so sánh nhất, trước first, second, third ..., và trước next, last, same, only.
 Ex: *I'm the oldest in my family. (Tối là người lớn tuổi nhất trong gia đỉnh.)* Monday is the first 
 day of a week. (Thứ Hai là ngày đầu tuần.)* It's the only way to the station. (Đó là đường 
 duy nhât đến nhà ga.)* We went to the same school. (Chúng tôi đã học cùng trường.)*
+
 g. The được dùng trước tên các đảng chính trị, tên tàu thủy, và tên các ban nhạc.
 Ex: *She's a longlife member of the Republican Party.
 (Bà ấy là thành viển lâu năm của Đảng Cộng Hòa.)*
@@ -149,7 +121,8 @@ The Titanic sank on its first voyage across the Atlantic in 1912. (Tàu Titanic 
 chuyến đi đầu tiền băng qua Đại Tây Dương năm 1912.)*
 The Beatles was an internationally famous British pop group. (Beatles là ban nhạc pop 
 Anh nổi tiếng thế giới.)*
-h. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình
+
+8. The được dùng trước tên người ở số nhiều để chỉ toàn thể gia đình
 Ex: *The Taylors have lived in this town for over 50 years.
 [= the Taylor family]
 (Gia đình Taylor đã sống ở thị trấn này hơn 50 năm rồi.)*
@@ -166,7 +139,8 @@ Ex: *The Times; The Washington Post; New Scientist
 ★ Lưu ý: Chúng ta cũng dùng the với (news)paper, nhưng the (news)paper không có nghĩa là 
 một tờ báo cụ thể nào đó.
 Ex: *I read about the accident in the paper. (Tôi đọc vê tai nạn đó trên bắo.)*
-j. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ 
+
+9. The + danh từ không đếm được hoặc danh từ đếm được số nhiều (The + a uncountable noun/ 
 plural countable noun) được dùng để nói về người hoặc vật cụ thể.
 Ex: *I often listen to music. (Tòi thường nghe nhạc.)* [= all music] -> nói chưng The film wasn't 
 very good but I like the music.
@@ -220,48 +194,42 @@ a book on the history of Ireland (một cuốn sách về lịch sử Ai-len) [=
 history]
 Lying by the side of the road we saw the wheel of a car. (Chúng tôi nhìn thấy một chiếc vô-
 lăng nằm bên đường.)*
-2.2. Các trường hợp không dùng mạo từ the
-The không được dùng
-a. Trước danh từ số nhiều và danh từ không đếm được với nghĩa chung.
-Ex: *Elephants are intelligent animals. (Voi là con vật thông minh.)* [NOT The elephants arc 
+
+
+The không được dùng trước danh từ số nhiều và danh từ không đếm được với nghĩa chung. Ex: *Elephants are intelligent animals. (Voi là con vật thông minh.)* [NOT The elephants arc 
 intelligent animals]
 We always need money. (Chúng ta luôn cần tiền.)*
 [NOT We always need the money.]
-b. Trước các danh từ trừu tượng: nature, space, society, life, happiness, freedom, love ... khi những 
-danh từ này có nghĩa chung. Dùng the khi nhừng danh từ này có nghĩa riêng biệt.
+
+The không được dùng trước các danh từ trừu tượng: nature, space, society, life, happiness, freedom, love ... khi những danh từ này có nghĩa chung. Dùng the khi nhừng danh từ này có nghĩa riêng biệt.
 Ex: *Life is complicated. (Cuộc sống thật phức tạp.)*
 I'm studying the life of Beethoven (Tôi dang học tiểu sử của Beethoven.)* I love nature. 
 (Tôi yêu thiên nhiên.)* [NOT ... the nature]
-c. Trước các môn thể thao: tennis, basketball, chess, golf...
+
+The không được dùng trước các môn thể thao: tennis, basketball, chess, golf...
 Ex: *He plays golf. (Anh ấy chơi gôn.)* [NOT Ho plays the golf.]
-d. Trước các danh từ chỉ các bữa án trong ngày: breakfast, lunch, dinner, supper. Ex: *They have 
-gone for lunch. (Họ đã đi ăn trưa rồi.)*
+
+The không được dùng trước các danh từ chỉ các bữa án trong ngày: breakfast, lunch, dinner, supper. Ex: *They have gone for lunch. (Họ đã đi ăn trưa rồi.)*
 What time is dinner? (Án tối lúc mấy giờ?)
 Nhưng a/ an có thể được dùng khi có tính từ đứng trước.
 Ex: *We had a very nice breakfast.
 (Chúng tôi đã có một bữa điểm tâm rât ngon.)*
-2.3. Cách dùng the với tên riêng của một số nơi chốn và địa danh
-a. The không được dùng trước tên của
-Lục địa: Africa, Europe, Asia
-Quốc gia: France, Japan, Switzerland, New Zealand
-- Tiểu bang: Texas, Florida, New Orleans, California
-- Thành phố, thị trấn: Cairo, New York, Houston, Bristol
-Đảo: Corsica, Sicily, Bermuda, Corfu
-HỒ: Coniston Water, Lake Michigan
-- Núi, đồi: Everest, Etna, Kilimanjaro, North Hill
-- Đường phố, công viên, quảng trường: Shirley Street, Morden Road, fifth Avenue, Times 
-Square, Hyde Park
-Nhà ga, phi trường, trường học, và các tòa nhà, công trình hoặc cơ quan trọng yếu: Kennedy 
-Airport, Victoria Station, Edinburgh Castle, Oxford University, Westminster Abbey, Bristol 
-Zoo, Merton College Cửa hàng, nhà hàng, khách sạn, ngân hàng,... được đặt tên theo tên 
-người sáng lập hoặc các nhà thờ được đặt tên theo tên các vị thánh: Matilda's Restaurant, 
-Lloyds Bank, McDonald, Harrods (shop), St John's Church. St Paul's Cathedral
-Các hành tinh: Venus, Mars, Jupiter
-Các công ty, các hãng hàng không, V.V.: Fiat, Sony, Bristish Airway, IBM, Vietnam Airline
-b. The được dùng trước tên riêng của
-Các quốc gia có từ Republic, Kingdom, State, Union, hoặc tên các quốc gia ở số nhiều: the 
-United States, the Netherlands , the Philippines, the United Kingdom, the Dominican 
-Republic
+
+Cách dùng the với tên riêng của một số nơi chốn và địa danh
+The không được dùng trước tên của lục địa: Africa, Europe, Asia
+The không được dùng trước tên của quốc gia: France, Japan, Switzerland, New Zealand
+The không được dùng trước tên của tiểu bang: Texas, Florida, New Orleans, California
+The không được dùng trước tên của thành phố, thị trấn: Cairo, New York, Houston, Bristol
+The không được dùng trước tên của đảo: Corsica, Sicily, Bermuda, Corfu
+The không được dùng trước tên của hồ: Coniston Water, Lake Michigan
+The không được dùng trước tên của núi, đồi: Everest, Etna, Kilimanjaro, North Hill
+The không được dùng trước tên của đường phố, công viên, quảng trường: Shirley Street, Morden Road, fifth Avenue, Times Square, Hyde Park
+The không được dùng trước tên Nhà ga, phi trường, trường học, và các tòa nhà, công trình hoặc cơ quan trọng yếu: Kennedy Airport, Victoria Station, Edinburgh Castle, Oxford University, Westminster Abbey, Bristol 
+Zoo, Merton College Cửa hàng, nhà hàng, khách sạn, ngân hàng,... được đặt tên theo tên người sáng lập hoặc các nhà thờ được đặt tên theo tên các vị thánh: Matilda's Restaurant, Lloyds Bank, McDonald, Harrods (shop), St John's Church. St Paul's Cathedral
+The không được dùng trước tên các hành tinh: Venus, Mars, Jupiter
+The không được dùng trước tên các công ty, các hãng hàng không, V.V.: Fiat, Sony, Bristish Airway, IBM, Vietnam Airline
+
+The được dùng trước tên riêng của các quốc gia có từ Republic, Kingdom, State, Union, hoặc tên các quốc gia ở số nhiều: the United States, the Netherlands , the Philippines, the United Kingdom, the Dominican Republic
 - Vùng, miền: the west, the north, the south, the south-east, the Middle East, the Midlands
 - Biển: the Black Sea, the Mediterrannean (Sea), the Baltic
 - Đại dương: the Pacific (Ocean), the Atlantic (Ocean), the Arctic Ocean, the Indian Ocean
@@ -278,9 +246,9 @@ Science Museum, the British Museum
 - Thư viện, câu lạc bộ: the Library of Congress, the Angle Club
 Một số các tòa nhà, công trình nổi tiếng: the Empire State Building, the White House, the 
 Royal Palace, the Golden Gate Brigde, the Vatican
-& Lưu ý:
-Chúng ta dùng the khi nói vể các miền, nhưng chúng ta không dùng the với tên miển tận 
-cùng bằng tên một châu lục hoặc tên một quốc gia.
+
+Lưu ý:
+Chúng ta dùng the khi nói vể các miền, nhưng chúng ta không dùng the với tên miển tận cùng bằng tên một châu lục hoặc tên một quốc gia.
 Ex: *the north (of France) but northern France
 the west (of Africa) but West Africa
 the south-east (of Spain) but south-eastern Spain/ South-East 
@@ -288,10 +256,8 @@ Spain - Chúng ta không dùng the trước tên của các tòa nhà và các c
 đầu tiên thường là tên riêng của một người hay một địa điểm.
 Ex. Kennedy Airport, Cambridge University, Hull station, Salisbury Cathedral, Norwich 
 Museum
-Nhưng the được dùng trước các tên có of hoặc các tên có từ đầu tiên là một danh từ 
-chung hoặc một tính từ.
-Ex: *the White House; the Royal Palace; the University of York; the Palace of Westminster; 
-the Science Museum; the Open University
+Nhưng the được dùng trước các tên có of hoặc các tên có từ đầu tiên là một danh từ  chung hoặc một tính từ.
+Ex: *the White House; the Royal Palace; the University of York; the Palace of Westminster; the Science Museum; the Open University
 
 ## Các quy luật đặc biệt và các ngoại lệ
 a. Không dùng the trước một số danh từ chỉ nơi chốn như: hospital, church, prison, school, college, university khi đề cập đến khái niệm tổng quát hoặc mục đích sử dụng chính của những nơi này.<br>
