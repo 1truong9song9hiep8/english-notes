@@ -63,22 +63,19 @@ Ex: *an MP /an em'pi/ , an SOS /an es 00 'es/, a ƯFO /9 ju ef 'oo/
    - *He's a friend of mine. (Anh ấy là bạn tôi.)** [NOT He's a my friend.]
 
 Lưu ý:
-- A/an có thể được dùng trước một số danh từ không đếm được (uncountable nouns) khi các 
-danh từ này được xem như danh từ đếm được để diễn đạt nghĩa 'một loại cửa', 'một phần 
-của', hoặc khi các danh từ này đề cập đến xúc cảm của con người và hoạt dộng về tinh thần.
+- A/an có thể được dùng trước một số danh từ không đếm được (uncountable nouns) khi các danh từ này được xem như danh từ đếm được để diễn đạt nghĩa 'một loại cửa', 'một phần  của', hoặc khi các danh từ này đề cập đến xúc cảm của con người và hoạt dộng về tinh thần.
 Ex: *Have you got a shampoo for dry hair? (Chị cố loại dầu gội dành cho tóc khô không?) 
 Would you like a coffee? (Anh dùng một tách cà phê nhé?)
 I need a good sleep. (Tôi cần một giấc ngủ ngon.)** We need a secretary with a 
 knowledge of English. (Chúng tôi cẩn một thư ký biết tiếng Anh.)**
 - Một số từ có thể gây sự nhầm lẫn vì cách viết và cách đọc khác nhau.
-Ex: *a house but an hour
-a university but an umbrella
+Ex: *a house but an hour a university but an umbrella
 
 ### Mạo từ xác định (THE)
 Mạo từ xác định the được dùng cho tất cả các danh từ: danh từ đếm được số ít, danh từ đếm được số nhiều và danh từ không đếm được, ví dụ: *the boy, the boys, the food...*
 #### Các trường hợp dùng mạo từ the
 1. Mạo từ **the** được dùng trước danh từ đã được người nghe hoặc người đọc biết đến. ví dụ:
-   - *Did you lock the car? (Anh đã khóa xe rồi chứ?) [= your car/ our car]
+   - Did you lock the car? (Anh đã khóa xe rồi chứ?) [= your car/ our car]
    - Could you close the door? (Anh đóng giùm cái cửa được không?) [chỉ có một cái cửa đang mở]
    - His car struck a tree; you can still see the mark on the tree. (Xe anh ta đâm vào một cái cây; bạn vẫn có thể nhìn thấy dấu vêt trên cây.)* ['tree' trong câu thứ hai đã được đề cập đến trong câu thứ nhất]
 
