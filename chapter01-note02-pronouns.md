@@ -243,205 +243,85 @@ Khi nhấn mạnh chủ ngữ, đại từ nhấn mạnh có thể đứng cuố
         *(Tôi không thích những chiếc áo len này. Tôi thích những chiếc ở đằng kia hơn.)*
         
         **This** (one) looks the nicest. *(Cái này có vẻ đẹp nhất.)*
-        
+
 ## 5. Đại từ nghi vấn (Interrogative pronouns)
-        
-        Đại từ nghi vấn là các đại từ dùng để hỏi như: *who, whom, whose, what, which.* Các đại từ nghi
-        
-        vấn thường đứng đầu câu và luôn đi trước động từ.
-        
-        Ex: **What** do you want? *(Bạn muốn gì?)*
-        
-        **Whose** is the red car? *(Chiếc ô tô màu đỏ của ai vậy1?)*
-        
-        a. **Who** *(ai)',* là đại từ nghi vấn dùng cho người, để hỏi tên, nét nhận dạng, hoặc chức năng của
-        
-        một hay nhiều người. *Who* có thể được dùng làm:
-        
-        - Chủ ngữ của động từ (subject of a verb)
-        
-        Ex: **Who** keeps the keys? *(Ai giữ chìa khóa?)*
-        
-        **Who** is the man in grey coat?
-        
-        *(Người đàn ông mặc áo choàng xám là ai thế?)*
-        
-        - Tân ngữ của động từ hoặc giới từ (object of a verb or a preposition) Ex: **Who** did you see at
-        
-        church? *(Bạn đã gặp ai ở nhà thờ?)*
-        
-        *[who* là tân ngừ của động từ *see]*
-        
-        **Who** does this place belong to? *(Nơi. này thuộc về ai vậy?)*
-        
-        *[who* là tân ngữ của giới từ /ớ]
-        
-        **Mưu ý:** Trong trường hợp *who* là tân ngữ của giới từ, giới từ luôn được đặt cuối câu.
-        
-        Ex: Who did you go with? *(Anh áẵ đi vôi ai?)* [NOT With who did you go?]
-        
-        b. **Whom** *(ai):* là đại từ nghi vấn dùng cho người. *Whom* được dùng làm tân ngữ (object) cho
-        
-        động từ hoặc giới từ.
-        
-        Ex: **Whom** did they invite? *(Họ đã mời những ai?)*
-        
-        **To whom** were you speaking at that time?/ **Whom** were you speaking **to** at that time? *(Lúc đó bạn đang nói chuyện với ai vậy?)*
-        
-        **Mưu ý:**
-        
-        Cả *who* và *whom* đều có thể làm tân ngữ của động từ hoặc giới từ, nhưng *who* thường
-        
-        được dùng hơn (nhất là trong lối nói thân mật). *Whom* thường được dùng trong lối nói
-        
-        trịnh trọng hoặc trong văn viết.
-        
-        Ex: **Who/ Whom** did you invite to your party? *(Bạn mời những ai đến dự tiệc?)*
-        
-        Trong trường hợp *whom* làm tân ngữ cho giới từ, giới từ có thể được đặt trước *whom* hoặc
-        
-        đặt cuối câu. Cách dùng *giới từ + whom* thường được dùng trong lối văn trịnh trọng.
-        
-        Ex: **Whom** did you go **with? orWith whom** did you go?
-        
-        c. **Whose** *(của ai):* là đại từ nghi vấn dùng để hỏi về sự sở hữu. *Whose* được dùng làm chủ ngừ
-        
-        của động từ.
-        
-        Ex: **Whose** is that dog? *(Con chó kia của ai?)*
-        
-        What about these jackets? **Whose** are they?
-        
-        *(Còn những chiếc áo vét này thì sao? Chúng của ai vậy?)*
-        
-        *[Whose* là chủ ngữ của *is* và *are]*
-        
-        d. **What** *(cái gì)',* là đại từ nghi vấn dùng để hỏi về sự vật hoặc sự việc. *What* có thể được dùng
-        
-        làm chủ ngữ của động từ hoặc tân ngữ của động từ và giới từ.
-        
-        Ex: **What** caused the explosion? *(Cái gì đã gây ra vụ nổ?)*
-        
-        *[What* là chủ ngữ của *caused]*
-        
-        **What** did you say? *(Anh đã nói gì?)*
-        
-        *[What* là tân ngữ của *say]*
-        
-        **What** was your theory based on?/ On **what** was your theory based? *(Lý luận của bạn*
-        
-        *được căn cứ vào cái gì?)*
-        
-        *[What* là tân ngữ của Oft]
-        
-        - **Một số cách dùng với *What***
-        - *What* thường được dùng để hỏi về thông tin.
-        
-        Ex: **What** are you doing? ~ I’m writing a letter.
-        
-        *(Bạn đang làm gì thế? ~ Tôi đang viết thư.)*
-        
-        - *What* được dùng để hỏi nghề nghiệp.
-        
-        Ex: **What** is he?/ **What** does he do? *(Anh ta làm nghề gì?)*
-        
-        **[= What** is his profession?]
-        
-        - *What ... for?* được dùng để hỏi về mục đích hoặc lý do. Ex: **What** is this tool **for?** *(Dụng cụ*
-        
-        *này để làm gì?)*
-        
-        **What** are they digging the road up **for? ~** They’re repairing a gas pipe. *(Họ đào đường*
-        
-        *để làm gì vậy? ~ Họ đang sửa ống dẫn gas.)* **[= Why** are they digging up the road?]
-        
-        - *What + be ... like?* được dùng để hỏi về tính cách, tính chất, hoặc nét đặc trưng của người, vật
-        
-        hay sự vật.
-        
-        Ex: **What was** the exam **like? ~** It was very difficult.
-        
-        *(Bài kiểm tra như thế nào? ~ Rất khó.)*
-        
-        **What is** David **like? ~** He’s short and fat and wears glasses./ He’s very sociable. *(David*
-        
-        *như thế nào? ~ Anh ấy mập lùn và mang kính. / Anh ấy rất thân thiện.)*
-        
-        *+ How + be + (a thing)...?* cũng có thể được đùng để yêu cầu mô tả một sự vật hoặc sự việc nào
-        
-        đó.
-        
-        Ex: **How was** the film? ~ It was very good. *(Bộ phim thế nào? ~ Rất hay.)* **[= What was** the
-        
-        film **like?]**- *What does* he/ she/ it... *look like?* được dùng để hỏi về vẻ bề ngoài. Ex: **What does** she **look**
-        
-        **like?** She’s tall and glamorous.
-        
-        *(Trông cô ta như thế nào? Cô ta cao và đầy quyến rủ.)*
-        
-        - *What about + V-ing? (= How about + V-ing?)* được dùng để đưa ra một gợi ý hoặc đề nghị.
-        
-        Ex: **What about** going for a walk? *(Đi dạo nhé?)*
-        
-        e. **Which** *(nào, cái nào, người nào)* là đại từ nghi vấn được dùng cho cả người và vật, để chỉ sự
+Đại từ nghi vấn là các đại từ dùng để hỏi như: ***who, whom, whose, what, which***. Các đại từ nghi vấn thường đứng đầu câu và luôn đi trước động từ. Ex:
+- ***What** do you want? (Bạn muốn gì?)*
+- ***Whose** is the red car? (Chiếc ô tô màu đỏ của ai vậy?)*
+        
+a. **Who** *(ai)*: là đại từ nghi vấn dùng cho người, để hỏi tên, nét nhận dạng, hoặc chức năng của một hay nhiều người. *Who* có thể được dùng làm:
+- Chủ ngữ của động từ (subject of a verb) Ex:
+  - **Who** keeps the keys? *(Ai giữ chìa khóa?)*
+  - **Who** is the man in grey coat? *(Người đàn ông mặc áo choàng xám là ai thế?)*
+- Tân ngữ của động từ hoặc giới từ (object of a verb or a preposition) Ex:
+  - **Who** did you see at church? *(Bạn đã gặp ai ở nhà thờ?)* *[who là tân ngừ của động từ see]*
+  - **Who** does this place belong to? *(Nơi. này thuộc về ai vậy?)* *[who là tân ngữ của giới từ to]*
+        
+**Lưu ý:** Trong trường hợp **who** là tân ngữ của giới từ, giới từ luôn được đặt cuối câu. Ex: *Who did you go with? (Anh đã đi với ai?) [NOT With who did you go?]*
+        
+b. **Whom** *(ai):* là đại từ nghi vấn dùng cho người. **Whom** được dùng làm tân ngữ cho động từ hoặc giới từ. Ex:
+- ***Whom** did they invite? (Họ đã mời những ai?)*
+- **To whom** were you speaking at that time?/ **Whom** were you speaking **to** at that time? *(Lúc đó bạn đang nói chuyện với ai vậy?)*
+        
+**Lưu ý:** Cả *who* và *whom* đều có thể làm tân ngữ của động từ hoặc giới từ, nhưng *who* thường được dùng hơn (nhất là trong lối nói thân mật). *Whom* thường được dùng trong lối nói trịnh trọng hoặc trong văn viết. Ex: ***Who/ Whom** did you invite to your party? (Bạn mời những ai đến dự tiệc?)*
+        
+Trong trường hợp *whom* làm tân ngữ cho giới từ, giới từ có thể được đặt trước *whom* hoặc đặt cuối câu. Cách dùng *giới từ + whom* thường được dùng trong lối văn trịnh trọng. Ex: **Whom** did you go **with? orWith whom** did you go?
+        
+c. **Whose** *(của ai):* là đại từ nghi vấn dùng để hỏi về sự sở hữu. *Whose* được dùng làm chủ ngừ của động từ. Ex:
+- ***Whose** is that dog? (Con chó kia của ai?)*
+- *What about these jackets? **Whose** are they? (Còn những chiếc áo vét này thì sao? Chúng của ai vậy?)*[Whose* là chủ ngữ của *is* và *are]*
+        
+d. **What** *(cái gì)',* là đại từ nghi vấn dùng để hỏi về sự vật hoặc sự việc. *What* có thể được dùng làm chủ ngữ của động từ hoặc tân ngữ của động từ và giới từ. Ex:
+- ***What** caused the explosion? (Cái gì đã gây ra vụ nổ?) [What* là chủ ngữ của *caused]*
+- **What** did you say? *(Anh đã nói gì?) [What* là tân ngữ của *say]*
+- **What** was your theory based on?/ On **what** was your theory based? *(Lý luận của bạn được căn cứ vào cái gì?)* *[What* là tân ngữ của Of]
+        
+**Một số cách dùng với *What***
+
+*What* thường được dùng để hỏi về thông tin. Ex: **What** are you doing? ~ I’m writing a letter. (Bạn đang làm gì thế? ~ Tôi đang viết thư.)*
+
+*What* được dùng để hỏi nghề nghiệp. Ex: **What** is he?/ **What** does he do? *(Anh ta làm nghề gì?) [= What** is his profession?]
+        
+*What ... for?* được dùng để hỏi về mục đích hoặc lý do. Ex: 
+- **What** is this tool **for?** *(Dụng cụ này để làm gì?)*
+- **What** are they digging the road up **for? ~** They’re repairing a gas pipe. *(Họ đào đường để làm gì vậy? ~ Họ đang sửa ống dẫn gas.)* **[= Why** are they digging up the road?]
+        
+*What + be ... like?* được dùng để hỏi về tính cách, tính chất, hoặc nét đặc trưng của người, vật hay sự vật. Ex:
+- **What was** the exam **like? ~** It was very difficult. *(Bài kiểm tra như thế nào? ~ Rất khó.)*
+- **What is** David **like? ~** He’s short and fat and wears glasses./ He’s very sociable. *(David như thế nào? ~ Anh ấy mập lùn và mang kính. / Anh ấy rất thân thiện.)*
+        
+How + be + (a thing)...?* cũng có thể được đùng để yêu cầu mô tả một sự vật hoặc sự việc nào đó. Ex:
+- **How was** the film? ~ It was very good. *(Bộ phim thế nào? ~ Rất hay.)* **[= What was** the film **like?]**
+
+*What does* he/ she/ it... *look like?* được dùng để hỏi về vẻ bề ngoài. Ex: **What does** she **look** **like?** She’s tall and glamorous. *(Trông cô ta như thế nào? Cô ta cao và đầy quyến rủ.)*
+        
+*What about + V-ing? (= How about + V-ing?)* được dùng để đưa ra một gợi ý hoặc đề nghị. Ex: **What about** going for a walk? *(Đi dạo nhé?)*
+        
+e. **Which** *(nào, cái nào, người nào)* là đại từ nghi vấn được dùng cho cả người và vật, để chỉ sự
         
         lựa chọn trong số người hay vật đã được biết.
         
-        *Which* có thể được dùng làm chủ ngữ của động từ hoặc tân ngữ của động từ và giới từ.
+*Which* có thể được dùng làm chủ ngữ của động từ hoặc tân ngữ của động từ và giới từ. Ex:
+- **Which** is your favourite subject? *(Môn học nào là môn bạn ưa thích nhất'?)*
+- **Which** is quicker, the bus or the train? *(Xe nào nhanh hem, xe buýt hay xe lửa?) [Which* là chủ ngữ của is]
+- We have two Smiths here. **Which** (of them) do you want? *(Ớ đây chúng tôi có hai người mang họ Smith. Anh cần gập người nào?) [Which* là tân ngữ của động từ *want]*
+- There are two addresses in your card. **Which** do you want me **to** send it to?/ **To which** do you want me to send it? *(Có hai địa chỉ trong danh thiếp của bà. Bà muốn tôi gửi nó đến địa chỉ nào?) 
         
-        Ex: **Which** is your favourite subject?
-        
-        *(Môn học nào là môn bạn ưa thích nhất'?)*
-        
-        **Which** is quicker, the bus or the train?
-        
-        *(Xe nào nhanh hem, xe buýt hay xe lửa?) [Which* là chủ ngữ của is] We have two Smiths
-        
-        here. **Which** (of them) do you want?
-        
-        *(Ớ đây chúng tôi có hai người mang họ Smith. Anh cần gập người nào?) [Which* là tân
-        
-        ngữ của động từ *want]*
-        
-        There are two addresses in your card. **Which** do you want me **to** send it to?/ **To which** do
-        
-        you want me to send it?
-        
-        *(Có hai địa chỉ trong danh thiếp của bà. Bà muốn tôi gửi nó đến địa chỉ nào?) [Which* là
-        
-        tân ngữ của giới từ *to]*
-        
-        - *****Which* có thể được dùng với *of. Which of* được dùng trước đại từ số nhiều hoặc trước từ xác
-        
-        định *(the, my, these, those* ...) và danh từ số nhiều.
-        
+*****Which* có thể được dùng với *of. Which of* được dùng trước đại từ số nhiều hoặc trước từ xác định *(the, my, these, those* ...) và danh từ số nhiều.
         **Which of + determiner + noun**
-        
         **Which of + pronoun**
+Ex:
+- **Which of these photos** would you like? *(Bạn thích tấm nào trong số ảnh này?)*
+- **Which of us** is going to do the washing-up? *(Ai trong chúng ta sẽ rửa bát?)*
         
-        Ex: **Which of these photos** would you like?
+**★ Lưu ý:** Chúng ta có thể dùng *which* hoặc *what* để hỏi về sự lựa chọn
         
-        *(Bạn thích tấm nào trong số ảnh này?)*
+*Which* được dùng để chỉ sự lựa chọn trong một số lượng có giới hạn.
+Ex: There’s gin, whisky and sherry. **Which** will you have? *(Có rượu gin, whisky và sherry. Anh muốn dùng loại nào?)*
         
-        **Which of us** is going to do the washing-up?
+*What* được dùng khi có sự lựa chọn rộng rãi - không bị giới hạn trong một sô' lượng nhất định.
         
-        *(Ai trong chúng ta sẽ rửa bát?)*
-        
-        **★ Lưu ý:** Chúng ta có thể dùng *which* hoặc *what* để hỏi về sự lựa chọn
-        
-        *Which* được dùng để chỉ sự lựa chọn trong một số lượng có giới hạn.
-        
-        Ex: There’s gin, whisky and sherry. **Which** will you have?
-        
-        *(Có rượu gin, whisky và sherry. Anh muốn dùng loại nào?)*
-        
-        *What* được dùng khi có sự lựa chọn rộng rãi - không bị giới hạn trong một sô' lượng nhất
-        
-        định.
-        
-        **Ex: What** would you like to drink? *(Anh muôh uống gì?)*
-        
-        [NOT Which would you like to drink?]
+**Ex: What** would you like to drink? *(Anh muôh uống gì?)* [NOT Which would you like to drink?]
         
 #### 6. Đại từ quan hệ (Relative pronouns)
 Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ được dùng để thay cho danh từ đi trước và đồng thời có chức năng nối mệnh đề chính với mệnh đề phụ trong mệnh đề liên hệ (relative clauses).
@@ -452,25 +332,13 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
 Đại từ phân bổ gồm các từ: **all, most, each, both, either, neither**
 
 ---
-**All** *(tất cả):* được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All* có thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu.
+**All** *(tất cả):* được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All* có thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu. Ex:
+- All** were unanimous to vote him. *(Tất cả đều nhất trí bầu ông ta.)* *[All* là chủ ngữ của *were]*
+- I’ll do **all** I can. *(Tôi sẽ làm tất cả những gì có thể.)* *[all* là tân ngữ của *do]*
+- Wallet, ticket and a bunch of keys. That’s **all** in his pocket. *(Ví tiền, vé và một chùm chìa khóa. Đó là tất cả những thứ trong túi anh ta.)*
         
-        **Ex: All** were unanimous to vote him. *(Tất cả đều nhất trí bầu ông ta.)*
-        
-        *[All* là chủ ngữ của *were]*
-        
-        I’ll do **all** I can. *(Tôi sẽ làm tất cả những gì có thể.)*
-        
-        *[all* là tân ngữ của *do]*
-        
-        Wallet, ticket and a bunch of keys. That’s **all** in his pocket.
-        
-        *(Ví tiền, vé và một chùm chìa khóa. Đó là tất cả những thứ trong túi anh ta.)*
-        
-        - *All of* được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định *(the, my,*
-        
-        *this, these,...)* hoặc dạng tân ngữ của đại từ nhân xưng. Động từ theo sau *ở* hình thức số ít hay số'
-        
-        nhiều tùy thuộc vào danh từ.
+- *All of* được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định *(the, my,**this, these,...)* hoặc dạng tân ngữ của đại từ nhân xưng. Động từ theo sau *ở* hình thức số ít hay số'
+         nhiều tùy thuộc vào danh từ.
         
         **All (of) + determiner + plural/ uncountable noun (+ singular/ plural verb)**
         
