@@ -1,11 +1,11 @@
-# DANH TỪ (NOUNS) DONE
-## 1. Định nghĩa (Definition)
+# DANH TỪ (NOUNS)
+## 1. Định Nghĩa
 Danh từ là từ hoặc nhóm từ dùng để chỉ người *(John, teacher, mother,...),* vật *(chair, dog, ...),* nơi chốn *(city, church, England, ...),* tính chất *(beauty, courage, sorrow,...)* hay hoạt động *(travel, cough, walk,...).*
 
-## 2. Các loại danh từ (Kinds of nouns)
-Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành nhiều loại:
+## 2. Các Loại Danh Từ
+Danh từ có thể được phân loại dựa trên nhiều tiêu chí khác nhau.
 
-### 1. Danh từ cụ thể và danh từ trừu tượng (Concrete nouns and abstract nouns)
+### Tiêu chí 1: Danh từ cụ thể và danh từ trừu tượng
 **Danh từ cụ thể (Concrete nouns):** Là danh từ chỉ những gì hữu hình; những gì mà chúng ta có thể cảm thấy trực tiếp qua giác quan (nhìn, nghe, sờ, ngửi,...) như: *house, man, cloud, cat, pen, mountain, v.v…* Danh từ cụ thể được phân thành hai tiểu loại:
 - Danh từ chung (common nouns) là danh từ dùng để gọi tên những sự vật thuộc cùng một loại.<br>
             Ví dụ: table *(cái bàn),* man *(con người),* dog *(con chó),* pen *(cây viết), ...*
@@ -17,7 +17,7 @@ Dựa trên các tiêu chí khác nhau danh từ có thể được phân thành
             
 **Danh từ trừu tượng (Abstract nouns):** Là danh từ dùng để chỉ tính chất, trạng thái hoặc hoạt động, ví dụ: beauty *(vẻ đẹp),* charity *(lòng nhân ái), istence *(sự tồn tại),* fear *(sự sơ hãi),* departure *(sự khởi hành), ...*
 
-### 2. Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
+### Tiêu chí 2: Danh từ đếm được và danh từ không đếm được (Countable nouns and uncountable nouns)
 **Danh từ đếm được (countable nouns)** Là danh từ chỉ những vật thể, con người, ý niệm, ... riêng rẽ có thể đếm được, ví dụ: chair *(cái ghế),* book *(cuốn sách),* student *(học sinh),* dog *(con chó),...*
         
 Danh từ đếm được có cả hình thức số ít và số nhiều. Chúng ta có thể dùng mạo từ *a/an* với danh từ đếm được ở số ít (singular countable nouns), và các con *số* hoặc *some, any, many, few* với danh từ đếm được ở số nhiều (plural countable nouns). ví dụ: a **book** *(một cuốn sách),* two **dogs** *(hai con chó),* some **bananas** *(vài quả chuối),* many **students** *(nhiều học sinh),* an **accident** *(một tai nạn),* a few **ideas** *(một vài ý tưởng),...*
@@ -48,7 +48,7 @@ Các từ chỉ thức uống: *coffee, beer, tea, juice, v.v.* thường không
 - *I don’t drink **beer** very often. (Tôi không uống bia thường xuyên.)*
 - *Would you like **a beer?** (Dùng một ly/chai/lon bia nhé?) [= a glass/ bottle/ can of beer]*
             
-### 3. Danh từ đơn và danh từ ghép (Simple nouns and compound nouns)
+### Tiêu chí 3: Danh từ đơn và danh từ ghép
 Về hình thức, một danh từ có thể là danh từ đơn (simple nouns) hay danh từ ghép (compound nouns).
 
 **Danh từ đơn (Simple nouns)** là danh từ chỉ có một từ. Ví dụ: house *(ngôi nhà),* peace *(hòa bình),* train *(xe lửa),* table *(cái bàn),...*
@@ -96,7 +96,7 @@ Danh từ ghép có thể được viết thành hai từ riêng biệt, có g�
             
 * Lưu ý: Danh từ ghép có thể được thành lập bởi nhiểu hơn hai từ: *mother-in-law* (mẹ vợ/ chổng), *glass dining-table* (bàn ăn bằng kính), *merry-go-round* (trò chơi ngựa quay),...
 
-### 4. Danh từ số ít và danh từ số nhiều (Singular nouns and plural nouns)
+### Tiêu chí 4: Danh từ số ít và danh từ số nhiều
 Danh từ đếm được thường có hai dạng: số ít (singular) và số nhiều (plural). Ví dụ:
 * The **girl** is singing. *(Cô gái dang hát) → The singular*
 * The **girls** are singing. *(Các cô gái đang hát) → plural*
@@ -280,7 +280,7 @@ Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ
     
 8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ví dụ: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
-## 4. Sự Tương Hợp Giữa Chủ Ngữ Và Động từ (Subject and Verb Agreement)
+## 4. Sự Tương Hợp Giữa Chủ Ngữ Và Động Từ
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
 
 ### Động từ số ít (Singular verbs)
@@ -476,6 +476,7 @@ e. Các danh từ tập hợp *police, people, cattle.* Ví dụ:
 
 ## 5. Sở Hữu Cách
 Sở hữu cách là cách diễn đạt thể hiện sự sở hữu.
+Sở hữu cách được diễn đạt bằng cách sử dụng **'s** hoặc **of**.
 ### 1. Cách thành lập sở hữu cách
 Sở hữu cách được thành lập bằng cách:
 
