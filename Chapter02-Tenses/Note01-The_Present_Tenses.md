@@ -2,39 +2,26 @@
 
 ## 1. Thì Hiện Tại Đơn (The Present Simple Tense)
 
-### Cấu trúc (Form)
-a. Thể khẳng định (Affirmative form)
-I/ WG/ YOU/ They + verb (bare-inf.)
-He/ She/ It _______ + verb - s/ es
-- Động từ chia ở hiện tại (Vj - bare-infinitive)
-- Ngôi thứ ba số ít, động từ thêm - s hoặc -es (thêm -es sau các động từ tận cùng là o, s, X, z, ch, 
-sh.ỵ
-Ex: I play tennis every Wednesday. (Thứ Tư nào tôi củng chơi quần vợt.) Water consists of 
-hydrogen and oxygen. (Nước gồm hydro và oxy.) She goes to school by bus. (Cô ấy đi 
-học bằng xe buýt.)
-b. Thể phủ định (Negative form)
-• Đối với động từ be (aad ís/ are), thêm not sau be.
+### 1. Cấu trúc (Form)
+
+**Thể khẳng định (Affirmative form)**
+```
+        I/You/We/They  + verb (bare-inf.) 
+        He/She/It      verb - s/es
+```
+
+**Thể phủ định (Negative form)**
+```
+        I/You/We/They  +   do not    + verb (bare-inf) 
+        He/She/It      +   does not  + verb (bare-inf)
+```
 Rút gọn: am not = ’m not; is not = isn’t; are not = aren’t.
-Ex: He is not/ isn’t a student. (Anh ta không phải là học sinh.)
-• Đối với động từ thường, dùng trợ động từ do/ does.
-Rút gọn: do not -> don’t does not -> doesn’t
-Ex: We don’t live far away. (Chúng tôi sống không xa đây lắm.)
-c. Thể nghi vấn (Interrogative form)
-• Đối với động từ be, đem be ra đầu câu.
-Ex: Are you a student? (Bạn có phải là học sinh không?)
-• Đối với động từ thường, dùng Do Ị Does ở đầu câu. _________________________
-Do + I/you/we/they + verb (bare-inf.) ?
-Does + he/she/it _____________+ verb (bare-lnf.) ?
-Ex: Do you live here? (Anh sống ở đây à?)
-& Lưu ý: Động từ hiện tại dơn ở ngôi thứ ba số ít được thành lập bằng cách thêm s vào động từ 
-nguyên mẫu: work -> works sit -> sits
-- Thêm es sau các động từ tận cùng là 0, s, X, z, ch, sh.
-Ex: go -> goes watch -> watches pass -> passes push -> pushes
-Động từ tận cùng là một phụ âm + y, đổi y thành /■ rồi thêm es.
-Ex: carry -> carries try -> tries hurry -> hurries
-- Động từ tận cùng là nguyên âm + y, thêm s.
-Ex: stay -> stays enjoy -> enjoys
-Không thêm s/ es vào động từ trong câu phủ định (negatives) và câu hỏi (quetions).
+
+**Thể nghi vấn (Interrogative form)**
+```
+        Do +   I/you/we/they + verb (bare-inf.)?
+        Does + he/she/it     + verb (bare-inf.)?
+```
 
 ### 2. Cách dùng (Use)
 Thì hiện tại đơn được dùng để diễn tả:
