@@ -213,21 +213,21 @@ h. Một số danh từ có nguồn gốc từ tiếng Hy Lạp hoặc Latin th�
 * hypothesis *(giả thuyết) →* hypotheses
 ---             
 i. Một số danh từ có hai hình thức số nhiều với hai nghĩa khác nhau:
-* brother *(anh lem trai) →* brothers *(các anh!em trai)-,* brethren *(đạo hữu;*
-* cloth *(vải)*
-* penny *(đồng xu) ->*
-* staff *(nhân viền)*
+* brother *(anh lem trai)* -> brothers *(các anh/em trai)*/brethren *(đạo hữu)*
+* cloth *(vải)* -> cloths *(các mảnh vải)*/clothes *(quần áo)*
+* penny *(đồng xu)* -> pennys *(các đồng xu)*/ pence *(số tiền xu)*
+* staff *(nhân viền)* -> staffs *(các nhân viên)*/ stave *(các khuôn nhạc)*
 ---             
 j. Số nhiều của các danh từ ghép
 * Trong hình thức danh từ ghép danh từ + danh từ (noun + noun), thì danh từ thứ nhất thường ở dạng số ít và danh từ thứ hai được đổi ra số nhiều. Ví dụ:
-  * toothbrush *(bàn chải đánh răng)*
-  * boy-friend *(bạn trai)*
-  * ticket collector *(người soát vé)*
+  * toothbrush *(bàn chải đánh răng)* -> toothbrushs
+  * boy-friend *(bạn trai)* -> boy-friends
+  * ticket collector *(người soát vé)* -> ticket collectors
                 
 * Trong hình thức danh từ ghép danh từ + trạng từ (noun + adv), danh từ + giới từ + danh từ (noun + prep + noun), danh từ + tính từ (noun + adj), thì hình thức số nhiều được thành lập với danh từ đầu tiên. Ví dụ:
-  * passer-by *(người đi đường)*
-  * looker-on *(người xem)*
-  * mother-in-law *(mẹ vợ! chồng)*
+  * passer-by *(người đi đường)* -> passers-by
+  * looker-on *(người xem)* -> lookers-on
+  * mother-in-law *(mẹ vợ! chồng)* -> mothers-in-law
                 
 * Trong các hình thức danh từ ghép còn lại: tính từ + danh từ (adj + noun), danh động từ + danh từ (gerund + noun), động từ + danh từ (verb + noun), v.v. thì hình thức số nhiều biến đổi ở thành phần sau cùng. Ví dụ:
   * blackboard *(bảng đen)* -> blackboards
@@ -241,7 +241,7 @@ j. Số nhiều của các danh từ ghép
   * woman doctor *(bà bác sĩ)* -> women doctors
                 
 #### Cách phát âm đuôi -s hoặc -es** (The pronunciation of -s or *-es)
-Có* 3 cách phát âm đuôi -s/ *-* *es* của danh từ số nhiều: /s/, *ITJ* và /iz/              
+Có 3 cách phát âm đuôi -s/ *-* *es* của danh từ số nhiều: /s/, *ITJ* và /iz/              
 * **/iz/** khi ***es*** đứng sau danh từ tận cùng bằng các âm xuýt: /s/, /z/, /J7, /3/, /tf/, /dy.<br>
 Ví dụ: watches, boxes, bridges, buses, crashes, buzzes...
 * /s/ khi s đứng sau các danh từ tận cùng bằng các âm vô thanh: /p/, /f/, /t/, /k/, /0/.<br>
@@ -257,28 +257,28 @@ b. Ngược lại, một số danh từ luôn luôn ở hình thức số nhiề
 ## 3. Chức Năng Của Danh Từ
 Danh từ có thể có những chức năng khác nhau trong câu. Danh từ có thể được dùng làm:
 
-1. Chủ ngữ của câu (Subject of a sentence)*, ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
+1. Chủ ngữ của câu (Subject of a sentence), ví dụ: **The children** have gone to bed. *(Bọn trẻ đã đi ngủ cả rồi.)*
    * Chủ ngữ là danh từ, cụm danh từ hoặc đại từ chỉ người, vật hoặc sự vật thực hiện hành động.
 
 3. Tân ngữ trực tiếp hoặc gián tiếp của câu (Direct object or indirect object of a sentence), Ví dụ:
    * I saw the thief.** *(Tôi đã thấy tên trộm.)* [the thief → tân ngữ trực tiếp (direct object)]
    * The policeman asked **the thief** a lot of questions. *(Viên cảnh sát tra hỏi tên trộm.)* [the thief -> tân ngữ gián tiếp (indirect object), a lot of questions -> tân ngữ trực tiếp (direct object)]
 
-Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ.
-Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
+   * Tân ngữ trực tiếp (direct object) là danh từ, cụm danh từ hoặc đại từ chịu sự tác động trực tiếp của động từ
+   * Tân ngữ gián tiếp (indirect object) là danh từ hoặc đại từ chỉ người hoặc vật chịu sự tác động gián tiếp của động từ vì hành động được thực hiện là cho nó hoặc vì nó.
     
-4. Tân ngữ của giới từ (Object of a preposition), He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
+5. Tân ngữ của giới từ (Object of a preposition), He is listening to **music.** *(Anh ấy đang nghe nhạc.)* [music -> tân ngữ của giới từ *to]*
    * Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.
     
-5. Bổ ngữ của chủ ngữ (Subjective complement), Ví dụ: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
+6. Bổ ngữ của chủ ngữ (Subjective complement), Ví dụ: He is **my closest friend.** *(Anh ấy là người bạn thân nhất của tôi.)*
    * Bổ ngữ của chủ ngữ (còn gọi là bổ ngữ của mệnh đề - complement of the clause) là danh từ, cụm danh từ hoặc tính từ mô tả chủ ngữ. Bổ ngữ của chủ ngữ được dùng sau động từ *be* và các động từ liên kết *become, seem, feel, v.v.*
     
-6. Bổ ngữ của tân ngừ (Objective complement), Ví dụ: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
+7. Bổ ngữ của tân ngừ (Objective complement), Ví dụ: They elected him **president** of the club. *(Họ bầu anh ấy làm chủ tịch câu lạc bộ.)*
    * Bổ ngữ của tân ngừ là danh từ, cụm danh từ hoặc tính từ mô tả tân ngữ.
     
-7. Một phần của ngữ giới từ (Part of prepositional phrases), Ví dụ: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
+8. Một phần của ngữ giới từ (Part of prepositional phrases), Ví dụ: He spoke in a different **tone.** *(Anh ấy nói với một giọng điệu khác.)*
     
-8. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ví dụ: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
+9. Đồng vị ngữ với một danh từ khác (Appositive phrases: ngữ đồng vị), Ví dụ: He told US about his father, **a general,** who died in the war. *(Anh ấy kể cho chúng tôi nghe về cha của mình, một vị tướng, người đã hy sinh trong chiến tranh.)*
 
 ## 4. Sự Tương Hợp Giữa Chủ Ngữ Và Động Từ
 Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
@@ -293,93 +293,57 @@ Trong tiếng Anh, chủ ngữ và động từ phải tương hợp với nhau.
    * **My best friend and adviser,** Tom, **is** arriving tonight. *(Tom, người bạn thân kiêm cố vấn của tôi sẽ đến tối nay.)*
    * **Bread and butter is** my favorite breakfast food. *(Bánh mì [và] bơ là món điểm tâm tôi thích nhất.)*
 
-3. *Each, Every, Either, Neither* + danh từ số ít (singular noun)
+3. ***Each, Every, Either, Neither + danh từ số ít (singular noun)***
    - **Every seat has** a number. *(Mỗi ghế đều có số.)*
    - Come on Tuesday or Thursday. **Either day is OK.** *(Hãy đến vào thứ Ba hoặc thứ Năm. Ngày nào cũng được.)*
    - **Each door is** different colour. *(Mỗi cánh cửa có màu sắc khác nhau.)*
+
+4. ***Each/ Every/ Either/ Neither/ Any / None + of +*** danh từ/ đại từ số nhiều (plural noun/ pronoun). Ví dụ: 
+   - **Each of the houses is** slightly different. *(Mỗi ngôi nhà hơi khác nhau.)*
+   - **Neither of the oranges is** ripe. *(Cả hai trái cam đều chưa chín.)*
+   - **Is any of these old maps** worth keeping? *(Có tấm nào trong những tấm bản đồ cũ này cần giữ lại không'?)*
+   - **None of my friends lives** near me. *(Không người nào trong số bạn bè của tôi sống gần nhà tôi.)*
+   - **Either of the books** I bought yesterday **is** interesting. *(Cả hai cuốn sách tôi mua hôm qua đều hay.)*
         
-        *****Each! Every I Either/ Neither/ Any / None **+ of +*** danh từ/ đại từ số nhiều (plural noun/ pronoun).
+   Lưu ý: ***Neither of, none of, any of + danh từ/ đại từ số nhiều*** cũng có thể dùng với động từ số nhiều. Ví dụ: None of my friends lives/ live near me. ***Each/ Every + danh từ số ít + and + each/every + danh từ số ít***, Ví dụ: **Each boy and each girl has** an English book. *(Mỗi nam sinh và mỗi nữ sinh đều có một cuốn sách tiếng Anh.)*
         
-        Ví dụ: 
+5. *More than one* + danh từ đếm được số ít (singular count noun) Ví dụ: **More than one person has** known the news. *(Nhiều người đã biết tin này.)*
+
+6. *One of* + danh từ số nhiều (plural noun) Ví dụ: **One of my friends is** going to Honolulu ví dụ week. *(Tuần tới, một trong những người bạn của tôi sẽ đi Honolulu.)*
         
-        - **Each of the houses is** slightly different. *(Mỗi ngôi nhà hơi khác nhau.)*
+7. ***Everything, everybody, anything, nothing, nobody, everyone, something, somebody, no one/ none, someone, anyone, anybody, somewhere, anywhere, nowhere.*** Ví dụ:
+   - **Everything looks** bright and clean. *(Mọi thứ có vẻ sáng sủa và sạch sẽ.)*
+   - **Someone is** knocking at the door. *(Có ai đó đang gõ cửa.)*
         
-        - **Neither of the oranges is** ripe. *(Cả hai trái cam đều chưa chín.)*
+8. Một số danh từ có dạng số nhiều nhưng có nghĩa số ít:
+   - News *(tin tức)*
+   - Môn học hoặc môn thể thao: mathematics *(toán học),* physics *(vật lý học),* economics *(kinh tể học),* politics *(chính trị học),* linguistics *(ngôn ngừ học),* genetics *(di truyền học),* athletics *(môn điền kinh),* gymnastics *(môn thể dục), ...*
+   - Trò chơi: billards *(bi-da),* darts *(ném phi tièu),* dominoes *(đỗ-mi-nồ), ...*
+   - Bệnh: measles *(bệnh sởi),* mumps *(bệnh quai bị),* rickets *(bệnh còi xương),...
+   - Quốc gia: the Philippines *(nước Philippine),* the United States *(Hoa Kỳ), ...*
+   - **Physics is** more difficult than chemistry. *(Môn lý khó hơn môn hóa.)*
+   - **The news was** worse than I had Ví dụpected. *(Tin tức xấu hơn tôi nghĩ.)*
         
-        - **Is any of these old maps** worth keeping? *(Có tấm nào trong những tấm bản đồ cũ này cần giữ lại không'?)*
+   Lưu ý: Một số từ tận cùng bằng *-ics* có thể được dùng với động từ số ít hoặc số nhiều. Ví dụ:
+   - Politics is a complicated business. *(Chính trị là một hoạt động phức tạp.)*
+   - What are your politics? *(Quan điểm chính trị của anh là thế nào?)*
+
+9. Khoảng cách, khoảng thời gian, số tiền, và sự đo lường. Ví dụ:
+    - **3.6 kilometers is** about 2 miles. *(3.6 kilômét là khoảng 2 dặm.)*
+    - **Ten seconds was** the winner's time. *(Thời gian của người thắng giải là 10 giây.)*
+    - **A thousand dollars is** a large sum of money. *(Một ngàn đô la là một số tiền lớn.)*
         
-        - **None of my friends lives** near me. *(Không người nào trong số bạn bè của tôi sống gần nhà tôi.)*
+10. **Lưu ý:** *Động từ số ít* thường được dùng sau số thập phân, phân số và các cụm từ chỉ số lượng hoặc sự đo lường, nhưng *động từ số nhiều* được dùng khi nói vể số lượng người hoặc vật. Ví dụ:
+    - **Three quarters of a ton is** too much. *(3/4 tấn là quá nhiều.)*
+    - **a third of the students are** from abroad. *(1/3 số học sinh đêh từ các nước khác.)*
         
-        - **Either of the books** I bought yesterday **is** interesting. *(Cả hai cuốn sách tôi mua hôm qua đều hay.)*
+11. Tên của một cuốn sách, một bài báo, một câu chuyện, một bộ phim, v.v. Ví dụ:
+    - *Tom and Jerry* **is** very well known all over the world. *(Phim ‘Tom và Jerry’ nổi tiếng khắp thế giới.)*
+    - *The Arabian Nights* **has** delighted many generations. *(Truyện Nghìn lẻ một đêm’ đã làm say mê nhiều thế hệ.)*
         
-        Lưu ý: *Neither of, none of, any of + danh từ/ đại từ số nhiều* cũng có thể dùng với động từ số nhiều.
-        
-        - Ví dụ: None of my friends lives/ live near me.
-        
-        *****Each/ Every* + danh từ số ít + ***and +** each/ every* + danh từ số ít
-        
-        - Ví dụ: **Each boy and each girl has** an English book. *(Mỗi nam sinh và mỗi nữ sinh đều có một cuốn sách tiếng Anh.)*
-        
-    - d. *More than one* + danh từ đếm được số ít (singular count noun)
-        
-        Ví dụ: **More than one person has** known the news. *(Nhiều người đã biết tin này.)*
-        
-        *One of* + danh từ số nhiều (plural noun)
-        
-        Ví dụ: **One of my friends is** going to Honolulu nVí dụt week.
-        
-        *(Tuần tới, một trong những người bạn của tôi sẽ đi Honolulu.)*
-        
-    - e. *Everything, everybody, anything, nothing, nobody, everyone, something, somebody, no one/ none, someone, anyone, anybody, somewhere, anywhere, nowhere.*
-        
-        Ví dụ: **Everything looks** bright and clean. *(Mọi thứ có vẻ sáng sủa và sạch sẽ.)* **Someone is** knocking at the door. *(Có ai đó đang gõ cửa.)*
-        
-    - f. Một số danh từ có dạng số nhiều nhưng có nghĩa số ít:
-        - News *(tin tức)*
-        - Môn học hoặc môn thể thao: mathematics *(toán học),* physics *(vật lý học),* economics *(kinh tể học),* politics *(chính trị học),* linguistics *(ngôn ngừ học),* genetics *(di truyền học),* athletics *(môn điền kinh),* gymnastics *(môn thể dục), ...*
-        - Trò chơi: billards *(bi-da),* darts *(ném phi tièu),* dominoes *(đỗ-mi-nồ), ...*
-        - Bệnh: measles *(bệnh sởi),* mumps *(bệnh quai bị),* rickets *(bệnh còi xương),...*
-        - Quốc gia: the Philippines *(nước Philippine),* the United States *(Hoa Kỳ), ...*
-        
-        Ví dụ: **Physics is** more difficult than chemistry. *(Môn lý khó hơn môn hóa.)*
-        
-        **The news was** worse than I had Ví dụpected. *(Tin tức xấu hơn tôi nghĩ.)*
-        
-        Lưu ý: Một sô' từ tận cùng bằng *-ics* có thể được dùng với động từ số ít hoặc số nhiều.
-        
-        Ví dụ: Politics is a complicated business. *(Chính trị là một hoạt động phức tạp.)*
-        
-        What are your politics? *(Quan điểm chính trị của anh là thế nào?)*
-        
-    - g. Khoảng cách, khoảng thời gian, số tiền, và sự đo lường
-        
-        **Ví dụamples:**
-        
-        **3.6 kilometers is** about 2 miles. *(3.6 kilômét là khoảng 2 dặm.)*
-        
-        **Ten seconds was** the winner’s time. *(Thời gian của người thắng giải là 10 giây.)*
-        
-        **A thousand dollars is** a large sum of money. *(Một ngàn đô la là một số tiền lớn.)*
-        
-        **★ Lưu ý:** *Động từ số ít* thường được dùng sau sô' thập phân, phân số và các cụm từ chĩ số lượng
-        
-        hoặc sự đo lường, nhưng *động từ số nhiều* được dùng khi nói vể sô' lượng người hoặc vật.
-        
-        Ví dụ: **Three quarters of a ton is** too much. *(3/4 tấn là quá nhiều.)*
-        
-        *h* **third of the students are** from abroad. *(1/3 số học sinh đêh từ các nước khác.)*
-        
-    - h. Tên của một cuốn sách, một bài báo, một câu chuyện, một bộ phim, v.v.
-        
-        Ví dụ: *Tom and Jerry* **is** very well known all over the world. *(Phim ‘Tom và Jerry’ nổi tiếng khắp thế giới.)*
-        
-        *The Arabian Nights* **has** delighted many generations. *(Truyện Nghìn lẻ một đêm’ đã làm say mê nhiều thế hệ.)*
-        
-    - i. Một mệnh đề, một danh động từ, v.v. (a clause, gerund,...)
-        
-        Ví dụ: **That you get very high grades in school is** necessary. *(Điều cần thiết là bạn đạt điểm cao ở trường.)*
-        
-        **Smoking is** harmful to your health. *(Hút thuốc có hại cho sức khỏe của bạn.)*
+12. Một mệnh đề, một danh động từ, v.v. (a clause, gerund,...) Ví dụ:
+    - **That you get very high grades in school is** necessary. *(Điều cần thiết là bạn đạt điểm cao ở trường.)*
+    - **Smoking is** harmful to your health. *(Hút thuốc có hại cho sức khỏe của bạn.)*
 
 ### Động từ số nhiều (Plural verbs)
 Động từ số nhiều thường được dùng khi chủ ngữ là:
@@ -407,18 +371,17 @@ e. Các danh từ tập hợp *police, people, cattle.* Ví dụ:
 ### Các trường hợp khác
 1. Các danh từ tập hợp (collective nouns) như: *family, team, government, staff, class, firm, crowd, public, orchestra, club, committee, audience, band, the BBC, the United Nations,...* (ngoại trừ *police, cattle, people)* có thể được dùng với động từ số ít hoặc số nhiều (tùy theo ý người nói muốn diễn đạt).
 
-   Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
+Danh từ tập hợp đi với động từ số ít nếu người nói xem tập hợp này như một tổng thể hay một đơn vị duy nhất.
    
-   Danh từ tập hợp đi với động từ số nhiều nếu người nói muốn nhấn mạnh đến các thành phần hoặc bộ phận của tập hợp này.
+Danh từ tập hợp đi với động từ số nhiều nếu người nói muốn nhấn mạnh đến các thành phần hoặc bộ phận của tập hợp này.
 
-   Ví dụ:
-      * Our **team is** the best. **It** has a good chance of winning. *(Đội chúng tôi là dội hay nhất. Đội chúng tôi có cơ hội thắng trận.)* -> đội bóng
-      * *Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* -> tất cả các cầu thủ trong đội*
-      * **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.) -> các thành viên trong gia đình*
-      * *The average British **family has** 3.6 members. *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung)*
+Ví dụ:
+* Our **team is** the best. **It** has a good chance of winning. *(Đội chúng tôi là dội hay nhất. Đội chúng tôi có cơ hội thắng trận.)* -> đội bóng
+* *Our **team are** wearing **their** new jerseys. *(Đội của chúng tôi mặc áo mới.)* -> tất cả các cầu thủ trong đội*
+* **My family have** decided to move to Nottingham. *(Gia đình tôi quyết định dọn đến Nottingham.) -> các thành viên trong gia đình*
+* *The average British **family has** 3.6 members. *(Gia đình Anh trung bình có 3,6 thành viển.)* -> gia đình (nói chung)*
    
-   Trong tiếng Anh của người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả các trường hợp (*family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng.
-   Ví dụ: The team **is** in Detroit this weekend. **They** have a good chance of winning.
+Trong tiếng Anh của người Mỹ (American English), động từ số ít thường được dùng với các danh từ trên trong tất cả các trường hợp (*family* có thể có động từ số nhiều). Đại từ số nhiều có thể được dùng. Ví dụ: The team **is** in Detroit this weekend. **They** have a good chance of winning.
 
 2. Khi hai danh từ hoặc đại từ kết hợp với nhau bằng: ***with, along with, as well as, together with, accompanied by, besides, in addition to*** thì động từ được chia với danh từ hoặc đại từ thứ nhất.<br>
    `Noun1 + with/ along with/ as well as... + Noun2 + Verb(Noun1)`
@@ -525,7 +488,7 @@ Sở hữu cách được thành lập bằng cách:
 A daughter of Mr Brown’s has arrived. = One of Mr Brown’s daughters has arrived. (Một người con gái của ông Brown đã đến rồi.)*
 
 # EXERCISES
-I. Look at these nouns. Are they countable (C) or uncountable (U)?
+### I. Look at these nouns. Are they countable (C) or uncountable (U)?
 1. car (C)
 2. work (U)
 3. news (C)
@@ -547,239 +510,100 @@ I. Look at these nouns. Are they countable (C) or uncountable (U)?
 19. water (U)
 20. meal (U)
 
-**II. Complete the sentences, using one of the following words. Use a/an where necessary. (accident apple milk coat sugar key electricity sand luck cheese blood letter moment music interview)**
-    1. It wasn’t your fault. It was *an accident.*
-    2. You’d better drink hot *milk* before going to bed.
-    3. I couldn’t get into the house because I didn’t have ***a key***.
-    4. Do you take ***sugar*** in your tea?
-    5. The heart pumps ***blood*** through the body.
-    6. John has got ***an interview*** for job tomorrow morning.
-    7. I didn’t phone you. I wrote ***a letter*** instead.
-    8. I’m not ready yet. Can you wait ***a moment*** , please?
-    9. It’s very warm today. Why are you wearing a coat
-    10. Good luck in your new job.
-    11. Listen! Can you hear the music ?
-    12. Power station produce the electricity.
-    13. Are you hungry? Would you like an apple ?
-    14. Is there cheese in this soup?
-    15. Wait! There’s sand in my shoes.
+### II. Complete the sentences, using one of the following words. Use a/an where necessary.
+(accident, apple, milk, coat, sugar, key, electricity, sand, luck, cheese, blood, letter, moment, music, interview)**
+1. It wasn’t your fault. It was *an accident.*
+2. You’d better drink hot *milk* before going to bed.
+3. I couldn’t get into the house because I didn’t have ***a key***.
+4. Do you take ***sugar*** in your tea?
+5. The heart pumps ***blood*** through the body.
+6. John has got ***an interview*** for job tomorrow morning.
+7. I didn’t phone you. I wrote ***a letter*** instead.
+8. I’m not ready yet. Can you wait ***a moment*** , please?
+9. It’s very warm today. Why are you wearing a coat
+10. Good luck in your new job.
+11. Listen! Can you hear the music ?
+12. Power station produce the electricity.
+13. Are you hungry? Would you like an apple ?
+14. Is there cheese in this soup?
+15. Wait! There’s sand in my shoes.
 
-**III. Complete the postcard. Choose the correct form.**
-            The island is very peaceful. (0) Life/ A-life is good here. Everybody moves at a nice slow pace. People
-            have (1) time/ a time to stop and talk. It’s (2) Ví dụperience/ an Ví dụperience I won’t forget a long time. There
-            aren’t many shops, so I can’t spend all my money, although I did buy (3) painting/ a painting yesterday.
-            Now I’m sitting on the beach reading (4) paper/ a paper. The hotel breakfast is so enormous that I don’t
-            need to have lunch. I’ve just brought (5) orange/ an orange with me to eat later. I’ve been trying all the
-            different (6) fruit/ fruits grown in this part of the world, and they’re all delicious.
+### III. Complete the postcard. Choose the correct form.
+The island is very peaceful. (**Life**/ A-life) is good here. Everybody moves at a nice slow pace. People have (**time**/ a time) to stop and talk. It’s (experience/ **an experience**) I won’t forget a long time. There aren’t many shops, so I can’t spend all my money, although I did buy (painting/ **a painting**) yesterday. Now I’m sitting on the beach reading (paper/ **a paper**). The hotel breakfast is so enormous that I don’t need to have lunch. I’ve just brought (orange/ **an orange**) with me to eat later. I’ve been trying all the different (fruit/ **fruits**) grown in this part of the world, and they’re all delicious.
 
-### IV. Which of the underlined part of these sentences is correct?**
-1. Did you hear neise/ a noise iust now?
-2. There was somebody in the house because there was light/ a light on inside.
-3. What would it be like to travel at the speed of light/ a light?
-4. I didn’t have time/ a time for breakfast.
-5. We had wonderful time/ a wonderful time in Paris.
-6. It’s very difficult to find a work/ job at the moment.
-7. They offered me a job because I had a lot of Ví dụperience/ Ví dụperiences.
-8. I haven’t got a paper/ any paper to write on.
-9. Bad news don’t/ doesn’t make people happy.
-10. We had very good weather/ a very good weather while we were on holiday.
-11. Your hair is/ Your hairs are too long. You should have it/ them cut.
-12. Let me give you an advice/ a piece of advice.
-13. The house is built of stone/ stones.
-14. If you want to know the news, you can read paper/ a paper.
-15. E-mail is a relative new mean/ means of communication.
+### IV. Which of the underlined part of these sentences is correct?
+1. Did you hear (noise/ **a noise**) just now?
+2. There was somebody in the house because there was (light/ **a light**) on inside.
+3. What would it be like to travel at the speed of (**light**/ a light)?
+4. I didn't have (**time**/ a time) for breakfast.
+5. We had (wonderful time/ **a wonderful time**) in Paris.
+6. It’s very difficult to find a (work/ **job**) at the moment.
+7. They offered me a job because I had a lot of (**experience**/ experiences).
+8. I haven't got (a paper/ **any paper**) to write on.
+9. Bad news (**don't**/ doesn't) make people happy.
+10. We had (**very good weather**/ a very good weather**) while we were on holiday. - wheater không đếm được nên không dùng a
+11. (**Your hair is**/ Your hairs are) too long. You should have it/ them cut. - hair là không đếm được nên không dùng ở số nhiều.
+12. Let me give you (**an advice**/ a piece of advice). advice là lời khuyên có thể đếm được
+13. The house is built of (**stone**/ stones). stone không đếm được có dạng số nhiều
+14. If you want to know the news, you can read (**paper**/ a paper).
+15. E-mail is a relative new (mean/ **means**) of communication. - mean/means có 2 nghĩa khác nhau, means có nghĩa là phương tiện/phương cách
 
-### V. Choose the right answer.**
-    1. It’s important to brush your teeth at least twice a day.
-        1. tooth
-        2. teeth
-        3. tooths
-        4. toothes
+### V. Choose the right answer.
+1. It’s important to brush your teeth at least twice a day. (tooth, teeth, tooths, toothes)
     
-    2. We have a lot of …. near our house causing pollution.
+2. We have a lot of ___ near our house causing pollution. (factorys, factores, **factories**, factoris)
     
-    a. factorys
+3. There are a number of interesting ___ at my party. (**people**, **persons**, peoples, person)
     
-    b. factores
+4. Have you ever seen the new ___ in that shop next door? (radioes, radies, radioses, **radios**)
     
-    c. factories
+5. They've put some lovely ___ in the city park. (benchs, benchies, **benches**, bench)
     
-    d. factoris
+6. We usually buy three__________ of bread at the weekend. (**loaves**, loafs, loafes, loave): loave = ổ bánh mì
     
-    3. There are a number of interesting
+7. You’re really afraid of ___, aren’t you? (mouses, mice, mices, **mouse**)
     
-    at my party.
+8. Those cows have got their ___ with them. (calfs, calfes, scarves, calves)
     
-    a. people
-    
-    b. persons
-    
-    c. peoples
-    
-    d. person
-    
-    4. Have you ever seen the new
-    
-    in that shop nVí dụt door?
-    
-    a. radioes
-    
-    b. radies
-    
-    c. radioses
-    
-    d. radios
-    
-    5. They’ve put some lovely
-    
-    in the city park.
-    
-    a. benchs
-    
-    b. benchies
-    
-    c. benches
-    
-    d. bench
-    
-    6. We usually buy three__________ of bread at the weekend.
-    
-    a. loaves
-    
-    b. loafs
-    
-    c. loafes
-    
-    d. loave
-    
-    7. You’re really afraid of
-    
-    , aren’t you?
-    
-    a. mouses
-    
-    b. mice
-    
-    c. mices
-    
-    d. mouse
-    
-    8. Those cows have got their
-    
-    with them.
-    
-    a. calfs
-    
-    b. calfes
-    
-    c. scarves
-    
-    d. calves
-    
-    9. We’ve bought some new
-    
-    to wear.
-    
-    a. clothies
-    
-    b. cloths
-    
-    c. clothes
-    
-    d. cloth10. They had to mend the
-    
-    of the houses after the storm.
-    
-    a. roofes
-    
-    b. rooves
-    
-    c. roofs
-    
-    d. roof
-    
-    11. The nursery has places for 30 _______________
-    
-    a. childs
-    
-    b. childes
-    
-    c. childrens
-    
-    d. children
-    
-    12. We saw a flock of
-    
-    grazing in the fields.
-    
-    a. sheep
-    
-    b. sheeps
-    
-    c. sheepes
-    
-    d. ships
-    
-    13. The farmer kept a
-    
-    flock of
-    
-    a. goose
-    
-    b. gooses
-    
-    c. geese
-    
-    d. geeses
-    
-    14. Do you like these
-    
-    ?
-    
-    a. photoes
-    
-    b. photos
-    
-    c. photo
-    
-    d. photoies
-    
-    15. Some types of
-    
-    cause diseases.
-    
-    a. bacterium
-    
-    b. bacteriums
-    
-    c. bacterias
-    
-    d. bacteria
-    
-**VI. Complete the sentences with the given nouns, adding final *-s/-es* if necessary.**
-**change river garbage hardware music**
-**traffic juk thunder screwdriver homework**
-1. I put some banana peels, empty juice cartons, and broken bottles in the waste can.The can is full of__________ .
-2. Tools that are used for turning screws are called ______________.
-3. The children got scared when they heard _______________ during the storm.
-4. I ave some coins in my pocket. In other words, I have some__________in my pocket.
-5. They have a rusty car without an engine, broken chairs, and an old refrigerator intheir front yard. Their yard is full of ________________.
-6. The Mississippi, the Amazon, and the Nile are well-known ________________.
-7. The street is full of cars, trucks, and buses. It is full of _______________.
-8. I like to listen to operas, symphonies, and folk songs. I enjoy_______________.
-9. Tonight I have to read 20 pages in my history book, do 30 algebra problems, and write acomposition. In other words, I have a lot of ______to do tonight.
-10. I went to the store to get some nails, hammers, and srews. In other words, I boughtsome ________.
+9. We’ve bought some new ___ to wear. (clothies, cloths, **clothes**, cloth)
 
-### VII. Choose the correct form of the verb, singular or plural.**
-1. The results of Dr. Noll’s Ví dụperiment was/ were published in a scientific journal.
-2. One of your children has/ have lost a shoe.
-3. A number of police officers here works/ work with dogs.
-4. There is/ are some interesting pictures in today’s paper.
-5. No two teams wear the same. Each team wears/ wear a different color.
-6. Every man, woman, and child is/ are protected under the law.
-7. The cattle is/ are going to be sold with the farm.
-8. An officer and his dog has/ have to work closely together.
-9. My cat as well as my dogs likes/ like cat food.
+10. They had to mend the ___ of the houses after the storm. (roofes, rooves, roofs, **roof**)
+    
+11. The nursery has places for 30 ___. (childs, childes, childrens, **children**)
+    
+12. We saw a flock of ___ grazing in the fields. (**sheep**, sheeps, sheepes, ships)
+    
+13. The farmer kept a flock of ___ (goose, gooses, **geese**, geeses)
+    
+14. Do you like these ___ ? (photoes, **photos**, photo, photoies)
+    
+15. Some types of ___ cause diseases. (**bacterium**, bacteriums, bacterias, bacteria)
+    
+### VI. Complete the sentences with the given nouns, adding final *-s/-es* if necessary.
+```
+            change, river, garbage, hardware, music, traffic, junk, thunder, screwdriver, homework
+```
+1. I put some banana peels, empty juice cartons, and broken bottles in the waste can.The can is full of ***garbage***.
+2. Tools that are used for turning screws are called ***screwdriver***.
+3. The children got scared when they heard the thunder during the storm.
+4. I have some coins in my pocket. In other words, I have some ***changes*** in my pocket.
+5. They have a rusty car without an engine, broken chairs, and an old refrigerator intheir front yard. Their yard is full of junks.
+6. The Mississippi, the Amazon, and the Nile are well-known ***river***.
+7. The street is full of cars, trucks, and buses. It is full of ***traffic***.
+8. I like to listen to operas, symphonies, and folk songs. I enjoy ***the music***.
+9. Tonight I have to read 20 pages in my history book, do 30 algebra problems, and write acomposition. In other words, I have a lot of homework to do tonight.
+10. I went to the store to get some nails, hammers, and srews. In other words, I bought some hardware.
+
+### VII. Choose the correct form of the verb, singular or plural.
+1. The results of Dr. Noll’s experiment was/ **were** published in a scientific journal.
+2. One of your children (**has**/ have) lost a shoe.
+3. A number of police officers here (works/ **work**) with dogs.
+4. There (is/ **are**) some interesting pictures in today’s paper.
+5. No two teams wear the same. Each team (**wears**/ wear) a different color.
+6. Every man, woman, and child (**is**/ are) protected under the law.
+7. The cattle (is/ **are**) going to be sold with the farm.
+8. An officer and his dog (has/ **have**) to work closely together.
+9. My cat as well as my dogs (**likes**/ like) cat food.
 10. Gymnastics is/ are an easy lesson at school.
 11. The trousers you bought for me doesn’t/ don’t fit me.
 12. Where do/ does your family live?
@@ -836,7 +660,7 @@ _ a
 14.1 heard an interesting piece of information.
 15. Has the police arrived yet?
 
-X. What do we call these things and people? Use the structure noun + noun.
+### X. What do we call these things and people? Use the structure noun + noun.
 1. A station from which trains leave is *a train station.*
 2. Shoes made of leather are________________ .
 3. A boy who is five years old is _______________ .
@@ -845,8 +669,8 @@ X. What do we call these things and people? Use the structure noun + noun.
 6. The carpet in the dining room is_________________.
 7. The Director of Marketing is _________________.
 8. A bottle containing medicine and made of glass is _______________ .
-9. Shops that sell shoes are _________________ .
-10. A card that gives you credit is _______________ .
+9. Shops that sell shoes are ******.
+10. A card that gives you credit is ***credit card***.
 
 XI. Answer the questions using two of the following words each time.****accident belt card credit editor frying****forecast****newspaper****number pan road room seat shop weather****window**
 1. This can be caused by bad driving. A *road accident*
@@ -858,7 +682,7 @@ XI. Answer the questions using two of the following words each time.****accident
 7. You might stop to look in this when you’re walking along a street. A __________________
 8. This can be used for cooking. A______________
 
-XII. Complete the sentences, using one of the following. Sometimes you need the singular (day/****page...} and sometimes the plural (days/ pages ...}.** **15minute(s) twohour(s) fiveday(s) 60minute(s) sixmile(s) 500year(s) 20pound(s) tenpage(s)****450page(s) twoyear(s) five course(s) 15year(s)old**
+### XII. Complete the sentences, using one of the following. Sometimes you need the singular (day/****page...} and sometimes the plural (days/ pages ...}.** **15minute(s) twohour(s) fiveday(s) 60minute(s) sixmile(s) 500year(s) 20pound(s) tenpage(s)****450page(s) twoyear(s) five course(s) 15year(s)old**
 1. It’s quite a long book. There are *450pages .*
 2. A few days ago I received a *ten-page* letter.
 3. I didn’t have any change. I only had a ____________note.
@@ -872,7 +696,7 @@ XII. Complete the sentences, using one of the following. Sometimes you need the 
 11. We went for a __________ walk in the country.
 12. I teach English for two ______________girls.
 
-XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have** **to use *of.***
+### XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and sometimes you have** **to use *of.***
 1. the mistake/ the policeman <br>*the policeman’s mistake*
 2. the bottom/ the bottle. <br> *the bottbm of the bottle*
 3. the daughter/ Mr Hill
@@ -894,7 +718,7 @@ XIII. Join the two (or three) nouns. Sometimes you have to use *-'s* or -s* and 
 19. the room/ my sisters
 20. the door/ the garage
 
-XIV. Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.
+### XIV. Viết lại các cụm từ được gạch chân, sử dụng hình thức sở hữu.
 1. The storm last week caused a lot of damage. <br> *Last week’s storm caused a lot of damage.*   
 2. The meeting tomorrow has been cancelled. <br> *Tomorrow’s meeting has been cancelled.*
 3. The only cinema in the town has closed down. <br> The only cinema of the town has closed down.
