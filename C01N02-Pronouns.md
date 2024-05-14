@@ -1,8 +1,8 @@
 # ĐẠI TỪ (PRONOUNS)
-## Định nghĩa (Definition)
+## 1. Định nghĩa (Definition)
 Đại từ (pronouns) là từ dùng để thay thế cho danh từ.
 
-## Các loại đại từ (Kinds of pronouns)
+## 2. Các loại đại từ (Kinds of pronouns)
 1. Đại từ nhân xưng (personal pronouns)
 2. Đại từ sở hữu (possessive pronouns)
 3. Đại từ phản thân và đại từ nhấn mạnh (reflexive and emphatic pronouns)
@@ -13,29 +13,28 @@
 8. Đại từ bất định (indefinite pronouns)
 9. Đại từ hỗ tương (reciprocal pronouns)
 
-## 1. Đại từ nhân xưng (Personal pronouns)
+## Đại từ nhân xưng (Personal pronouns)
 Đại từ nhân xưng là các đại từ được dùng để chỉ người, vật, nhóm người hoặc vật cụ thể.
 
 Đại từ nhân xưng có hình thức chủ ngữ (subject) và tân ngữ (object) hoàn toàn khác nhau (trừ *you* và *it): I-me, we-us, you-you, he-him, she-her, they-them.*
 
-Đại từ nhân xưng được dùng để thay thế cho danh từ khi không cần thiết sử dụng hoặc lặp lại chính xác danh từ hoặc cụm danh từ đó.<br>
-Ví dụ:
-- *John’s broken his leg. He’ll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)*
+Đại từ nhân xưng được dùng để thay thế cho danh từ khi không cần thiết sử dụng hoặc lặp lại chính xác danh từ hoặc cụm danh từ đó. Ví dụ:
+- *John's broken his leg. He'll be in hospital for a few days.(John bị gãy chân. Anh ấy sẽ phải năm viện vài ngày.)*
 - *Tell Mary I miss her.(Hãy nói với Mary rầng tôi nhớ cô ấy.) [NOT Tell Mary I miss Mary.)*
 
 **I, he, she, we, they** được dùng làm chủ ngữ của động từ.
-  - I like you.(Tôi thích anh.)
-  - He wants to leave now.(Anh ấy muốn đi ngay bây giờ.)
-  - They have lived here for twenty years.(Họ đã sống ở đây 20 năm rồi.)
+- I like you.(Tôi thích anh.)
+- He wants to leave now.(Anh ấy muốn đi ngay bây giờ.)
+- They have lived here for twenty years.(Họ đã sống ở đây 20 năm rồi.)
 
  **I, he, she, we, they** được dùng làm bổ ngữ của động từ *to be* - It was I who chose this colour. *(Chính tôi là người chọn màu này.)*
  
 **me, him, her, us, them** được dùng làm tân ngữ trực tiếp hoặc gián tiếp của động từ.
 - They called US on the telephone. *(Họ đã gọi điện cho chúng tôi.)*
-- Bill’s uncle sent him a birthday present. *(Chú của Bill gửi cho anh ấy một món quà sinh nhật.)*
+- Bill's uncle sent him a birthday present. *(Chú của Bill gửi cho anh ấy một món quà sinh nhật.)*
                     
 **me, him, her, us, them** được dùng làm Tân ngữ của giới từ (objects of a preposition)
-- He said he couldn’t live without **her.** *(Anh ấy nói anh ấy không thể sống thiếu cô ta.)*
+- He said he couldn't live without **her.** *(Anh ấy nói anh ấy không thể sống thiếu cô ta.)*
 
 **you** và **it** có thể được dùng làm chủ ngữ hoặc tân ngữ vì chúng có hình thức chủ ngữ và tân ngữ giống nhau.
 - Did **you** see the snake? *(Anh có nhìn thấy con rắn không'?)* *Yes,* I saw **it** and **it** saw me, too. *(Có, tồi thấy nó và nó cũng thấy tôi.)*
@@ -45,13 +44,18 @@ Lưu ý: Hình thức tân ngữ thường được dùng khi đại từ đứn
 - Who spilt coffee all over the table? ~ Me./ Sorry, it was me. *(Ai làm đổ cà phê ra khắp bàn vậy? ~ Tôi./Xin lỗi, chính tôi.) But Who spilt coffee all over the table? ~ I did.
         
 Một số cách dùng của it:
-- **It** thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết hoặc không quan trọng). Ví dụ: I’ve bought a new watch. It’s very modern. *(Tôi vừa mua đồng hồ đeo tay mới. Nó rất hiện đại.), Look at that bird. How beautiful **it** is! *(Nhìn con chim đó xem.Đẹp quá!), The baby next doorkept me awake. It cried all night. *(Đứa bé ở nhà bên làm tôi không ngủ được. Nó khóc suốt đêm.)*
+- **It** thường được dùng thay cho vật, động vật, trẻ sơ sinh hoặc trẻ nhỏ (khi giới tính không được biết hoặc không quan trọng). Ví dụ:
+    - I've bought a new watch. It's very modern. *(Tôi vừa mua đồng hồ đeo tay mới. Nó rất hiện đại.)
+    - Look at that bird. How beautiful **it** is! *(Nhìn con chim đó xem.Đẹp quá!)
+    - The baby next doorkept me awake. It cried all night. *(Đứa bé ở nhà bên làm tôi không ngủ được. Nó khóc suốt đêm.)*
 
-- **It** được dùng để chỉ người khi muốn xác định người đó là ai. Sau khi đã được xác định, thì *he* hoặc *she* được sử dụng tùy theo người đó là nam hay nữ. Ví dụ: Who was it on the telephone? ~ **It** was Vicky. **She** just called to say **she’s** arrived home safely. *(Ai đã gọi điện vậy? ~ Vicky. Cô ấy vừa gọi để báo cô ấy đã về đến nhà bình yên.), There was a knock at the door. I thought **it** was the postman. **He** usually came at that time. *(Có tiếng gõ cửa. Tôi nghĩ đó là người dưa thư. Anh ta thường đến vào giờ đó.)*
+- **It** được dùng để chỉ người khi muốn xác định người đó là ai. Sau khi đã được xác định, thì *he* hoặc *she* được sử dụng tùy theo người đó là nam hay nữ. Ví dụ:
+    - Who was it on the telephone? ~ **It** was Vicky. **She** just called to say **she's** arrived home safely. *(Ai đã gọi điện vậy? ~ Vicky. Cô ấy vừa gọi để báo cô ấy đã về đến nhà bình yên.)
+    - There was a knock at the door. I thought **it** was the postman. **He** usually came at that time. *(Có tiếng gõ cửa. Tôi nghĩ đó là người dưa thư. Anh ta thường đến vào giờ đó.)*
 
 Đại từ **it** *(điều đó; nó)* được dùng để chỉ một hành động, một tình huống hoặc một ý tưởng đã dược nói đến trong một cụm từ, một mệnh đề hoặc câu đi trước
 - When the factory closes, it will means 500 people losing their jobs. *(Khi nhà máy đóng cửa, điều đó có nghĩa là sẽ có 500 người mất việc.)* [it = the close of the factory]
-- He smokes in bed, though I don’t like it. *(Anh ta hút thuốc trên giường, mặc dù tôi không tliich điều đó.)* [it = his smoking in bed]
+- He smokes in bed, though I don't like it. *(Anh ta hút thuốc trên giường, mặc dù tôi không tliich điều đó.)* [it = his smoking in bed]
 
 Đại từ **it** được dùng để nói về thời tiết, thời gian, nhiệt độ, khoảng cách, số đo.
 - **It** is raining heavily. *(Trời dang mưa to.)*
@@ -62,32 +66,32 @@ Một số cách dùng của it:
 
 It được dùng làm chủ ngữ giả (formal subject) khi chủ ngữ thật (real subject) của câu là một động từ nguyên mẫu, một danh động từ hoặc một mệnh đề ở cuối câu.
 - **It** was impossible to get a taxi at that time. *(Vào giờ dó không thể nào đón được taxi.)* [To get a taxi was impossible at that time.]
-- **It’s** always sad saying goodbye to someone you love. *(Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.)* [Saying goodbye to someone you love is always sad.]
-- **It’s** a pity that you can’t come with US. *(Tiếc là bạn không thể đi với chúng tôi.)* [That you can’t come with US is a pity.]
+- **It's** always sad saying goodbye to someone you love. *(Nói lời tạm biệt với người mà bạn yêu thương lúc nào củng rất buồn.)* [Saying goodbye to someone you love is always sad.]
+- **It's** a pity that you can't come with US. *(Tiếc là bạn không thể đi với chúng tôi.)* [That you can't come with US is a pity.]
             
 It còn được sử dụng như một tân ngữ giả (formal object), theo sau nó là một tính từ hoặc danh từ được bổ nghĩa bởi cụm từ hay mệnh đề.
 - I found **it** difficult to explain this to him. *(Tôi thấy khó giải thích điều này với anh ta.)*
 - He thought it no use going over the subject again. *(Anh ta cho rang xem xét lại vấn đề cũng chẳng ích lợi gì.)*
-- I find it strange that she doesn’t want to travel. *(Tôi thấy lạ là cô ta không muốn đi du lịch.)*
+- I find it strange that she doesn't want to travel. *(Tôi thấy lạ là cô ta không muốn đi du lịch.)*
             
 Đại từ it được dùng với động từ *to be* (It is/ was ...) để nhấn mạnh cho một từ hoặc cụm từ trong câu.
 - **It was** Jim who lent us the money. *(Chính Jim đã cho chúng tôi mượn tiền.)*
 - **It was** three weeks later that he heard the news. *(Đến ba tuần sau anh ta mới nghe tin.)*
 
 Đại từ **it** đôi khi được sử dụng trong các đặc ngữ có tính chất thân mật.
-- Hang it all, we can’t wait all day for him. *(Thật bực mình, chúng ta không thể đợi nó suốt cả ngày được).*
-- When I see him, I’ll have it out with him. *(Gặp nó tôi sẽ nói cho nó vỡ lẽ ra mới được).*
-- If the teacher sees you doing that, you’ll catch **it.** *(Thầy mà thấy mày làm vậy thì mày liệu hồn).*
+- Hang it all, we can't wait all day for him. *(Thật bực mình, chúng ta không thể đợi nó suốt cả ngày được).*
+- When I see him, I'll have it out with him. *(Gặp nó tôi sẽ nói cho nó vỡ lẽ ra mới được).*
+- If the teacher sees you doing that, you'll catch **it.** *(Thầy mà thấy mày làm vậy thì mày liệu hồn).*
 
-## 2. Đại từ sở hữu (Possessive pronouns)
+## Đại từ sở hữu (Possessive pronouns)
 Đại từ sở hừu (possessive pronouns) là hình thức sở hữu của đại từ nhân xưng (personal pronouns), được dùng để chỉ vật gì thuộc về người nào đó.
 Đại từ sở hữu bao gồm: I-mine(cái của tôi), you-yours(cái của bạn), he-his(cái của anh ấy), she-hers(cái của chị ấy), we-ours(cái của chúng tôi), they-theirs(cái của họ)
 
 **It** không có dạng đại từ sở hữu. Its là dạng tính từ sở hữu của **it.**
 
 Đại từ sở hữu được dùng không có danh từ theo sau. Nó thay thế cho *tính từ sớ hữu + danh từ* (possessive adjective + noun)
-- Can I borrow your keys? I can’t find **mine.** *(Tôi có thể mượn chìa khóa của bạn được không'? Tôi không tìm thấy chìa khóa của tôi.)* [mine = my keys]
-- You are using my pen. Where’s **yours?** *(Bạn đang dùng viết của tôi đấy. Viết của bạn dâu?)* [yours = your pen]
+- Can I borrow your keys? I can't find **mine.** *(Tôi có thể mượn chìa khóa của bạn được không'? Tôi không tìm thấy chìa khóa của tôi.)* [mine = my keys]
+- You are using my pen. Where's **yours?** *(Bạn đang dùng viết của tôi đấy. Viết của bạn dâu?)* [yours = your pen]
 
 Đại từ sở hữu cũng có thể được dùng trước danh từ mà nó thay thế. Ví dụ: **Ours** is the third house on the left. *(Nhà của chúng tôi là ngôi nhà thứ ba bên tay trái.)* [ours = our house]
 
@@ -98,14 +102,14 @@ Không dùng mạo từ trước đại từ sở hữu. Ví dụ: That coat is 
 - Tom is **a friend of mine.** *(Tom là một người bạn của tôi.)* [a friend of mine = one of my friends]
 - I borrowed **some magazines of yours.** *(Tôi đã mượn một số tạp chí của bạn.)* [some magazines of yours = some of your magazines]
             
-## 3. Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic Pronouns)
+## Đại từ phản thân & đại từ nhấn mạnh (Reflexive and Emphatic Pronouns)
 Đại từ phản thân và đại từ nhấn mạnh có chung hình thức. **My-Myself(tự/chính tôi), yourself(tự/chính bạn), himself(tự/chính anh ấy), herself(tự/chính cô ấy), itself(tự/chính nó), ourselves(tự/chính chúng ta), yourselves(tự/chính các bạn), themselft(tự/chính họ)**
 
 Đại từ phản thân được dùng làm tân ngữ (object) của động từ khi hành động của động từ do chủ ngữ thực hiện tác động lại ngay chính chủ ngữ. Nói cách khác, đại từ phản thân được dùng khi chủ ngữ và tân ngữ của động từ là cùng một đối tượng.
 - When the policeman came in, the gunman shot **him.** *(Khi viên cảnh sát xông vào, tên cướp đã bắn anh ta.)* [him = the police]
 - When the policeman came in, the gunman shot **himself.** *(Khi viên cảnh sát xông vào, tên cướp đã dùng súng tự sát.)* [himself = the gunman]
 - Jane looks at **herself** in the mirror. *(Jane soi mình trong gương.)*
-- We’ve locked **ourselves** out. *(Chúng tối tự khóa cửa nhốt mình bến ngoài.)*
+- We've locked **ourselves** out. *(Chúng tối tự khóa cửa nhốt mình bến ngoài.)*
 - This refrigerator defrosts **itself.** *(Tủ lạnh này tự rã đông.)*
         
 Ngoài chủ ngữ của mệnh đề, đại từ phản thân còn có thể chỉ những thành phần khác trong câu. Ví dụ:
@@ -113,13 +117,13 @@ Ngoài chủ ngữ của mệnh đề, đại từ phản thân còn có thể c
 - I love **you** for **yourself,** not for your money. *(Tôi yéu em vì chính bản thân em chứ không phải vì tiền của em.)*
 
 **Lưu ý:** Đại từ phản thân có thể được dùng sau giới từ, nhưng sau giới từ chỉ vị trí (preposition of place) chúng ta thường dùng đại từ nhân xưng *(me, you, him, her,...)* Ex:
-- I’m annoyed **with myself.** *(Tôi giận chính bản thân mình.)* But: Mike didn’t have any money **with him.** *(Mike không đem theo tiền.)*
+- I'm annoyed **with myself.** *(Tôi giận chính bản thân mình.)* But: Mike didn't have any money **with him.** *(Mike không đem theo tiền.)*
 - In the mirror I saw a lorry **behind me.** *(Nhìn vào gương tôi thấy một chiếc xe tải phía sau.)*
         
-Đại từ nhấn mạnh có cùng hình thức với đại từ phản thân, được dùng để nhấn mạnh một danh từ hoặc đại từ. Đại từ nhấn mạnh thường đứng ngay sau từ được nhấn mạnh và có nghĩa là *chính người đó/ vật đó’.* Ex:
+Đại từ nhấn mạnh có cùng hình thức với đại từ phản thân, được dùng để nhấn mạnh một danh từ hoặc đại từ. Đại từ nhấn mạnh thường đứng ngay sau từ được nhấn mạnh và có nghĩa là *chính người đó/ vật đó'.* Ex:
 - My sister **herself** designed all these clothes. *(Chính chị tôi đã thiết kế những bộ quần áo này.)*
 - I spoke to the president **himself.** *(Tôi dã nói chuyện với chính ngài chủ tịch.)*
-- The film **itself** wasn’t very good but I like the music. *(Bản thân bộ phim thì không hay lắm, nhưng tôi thích phần nhạc trong phim.)*
+- The film **itself** wasn't very good but I like the music. *(Bản thân bộ phim thì không hay lắm, nhưng tôi thích phần nhạc trong phim.)*
         
 Khi nhấn mạnh chủ ngữ, đại từ nhấn mạnh có thể đứng cuối câu. Ex:
 - I saw him do it **myself.** *(Chính mắt tôi thấy anh ta làm điều đó.)* [= I *myself* saw him do it.]
@@ -129,122 +133,58 @@ Khi nhấn mạnh chủ ngữ, đại từ nhấn mạnh có thể đứng cuố
 - He likes living **by himself.** *(Ông ta thích sống một mình.)* [= He likes living alone.]
 - Do you need help? ~ No, thanks. I can do it **by myself.** *(Bạn có cần giúp không'? ~ Không, cám ơn. Tôi có thể làm một mình.)*
         
-## 3. Đại từ chỉ định (Demonstrative pronouns)
-Đại từ chỉ định gồm các từ: *this, that, these, those.* Đại từ chỉ định được dùng để chỉ định vật, sự vật hoặc để giới thiệu hay nhận dạng người nào đó.Ex:
+## Đại từ chỉ định (Demonstrative pronouns)
+Đại từ chỉ định gồm các từ: *this, that, these, those.* Đại từ chỉ định được dùng để chỉ định vật, sự vật hoặc để giới thiệu hay nhận dạng người nào đó. Ex:
 - **These** are my candies. **Those** are yours. *(Đây là kẹo của tôi. Kia là kẹo của bạn.)*
 - **This** costs more than **that.** *(Cái này đắt hơn cái kia.)*
 - **This** is my brother. *(Đây là anh trai tôi.)*
-- Who’s **that? ~ That’s** Tom **Jones.** *(Ai kia? ~ Đó là Tom Jones.)*
+- Who's **that? ~ That's** Tom **Jones.** *(Ai kia? ~ Đó là Tom Jones.)*
         
-        a. **This** *(cái này! người này), số* nhiều là **these** *(những cái này! những người này)* được dùng để chỉ vật ở khoảng cách gần (với người nói).
-        
-        Ex: In all your paintings I like this best.
-        
-        (Trong tất cả các bức vẽ của bạn tôi thích bức này nhất.)
-        
-        **These** are my shoes. *(Đây là giày của tôi.)*
-        
-        - giới thiệu người nào đó.
-        
-        Ex: **This** is my brother. *(Đây là anh tôi.)*
-        
-        **These** are the Smiths. *(Đây là ông bà Smiths.)*
-        
-        - chỉ tình huống và sự việc đang xảy ra, sắp sửa xảy ra hoặc sắp được nói tới. Ex: Listen to
-        
-        this. You’ll like it. *(Hãy nghe cái này xem. Bạn sẽ thích nó đấy.)*
-        
-        I don’t like to say this, but I’m really not happy with the service here. *(Tôi không muốn*
-        
-        *nói điều này, nhưng tôi thật sự không hài lòng uới cách phục vụ ở dây.)*
-        
-        b. **That** *(cái kia! người kia), số* nhiều là **those** *(những cái kia! những người kia)* được dùng
-        
-        - chỉ vật ở khoảng cách xa (với người nói).
-        
-        Ex: **That’s** Jery’s car, over there. *(Kia là xe hơi của Jery, ở kia kìa.)*
-        
-        Put **those** down - they’re dirty.
-        
-        *(Hãy đặt những cái đó xuống - chúng dơ lắm.)*
-        
-        **This** is my umbrella. **That’s** yours. *(Đây là dù của tôi. Đó là dù của bạn.)*
-        
-        - khi xác định hoặc nhận dạng người nàô đó.
-        
-        Ex: **Is that** Ruth? - No, **that’s** Rita.
-        
-        *(Kia là Ruth phải không? ~ Không phải. Đó là Rita.)*
-        
-        Who are **those? ~ Those** look like Mark and Susan.
-        
-        *(Những người kia là ai thế? ~ Trông như Mark và Susan.)*
-        
-        - Nói về điều gì đó trong quá khứ, điều gì đó vừa mới xảy ra hoặc vừa mới được đề cập đến.
-        
-        Ex: That was nice. What was it? *(Cái đó thật đẹp. Nó là cái gì vậy?)*
-        
-        [NOT This was nice ...]
-        
-        It was a secret - That’s why they never talked about it.
-        
-        *(Nó là một hí mật - Đó là lý do tại sao họ không bao giờ nói về nó.)*
-        
-        *>* Trên điện thoại, chúng ta dùng *this* để nói chúng ta là ai, và *this* hoặc *that* để hỏi người kia là
-        
-        ai.
-        
-        Ex: Hello. **This** is Elisabeth. Is **that/ this** Ruth?
-        
-        *(Xin chào. Đây là Elisabeth. Có phải Ruth đó I đấy không?)*
-        
-        *> This/ these, that! those* có thể được dùng thay cho một danh từ, một cụm từ hoặc một mệnh đề đã được nói đến trước đó.
-        
-        Ex: He hung his daughter’s portrait beside that of his wife’s.
-        
-        *(Ông ta treo chân dung con gái ông ta bên cạnh chân dung vợ.)*
-        
-        [that = portrait]
-        
-        They are digging up my road. They do **this** every year.
-        
-        *(Họ đang đào xới con đường trước nhà tôi. Năm nào họ cũng làm việc này.)*
-        
-        [this = digging up the road]
-        
-        *>* Đại từ *those* có thể được theo sau bởi một mệnh đề quan hệ xác định hoặc
-        
-        í
-        
-        một ngữ phân từ để chỉ người.
-        
-        Ex: **Those** who couldn’t walk were carried on stretchers.
-        
-        *(Những người không đi được thì được khiêng bằng cáng.)*
-        
-        [Those who... = The people who...]
-        
-        **Those** injured in the accident were taken to hospital.
-        
-        *(Những người hi thương trong tai nạn đã dược đưa tới bệnh viện.)* [those = people]
-        
-        **This boy of yours** seems very intelligent.
-        
-        *(Cậu con trai này của anh có vẻ rất thông minh.)*
-        
-        [this boy of yourg = your boy]
-        
-        *> This/ these, that! those* có thể đứng một mình hoặc có *one/ ones* theo sau khi có sự so sánh
-        
-        hoặc lựa chọn.
-        
-        Ex: I don’t like **these** sweaters. I prefer **those** (ones) over there.
-        
-        *(Tôi không thích những chiếc áo len này. Tôi thích những chiếc ở đằng kia hơn.)*
-        
-        **This** (one) looks the nicest. *(Cái này có vẻ đẹp nhất.)*
+### **This** *(cái này! người này), số* nhiều là **these** *(những cái này! những người này)*
 
-## 5. Đại từ nghi vấn (Interrogative pronouns)
+Được dùng để chỉ vật ở khoảng cách gần (với người nói). Ex:
+- In all your paintings I like this best. (Trong tất cả các bức vẽ của bạn tôi thích bức này nhất.)
+- **These** are my shoes. *(Đây là giày của tôi.)*
+        
+Giới thiệu người nào đó. Ex:
+- **This** is my brother. *(Đây là anh tôi.)*
+- **These** are the Smiths. *(Đây là ông bà Smiths.)*
+        
+Chỉ tình huống và sự việc đang xảy ra, sắp sửa xảy ra hoặc sắp được nói tới. Ex:
+- Listen to this. You'll like it. *(Hãy nghe cái này xem. Bạn sẽ thích nó đấy.)*
+- I don't like to say this, but I'm really not happy with the service here. *(Tôi không muốn nói điều này, nhưng tôi thật sự không hài lòng uới cách phục vụ ở dây.)*
+        
+### **That** *(cái kia! người kia), số* nhiều là **those** *(những cái kia! những người kia)*
+Được dùng chỉ vật ở khoảng cách xa (với người nói). Ex:
+- **That's** Jery's car, over there. *(Kia là xe hơi của Jery, ở kia kìa.)*
+- Put **those** down - they're dirty. *(Hãy đặt những cái đó xuống - chúng dơ lắm.)*
+- **This** is my umbrella. **That's** yours. *(Đây là dù của tôi. Đó là dù của bạn.)*
+        
+khi xác định hoặc nhận dạng người nàô đó. Ex:
+- **Is that** Ruth? - No, **that's** Rita. *(Kia là Ruth phải không? ~ Không phải. Đó là Rita.)*
+- Who are **those? ~ Those** look like Mark and Susan. *(Những người kia là ai thế? ~ Trông như Mark và Susan.)*
+        
+Nói về điều gì đó trong quá khứ, điều gì đó vừa mới xảy ra hoặc vừa mới được đề cập đến. Ex:
+- That was nice. What was it? *(Cái đó thật đẹp. Nó là cái gì vậy?)* [NOT This was nice ...]
+- It was a secret - That's why they never talked about it. *(Nó là một hí mật - Đó là lý do tại sao họ không bao giờ nói về nó.)*
+        
+Trên điện thoại, chúng ta dùng *this* để nói chúng ta là ai, và *this* hoặc *that* để hỏi người kia là ai. Ex:
+- Hello. **This** is Elisabeth. Is **that/ this** Ruth? *(Xin chào. Đây là Elisabeth. Có phải Ruth đó I đấy không?)*
+        
+This/these, that/those* có thể được dùng thay cho một danh từ, một cụm từ hoặc một mệnh đề đã được nói đến trước đó. Ex
+- He hung his daughter's portrait beside that of his wife's. *(Ông ta treo chân dung con gái ông ta bên cạnh chân dung vợ.)* [that = portrait]
+- They are digging up my road. They do **this** every year. *(Họ đang đào xới con đường trước nhà tôi. Năm nào họ cũng làm việc này.)* [this = digging up the road]
+        
+Đại từ *those* có thể được theo sau bởi một mệnh đề quan hệ xác định hoặc một ngữ phân từ để chỉ người. Ex:
+- **Those** who couldn't walk were carried on stretchers. *(Những người không đi được thì được khiêng bằng cáng.)* [Those who... = The people who...]
+- **Those** injured in the accident were taken to hospital. *(Những người hi thương trong tai nạn đã dược đưa tới bệnh viện.)* [those = people]
+- **This boy of yours** seems very intelligent. *(Cậu con trai này của anh có vẻ rất thông minh.)* [this boy of yourg = your boy]
+        
+*This/ these, that/ those* có thể đứng một mình hoặc có *one/ ones* theo sau khi có sự so sánh hoặc lựa chọn. Ex:
+- I don't like **these** sweaters. I prefer **those** (ones) over there. *(Tôi không thích những chiếc áo len này. Tôi thích những chiếc ở đằng kia hơn.)*
+- **This** (one) looks the nicest. *(Cái này có vẻ đẹp nhất.)*
+
+## Đại từ nghi vấn (Interrogative pronouns)
 Đại từ nghi vấn là các đại từ dùng để hỏi như: ***who, whom, whose, what, which***. Các đại từ nghi vấn thường đứng đầu câu và luôn đi trước động từ. Ex:
 - ***What** do you want? (Bạn muốn gì?)*
 - ***Whose** is the red car? (Chiếc ô tô màu đỏ của ai vậy?)*
@@ -265,7 +205,7 @@ b. **Whom** *(ai):* là đại từ nghi vấn dùng cho người. **Whom** đư
         
 **Lưu ý:** Cả *who* và *whom* đều có thể làm tân ngữ của động từ hoặc giới từ, nhưng *who* thường được dùng hơn (nhất là trong lối nói thân mật). *Whom* thường được dùng trong lối nói trịnh trọng hoặc trong văn viết. Ex: ***Who/ Whom** did you invite to your party? (Bạn mời những ai đến dự tiệc?)*
         
-Trong trường hợp *whom* làm tân ngữ cho giới từ, giới từ có thể được đặt trước *whom* hoặc đặt cuối câu. Cách dùng *giới từ + whom* thường được dùng trong lối văn trịnh trọng. Ex: **Whom** did you go **with? orWith whom** did you go?
+Trong trường hợp *whom* làm tân ngữ cho giới từ, giới từ có thể được đặt trước *whom* hoặc đặt cuối câu. Cách dùng *giới từ + whom* thường được dùng trong lối văn trịnh trọng. Ex: **Whom** did you go **with? or With whom** did you go?
         
 c. **Whose** *(của ai):* là đại từ nghi vấn dùng để hỏi về sự sở hữu. *Whose* được dùng làm chủ ngừ của động từ. Ex:
 - ***Whose** is that dog? (Con chó kia của ai?)*
@@ -278,28 +218,26 @@ d. **What** *(cái gì)',* là đại từ nghi vấn dùng để hỏi về s�
         
 **Một số cách dùng với *What***
 
-*What* thường được dùng để hỏi về thông tin. Ex: **What** are you doing? ~ I’m writing a letter. (Bạn đang làm gì thế? ~ Tôi đang viết thư.)*
+*What* thường được dùng để hỏi về thông tin. Ex: **What** are you doing? ~ I'm writing a letter. (Bạn đang làm gì thế? ~ Tôi đang viết thư.)*
 
 *What* được dùng để hỏi nghề nghiệp. Ex: **What** is he?/ **What** does he do? *(Anh ta làm nghề gì?) [= What** is his profession?]
         
 *What ... for?* được dùng để hỏi về mục đích hoặc lý do. Ex: 
 - **What** is this tool **for?** *(Dụng cụ này để làm gì?)*
-- **What** are they digging the road up **for? ~** They’re repairing a gas pipe. *(Họ đào đường để làm gì vậy? ~ Họ đang sửa ống dẫn gas.)* **[= Why** are they digging up the road?]
+- **What** are they digging the road up **for? ~** They're repairing a gas pipe. *(Họ đào đường để làm gì vậy? ~ Họ đang sửa ống dẫn gas.)* **[= Why** are they digging up the road?]
         
 *What + be ... like?* được dùng để hỏi về tính cách, tính chất, hoặc nét đặc trưng của người, vật hay sự vật. Ex:
 - **What was** the exam **like? ~** It was very difficult. *(Bài kiểm tra như thế nào? ~ Rất khó.)*
-- **What is** David **like? ~** He’s short and fat and wears glasses./ He’s very sociable. *(David như thế nào? ~ Anh ấy mập lùn và mang kính. / Anh ấy rất thân thiện.)*
+- **What is** David **like? ~** He's short and fat and wears glasses./ He's very sociable. *(David như thế nào? ~ Anh ấy mập lùn và mang kính. / Anh ấy rất thân thiện.)*
         
 How + be + (a thing)...?* cũng có thể được đùng để yêu cầu mô tả một sự vật hoặc sự việc nào đó. Ex:
 - **How was** the film? ~ It was very good. *(Bộ phim thế nào? ~ Rất hay.)* **[= What was** the film **like?]**
 
-*What does* he/ she/ it... *look like?* được dùng để hỏi về vẻ bề ngoài. Ex: **What does** she **look** **like?** She’s tall and glamorous. *(Trông cô ta như thế nào? Cô ta cao và đầy quyến rủ.)*
+*What does* he/ she/ it... *look like?* được dùng để hỏi về vẻ bề ngoài. Ex: **What does** she **look** **like?** She's tall and glamorous. *(Trông cô ta như thế nào? Cô ta cao và đầy quyến rủ.)*
         
 *What about + V-ing? (= How about + V-ing?)* được dùng để đưa ra một gợi ý hoặc đề nghị. Ex: **What about** going for a walk? *(Đi dạo nhé?)*
         
-e. **Which** *(nào, cái nào, người nào)* là đại từ nghi vấn được dùng cho cả người và vật, để chỉ sự
-        
-        lựa chọn trong số người hay vật đã được biết.
+e. **Which** *(nào, cái nào, người nào)* là đại từ nghi vấn được dùng cho cả người và vật, để chỉ sự lựa chọn trong số người hay vật đã được biết.
         
 *Which* có thể được dùng làm chủ ngữ của động từ hoặc tân ngữ của động từ và giới từ. Ex:
 - **Which** is your favourite subject? *(Môn học nào là môn bạn ưa thích nhất'?)*
@@ -314,28 +252,25 @@ Ex:
 - **Which of these photos** would you like? *(Bạn thích tấm nào trong số ảnh này?)*
 - **Which of us** is going to do the washing-up? *(Ai trong chúng ta sẽ rửa bát?)*
         
-**★ Lưu ý:** Chúng ta có thể dùng *which* hoặc *what* để hỏi về sự lựa chọn
+Chúng ta có thể dùng *which* hoặc *what* để hỏi về sự lựa chọn
         
-*Which* được dùng để chỉ sự lựa chọn trong một số lượng có giới hạn.
-Ex: There’s gin, whisky and sherry. **Which** will you have? *(Có rượu gin, whisky và sherry. Anh muốn dùng loại nào?)*
+*Which* được dùng để chỉ sự lựa chọn trong một số lượng có giới hạn. Ex: There's gin, whisky and sherry. **Which** will you have? *(Có rượu gin, whisky và sherry. Anh muốn dùng loại nào?)*
         
-*What* được dùng khi có sự lựa chọn rộng rãi - không bị giới hạn trong một sô' lượng nhất định.
-        
-**Ex: What** would you like to drink? *(Anh muôh uống gì?)* [NOT Which would you like to drink?]
+*What* được dùng khi có sự lựa chọn rộng rãi - không bị giới hạn trong một số lượng nhất định. Ex: What would you like to drink? *(Anh muôh uống gì?)* [NOT Which would you like to drink?]
         
 #### 6. Đại từ quan hệ (Relative pronouns)
 Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ được dùng để thay cho danh từ đi trước và đồng thời có chức năng nối mệnh đề chính với mệnh đề phụ trong mệnh đề liên hệ (relative clauses).
         
 *Who/ whom* được dùng để chỉ người, *which* chỉ vật hoặc sự vật, *that* có thể chỉ cả người lẫn vật và *whose* chỉ sự sở hữu. Chúng ta sẽ nói thêm ở phần **Mệnh Đề Quan Hệ** ở chương 4.
         
-#### 7. Đại từ phân bổ (Distributive pronouns)
-Đại từ phân bổ gồm các từ: **all, most, each, both, either, neither**
+#### Đại từ phân bổ (Distributive pronouns)
+Đại từ phân bổ bao gồm: **all, most, each, both, either, neither**
 
----
-**All** *(tất cả):* được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All* có thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu. Ex:
+#### **All** *(tất cả):*
+Được dùng để chỉ toàn bộ số lượng người hoặc vật của một nhóm từ ba trở lên. *All* có thể là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu. Ex:
 - All** were unanimous to vote him. *(Tất cả đều nhất trí bầu ông ta.)* *[All* là chủ ngữ của *were]*
-- I’ll do **all** I can. *(Tôi sẽ làm tất cả những gì có thể.)* *[all* là tân ngữ của *do]*
-- Wallet, ticket and a bunch of keys. That’s **all** in his pocket. *(Ví tiền, vé và một chùm chìa khóa. Đó là tất cả những thứ trong túi anh ta.)*
+- I'll do **all** I can. *(Tôi sẽ làm tất cả những gì có thể.)* *[all* là tân ngữ của *do]*
+- Wallet, ticket and a bunch of keys. That's **all** in his pocket. *(Ví tiền, vé và một chùm chìa khóa. Đó là tất cả những thứ trong túi anh ta.)*
         
 - *All of* được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định *(the, my,**this, these,...)* hoặc dạng tân ngữ của đại từ nhân xưng. Động từ theo sau *ở* hình thức số ít hay số'
          nhiều tùy thuộc vào danh từ.
@@ -350,15 +285,15 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
         
         **All of us** enjoyed the party. *(Tất cả chúng tôi đều thích bữa tiệc.)*
         
-        I’m going to invite **all of you.** *(Tôi sẽ mời tât cả các bạn.)*
+        I'm going to invite **all of you.** *(Tôi sẽ mời tât cả các bạn.)*
         
-        *AU of* với nghĩa ‘whole’ *(toàn bộ)* cũng có thể được dùng trước một số danh từ đếm được số ít
+        *AU of* với nghĩa ‘whole' *(toàn bộ)* cũng có thể được dùng trước một số danh từ đếm được số ít
         
         (singular countable noun) .
         
-        Ex: I’ve eaten **all (of) the cake.** *(Tôi đã ăn hết cái bánh.)*
+        Ex: I've eaten **all (of) the cake.** *(Tôi đã ăn hết cái bánh.)*
         
-        [= I’ve eaten **the whole cake.]**
+        [= I've eaten **the whole cake.]**
         
         **All (of) my family** came to watch me playing in the concert.
         
@@ -382,7 +317,7 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
         
         Ex: These cups are **all** dirty. *(Tất cả những cái tách này đều bị dơ.)*
         
-        - *AU* có thể được dùng với nghĩa *‘everything'* (mọi thứ, mọi điều); *‘the only thing’* (cái duy nhất,
+        - *AU* có thể được dùng với nghĩa *‘everything'* (mọi thứ, mọi điều); *‘the only thing'* (cái duy nhất,
         
         điều duy nhất), nhưng trong trường hợp này *all* không được dùng một mình mà phải được theo sau
         
@@ -398,13 +333,13 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
         
         [All = everything]
         
-        But: She lost **everything.** *(Cô ta mất hết mọi thứ.)* [NOT She lost all.] **All I’ve eaten today** is
+        But: She lost **everything.** *(Cô ta mất hết mọi thứ.)* [NOT She lost all.] **All I've eaten today** is
         
         a sandwich. *(Tất cả những gỉ tôi đã ăn hôm nay là một cái xăng-uých.)* [All = the only
         
-        thing] This is **all I’ve got.** *(Đây là tất cả những gì tôi có.)*[All = nothing more]
+        thing] This is **all I've got.** *(Đây là tất cả những gì tôi có.)*[All = nothing more]
         
-        *+ All* không được dùng với nghĩa *‘everybody / everyone’* (mọi người).
+        *+ All* không được dùng với nghĩa *‘everybody / everyone'* (mọi người).
         
         Ex: **Everybody** enjoyed the party. *(Tất cả mọi người đều thích bữa tiệc.)* [NOT All enjoyed
         
@@ -417,7 +352,7 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
 *Most of* được dùng trước danh từ (đếm được hoặc không đếm được) có từ xác định *(a, the, my, this,...)* hoặc hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau ở số ít hay số nhiều tùy thuộc vào danh từ.
 - **Most of the people** here know each other. *(Hầu hết mọi người ở đây đều quen nhau.)*
 - John spends **most of his free time** in the library. *(Phần lớn thời gian rảnh rỗi, John ở trong thư viện.)*
-- He’s eaten **most of a chicken.** *(Anh ta ăn gần hết một con gà.)*
+- He's eaten **most of a chicken.** *(Anh ta ăn gần hết một con gà.)*
 - **Most of us** enjoy shopping. *(Đa số chúng tôi thích đi mua sắm.)*
 
 ---
@@ -435,14 +370,14 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
 - He gave us £5 **each.** *(Ông ta cho mỗi đứa chúng tôi 5 pao.)*
 
 *Each* có thể đứng sau trợ động từ (auxiliary verb) và động từ *to be,* hoặc đứng trước động từ thường (ordinary verb). Trong trường hợp này ta phải dùng danh từ, đại từ và động từ ở số nhiều. Ex:
-- We’ve **each** got our own cabinets. *(Mỗi người trong chúng tôi đều có tủ riêng của mình.)*
+- We've **each** got our own cabinets. *(Mỗi người trong chúng tôi đều có tủ riêng của mình.)*
 - You are **each** right in a different way. *(Các bạn mỗi người đều đúng theo một cách khác nhau.)*
 - The students **each** have different point of view. *(Các sinh viển mỗi người đều có quan điểm khác nhau.)*
         
 ---
 **Both** *(cả hai)',* được dùng để chỉ cả hai người hoặc hai vật. Ex:
 - He has two brothers; **both** live in London. *(Anh ta có hai anh trai; cả hai đều sống ở London.)*
-- I couldn’t decide which of the two shirts to buy. I like **both.** *(Trong hai cái áo này tôi không thể quyết định nên mua cái nào. Tôi thích cả hai.)*
+- I couldn't decide which of the two shirts to buy. I like **both.** *(Trong hai cái áo này tôi không thể quyết định nên mua cái nào. Tôi thích cả hai.)*
 
 *Both (of)* được dừng trước danh từ số nhiều có từ xác định đứng trước hoặc trước hình thức tân ngữ của đại từ nhân xưng. Động từ theo sau *ở số* nhiều. Ex:
 - **Both (of) her children** are boys. *(Cả hai đứa con của cô ấy đều là con trai.)*
@@ -452,7 +387,7 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
         
 *Both* có thể đứng sau trợ động từ (auxiliary verb), sau động từ *to be,* hoặc trước động từ thường. Ex:
 - We can both swim. *(Cả hai chúng tôi đều biết bơi.)*
-- I have two daughters. They’re **both** doctors. *(Tôi có hai con gái.. Cả hai đứa đều là bác sĩ)*
+- I have two daughters. They're **both** doctors. *(Tôi có hai con gái.. Cả hai đứa đều là bác sĩ)*
 - My parents **both** work in education. *(Cha mẹ tôi đều làm việc trong ngành giáo dục.)*
 
 *Both* có thể đứng sau một đại từ số nhiều được dùng làm tân ngữ.Ex:
@@ -464,19 +399,19 @@ Các đại từ *who, whom, whose, which, that* là các đại từ quan hệ 
 ---
 **Either** *(mỗi, một):* được dùng để chỉ cái này hoặc cái kia trong hai cái. Ex:
 - Olive oil and sesame oil are both fine, so you could use **either.** *(Cả dầu ôliu và dầu mè đều tốt, vì thế bạn có thể dùng một trong hai.)*
-- Do you want tea or coffee? ~ **Either.** I don’t mind. *(Anh muốn dùng trà hay cà phê? ~ Gì củng được.)*
+- Do you want tea or coffee? ~ **Either.** I don't mind. *(Anh muốn dùng trà hay cà phê? ~ Gì củng được.)*
         
 *Either of* được dùng trước một danh từ số nhiều có từ xác định hoặc dạng tân ngữ của đại từ. Động tứ theo sau thường ở số ít.
 - Does **either of you** speak French? *(Trong hai người có người nào biết nói tiếng Pháp không?)*
 - Take one of the books on the table - **either of them** will do. *(Hãy lấy một trong hai cuốn sách trên bàn - cuốn nào cũng được.)*
-- I don’t like **either of my math teachers.** *(Tôi không thích người nào trong hai giáo viễn dạy toán cả.)*
+- I don't like **either of my math teachers.** *(Tôi không thích người nào trong hai giáo viễn dạy toán cả.)*
         
 ---
 f. **Neither** *(cả hai ... không):* được dùng để chỉ không phải cái này mà cũng không phải cái kia trong hai cái.
         
         Ex: There were two witnesses, but **neither** would make a statement. *(Có hai nhân chứng, nhưng cả hai đều không cho lời khai.)*
         
-        Is your friend British or American? ~ **Neither.** She’s Australia. *(Bạn của anh là người Anh hay người Mỹ? ~ Cả hai đều không phải. Cô ấy là người úc.)*
+        Is your friend British or American? ~ **Neither.** She's Australia. *(Bạn của anh là người Anh hay người Mỹ? ~ Cả hai đều không phải. Cô ấy là người úc.)*
         
 *Neither of* được dùng trước danh từ số nhiều có từ xác định *(the, my, these,...),* hoặc trước một đại từ. Động từ theo sau thường ở số ít. Ex:
 - **Neither of the books** was published in this country. *(Cả hai cuốn sách đều không được xuất bản ở nước này.)*
@@ -486,27 +421,27 @@ f. **Neither** *(cả hai ... không):* được dùng để chỉ không phải
  - Neither of my sisters **is/ are** married. *(Cả hai người chị của tôi đều chưa kết hôn.)*
  - **Does/ Do** either of you like strawberries? *(Cả hai bạn đều thích dâu phải không?)*
 
-#### 8. Đại từ bất định (Indefinite pronouns)
+## Đại từ bất định (Indefinite pronouns)
 Các đại từ bất định trong tiếng Anh gồm có:
 - **some - something - someone - somebody - somewhere**
 - **any - anything - anyone - anybody - anywhere**
 - **everything - everyone - everybody**
 - **none - nothing - no one - nobody**
         
-#### Some, any và none
+### Some, any và none
 **Some** và **any** đều được dùng để chỉ số lượng bất định của người hoặc vật khi không cần hoặc không thể nêu rõ con số chính xác là bao nhiêu.<br>
 **None** được dùng để diễn đạt không một ai, không một cái gì/ điều gì trong một nhóm người hoặc vật.
 ##### Some *(một vài, một số)*
 Some được dùng thay cho danh từ đếm được ở số nhiều và danh từ không đếm được trong câu khẳng định.
 ```
 - Some were at the meeting yesterday. (Hôm qua một số người đã đến dự cuộc họp.) [some = some people]
-- I’d like some milk. ~ There is some in the fridge. (Tôi muốn uống sữa. ~ Có một ít trong tủ lạnh.)
+- I'd like some milk. ~ There is some in the fridge. (Tôi muốn uống sữa. ~ Có một ít trong tủ lạnh.)
 - The children are in the park. Some are playing hide-and-seek. (Bọn trẻ đang ở trong công viên. Một vài đứa đang chơi trốn tìm.)
 ```         
-**Some** có thể được dùng trong câu hỏi chờ đợi câu trả lời ‘đồng ý’, nhất là trong lời mời hoặc câu yêu cầu.
+**Some** có thể được dùng trong câu hỏi chờ đợi câu trả lời ‘đồng ý', nhất là trong lời mời hoặc câu yêu cầu.
 ```
 Do you want some help with your homework? ~ Yes, please! (Bạn có muốn tôi giúp bạn làm bài tập không'? -Váng, giúp tôi nhé!) [Người nói biết người nghe cần sự giúp đỡ]
-I’ve got too much strawberries. Would you like some?(Tôi có nhiều dâu lắm. Anh lấy một ít nhé?)
+I've got too much strawberries. Would you like some?(Tôi có nhiều dâu lắm. Anh lấy một ít nhé?)
 ```                   
  **Some of** được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định hoặc trước dạng tân ngữ của đại từ nhân xưng. Động từ theo sau có thể ở số ít hoặc số nhiều tùy thuộc vào danh từ.
  **Some of + determiner + plural/ uncountable noun (+ singular/ plural verb) Some of us/ you/ them (+ plural verb)**
@@ -519,11 +454,11 @@ Trong một số trường hợp, **some of the** có thể đứng trước dan
 ```
 Some of the letter** is illegible. (Thư có vài chỗ khó đọc.)
 ```
-##### Any *(nào)*
+### Any *(nào)*
 **Any** được dùng thay cho danh từ đếm được ở số nhiều hoặc danh từ không đếm được trong câu phủ định hoặc câu hỏi.
 ```
-- Jane looked around for her friends, but there weren’t any.(Jane nhìn quanh tìm bạn bè, nhưng chẳng có người bạn nào cả.) [any = any friends]
-- I’d like some milk. Is there any left? (Tôi muốn uống sữa. Còn chút nào không?) [any = any milk]
+- Jane looked around for her friends, but there weren't any.(Jane nhìn quanh tìm bạn bè, nhưng chẳng có người bạn nào cả.) [any = any friends]
+- I'd like some milk. Is there any left? (Tôi muốn uống sữa. Còn chút nào không?) [any = any milk]
 ```
 Any of được dùng trước danh từ (đếm được số nhiều hoặc không đếm được) có từ xác định hoặc trước dạng tân ngữ của đại từ. Động từ theo sau có thể ở số ít hoặc số nhiều.
               
@@ -531,8 +466,8 @@ Any of được dùng trước danh từ (đếm được số nhiều hoặc kh
   **Any of US/ you/ them (+ singular/ plural verb)**
 ```                
 Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách này là của bạn không?)
-- She didn’t spend **any of the money. (Cô ấy không tiêu đồng nào trong số tiền đó.)
-- I don’t think **any of** US wants/ want to work tomorrow.*(Tôi nghĩ không người nào trong chúng tối muốn đi làm, vào ngày mai.)
+- She didn't spend **any of the money. (Cô ấy không tiêu đồng nào trong số tiền đó.)
+- I don't think **any of** US wants/ want to work tomorrow.*(Tôi nghĩ không người nào trong chúng tối muốn đi làm, vào ngày mai.)
 
 >[!NOTE]
 > Khi *any* ữ/đứng trước danh từ hoặc đại từ số nhiều (plural noun/ pronoun) thì động từ theo sau có thể là số ít hoặc số nhiều. Động từ số ít thường được dùng trong lối văn trịnh trọng và động từ số nhiều thường được dùng trong lối văn thân mật hoặc văn nói.
@@ -612,7 +547,7 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                     
                     **Someone wants** to speak to you on the phone. *(Có người muốn nói chuyện điện thoại với anh.)*
                     
-                    I’ve got **something** to tell you. *(Tôi có điều muốn nói với bạn.)*
+                    I've got **something** to tell you. *(Tôi có điều muốn nói với bạn.)*
                     
                     I need to find **somewhere** to stay. *(Tôi cần tìm một nơi nào đó để nghỉ lại.)*
                     
@@ -633,7 +568,7 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                     
                     **Has anybody** seen my bag? *(Có ai thấy cái túi của tôi không?)*
                     
-                    I’m not hungry. I don’t want **anything** to eat. *(Tôi không đói. Tôi chẳng muốn ăn gì cả.)*
+                    I'm not hungry. I don't want **anything** to eat. *(Tôi không đói. Tôi chẳng muốn ăn gì cả.)*
                     
                     Do you know **anywhere** (where) I can buy a second-hand computer? *(Bạn có biết chỗ nào có thể mua máy vi tính cũ không?)*
                     
@@ -642,11 +577,11 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                 
                 - Examples:
                     
-                    If **anyone** has any questions, I’ll be pleased to answer them. *(Nếu có bất cứ ai đặt câu hỏi, tôi sẽ sẵn lòng trả lời.)*
+                    If **anyone** has any questions, I'll be pleased to answer them. *(Nếu có bất cứ ai đặt câu hỏi, tôi sẽ sẵn lòng trả lời.)*
                     
                     Let me know if you need **anything.** *(Hãy cho tôi biết nếu bạn cần bất cứ thứ gì.)*
                     
-                    I’ve hardly been **anywhere** since Christmas. *(Tôi hầu như chẳng đi đâu kể từ lễ Giáng Sinh.)*
+                    I've hardly been **anywhere** since Christmas. *(Tôi hầu như chẳng đi đâu kể từ lễ Giáng Sinh.)*
                     
                 - **Nobody, no one** *(không ai),* **nothing** *(không gì)*
                     - Có thể đứng đầu câu hoặc đứng một mình.
@@ -659,9 +594,9 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                 
                 Ex: She told **nobody** about her plans. *(Cô ta đã không nói với bất cứ ai về kế hoạch của mình.)*
                 
-                [= She didn’t tell **anybody** about her plans.]
+                [= She didn't tell **anybody** about her plans.]
                 
-                I said **nothing.** *(Tôi chẳng nói gì cả.)* [= I didn’t say **anything.]**
+                I said **nothing.** *(Tôi chẳng nói gì cả.)* [= I didn't say **anything.]**
                 
                 - Được dùng với động từ ở hình thức số ít.
                 
@@ -671,9 +606,9 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                 
                 Ex: He said **nothing.** *(Anh ta chẳng nói gì.)*
                 
-                [NOT Ho didn’t say nothing.] **Nobody** tells me anything. *(Không ai nói cho tôi biết điều*
+                [NOT Ho didn't say nothing.] **Nobody** tells me anything. *(Không ai nói cho tôi biết điều*
                 
-                *gì cả.)* [NOT Nobody -doesn’t toll ...]
+                *gì cả.)* [NOT Nobody -doesn't toll ...]
                 
                 - **Everything** *(mọi cái / điều),* **everyone, everybody** *(mọi người)* là các đại từ số ít (tuy nghĩa đề
                 
@@ -705,61 +640,45 @@ Does/ Do **any of these books** belong to you?(Có cuốn nào trong số sách 
                 
                 *Someone, somebody, anyone, anybody, no one, nobody* có thể dùng với sở hữu cách.
                 
-                Ex: **Someone’s passport** has been stolen. *(Hộ chiếu của người nào dó đã bị đánh cắp.)* I
+                Ex: **Someone's passport** has been stolen. *(Hộ chiếu của người nào dó đã bị đánh cắp.)* I
                 
-                don’t want to waste **anyone’s time.** *(Tôi không muốn làm mất thời gian của bất cứ ai.)*
+                don't want to waste **anyone's time.** *(Tôi không muốn làm mất thời gian của bất cứ ai.)*
 ```
-## 7. Đại từ hỗ tương (Reciprocal pronouns)
+## Đại từ hỗ tương (Reciprocal pronouns)
 Đại từ hỗ tương là đại từ chỉ mối quan hệ qua lại giữa hai hoặc nhiều người hoặc vật với nhau.<br>
 Đại từ hỗ tương gồm **each other** và **one another** có cùng nghĩa là **nhau, lẫn nhau.**
-- Sue and Ann don’t like each other/ one another.(Sue và Ann không thích nhau.)[= Sue doesn’t like Ann and Ann doesn’t like Sue.]
+- Sue and Ann don't like each other/ one another.(Sue và Ann không thích nhau.)[= Sue doesn't like Ann and Ann doesn't like Sue.]
 - They sat for two hours without talking to each other/ one another.(Họ ngồi suốt hai tiếng đồng hồ mà không nói gì với nhau.)
 
 Các đại từ hỗ tương thường được dùng làm tân ngữ bổ nghĩa cho động từ hoặc giới từ nên vị trí thông thường của chúng là sau động từ hoặc giới từ. Ví dụ:
 - We send **each other/ one another** Christmas cards every year. (Chúng tôi gửi thiếp mừng Nô-en cho nhau mỗi năm.)[tân ngừ của send]
 - They write to **each other/ one another** regularly. (Họ thường xuyên viết thư cho nhau.)* [tân ngữ của to]
 
-Đại từ hỗ tương có thể dùng với sở hừu cách. ví dụ: They wrote down **each other’s/ one another’s** phone number.(Họ ghi số điện thoại của nhau.)
+Đại từ hỗ tương có thể dùng với sở hừu cách. ví dụ: They wrote down **each other's/ one another's** phone number.(Họ ghi số điện thoại của nhau.)
 
 Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết hôn),* và similar *(giống nhau, như nhau). Ví dụ:
 - They married in 1998. *(Họ cưới nhau năm 1998.) [NOT They married each other...]
 - Their interests are very similar. *(Sở thích của họ rất giống nhau.)* [NOT... similar each other]
 
 # EXERCISES
-### I. Subject or object form? Put in the pronouns.
-        
-        **1.** There’s no need to shout. I can hear *you .*
-        
-        **2.** You and I work well together. _________ are a good team.
-        
-        **3.** We’ve got a bit problem. Could ________ help _______ , please?
-        
-        **4.** John’s two years younger than Alice, but________ is nearly as tall as _______ .
-        
-        **5.** This is a good photo, isn’t ________ ?
-        
-        ~ Is Jessica in ______? ~ Yes, that’s ________ . Look, ___ is next to Andrew.
-        
-        **6.** Who did this crossword? ~ ________ . I did _____ this morning.
-        
-        **7.** Is this Nicky’s bag? ~ No, _____ didn’t bring one. It can’t belong to _______ .
-        
-        **8.** __am looking for my shoes. Have _________ seen______ ?
-        
-        ~ Yes,_______ are here.
-        
-        **9.** What about Emily? ~ I expect _________ will be there. And her brother.____________ bothcame to the party. ~ Do _______ mean Jackson? I don’t like ________very much.
-        
-        **10.** Are Rita and Richard coming to the party? ~ We’ve invited ____________ , but _____ isn’t
-        
-        sure _____ can come or not.
-        
+## I. Subject or object form? Put in the pronouns.
+
+1. There's no need to shout. I can hear *you .*
+2. You and I work well together. *We* are a good team.
+3. We've got a bit problem. Could *you* help *us* , please?
+4. John's two years younger than Alice, but he is nearly as tall as her.
+5. This is a good photo, isn't it ? ~ Is Jessica in it? ~ Yes, that's her . Look, she is next to Andrew.
+6. Who did this crossword? ~ *Me*. I did it this morning.
+7. Is this Nicky's bag? ~ No,  didn't bring one. It can't belong to _______ .
+8. *I* am looking for my shoes. Have ***you*** seen ***it*** ? ~ Yes, ***it*** are here.
+9. What about Emily? ~ I expect ***her*** will be there. And her brother. ***she*** bothcame to the party. ~ Do ***you*** mean Jackson? I don't like ***him*** very much.
+10. Are Rita and Richard coming to the party? ~ We've invited ***them*** , but ***it*** isn't sure ***they*** can come or not.
+
+## 11. Rewrite these sentences, using pronoun *it.***
+
+1. To keep it somewhere safe is important.
     
-    **11. Rewrite these sentences, using pronoun *it.***
-    
-    1. To keep it somewhere safe is important.
-    
-    *It’s important to keep it somewhere safe.*
+    *It's important to keep it somewhere safe.*
     
     2. The journey to Brighton from London takes only one hour by train.
     
@@ -767,7 +686,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     4. That he will fail is clear to everyone but himself.
     
-    5. Finding our way home won’t be easy.
+    5. Finding our way home won't be easy.
     
     6. My question itself made him angry.
     
@@ -781,13 +700,13 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **III. Put in *there* or *it.***
     
-    1. What’s the new restaurant like? IsjLgood?
+    1. What's the new restaurant like? IsjLgood?
     
     2. The road is closed. _________ has been an accident.
     
     3. Take a taxi. _____ is a long way to the station.
     
-    4. Did someone ring? ~________ was Vicky. She just called to say she’s arrived safely.
+    4. Did someone ring? ~________ was Vicky. She just called to say she's arrived safely.
     
     5. ____ was a car outside.________ looked very expensive.
     
@@ -803,7 +722,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     9. I was told that __________ would be somebody to meet me at the airport but---------------------
     
-    wasn’t anybody.
+    wasn't anybody.
     
     10. ____ is a woman at the door. -Oh, ________ is Aunt Le.
     
@@ -811,41 +730,41 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. Did you and your/ yours friends have a nice holiday?
     
-    2. Is this Alice’s book or your/ yours? -It’s her/ hers.
+    2. Is this Alice's book or your/ yours? -It's her/ hers.
     
-    3. Who/ Whose car is that on the driveway? -I don’t know, not our/ ours.
+    3. Who/ Whose car is that on the driveway? -I don't know, not our/ ours.
     
-    4. Take your/ yours feet off the table. It/ Its legs aren’t very strong.
+    4. Take your/ yours feet off the table. It/ Its legs aren't very strong.
     
-    5. The Whartons are spending August in our/ ours flat, and we’re borrowing their/ theirs.
+    5. The Whartons are spending August in our/ ours flat, and we're borrowing their/ theirs.
     
-    6. That’s my/ mine coat, and the scarf is my/ mine too.
+    6. That's my/ mine coat, and the scarf is my/ mine too.
     
     7. Your/ Yours eyes are blue and her/ hers are brown.
     
     8. They claim the money is all their/ theirs.
     
-    9. Unfortunately, the town has lost it’s/ its only cinema.
+    9. Unfortunately, the town has lost it's/ its only cinema.
     
-    10. Rachel has got her/ hers own calculator. She doesn’t borrow my/ mine.
+    10. Rachel has got her/ hers own calculator. She doesn't borrow my/ mine.
     
     **V. Complete the conversation. Put in *my, your, etc* or *mine, yours, etc.***
     
     Laura : Did you and (1) _________ friends have a nice holiday?
     
-    Emma : Yes, it was wonderful. We had the best holiday of (2) ________lives. It didn’t start verywell, though. Daniel forgot to bring (3) _____ passport.
+    Emma : Yes, it was wonderful. We had the best holiday of (2) ________lives. It didn't start verywell, though. Daniel forgot to bring (3) _____ passport.
     
     Laura : Oh, dear. So what happened?
     
-    Emma: Well, luckily he doesn’t live far from the airport. He rang (4)____________ parents, and
+    Emma: Well, luckily he doesn't live far from the airport. He rang (4)____________ parents, and
     
     they brought the passport over in (5)_____ car, just in time.
     
     Laura : You remembered (6)__________ , I hope.
     
-    Emma: Yes, I had (7) _______ , even though I’m usually the one who forgets things. Actually Rachel
+    Emma: Yes, I had (7) _______ , even though I'm usually the one who forgets things. Actually Rachel
     
-    thought for a minute that she’d lost (8) ______________________. Luckily it was in
+    thought for a minute that she'd lost (8) ______________________. Luckily it was in
     
     (9)_______ suitcase. Anyway, in the end we had a marvellous time.
     
@@ -857,21 +776,21 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. I *cut myself* shaving this morning.
     
-    2. John fell out of the window, but he didn’t _____________badly.
+    2. John fell out of the window, but he didn't _____________badly.
     
-    3. The computer will___________ off if you don’t use it.
+    3. The computer will___________ off if you don't use it.
     
     4. We______________ out last night.
     
-    5. Be careful! That pan is very hot. Don’t _______________.
+    5. Be careful! That pan is very hot. Don't _______________.
     
     6. Jane ___________ in the mirror to check her make-up.
     
     7. They had a great time. They really___________________.
     
-    8. Sometimes I can’t say what I mean. I wish I could ______________ better.
+    8. Sometimes I can't say what I mean. I wish I could ______________ better.
     
-    9. It isn’t your fault. You really shouldn’t _______________.
+    9. It isn't your fault. You really shouldn't _______________.
     
     10. Vicky and Emma, you can_______________ on these towels.
     
@@ -879,25 +798,25 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. Julia had a great holiday. She enjoyed *herself.*
     
-    2. It’s not my fault. You can’t blame _________ .
+    2. It's not my fault. You can't blame _________ .
     
-    3. Don’t pay any attention to _________ . He always complains.
+    3. Don't pay any attention to _________ . He always complains.
     
-    4. What I did was very wrong. I’m ashamed of ___________.
+    4. What I did was very wrong. I'm ashamed of ___________.
     
-    5. We’ve got a problem. I hope you can help_____________.
+    5. We've got a problem. I hope you can help_____________.
     
     6. My mother likes to have all her family near____________.
     
     7. The old man is no longer able to look after ____________.
     
-    8. It’s a pity you didn’t bring your camera with______________ .
+    8. It's a pity you didn't bring your camera with______________ .
     
     9. I gave _____ a key so that they could let____________in.
     
-    10. Don’t worry about ______ , Mom. I can look after _____________ .
+    10. Don't worry about ______ , Mom. I can look after _____________ .
     
-    11. Don’t tell ____ the answer to the puzzle. We can work it out for___________ .
+    11. Don't tell ____ the answer to the puzzle. We can work it out for___________ .
     
     12. “Can I take another biscuit?” “ Of course. Help ___________ !”
     
@@ -925,7 +844,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. herself
     
-    3. Isn’t
+    3. Isn't
     
     a nice person?
     
@@ -961,7 +880,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. myself
     
-    6. John’s shoes were worn out. so he bought
+    6. John's shoes were worn out. so he bought
     
     a pair of new shoes.a him
     
@@ -973,7 +892,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     7. Who does this CD belong to? ~
     
-    . I’ve just bought it.
+    . I've just bought it.
     
     a. I
     
@@ -1009,7 +928,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     10. Just help
     
-    to sandwiches, won’t you?
+    to sandwiches, won't you?
     
     a. you
     
@@ -1041,7 +960,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. mine
     
-    13. Is that Mary over there? Yes, that’s
+    13. Is that Mary over there? Yes, that's
     
     a. her
     
@@ -1079,19 +998,19 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. I was too surprised to say *anything .*
     
-    2. There’s _________ at the door. ~Are you expecting _____________ ?
+    2. There's _________ at the door. ~Are you expecting _____________ ?
     
-    3. Did you get the oil? - No, there wasn’t_____________ left.
+    3. Did you get the oil? - No, there wasn't_____________ left.
     
     4. Why are you looking under the bed? Have you lost ______________ ? -Well, I was looking
     
-    for __________ , but now I can’t remember what it was.
+    for __________ , but now I can't remember what it was.
     
-    5. Would you like some cheese and biscuits? - Oh no, thank you. I couldn’t eat else.
+    5. Would you like some cheese and biscuits? - Oh no, thank you. I couldn't eat else.
     
     6. You must be hungry. Would you like__________to eat?
     
-    7. Quick, let’s go! There’s ______coming and I don’t want__________ to see us.
+    7. Quick, let's go! There's ______coming and I don't want__________ to see us.
     
     8. Sally was upset about ______________ and refused to talk to ____________ .
     
@@ -1103,7 +1022,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     11. ______ who saw the accident should contact the police.
     
-    12. I didn’t have any money, so I had to borrow __________ .
+    12. I didn't have any money, so I had to borrow __________ .
     
     **X. Choose the right word.**
     
@@ -1111,17 +1030,17 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     2. (Everyone/ someone) knows the man is a thief, but (anyone/ no one) dares to say so publicly.
     
-    3. I can’t go to the party. I haven’t got (nothing/ anything) to wear.
+    3. I can't go to the party. I haven't got (nothing/ anything) to wear.
     
-    4. I’d like to go away (somewhere/ nowhere) if I can. (Someone/ Anyone) I know has invited me to
+    4. I'd like to go away (somewhere/ nowhere) if I can. (Someone/ Anyone) I know has invited me to
     
     his villa in Portugal, so I may go there.
     
-    5. What’s in that box? -(Nothing/ Anything). It’s empty.
+    5. What's in that box? -(Nothing/ Anything). It's empty.
     
-    6. I don’t know (nothing/ anything) about economics.
+    6. I don't know (nothing/ anything) about economics.
     
-    7. Has Matthew got a job yet? -No, but he’s looked (somewhere/ everywhere). He hates the idea of
+    7. Has Matthew got a job yet? -No, but he's looked (somewhere/ everywhere). He hates the idea of
     
     sitting around doing (something/ nothing).
     
@@ -1153,19 +1072,19 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **XII. Put in ỡĂor nothing (•}.**
     
-    Well, some (1) _______ our luggage has arrived, so thing could be worse. I’ve got the
+    Well, some (1) _______ our luggage has arrived, so thing could be worse. I've got the
     
-    books and papers, but I’ve lost most (2) __________ my clothes. I haven’t got any (3) __________
+    books and papers, but I've lost most (2) __________ my clothes. I haven't got any (3) __________
     
-    socks at all, and I’ll have to buy some more (4) __________jeans, but at least I’ve got enough
+    socks at all, and I'll have to buy some more (4) __________jeans, but at least I've got enough
     
-    (5) _____underwear for the week. I’m going to buy a few (6) ___________ those woolen shirts
+    (5) _____underwear for the week. I'm going to buy a few (6) ___________ those woolen shirts
     
-    that you like, and one (7)__________the big coats that we looked at. Unfortunately, they’ve
+    that you like, and one (7)__________the big coats that we looked at. Unfortunately, they've
     
     got no (8) ________ shoes in my size, and none (9) ___________ the jackets suit me. Anyway,
     
-    I’m not alone. Everyone (10) __________ US has lost something. In fact, three (11) ___________
+    I'm not alone. Everyone (10) __________ US has lost something. In fact, three (11) ___________
     
     people have got no (12)_________ luggage at all. Well, as they say, into each (13) ____________
     
@@ -1175,7 +1094,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **necessary. Sometimes you need *the* or *of the.***
     
-    1. I wasn’t well yesterday. I spent *most of the day* in bed. (most/ day)
+    1. I wasn't well yesterday. I spent *most of the day* in bed. (most/ day)
     
     2. *Some cars* can go faster than others, (some/ cars)
     
@@ -1185,11 +1104,11 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     5. __________learn more quickly than others, (some/ people)
     
-    6. We’ve eaten _________ we bought. There’s very little left, (most/ food)
+    6. We've eaten _________ we bought. There's very little left, (most/ food)
     
     7. Have you spent _______ you borrowed? (all/ money)
     
-    8. Peter can’t stop talking. He talks ______________ . (all/ time)
+    8. Peter can't stop talking. He talks ______________ . (all/ time)
     
     9. We had a lazy holiday. We spent ____________ on the beach, (most/ time)
     
@@ -1201,7 +1120,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **XIV. Complete the sentences with *a/ỉ/ both/ neither/ either/ none/ each.***
     
-    1. I took two books with me on holiday but I didn’t read *either* of them.
+    1. I took two books with me on holiday but I didn't read *either* of them.
     
     2. We tried a lot of hotels but _________ of them had any rooms. _______ of them were full.
     
@@ -1217,17 +1136,17 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     7. I can meet you on the 6th or 7th. Would __________of those days be convenient for you?
     
-    8. John and I couldn’t get into the house because ____________of US had a key.9. There were a few letters this morning but _____________ of them were for me. __________
+    8. John and I couldn't get into the house because ____________of US had a key.9. There were a few letters this morning but _____________ of them were for me. __________
     
     were for my father.
     
-    10. I’ve got two bicycles. _______of them are quite old. I don’t ride____________of them any
+    10. I've got two bicycles. _______of them are quite old. I don't ride____________of them any
     
-    more. _______ of them is in very good condition, I’m afraid.
+    more. _______ of them is in very good condition, I'm afraid.
     
     **XV. Choose the right answer.**
     
-    1. I can’t go to a party. I haven’t got _____________to wear.
+    1. I can't go to a party. I haven't got _____________to wear.
     
     a. anything
     
@@ -1261,7 +1180,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. You
     
-    4. If you want some apples, I’ll get you
+    4. If you want some apples, I'll get you
     
     at the shop.
     
@@ -1273,7 +1192,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. some
     
-    5. We’ve brought
+    5. We've brought
     
     some food with
     
@@ -1285,7 +1204,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. ourselves
     
-    6. Who’s there? ~ Only
+    6. Who's there? ~ Only
     
     a. I
     
@@ -1321,11 +1240,11 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     a. each other
     
-    b. each other’s
+    b. each other's
     
     c. themselves
     
-    d. themselves’
+    d. themselves'
     
     10. Have you had
     
@@ -1339,7 +1258,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. thing
     
-    11. Have you seen my calculator? I can’t find it______________.
+    11. Have you seen my calculator? I can't find it______________.
     
     a. anywhere
     
@@ -1349,7 +1268,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d.where
     
-    12. Peter has two brothers, but he doesn’t speak to _____________ of them.
+    12. Peter has two brothers, but he doesn't speak to _____________ of them.
     
     a. any
     
@@ -1369,7 +1288,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. most of
     
-    14. We could all do more to keep healthy. We don’t look after ______________properly.
+    14. We could all do more to keep healthy. We don't look after ______________properly.
     
     a. ourself
     
@@ -1389,31 +1308,31 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     c. each other
     
-    d.each other’s**I. Subject or object form? Put in the pronouns.**
+    d.each other's**I. Subject or object form? Put in the pronouns.**
     
-    **1.** There’s no need to shout. I can hear *you .*
+    **1.** There's no need to shout. I can hear *you .*
     
     **2.** You and I work well together. _________ are a good team.
     
-    **3.** We’ve got a bit problem. Could ________ help _______ , please?
+    **3.** We've got a bit problem. Could ________ help _______ , please?
     
-    **4.** John’s two years younger than Alice, but________ is nearly as tall as _______ .
+    **4.** John's two years younger than Alice, but________ is nearly as tall as _______ .
     
-    **5.** This is a good photo, isn’t ________ ?
+    **5.** This is a good photo, isn't ________ ?
     
-    ~ Is Jessica in ______? ~ Yes, that’s ________ . Look, ___ is next to Andrew.
+    ~ Is Jessica in ______? ~ Yes, that's ________ . Look, ___ is next to Andrew.
     
     **6.** Who did this crossword? ~ ________ . I did _____ this morning.
     
-    **7.** Is this Nicky’s bag? ~ No, _____ didn’t bring one. It can’t belong to _______ .
+    **7.** Is this Nicky's bag? ~ No, _____ didn't bring one. It can't belong to _______ .
     
     **8.** __am looking for my shoes. Have _________ seen______ ?
     
     ~ Yes,_______ are here.
     
-    **9.** What about Emily? ~ I expect _________ will be there. And her brother.____________ bothcame to the party. ~ Do _______ mean Jackson? I don’t like ________very much.
+    **9.** What about Emily? ~ I expect _________ will be there. And her brother.____________ bothcame to the party. ~ Do _______ mean Jackson? I don't like ________very much.
     
-    **10.** Are Rita and Richard coming to the party? ~ We’ve invited ____________ , but _____ isn’t
+    **10.** Are Rita and Richard coming to the party? ~ We've invited ____________ , but _____ isn't
     
     sure _____ can come or not.
     
@@ -1421,7 +1340,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. To keep it somewhere safe is important.
     
-    *It’s important to keep it somewhere safe.*
+    *It's important to keep it somewhere safe.*
     
     2. The journey to Brighton from London takes only one hour by train.
     
@@ -1429,7 +1348,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     4. That he will fail is clear to everyone but himself.
     
-    5. Finding our way home won’t be easy.
+    5. Finding our way home won't be easy.
     
     6. My question itself made him angry.
     
@@ -1443,13 +1362,13 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **III. Put in *there* or *it.***
     
-    1. What’s the new restaurant like? IsjLgood?
+    1. What's the new restaurant like? IsjLgood?
     
     2. The road is closed. _________ has been an accident.
     
     3. Take a taxi. _____ is a long way to the station.
     
-    4. Did someone ring? ~________ was Vicky. She just called to say she’s arrived safely.
+    4. Did someone ring? ~________ was Vicky. She just called to say she's arrived safely.
     
     5. ____ was a car outside.________ looked very expensive.
     
@@ -1465,7 +1384,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     9. I was told that __________ would be somebody to meet me at the airport but---------------------
     
-    wasn’t anybody.
+    wasn't anybody.
     
     10. ____ is a woman at the door. -Oh, ________ is Aunt Le.
     
@@ -1473,41 +1392,41 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. Did you and your/ yours friends have a nice holiday?
     
-    2. Is this Alice’s book or your/ yours? -It’s her/ hers.
+    2. Is this Alice's book or your/ yours? -It's her/ hers.
     
-    3. Who/ Whose car is that on the driveway? -I don’t know, not our/ ours.
+    3. Who/ Whose car is that on the driveway? -I don't know, not our/ ours.
     
-    4. Take your/ yours feet off the table. It/ Its legs aren’t very strong.
+    4. Take your/ yours feet off the table. It/ Its legs aren't very strong.
     
-    5. The Whartons are spending August in our/ ours flat, and we’re borrowing their/ theirs.
+    5. The Whartons are spending August in our/ ours flat, and we're borrowing their/ theirs.
     
-    6. That’s my/ mine coat, and the scarf is my/ mine too.
+    6. That's my/ mine coat, and the scarf is my/ mine too.
     
     7. Your/ Yours eyes are blue and her/ hers are brown.
     
     8. They claim the money is all their/ theirs.
     
-    9. Unfortunately, the town has lost it’s/ its only cinema.
+    9. Unfortunately, the town has lost it's/ its only cinema.
     
-    10. Rachel has got her/ hers own calculator. She doesn’t borrow my/ mine.
+    10. Rachel has got her/ hers own calculator. She doesn't borrow my/ mine.
     
     **V. Complete the conversation. Put in *my, your, etc* or *mine, yours, etc.***
     
     Laura : Did you and (1) _________ friends have a nice holiday?
     
-    Emma : Yes, it was wonderful. We had the best holiday of (2) ________lives. It didn’t start verywell, though. Daniel forgot to bring (3) _____ passport.
+    Emma : Yes, it was wonderful. We had the best holiday of (2) ________lives. It didn't start verywell, though. Daniel forgot to bring (3) _____ passport.
     
     Laura : Oh, dear. So what happened?
     
-    Emma: Well, luckily he doesn’t live far from the airport. He rang (4)____________ parents, and
+    Emma: Well, luckily he doesn't live far from the airport. He rang (4)____________ parents, and
     
     they brought the passport over in (5)_____ car, just in time.
     
     Laura : You remembered (6)__________ , I hope.
     
-    Emma: Yes, I had (7) _______ , even though I’m usually the one who forgets things. Actually Rachel
+    Emma: Yes, I had (7) _______ , even though I'm usually the one who forgets things. Actually Rachel
     
-    thought for a minute that she’d lost (8) ______________________. Luckily it was in
+    thought for a minute that she'd lost (8) ______________________. Luckily it was in
     
     (9)_______ suitcase. Anyway, in the end we had a marvellous time.
     
@@ -1519,21 +1438,21 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. I *cut myself* shaving this morning.
     
-    2. John fell out of the window, but he didn’t _____________badly.
+    2. John fell out of the window, but he didn't _____________badly.
     
-    3. The computer will___________ off if you don’t use it.
+    3. The computer will___________ off if you don't use it.
     
     4. We______________ out last night.
     
-    5. Be careful! That pan is very hot. Don’t _______________.
+    5. Be careful! That pan is very hot. Don't _______________.
     
     6. Jane ___________ in the mirror to check her make-up.
     
     7. They had a great time. They really___________________.
     
-    8. Sometimes I can’t say what I mean. I wish I could ______________ better.
+    8. Sometimes I can't say what I mean. I wish I could ______________ better.
     
-    9. It isn’t your fault. You really shouldn’t _______________.
+    9. It isn't your fault. You really shouldn't _______________.
     
     10. Vicky and Emma, you can_______________ on these towels.
     
@@ -1541,25 +1460,25 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. Julia had a great holiday. She enjoyed *herself.*
     
-    2. It’s not my fault. You can’t blame _________ .
+    2. It's not my fault. You can't blame _________ .
     
-    3. Don’t pay any attention to _________ . He always complains.
+    3. Don't pay any attention to _________ . He always complains.
     
-    4. What I did was very wrong. I’m ashamed of ___________.
+    4. What I did was very wrong. I'm ashamed of ___________.
     
-    5. We’ve got a problem. I hope you can help_____________.
+    5. We've got a problem. I hope you can help_____________.
     
     6. My mother likes to have all her family near____________.
     
     7. The old man is no longer able to look after ____________.
     
-    8. It’s a pity you didn’t bring your camera with______________ .
+    8. It's a pity you didn't bring your camera with______________ .
     
     9. I gave _____ a key so that they could let____________in.
     
-    10. Don’t worry about ______ , Mom. I can look after _____________ .
+    10. Don't worry about ______ , Mom. I can look after _____________ .
     
-    11. Don’t tell ____ the answer to the puzzle. We can work it out for___________ .
+    11. Don't tell ____ the answer to the puzzle. We can work it out for___________ .
     
     12. “Can I take another biscuit?” “ Of course. Help ___________ !”
     
@@ -1587,7 +1506,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. herself
     
-    3. Isn’t
+    3. Isn't
     
     a nice person?
     
@@ -1623,7 +1542,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. myself
     
-    6. John’s shoes were worn out. so he bought
+    6. John's shoes were worn out. so he bought
     
     a pair of new shoes.a him
     
@@ -1635,7 +1554,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     7. Who does this CD belong to? ~
     
-    . I’ve just bought it.
+    . I've just bought it.
     
     a. I
     
@@ -1671,7 +1590,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     10. Just help
     
-    to sandwiches, won’t you?
+    to sandwiches, won't you?
     
     a. you
     
@@ -1703,7 +1622,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     d. mine
     
-    13. Is that Mary over there? Yes, that’s
+    13. Is that Mary over there? Yes, that's
     
     a. her
     
@@ -1741,19 +1660,19 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     1. I was too surprised to say *anything .*
     
-    2. There’s _________ at the door. ~Are you expecting _____________ ?
+    2. There's _________ at the door. ~Are you expecting _____________ ?
     
-    3. Did you get the oil? - No, there wasn’t_____________ left.
+    3. Did you get the oil? - No, there wasn't_____________ left.
     
     4. Why are you looking under the bed? Have you lost ______________ ? -Well, I was looking
     
-    for __________ , but now I can’t remember what it was.
+    for __________ , but now I can't remember what it was.
     
-    5. Would you like some cheese and biscuits? - Oh no, thank you. I couldn’t eat else.
+    5. Would you like some cheese and biscuits? - Oh no, thank you. I couldn't eat else.
     
     6. You must be hungry. Would you like__________to eat?
     
-    7. Quick, let’s go! There’s ______coming and I don’t want__________ to see us.
+    7. Quick, let's go! There's ______coming and I don't want__________ to see us.
     
     8. Sally was upset about ______________ and refused to talk to ____________ .
     
@@ -1765,7 +1684,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     11. ______ who saw the accident should contact the police.
     
-    12. I didn’t have any money, so I had to borrow __________ .
+    12. I didn't have any money, so I had to borrow __________ .
     
     **X. Choose the right word.**
     
@@ -1773,17 +1692,17 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     2. (Everyone/ someone) knows the man is a thief, but (anyone/ no one) dares to say so publicly.
     
-    3. I can’t go to the party. I haven’t got (nothing/ anything) to wear.
+    3. I can't go to the party. I haven't got (nothing/ anything) to wear.
     
-    4. I’d like to go away (somewhere/ nowhere) if I can. (Someone/ Anyone) I know has invited me to
+    4. I'd like to go away (somewhere/ nowhere) if I can. (Someone/ Anyone) I know has invited me to
     
     his villa in Portugal, so I may go there.
     
-    5. What’s in that box? -(Nothing/ Anything). It’s empty.
+    5. What's in that box? -(Nothing/ Anything). It's empty.
     
-    6. I don’t know (nothing/ anything) about economics.
+    6. I don't know (nothing/ anything) about economics.
     
-    7. Has Matthew got a job yet? -No, but he’s looked (somewhere/ everywhere). He hates the idea of
+    7. Has Matthew got a job yet? -No, but he's looked (somewhere/ everywhere). He hates the idea of
     
     sitting around doing (something/ nothing).
     
@@ -1815,19 +1734,19 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **XII. Put in ỡĂor nothing (•}.**
     
-    Well, some (1) _______ our luggage has arrived, so thing could be worse. I’ve got the
+    Well, some (1) _______ our luggage has arrived, so thing could be worse. I've got the
     
-    books and papers, but I’ve lost most (2) __________ my clothes. I haven’t got any (3) __________
+    books and papers, but I've lost most (2) __________ my clothes. I haven't got any (3) __________
     
-    socks at all, and I’ll have to buy some more (4) __________jeans, but at least I’ve got enough
+    socks at all, and I'll have to buy some more (4) __________jeans, but at least I've got enough
     
-    (5) _____underwear for the week. I’m going to buy a few (6) ___________ those woolen shirts
+    (5) _____underwear for the week. I'm going to buy a few (6) ___________ those woolen shirts
     
-    that you like, and one (7)__________the big coats that we looked at. Unfortunately, they’ve
+    that you like, and one (7)__________the big coats that we looked at. Unfortunately, they've
     
     got no (8) ________ shoes in my size, and none (9) ___________ the jackets suit me. Anyway,
     
-    I’m not alone. Everyone (10) __________ US has lost something. In fact, three (11) ___________
+    I'm not alone. Everyone (10) __________ US has lost something. In fact, three (11) ___________
     
     people have got no (12)_________ luggage at all. Well, as they say, into each (13) ____________
     
@@ -1837,7 +1756,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **necessary. Sometimes you need *the* or *of the.***
     
-    1. I wasn’t well yesterday. I spent *most of the day* in bed. (most/ day)
+    1. I wasn't well yesterday. I spent *most of the day* in bed. (most/ day)
     
     2. *Some cars* can go faster than others, (some/ cars)
     
@@ -1847,11 +1766,11 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     5. __________learn more quickly than others, (some/ people)
     
-    6. We’ve eaten _________ we bought. There’s very little left, (most/ food)
+    6. We've eaten _________ we bought. There's very little left, (most/ food)
     
     7. Have you spent _______ you borrowed? (all/ money)
     
-    8. Peter can’t stop talking. He talks ______________ . (all/ time)
+    8. Peter can't stop talking. He talks ______________ . (all/ time)
     
     9. We had a lazy holiday. We spent ____________ on the beach, (most/ time)
     
@@ -1863,7 +1782,7 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     **XIV. Complete the sentences with *a/ỉ/ both/ neither/ either/ none/ each.***
     
-    1. I took two books with me on holiday but I didn’t read *either* of them.
+    1. I took two books with me on holiday but I didn't read *either* of them.
     
     2. We tried a lot of hotels but _________ of them had any rooms. _______ of them were full.
     
@@ -1879,176 +1798,42 @@ Chú ý: Không dùng *each other* sau các từ meet *(gặp),* marry *(kết h
     
     7. I can meet you on the 6th or 7th. Would __________of those days be convenient for you?
     
-    8. John and I couldn’t get into the house because ____________of US had a key.9. There were a few letters this morning but _____________ of them were for me. __________
+    8. John and I couldn't get into the house because ____________of US had a key.9. There were a few letters this morning but _____________ of them were for me. __________
     
     were for my father.
     
-    10. I’ve got two bicycles. _______of them are quite old. I don’t ride____________of them any
+    10. I've got two bicycles. _______of them are quite old. I don't ride____________of them any
     
-    more. _______ of them is in very good condition, I’m afraid.
+    more. _______ of them is in very good condition, I'm afraid.
     
-    **XV. Choose the right answer.**
+## XV. Choose the right answer.
     
-    1. I can’t go to a party. I haven’t got _____________to wear.
+1. I can't go to a party. I haven't got ___ to wear. (***anything***, everything, something, nothing)
     
-    a. anything
+2. Take care ___, Ann. (you, your, yours, ***yourself***)
     
-    b. everything
+3. ___ would be lovely to see you again. (***It***, That, There, You)
     
-    c. something
+4. If you want some apples, I'll get you ___ at the shop. (any, it, one, ***some***)
     
-    d. nothing
+5. We've brought ___ some food with. (me, we, us, ***ourselves***)
     
-    2. Take care
+6. Who's there? ~ Only ___ (***I***, me, mine, myself)
     
-    , Ann.
+7. Is ___ a post office near here? (here, it, ***there***, this)
     
-    a. you
+8. Everyone has to leave __________ bags outside. (his, ***their***, its, her)
     
-    b. your
+9. The two girl often wear______________clothes. (***each other***, each other's, themselves, themselves')
     
-    c. yours
+10. Have you had enough to eat, or would you like ___________else? (anything, nothing, ***something***, thing)
     
-    d. yourself
+11. Have you seen my calculator? I can't find it______________. (***anywhere***, nowhere, somewhere, where)
     
-    3.
+12. Peter has two brothers, but he doesn't speak to _____________ of them. (any, most, either, ***neither**)
     
-    would be lovely to see you again.
+13. Johnson spent ________his life in the South. (some, most, none of, ***most of***)
     
-    a. It
+14. We could all do more to keep healthy. We don't look after ______________properly. (***ourself***, ourselves, ours, each other)
     
-    b. That
-    
-    c. There
-    
-    d. You
-    
-    4. If you want some apples, I’ll get you
-    
-    at the shop.
-    
-    a. any
-    
-    b. it
-    
-    c.one
-    
-    d. some
-    
-    5. We’ve brought
-    
-    some food with
-    
-    a. me
-    
-    b. we
-    
-    c. us
-    
-    d. ourselves
-    
-    6. Who’s there? ~ Only
-    
-    a. I
-    
-    b. me
-    
-    c. mine
-    
-    d. myself
-    
-    7. Is
-    
-    a post office near here?
-    
-    a. here
-    
-    b. it
-    
-    c. there
-    
-    d. this
-    
-    8. Everyone has to leave __________ bags outside.
-    
-    a. his
-    
-    b. their
-    
-    c. its
-    
-    d.her
-    
-    9. The two girl often wear______________clothes.
-    
-    a. each other
-    
-    b. each other’s
-    
-    c. themselves
-    
-    d. themselves’
-    
-    10. Have you had
-    
-    enough to eat, or would you like ___________else?
-    
-    a. anything
-    
-    b. nothing
-    
-    c. something
-    
-    d. thing
-    
-    11. Have you seen my calculator? I can’t find it______________.
-    
-    a. anywhere
-    
-    b. nowhere
-    
-    c. somewhere
-    
-    d.where
-    
-    12. Peter has two brothers, but he doesn’t speak to _____________ of them.
-    
-    a. any
-    
-    b. most
-    
-    c. either
-    
-    d. neither
-    
-    13. Johnson spent ________his life in the South.
-    
-    a. some
-    
-    b. most
-    
-    c. none of
-    
-    d. most of
-    
-    14. We could all do more to keep healthy. We don’t look after ______________properly.
-    
-    a. ourself
-    
-    b. ourselves
-    
-    c. ours
-    
-    d. each other
-    
-    The two boxers did their best to knock
-    
-    out.
-    
-    a. them
-    
-    b. themselves
-    
-    c. each other
-    
-    d.each other’s
+The two boxers did their best to knock ___ out. (them, themselves, each other, each other's)
